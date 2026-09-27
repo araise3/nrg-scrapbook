@@ -16585,19 +16585,454 @@
       ]
     },
     "Team Liquid": {
-      "players": [],
+      "players": [
+        {
+          "id": "nAts",
+          "name": "Ayaz Akhmetshin",
+          "joinDate": "2022-11-11",
+          "flag": "ru",
+          "captain": true,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "kamo",
+          "name": "Kamil Frąckowiak",
+          "joinDate": "2024-10-15",
+          "flag": "pl",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Kicks",
+          "name": "Kimmie Laasner",
+          "joinDate": "2026-06-26",
+          "flag": "ee",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "trexx",
+          "name": "Nikita Cherednichenko",
+          "joinDate": "2026-06-26",
+          "flag": "ru",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "GSR",
+          "name": "Ognjen Bondžić",
+          "joinDate": "2026-09-09",
+          "flag": "rs",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "MiniBoo",
+          "name": "Dominykas Lukaševičius",
+          "joinDate": "2025-12-12",
+          "flag": "lt",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "purp0",
+          "name": "Semyon Borchev",
+          "joinDate": "2025-12-12",
+          "flag": "ru",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "wayne",
+          "name": "Wayne Chang Wei Jie",
+          "joinDate": "2025-12-12",
+          "flag": "sg",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        }
+      ],
       "formerPlayers": [
+        {
+          "id": "Kryptix",
+          "name": "James Affleck",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2021-09-25",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ec1s",
+          "name": "Adam Eccles",
+          "joinDate": "2021-02-24",
+          "leaveDate": "2021-05-10",
+          "newTeam": "NoPoaching",
+          "flag": "gb",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "ec1s",
+          "name": "Adam Eccles",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2021-02-24",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Nivera",
+          "name": "Nabil Benrlitom",
+          "joinDate": "2021-09-25",
+          "leaveDate": "2022-11-10",
+          "newTeam": "Karmine Corp",
+          "flag": "be",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ScreaM",
+          "name": "Adil Benrlitom",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2022-11-10",
+          "newTeam": "Karmine Corp",
+          "flag": "be",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "L1NK",
+          "name": "Travis Mendoza",
+          "joinDate": "2022-06-03",
+          "leaveDate": "2022-07-29",
+          "newTeam": "Acend",
+          "flag": "gb",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Dreamas",
+          "name": "Aurimas Zablockis",
+          "joinDate": "2022-06-03",
+          "leaveDate": "2022-07-03",
+          "newTeam": "B8 Esports",
+          "flag": "lt",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "L1NK",
+          "name": "Travis Mendoza",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2022-06-03",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Kryptix",
+          "name": "James Affleck",
+          "joinDate": "2021-09-25",
+          "leaveDate": "2022-02-09",
+          "newTeam": "MOUZ",
+          "flag": "gb",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Redgar",
+          "name": "Igor Vlasov",
+          "joinDate": "2022-11-11",
+          "leaveDate": "2023-10-27",
+          "newTeam": "Giants",
+          "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Sayf",
+          "name": "Saif Jibraeel",
+          "joinDate": "2022-11-11",
+          "leaveDate": "2023-09-29",
+          "newTeam": "Team Vitality",
+          "flag": "se",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "soulcas",
+          "name": "Dom Sulcas",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2023-09-13",
+          "newTeam": "Apeks",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "dimasick",
+          "name": "Dmitriy Matvienko",
+          "joinDate": "2022-08-05",
+          "leaveDate": "2023-09-12",
+          "newTeam": "KeepBest Gaming",
+          "flag": "kz",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Enzo",
+          "name": "Enzo Mestari",
+          "joinDate": "2024-08-30",
+          "leaveDate": "2024-10-24",
+          "newTeam": "Mandatory",
+          "flag": "fr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Mistic",
+          "name": "James Orfila",
+          "joinDate": "2024-08-30",
+          "leaveDate": "2024-10-24",
+          "newTeam": "FOKUS",
+          "flag": "gb",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Jamppi",
+          "name": "Elias Olkkonen",
+          "joinDate": "2024-08-30",
+          "leaveDate": "2024-10-21",
+          "newTeam": "BBL Esports",
+          "flag": "fi",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Harmii",
+          "name": "Nico Harms",
+          "joinDate": "2023-05-04",
+          "leaveDate": "2024-10-08",
+          "newTeam": "Team Liquid (Content Creator)",
+          "flag": "de",
+          "playerStatus": "SUBSTITUTE"
+        },
+        {
+          "id": "soulcas",
+          "name": "Dom Sulcas",
+          "joinDate": "2024-06-07",
+          "leaveDate": "2024-09-15",
+          "newTeam": "KOI",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Enzo",
+          "name": "Enzo Mestari",
+          "joinDate": "2023-11-04",
+          "leaveDate": "2024-08-30",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "fr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Jamppi",
+          "name": "Elias Olkkonen",
+          "joinDate": "2021-02-25",
+          "leaveDate": "2024-08-30",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "fi",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Mistic",
+          "name": "James Orfila",
+          "joinDate": "2023-11-04",
+          "leaveDate": "2024-08-30",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "keiko",
+          "name": "Georgio Sanassy",
+          "joinDate": "2023-11-04",
+          "leaveDate": "2025-11-11",
+          "newTeam": "NRG",
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "SerialKiller",
+          "name": "Maikls Ždanovs",
+          "joinDate": "2025-07-11",
+          "leaveDate": "2025-11-03",
+          "newTeam": "FOKUS",
+          "flag": "lv",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "trexx",
+          "name": "Nikita Cherednichenko",
+          "joinDate": "2025-10-24",
+          "leaveDate": "2025-11-01",
+          "newTeam": "Team Liquid",
+          "flag": "ru",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "paTiTek",
+          "name": "Patryk Fabrowski",
+          "joinDate": "2025-10-17",
+          "leaveDate": "2025-10-30",
+          "newTeam": "Enterprise Esports",
+          "flag": "pl",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "trexx",
+          "name": "Nikita Cherednichenko",
+          "joinDate": "2025-07-12",
+          "leaveDate": "2025-10-24",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "paTiTek",
+          "name": "Patryk Fabrowski",
+          "joinDate": "2024-11-29",
+          "leaveDate": "2025-10-17",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "pl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "SerialKiller",
+          "name": "Maikls Ždanovs",
+          "joinDate": "2025-03-19",
+          "leaveDate": "2025-07-11",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "lv",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "penny",
+          "name": "Erik Penny",
+          "joinDate": "2025-05-29",
+          "leaveDate": "2025-06-22",
+          "newTeam": "Apeks",
+          "flag": "ca",
+          "playerStatus": "STAND-IN"
+        },
+        {
+          "id": "kamyk",
+          "name": "Maksymilian Jan Rychlewski",
+          "joinDate": "2024-11-29",
+          "leaveDate": "2025-03-18",
+          "newTeam": "Gentle Mates",
+          "flag": "pl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "purp0",
+          "name": "Semyon Borchev",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-09-09",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "MiniBoo",
+          "name": "Dominykas Lukaševičius",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-06-25",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "lt",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "wayne",
+          "name": "Wayne Chang Wei Jie",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-06-05",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "sg",
+          "playerStatus": "STARTER"
+        },
         {
           "id": "Wayne Chang Wei Jie",
           "name": "VCT 2026: EMEA Kickoff (Match vs. Team Vitality )",
           "joinDate": null,
           "leaveDate": null,
           "newTeam": null,
-          "flag": null,
+          "flag": "ee",
           "playerStatus": "STARTER"
         }
       ],
-      "coaches": []
+      "coaches": [
+        {
+          "id": "LohaN",
+          "name": "Ivo Renato Da Silva Santos Albino",
+          "role": "Head Coach",
+          "joinDate": "2024-10-15",
+          "leaveDate": null,
+          "flag": "pt",
+          "status": "active"
+        },
+        {
+          "id": "yaotziN",
+          "name": "Daniel Roczniak",
+          "role": "Assistant Coach",
+          "joinDate": "2024-10-15",
+          "leaveDate": null,
+          "flag": "pl",
+          "status": "active"
+        },
+        {
+          "id": "7Teen",
+          "name": "Tanner Curtis",
+          "role": "Performance Coach",
+          "joinDate": "2022-06-01",
+          "leaveDate": null,
+          "flag": "us",
+          "status": "active"
+        },
+        {
+          "id": "Sliggy",
+          "name": "Connor Blomfield",
+          "role": "Inactive Coach",
+          "joinDate": "2022-05-13",
+          "leaveDate": "2022-08-05",
+          "flag": "gb",
+          "status": "former"
+        },
+        {
+          "id": "Sliggy",
+          "name": "Connor Blomfield",
+          "role": "Coach",
+          "joinDate": "2020-08-07",
+          "leaveDate": "2022-05-13",
+          "flag": "gb",
+          "status": "former"
+        },
+        {
+          "id": "eMIL",
+          "name": "Emil Sandgren",
+          "role": "Inactive Coach",
+          "joinDate": "2024-09-11",
+          "leaveDate": "2024-11-21",
+          "flag": "se",
+          "status": "former"
+        },
+        {
+          "id": "eMIL",
+          "name": "Emil Sandgren",
+          "role": "Head Coach",
+          "joinDate": "2022-08-05",
+          "leaveDate": "2024-09-11",
+          "flag": "se",
+          "status": "former"
+        },
+        {
+          "id": "Bacon9",
+          "name": "Jake Lloyd",
+          "role": "Strategic Coach",
+          "joinDate": "2022-11-11",
+          "leaveDate": "2025-01-23",
+          "flag": "gb",
+          "status": "former"
+        }
+      ]
     },
     "Team Secret": {
       "players": [
