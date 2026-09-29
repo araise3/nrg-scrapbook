@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-09-29T10:06:22Z"
+    "fetchedAt": "2026-09-29T18:14:12Z"
   },
   "matches": [
     {
@@ -119,22 +119,22 @@
       "bestOf": 3,
       "team1": "G2 Esports",
       "team2": "Paper Rex",
-      "score1": 0,
-      "score2": 0,
+      "score1": 1,
+      "score2": 2,
       "started": true
     },
     {
-      "key": "1790683200|karmine-corp|nrg",
+      "key": "1790685000|karmine-corp|nrg",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1790683200,
+      "timestamp": 1790685000,
       "bestOf": 3,
       "team1": "Karmine Corp",
       "team2": "NRG",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 1,
+      "score2": 2,
+      "started": true
     },
     {
       "key": "1790758800|team-vitality|loud",
@@ -215,26 +215,26 @@
       "started": false
     },
     {
-      "key": "1791018000|tbd|tbd",
+      "key": "1791018000|g2-esports|tbd",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791018000,
       "bestOf": 3,
-      "team1": null,
+      "team1": "G2 Esports",
       "team2": null,
       "score1": null,
       "score2": null,
       "started": false
     },
     {
-      "key": "1791028800|tbd|tbd",
+      "key": "1791028800|karmine-corp|tbd",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791028800,
       "bestOf": 3,
-      "team1": null,
+      "team1": "Karmine Corp",
       "team2": null,
       "score1": null,
       "score2": null,
