@@ -1,9 +1,9 @@
 {
   "_meta": {
     "source": "Derived from player_agents.json",
-    "generatedAt": "2026-09-29T12:56:35Z",
+    "generatedAt": "2026-09-29T18:29:13Z",
     "playersConsidered": 80,
-    "poolMeanRating": 0.99,
+    "poolMeanRating": 0.989,
     "selection": "Wilson lower-bound confidence score (rating/3.0 as phat, maps played as n, z=2.0; same technique as playerDuels.js's aggregateKdByCountry; no eligibility gate; see build_player_week.py)"
   },
   "weekStart": "2026-09-23",
