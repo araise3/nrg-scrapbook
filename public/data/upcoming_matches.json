@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-09-29T01:13:23Z"
+    "fetchedAt": "2026-09-29T10:06:22Z"
   },
   "matches": [
     {
@@ -119,9 +119,9 @@
       "bestOf": 3,
       "team1": "G2 Esports",
       "team2": "Paper Rex",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 0,
+      "score2": 0,
+      "started": true
     },
     {
       "key": "1790683200|karmine-corp|nrg",
