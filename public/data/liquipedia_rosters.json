@@ -5787,14 +5787,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "C0M",
-          "name": "Corbin Daniel Lee",
-          "joinDate": "2026-07-19",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "eeiu",
           "name": "Daniel Vucenovic",
           "joinDate": "2025-12-01",
@@ -5807,6 +5799,14 @@
           "name": "GianFranco Potestio",
           "joinDate": "2025-12-01",
           "flag": "ca",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "C0M",
+          "name": "Corbin Daniel Lee",
+          "joinDate": "2026-07-19",
+          "flag": "us",
           "captain": false,
           "playerStatus": "BENCHED"
         }
@@ -6143,6 +6143,15 @@
           "leaveDate": "2025-03-11",
           "newTeam": "FURIA (Inactive)",
           "flag": "br",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "C0M",
+          "name": "Corbin Daniel Lee",
+          "joinDate": "2026-07-19",
+          "leaveDate": "2026-09-28",
+          "newTeam": "FURIA (Inactive)",
+          "flag": "us",
           "playerStatus": "STARTER"
         },
         {
@@ -26333,49 +26342,53 @@
       ]
     },
     "BESTIA": {
-      "players": [
+      "players": [],
+      "formerPlayers": [
         {
           "id": "chubi",
           "name": "Martin Ferres",
           "joinDate": "2026-04-22",
+          "leaveDate": "2026-09-28",
+          "newTeam": null,
           "flag": "cl",
-          "captain": false,
           "playerStatus": "STARTER"
         },
         {
           "id": "david",
           "name": "David Olivares",
           "joinDate": "2026-04-22",
+          "leaveDate": "2026-09-28",
+          "newTeam": null,
           "flag": "cl",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Melser",
-          "name": "Marco Eliot Machuca Almaro",
-          "joinDate": "2026-04-22",
-          "flag": "cl",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Tacolilla",
-          "name": "Vicente Compagnon",
-          "joinDate": "2026-04-22",
-          "flag": "cl",
-          "captain": false,
           "playerStatus": "STARTER"
         },
         {
           "id": "Loss",
           "name": "Lorenzo Suffredini de Biazzi",
           "joinDate": "2026-06-16",
+          "leaveDate": "2026-09-28",
+          "newTeam": "FURIA Academy (Inactive)",
           "flag": "br",
-          "captain": false,
           "playerStatus": "STARTER"
-        }
-      ],
-      "formerPlayers": [
+        },
+        {
+          "id": "Melser",
+          "name": "Marco Eliot Machuca Almaro",
+          "joinDate": "2026-04-22",
+          "leaveDate": "2026-09-28",
+          "newTeam": null,
+          "flag": "cl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Tacolilla",
+          "name": "Vicente Compagnon",
+          "joinDate": "2026-04-22",
+          "leaveDate": "2026-09-28",
+          "newTeam": null,
+          "flag": "cl",
+          "playerStatus": "STARTER"
+        },
         {
           "id": "Shyy",
           "name": "Fabian Usnayo",
@@ -26392,7 +26405,7 @@
           "name": "Dyamond Pillon",
           "role": "Coach",
           "joinDate": "2026-04-22",
-          "leaveDate": null,
+          "leaveDate": "2026-09-28",
           "flag": "br",
           "status": "active"
         }
