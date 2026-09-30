@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-09-29T22:33:26Z"
+    "fetchedAt": "2026-09-30T12:57:37Z"
   },
   "matches": [
     {
@@ -145,22 +145,22 @@
       "bestOf": 3,
       "team1": "Team Vitality",
       "team2": "LOUD",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 2,
+      "score2": 0,
+      "started": true
     },
     {
-      "key": "1790769600|100-thieves|fut-esports",
+      "key": "1790769000|100-thieves|fut-esports",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1790769600,
+      "timestamp": 1790769000,
       "bestOf": 3,
       "team1": "100 Thieves",
       "team2": "FUT Esports",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 0,
+      "score2": 0,
+      "started": true
     },
     {
       "key": "1790845200|tyloo|team-liquid",
@@ -241,13 +241,13 @@
       "started": false
     },
     {
-      "key": "1791104400|tbd|tbd",
+      "key": "1791104400|loud|tbd",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791104400,
       "bestOf": 3,
-      "team1": null,
+      "team1": "LOUD",
       "team2": null,
       "score1": null,
       "score2": null,
