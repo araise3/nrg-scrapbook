@@ -1,13 +1,13 @@
 {
   "_meta": {
     "source": "Derived from player_agents.json",
-    "generatedAt": "2026-10-01T04:54:56Z",
+    "generatedAt": "2026-10-01T12:50:48Z",
     "playersConsidered": 80,
-    "poolMeanRating": 0.99,
+    "poolMeanRating": 0.988,
     "selection": "Wilson lower-bound confidence score (rating/3.0 as phat, maps played as n, z=2.0; same technique as playerDuels.js's aggregateKdByCountry; no eligibility gate; see build_player_week.py)"
   },
-  "weekStart": "2026-09-24",
-  "weekEnd": "2026-09-30",
+  "weekStart": "2026-09-25",
+  "weekEnd": "2026-10-01",
   "player": "tkzin",
   "team": "LOUD",
   "countryCode": "br",
