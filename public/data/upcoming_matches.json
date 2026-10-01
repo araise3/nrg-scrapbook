@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-01T10:25:45Z"
+    "fetchedAt": "2026-10-01T18:35:34Z"
   },
   "matches": [
     {
@@ -171,22 +171,22 @@
       "bestOf": 3,
       "team1": "TYLOO",
       "team2": "Team Liquid",
-      "score1": 0,
-      "score2": 0,
+      "score1": 1,
+      "score2": 2,
       "started": true
     },
     {
-      "key": "1790856000|xi-lai-gaming|nongshim-redforce",
+      "key": "1790856600|xi-lai-gaming|nongshim-redforce",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1790856000,
+      "timestamp": 1790856600,
       "bestOf": 3,
       "team1": "Xi Lai Gaming",
       "team2": "Nongshim RedForce",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 0,
+      "score2": 2,
+      "started": true
     },
     {
       "key": "1790931600|global-esports|edward-gaming",
@@ -215,27 +215,27 @@
       "started": false
     },
     {
-      "key": "1791018000|g2-esports|tbd",
+      "key": "1791018000|g2-esports|team-liquid",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791018000,
       "bestOf": 3,
       "team1": "G2 Esports",
-      "team2": null,
+      "team2": "Team Liquid",
       "score1": null,
       "score2": null,
       "started": false
     },
     {
-      "key": "1791028800|karmine-corp|tbd",
+      "key": "1791028800|karmine-corp|nongshim-redforce",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791028800,
       "bestOf": 3,
       "team1": "Karmine Corp",
-      "team2": null,
+      "team2": "Nongshim RedForce",
       "score1": null,
       "score2": null,
       "started": false
