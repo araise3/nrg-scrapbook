@@ -21991,18 +21991,18 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Lime",
-          "name": "Jacob Foster",
-          "joinDate": "2026-01-14",
-          "flag": "gb",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "iluri",
           "name": "Ilari Puranen",
           "joinDate": "2026-01-14",
           "flag": "fi",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "Lime",
+          "name": "Jacob Foster",
+          "joinDate": "2026-01-14",
+          "flag": "gb",
           "captain": false,
           "playerStatus": "BENCHED"
         },
@@ -22310,6 +22310,15 @@
           "leaveDate": "2025-10-27",
           "newTeam": "Formulation Gaming",
           "flag": "pl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Lime",
+          "name": "Jacob Foster",
+          "joinDate": "2026-01-14",
+          "leaveDate": "2026-09-24",
+          "newTeam": "Enterprise Esports (Inactive)",
+          "flag": "gb",
           "playerStatus": "STARTER"
         },
         {
@@ -26989,22 +26998,6 @@
           "flag": "jp",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "margaret",
-          "name": "Kim Ji-woo",
-          "joinDate": "2025-09-19",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Pkm",
-          "name": "Park Kang-min",
-          "joinDate": "2026-05-19",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -27330,6 +27323,24 @@
           "leaveDate": "2025-08-31",
           "newTeam": "Crest Gaming Zst",
           "flag": "jp",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "margaret",
+          "name": "Kim Ji-woo",
+          "joinDate": "2025-09-19",
+          "leaveDate": "2026-10-01",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Pkm",
+          "name": "Park Kang-min",
+          "joinDate": "2026-05-19",
+          "leaveDate": "2026-10-01",
+          "newTeam": null,
+          "flag": "kr",
           "playerStatus": "STARTER"
         },
         {
