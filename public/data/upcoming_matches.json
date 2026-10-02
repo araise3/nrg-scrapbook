@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-02T06:06:20Z"
+    "fetchedAt": "2026-10-02T20:07:04Z"
   },
   "matches": [
     {
@@ -197,22 +197,22 @@
       "bestOf": 3,
       "team1": "Global Esports",
       "team2": "EDward Gaming",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 2,
+      "score2": 0,
+      "started": true
     },
     {
-      "key": "1790942400|t1|jdg-esports",
+      "key": "1790938800|t1|jdg-esports",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1790942400,
+      "timestamp": 1790938800,
       "bestOf": 3,
       "team1": "T1",
       "team2": "JDG Esports",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 2,
+      "score2": 1,
+      "started": true
     },
     {
       "key": "1791018000|g2-esports|team-liquid",
@@ -241,27 +241,27 @@
       "started": false
     },
     {
-      "key": "1791104400|loud|tbd",
+      "key": "1791104400|loud|global-esports",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791104400,
       "bestOf": 3,
       "team1": "LOUD",
-      "team2": null,
+      "team2": "Global Esports",
       "score1": null,
       "score2": null,
       "started": false
     },
     {
-      "key": "1791115200|fut-esports|tbd",
+      "key": "1791115200|fut-esports|t1",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791115200,
       "bestOf": 3,
       "team1": "FUT Esports",
-      "team2": null,
+      "team2": "T1",
       "score1": null,
       "score2": null,
       "started": false
