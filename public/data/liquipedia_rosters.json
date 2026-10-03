@@ -7744,22 +7744,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Flickless",
-          "name": "Karel Ivo Maeckelbergh",
-          "joinDate": "2025-04-16",
-          "flag": "be",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "neT",
-          "name": "Michael Bernet",
-          "joinDate": "2026-07-10",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "tomaszy",
           "name": "Tomás Machado",
           "joinDate": "2025-04-16",
@@ -7893,6 +7877,24 @@
           "leaveDate": "2025-04-16",
           "newTeam": "GIANTX (Inactive)",
           "flag": "pt",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Flickless",
+          "name": "Karel Ivo Maeckelbergh",
+          "joinDate": "2025-04-16",
+          "leaveDate": "2026-10-02",
+          "newTeam": null,
+          "flag": "be",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "neT",
+          "name": "Michael Bernet",
+          "joinDate": "2026-07-10",
+          "leaveDate": "2026-10-02",
+          "newTeam": null,
+          "flag": "us",
           "playerStatus": "STARTER"
         },
         {
