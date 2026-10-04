@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-04T06:16:21Z"
+    "fetchedAt": "2026-10-04T12:49:21Z"
   },
   "matches": [
     {
@@ -249,22 +249,22 @@
       "bestOf": 3,
       "team1": "LOUD",
       "team2": "Global Esports",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 2,
+      "score2": 0,
+      "started": true
     },
     {
-      "key": "1791115200|fut-esports|t1",
+      "key": "1791112800|fut-esports|t1",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1791115200,
+      "timestamp": 1791112800,
       "bestOf": 3,
       "team1": "FUT Esports",
       "team2": "T1",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 0,
+      "score2": 1,
+      "started": true
     },
     {
       "key": "1791363600|tbd|tbd",
