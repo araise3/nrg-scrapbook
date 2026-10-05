@@ -7748,7 +7748,7 @@
           "name": "Karel Ivo Maeckelbergh",
           "joinDate": "2025-04-16",
           "flag": "be",
-          "captain": false,
+          "captain": true,
           "playerStatus": "STARTER"
         },
         {
@@ -7888,21 +7888,21 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "Jesse",
+          "name": "Adam Čtvrtníček",
+          "joinDate": "2026-07-25",
+          "leaveDate": "2026-10-02",
+          "newTeam": null,
+          "flag": "cz",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "neT",
           "name": "Michael Bernet",
           "joinDate": "2026-07-10",
           "leaveDate": "2026-10-02",
           "newTeam": null,
           "flag": "us",
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Jesse",
-          "name": "Adam Čtvrtníček",
-          "joinDate": "2026-07-25",
-          "leaveDate": "2026-09-09",
-          "newTeam": null,
-          "flag": "cz",
           "playerStatus": "STARTER"
         },
         {
