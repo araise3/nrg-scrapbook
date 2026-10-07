@@ -3,6 +3,12 @@ import { buildRosterEventTable, buildEventDateOrder } from '../lib/rosterTimelin
 import { coachAt } from '../lib/coaches'
 import { eventLabel } from '../lib/format'
 
+function RosterName({ linked, to, className, ...props }) {
+  const Component = linked ? Link : 'span'
+  return <Component {...(linked ? { to } : {})} className={`roster-name ${className || ''}`} {...props} />
+}
+
+
 /**
  * Event-based "who held which seat" roster table -- replaces the earlier
  * calendar Gantt chart entirely, per direct request. One row per event
@@ -71,7 +77,7 @@ import { eventLabel } from '../lib/format'
 // do end up hue-close still separate on a second visual channel.
 const GOLDEN_ANGLE = 137.508
 
-function buildPlayerColors(rows) {
+function buildPlayerColors(rows, paper = false) {
   const order = []
   const seen = new Set()
   for (const row of rows) {
@@ -88,8 +94,8 @@ function buildPlayerColors(rows) {
   const colors = new Map()
   order.forEach((player, i) => {
     const hue = Math.round((i * GOLDEN_ANGLE) % 360)
-    const lightness = i % 2 === 0 ? 40 : 50
-    colors.set(player, `hsl(${hue}, 65%, ${lightness}%)`)
+    const lightness = paper ? (i % 2 === 0 ? 76 : 84) : (i % 2 === 0 ? 40 : 50)
+    colors.set(player, `hsl(${hue}, ${paper ? 72 : 65}%, ${lightness}%)`)
   })
   return colors
 }
@@ -307,7 +313,7 @@ function computeCoachSpans(rows, eventDate, coaches) {
   return grid
 }
 
-function SeatCell({ seat, colors, height }) {
+function SeatCell({ seat, colors, height, profileLinks }) {
   if (!seat) return null
 
   if (seat.occupants.length === 1) {
@@ -323,13 +329,13 @@ function SeatCell({ seat, colors, height }) {
     // <td> (native table layout, not a flex/percentage hack) does that
     // correctly across however many rows are spanned.
     return (
-      <Link
+      <RosterName linked={profileLinks}
         to={`/players/${encodeURIComponent(o.player)}`}
         className="flex items-center justify-center text-ink text-[11px] font-semibold truncate px-1.5 py-1.5 hover:brightness-110 transition-[filter]"
         title={`${o.player} — ${o.maps} map${o.maps === 1 ? '' : 's'}`}
       >
         {o.player}
-      </Link>
+      </RosterName>
     )
   }
 
@@ -360,7 +366,7 @@ function SeatCell({ seat, colors, height }) {
       {seat.occupants.map((o, i) => {
         const last = i === seat.occupants.length - 1
         return (
-          <Link
+          <RosterName linked={profileLinks}
             key={o.player}
             to={`/players/${encodeURIComponent(o.player)}`}
             className={`flex items-center justify-center text-ink text-[11px] font-semibold truncate px-1.5 hover:brightness-110 transition-[filter] shrink-0${last ? '' : ` border-b ${NOTCH_RULE}`}`}
@@ -372,7 +378,7 @@ function SeatCell({ seat, colors, height }) {
             title={`${o.player} — ${o.maps} map${o.maps === 1 ? '' : 's'} this event`}
           >
             {o.player}
-          </Link>
+          </RosterName>
         )
       })}
     </div>
@@ -418,7 +424,7 @@ function SeatCell({ seat, colors, height }) {
  * extra space stays part of the primary's contiguous region instead of
  * breaking it in two.
  */
-function BlockSeatCell({ blockSeats, primary, colors, rowHeights, startIndex }) {
+function BlockSeatCell({ blockSeats, primary, colors, rowHeights, startIndex, profileLinks }) {
   const slots = []
   blockSeats.forEach((seat, idx) => {
     const rowHeight = rowHeights[startIndex + idx]
@@ -473,7 +479,7 @@ function BlockSeatCell({ blockSeats, primary, colors, rowHeights, startIndex }) 
         const next = regions[ri + 1]
         const seam = !!next && (r.split || next.split)
         return (
-          <Link
+          <RosterName linked={profileLinks}
             key={ri}
             to={`/players/${encodeURIComponent(r.player)}`}
             // Only a non-primary notch needs its own background -- the
@@ -484,14 +490,14 @@ function BlockSeatCell({ blockSeats, primary, colors, rowHeights, startIndex }) 
             title={`${r.player} — ${r.maps} map${r.maps === 1 ? '' : 's'}`}
           >
             {r.player}
-          </Link>
+          </RosterName>
         )
       })}
     </div>
   )
 }
 
-export default function RosterTimeline({ playerBuckets, team, matchResultsRows, matchPlayersRows, headCoaches }) {
+export default function RosterTimeline({ playerBuckets, team, matchResultsRows, matchPlayersRows, headCoaches, appearance, profileLinks = true }) {
   const rows = buildRosterEventTable(playerBuckets, team, matchResultsRows, matchPlayersRows)
 
   if (rows.length === 0) {
@@ -500,7 +506,7 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
 
   const numSeats = rows[0].seats.length
   const spans = computeSpans(rows, numSeats)
-  const colors = buildPlayerColors(rows)
+  const colors = buildPlayerColors(rows, appearance === 'paper')
   const coachColors = buildCoachColors(headCoaches)
   const rowHeights = computeRowHeights(rows)
   // Reuses the exact site-wide event-date lookup `buildRosterEventTable`
@@ -513,7 +519,7 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
     : null
 
   return (
-    <div className="bg-grad-surface border border-hairline rounded-2xl shadow-depth-sm overflow-auto">
+    <div className={`${appearance === 'paper' ? 'paper-roster-timeline' : 'standard-roster-timeline'} bg-grad-surface border border-hairline rounded-2xl shadow-depth-sm overflow-auto`} tabIndex={0} role="region" aria-label={`${team} roster timeline, scroll horizontally to see all seats`}>
       <table className="w-full border-separate border-spacing-0 text-xs" style={{ tableLayout: 'fixed' }}>
         {/* table-layout:fixed + an explicit per-seat <col> width is what makes every seat
             column a fixed 131px regardless of occupant name length. The label <col> is the
@@ -527,7 +533,7 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
             still ends up flush against the right edge rather than the label column eating
             its width too. */}
         <colgroup>
-          <col />
+          <col style={appearance === 'paper' ? { width: 190 } : undefined} />
           {Array.from({ length: numSeats }).map((_, idx) => (
             <col key={idx} style={{ width: 131 }} />
           ))}
@@ -551,6 +557,7 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
               <td
                 className={`pr-3 pl-4 py-1.5 text-right text-muted whitespace-nowrap align-middle border-b ${CELL_RULE}`}
                 style={{ height: rowHeights[i] }}
+                title={eventLabel(row.event?.name)}
               >
                 {eventLabel(row.event?.name)}
               </td>
@@ -609,8 +616,8 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
                     style={bg ? { background: bg } : undefined}
                   >
                     {hasEmbeddedSplit
-                      ? <BlockSeatCell blockSeats={blockSeats} primary={cell.primary} colors={colors} rowHeights={rowHeights} startIndex={i} />
-                      : <SeatCell seat={seat} colors={colors} height={rowHeights[i]} />}
+                      ? <BlockSeatCell blockSeats={blockSeats} primary={cell.primary} colors={colors} rowHeights={rowHeights} startIndex={i} profileLinks={profileLinks} />
+                      : <SeatCell seat={seat} colors={colors} height={rowHeights[i]} profileLinks={profileLinks} />}
                   </td>
                 )
               })}
@@ -630,13 +637,13 @@ export default function RosterTimeline({ playerBuckets, team, matchResultsRows, 
                       style={cell.coach ? { background: coachColors.get(cell.coach.id) } : undefined}
                     >
                       {cell.coach && (
-                        <Link
+                        <RosterName linked={profileLinks}
                           to={`/coaches/${encodeURIComponent(cell.coach.id)}`}
                           className="flex items-center justify-center text-ink text-[11px] font-semibold truncate px-1.5 py-1.5 hover:brightness-110 transition-[filter]"
                           title={`${cell.coach.id} — Head Coach`}
                         >
                           {cell.coach.id}
-                        </Link>
+                        </RosterName>
                       )}
                     </td>
                   </>

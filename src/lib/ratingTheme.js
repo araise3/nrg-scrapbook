@@ -5,15 +5,15 @@
  */
 
 export const RC = {
-  panel: '#141619',
-  elevated: '#1B1E22',
-  border: '#2D3238',
-  text: '#F0F1F3',
-  textDim: '#9AA0A8',
-  accent: '#78A7D3',
-  positive: '#65C48B',
-  warning: '#D9AA5B',
-  grid: 'rgba(210,220,211,0.11)',
+  panel: '#ffffff',
+  elevated: '#fff5ec',
+  border: '#e6ceba',
+  text: '#a63a0d',
+  textDim: '#85614a',
+  accent: '#ce460c',
+  positive: '#277552',
+  warning: '#8c6416',
+  grid: 'rgba(166,58,13,0.12)',
 }
 
 /**
@@ -26,7 +26,7 @@ export const PANEL_STYLE = {
   border: `1px solid ${RC.border}`,
   borderRadius: 8,
   padding: '20px 22px',
-  boxShadow: '0 1px 2px rgba(0,0,0,0.28)',
+  boxShadow: '0 1px 2px rgba(65,35,12,0.08)',
 }
 
 /** Segmented-control pill, filled when selected. */

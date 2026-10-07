@@ -1,0 +1,9 @@
+{
+  "maps": ["Abyss", "Ascent", "Haven", "Lotus", "Split", "Summit", "Sunset"],
+  "effectiveDate": "2026-08-18",
+  "sources": [
+    "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-08/",
+    "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-00/",
+    "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-04/"
+  ]
+}

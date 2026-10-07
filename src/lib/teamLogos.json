@@ -1,338 +1,422 @@
 {
   "100 Thieves": {
     "logo": "/logos/100-thieves.png",
-    "tag": "100T"
+    "tag": "100T",
+    "logoLight": "/logos/100-thieves-light.png"
   },
   "Cloud9": {
     "logo": "/logos/cloud9.png",
-    "tag": "C9"
+    "tag": "C9",
+    "logoLight": "/logos/cloud9-light.png"
   },
   "Evil Geniuses": {
     "logo": "/logos/evil-geniuses.png",
-    "tag": "EG"
+    "tag": "EG",
+    "logoLight": "/logos/evil-geniuses-light.png"
   },
   "FURIA": {
     "logo": "/logos/furia.png",
-    "tag": "FUR"
+    "tag": "FUR",
+    "logoLight": "/logos/furia-light.png"
   },
   "KRÜ Esports": {
     "logo": "/logos/kr-esports.png",
-    "tag": "KRÜ"
+    "tag": "KRÜ",
+    "logoLight": "/logos/kr-esports-light.png"
   },
   "LEVIATÁN": {
     "logo": "/logos/leviat-n.png",
-    "tag": "LEV"
+    "tag": "LEV",
+    "logoLight": "/logos/leviat-n-light.png"
   },
   "LOUD": {
     "logo": "/logos/loud.png",
-    "tag": "LOUD"
+    "tag": "LOUD",
+    "logoLight": "/logos/loud-light.png"
   },
   "MIBR": {
     "logo": "/logos/mibr.png",
-    "tag": "MIBR"
+    "tag": "MIBR",
+    "logoLight": "/logos/mibr-light.png"
   },
   "NRG": {
     "logo": "/logos/nrg.png",
-    "tag": "NRG"
+    "tag": "NRG",
+    "logoLight": "/logos/nrg-light.png"
   },
   "Sentinels": {
     "logo": "/logos/sentinels.png",
-    "tag": "SEN"
+    "tag": "SEN",
+    "logoLight": "/logos/sentinels-light.png"
   },
   "G2 Esports": {
     "logo": "/logos/g2-esports.png",
-    "tag": "G2"
+    "tag": "G2",
+    "logoLight": "/logos/g2-esports-light.png"
   },
   "ENVY": {
     "logo": "/logos/envy.png",
-    "tag": "ENVY"
+    "tag": "ENVY",
+    "logoLight": "/logos/envy-light.png"
   },
   "BBL Esports": {
     "logo": "/logos/bbl-esports.png",
-    "tag": "BBL"
+    "tag": "BBL",
+    "logoLight": "/logos/bbl-esports-light.png"
   },
   "FNATIC": {
     "logo": "/logos/fnatic.png",
-    "tag": "FNC"
+    "tag": "FNC",
+    "logoLight": "/logos/fnatic-light.png"
   },
   "FUT Esports": {
     "logo": "/logos/fut-esports.png",
-    "tag": "FUT"
+    "tag": "FUT",
+    "logoLight": "/logos/fut-esports-light.png"
   },
   "Gentle Mates": {
     "logo": "/logos/gentle-mates.png",
-    "tag": "M8"
+    "tag": "M8",
+    "logoLight": "/logos/gentle-mates-light.png"
   },
   "GIANTX": {
     "logo": "/logos/giantx.png",
-    "tag": "GX"
+    "tag": "GX",
+    "logoLight": "/logos/giantx-light.png"
   },
   "Karmine Corp": {
     "logo": "/logos/karmine-corp.png",
-    "tag": "KC"
+    "tag": "KC",
+    "logoLight": "/logos/karmine-corp-light.png"
   },
   "Natus Vincere": {
     "logo": "/logos/natus-vincere.png",
-    "tag": "NAVI"
+    "tag": "NAVI",
+    "logoLight": "/logos/natus-vincere-light.png"
   },
   "Team Heretics": {
     "logo": "/logos/team-heretics.png",
-    "tag": "TH"
+    "tag": "TH",
+    "logoLight": "/logos/team-heretics-light.png"
   },
   "Team Liquid": {
     "logo": "/logos/team-liquid.png",
-    "tag": "TL"
+    "tag": "TL",
+    "logoLight": "/logos/team-liquid-light.png"
   },
   "Team Vitality": {
     "logo": "/logos/team-vitality.png",
-    "tag": "VIT"
+    "tag": "VIT",
+    "logoLight": "/logos/team-vitality-light.png"
   },
   "PCIFIC Esports": {
     "logo": "/logos/pcific-esports.png",
-    "tag": "PCF"
+    "tag": "PCF",
+    "logoLight": "/logos/pcific-esports-light.png"
   },
   "Eternal Fire": {
     "logo": "/logos/eternal-fire.png",
-    "tag": "EF"
+    "tag": "EF",
+    "logoLight": "/logos/eternal-fire-light.png"
   },
   "DetonatioN FocusMe": {
     "logo": "/logos/detonation-focusme.png",
-    "tag": "DFM"
+    "tag": "DFM",
+    "logoLight": "/logos/detonation-focusme-light.png"
   },
   "KIWOOM DRX": {
     "logo": "/logos/kiwoom-drx.png",
-    "tag": "DRX"
+    "tag": "DRX",
+    "logoLight": "/logos/kiwoom-drx-light.png"
   },
   "FULL SENSE": {
     "logo": "/logos/full-sense.png",
-    "tag": "FS"
+    "tag": "FS",
+    "logoLight": "/logos/full-sense-light.png"
   },
   "Gen.G": {
     "logo": "/logos/gen-g.png",
-    "tag": "GEN"
+    "tag": "GEN",
+    "logoLight": "/logos/gen-g-light.png"
   },
   "Global Esports": {
     "logo": "/logos/global-esports.png",
-    "tag": "GE"
+    "tag": "GE",
+    "logoLight": "/logos/global-esports-light.png"
   },
   "Paper Rex": {
     "logo": "/logos/paper-rex.png",
-    "tag": "PRX"
+    "tag": "PRX",
+    "logoLight": "/logos/paper-rex-light.png"
   },
   "Rex Regum Qeon": {
     "logo": "/logos/rex-regum-qeon.png",
-    "tag": "RRQ"
+    "tag": "RRQ",
+    "logoLight": "/logos/rex-regum-qeon-light.png"
   },
   "T1": {
     "logo": "/logos/t1.png",
-    "tag": "T1"
+    "tag": "T1",
+    "logoLight": "/logos/t1-light.png"
   },
   "Team Secret": {
     "logo": "/logos/team-secret.png",
-    "tag": "TS"
+    "tag": "TS",
+    "logoLight": "/logos/team-secret-light.png"
   },
   "ZETA DIVISION": {
     "logo": "/logos/zeta-division.png",
-    "tag": "ZETA"
+    "tag": "ZETA",
+    "logoLight": "/logos/zeta-division-light.png"
   },
   "VARREL": {
     "logo": "/logos/varrel.png",
-    "tag": "VL"
+    "tag": "VL",
+    "logoLight": "/logos/varrel-light.png"
   },
   "Nongshim RedForce": {
     "logo": "/logos/nongshim-redforce.png",
-    "tag": "NS"
+    "tag": "NS",
+    "logoLight": "/logos/nongshim-redforce-light.png"
   },
   "All Gamers": {
     "logo": "/logos/all-gamers.png",
-    "tag": "AG"
+    "tag": "AG",
+    "logoLight": "/logos/all-gamers-light.png"
   },
   "Bilibili Gaming": {
     "logo": "/logos/bilibili-gaming.png",
-    "tag": "BLG"
+    "tag": "BLG",
+    "logoLight": "/logos/bilibili-gaming-light.png"
   },
   "EDward Gaming": {
     "logo": "/logos/edward-gaming.png",
-    "tag": "EDG"
+    "tag": "EDG",
+    "logoLight": "/logos/edward-gaming-light.png"
   },
   "FunPlus Phoenix": {
     "logo": "/logos/funplus-phoenix.png",
-    "tag": "FPX"
+    "tag": "FPX",
+    "logoLight": "/logos/funplus-phoenix-light.png"
   },
   "JDG Esports": {
     "logo": "/logos/jdg-esports.png",
-    "tag": "JDG"
+    "tag": "JDG",
+    "logoLight": "/logos/jdg-esports-light.png"
   },
   "Nova Esports": {
     "logo": "/logos/nova-esports.png",
-    "tag": "NOVA"
+    "tag": "NOVA",
+    "logoLight": "/logos/nova-esports-light.png"
   },
   "Titan Esports Club": {
     "logo": "/logos/titan-esports-club.png",
-    "tag": "TEC"
+    "tag": "TEC",
+    "logoLight": "/logos/titan-esports-club-light.png"
   },
   "Trace Esports": {
     "logo": "/logos/trace-esports.png",
-    "tag": "TE"
+    "tag": "TE",
+    "logoLight": "/logos/trace-esports-light.png"
   },
   "TYLOO": {
     "logo": "/logos/tyloo.png",
-    "tag": "TYL"
+    "tag": "TYL",
+    "logoLight": "/logos/tyloo-light.png"
   },
   "Wolves Esports": {
     "logo": "/logos/wolves-esports.png",
-    "tag": "WOL"
+    "tag": "WOL",
+    "logoLight": "/logos/wolves-esports-light.png"
   },
   "Xi Lai Gaming": {
     "logo": "/logos/xi-lai-gaming.png",
-    "tag": "XLG"
+    "tag": "XLG",
+    "logoLight": "/logos/xi-lai-gaming-light.png"
   },
   "Dragon Ranger Gaming": {
     "logo": "/logos/dragon-ranger-gaming.png",
-    "tag": "DRG"
+    "tag": "DRG",
+    "logoLight": "/logos/dragon-ranger-gaming-light.png"
   },
   "2Game Esports": {
     "logo": "/logos/2game-esports.png",
-    "tag": "2GE"
+    "tag": "2GE",
+    "logoLight": "/logos/2game-esports-light.png"
   },
   "Apeks": {
     "logo": "/logos/apeks.png",
-    "tag": "APK"
+    "tag": "APK",
+    "logoLight": "/logos/apeks-light.png"
   },
   "KOI": {
     "logo": "/logos/koi.png",
-    "tag": "KOI"
+    "tag": "KOI",
+    "logoLight": "/logos/koi-light.png"
   },
   "KeepBest Gaming": {
     "logo": "/logos/keepbest-gaming.png",
-    "tag": "KB"
+    "tag": "KB",
+    "logoLight": "/logos/keepbest-gaming-light.png"
   },
   "TALON": {
     "logo": "/logos/talon.png",
-    "tag": "TLN"
+    "tag": "TLN",
+    "logoLight": "/logos/talon-light.png"
   },
   "BOOM Esports": {
     "logo": "/logos/boom-esports.png",
-    "tag": "BOOM"
+    "tag": "BOOM",
+    "logoLight": "/logos/boom-esports-light.png"
   },
   "A Team": {
     "logo": "/logos/a-team.png",
-    "tag": "AT"
+    "tag": "AT",
+    "logoLight": "/logos/a-team-light.png"
   },
   "Attacking Soul Esports": {
     "logo": "/logos/attacking-soul-esports.png",
-    "tag": "ASE"
+    "tag": "ASE",
+    "logoLight": "/logos/attacking-soul-esports-light.png"
   },
   "BLEED": {
     "logo": "/logos/bleed.png",
-    "tag": "BLD"
+    "tag": "BLD",
+    "logoLight": "/logos/bleed-light.png"
   },
   "Douyu Gaming": {
     "logo": "/logos/douyu-gaming.png",
-    "tag": "DYG"
+    "tag": "DYG",
+    "logoLight": "/logos/douyu-gaming-light.png"
   },
   "Eintracht Frankfurt": {
     "logo": "/logos/eintracht-frankfurt.png",
-    "tag": "SGE"
+    "tag": "SGE",
+    "logoLight": "/logos/eintracht-frankfurt-light.png"
   },
   "Enterprise Esports": {
     "logo": "/logos/enterprise-esports.png",
-    "tag": "ENT"
+    "tag": "ENT",
+    "logoLight": "/logos/enterprise-esports-light.png"
   },
   "Four Angry Men": {
     "logo": "/logos/four-angry-men.png",
-    "tag": "4AM"
+    "tag": "4AM",
+    "logoLight": "/logos/four-angry-men-light.png"
   },
   "Gank Gaming": {
     "logo": "/logos/gank-gaming.png",
-    "tag": "GANK"
+    "tag": "GANK",
+    "logoLight": "/logos/gank-gaming-light.png"
   },
   "Giants Gaming": {
     "logo": "/logos/giants-gaming.png",
-    "tag": "GIA"
+    "tag": "GIA",
+    "logoLight": "/logos/giants-gaming-light.png"
   },
   "Invincible Gaming": {
     "logo": "/logos/invincible-gaming.png",
-    "tag": "IVG"
+    "tag": "IVG",
+    "logoLight": "/logos/invincible-gaming-light.png"
   },
   "Joblife": {
     "logo": "/logos/joblife.png",
-    "tag": "JL"
+    "tag": "JL",
+    "logoLight": "/logos/joblife-light.png"
   },
   "Kingzone": {
     "logo": "/logos/kingzone.png",
-    "tag": "KZ"
+    "tag": "KZ",
+    "logoLight": "/logos/kingzone-light.png"
   },
   "Monarch Effect": {
     "logo": "/logos/monarch-effect.png",
-    "tag": "ME"
+    "tag": "ME",
+    "logoLight": "/logos/monarch-effect-light.png"
   },
   "Night Wings Gaming": {
     "logo": "/logos/night-wings-gaming.png",
-    "tag": "NWG"
+    "tag": "NWG",
+    "logoLight": "/logos/night-wings-gaming-light.png"
   },
   "Number One Player": {
     "logo": "/logos/number-one-player.png",
-    "tag": "N1P"
+    "tag": "N1P",
+    "logoLight": "/logos/number-one-player-light.png"
   },
   "REBORN": {
     "logo": "/logos/reborn.png",
-    "tag": "RE"
+    "tag": "RE",
+    "logoLight": "/logos/reborn-light.png"
   },
   "Rare Atom": {
     "logo": "/logos/rare-atom.png",
-    "tag": "RA"
+    "tag": "RA",
+    "logoLight": "/logos/rare-atom-light.png"
   },
   "Royal Never Give Up": {
     "logo": "/logos/royal-never-give-up.png",
-    "tag": "RNG"
+    "tag": "RNG",
+    "logoLight": "/logos/royal-never-give-up-light.png"
   },
   "Totoro Gaming": {
     "logo": "/logos/totoro-gaming.png",
-    "tag": "TOTO"
+    "tag": "TOTO",
+    "logoLight": "/logos/totoro-gaming-light.png"
   },
   "Weibo Gaming": {
     "logo": "/logos/weibo-gaming.png",
-    "tag": "WBG"
+    "tag": "WBG",
+    "logoLight": "/logos/weibo-gaming-light.png"
   },
   "Shenzhen NTER": {
     "logo": "/logos/shenzhen-nter.png",
-    "tag": "NTER"
+    "tag": "NTER",
+    "logoLight": "/logos/shenzhen-nter-light.png"
   },
   "Fire Flux Esports": {
     "logo": "/logos/fire-flux-esports.png",
-    "tag": "FF"
+    "tag": "FF",
+    "logoLight": "/logos/fire-flux-esports-light.png"
   },
   "ULF Esports": {
     "logo": "/logos/ulf-esports.png",
-    "tag": "ULF"
+    "tag": "ULF",
+    "logoLight": "/logos/ulf-esports-light.png"
   },
   "BESTIA": {
     "logo": "/logos/bestia.png",
-    "tag": "BEST"
+    "tag": "BEST",
+    "logoLight": "/logos/bestia-light.png"
   },
   "Fluxo W7M": {
     "logo": "/logos/fluxo-w7m.png",
-    "tag": "FLX"
+    "tag": "FLX",
+    "logoLight": "/logos/fluxo-w7m-light.png"
   },
   "M80": {
     "logo": "/logos/m80.png",
-    "tag": "M80"
+    "tag": "M80",
+    "logoLight": "/logos/m80-light.png"
   },
   "ONSIDE GAMING": {
     "logo": "/logos/onside-gaming.png",
-    "tag": "ONS"
+    "tag": "ONS",
+    "logoLight": "/logos/onside-gaming-light.png"
   },
   "QT DIG∞": {
     "logo": "/logos/qt-dig.png",
-    "tag": "QT"
+    "tag": "QT",
+    "logoLight": "/logos/qt-dig-light.png"
   },
   "Sharper Esports": {
     "logo": "/logos/sharper-esports.png",
-    "tag": "SHR"
+    "tag": "SHR",
+    "logoLight": "/logos/sharper-esports-light.png"
   },
   "Xipto Esports": {
     "logo": "/logos/xipto-esports.png",
-    "tag": "XIP"
+    "tag": "XIP",
+    "logoLight": "/logos/xipto-esports-light.png"
   }
 }

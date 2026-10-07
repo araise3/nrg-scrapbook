@@ -1,13 +1,12 @@
 import { useMemo } from 'react'
-import { Link, useNavigate, useSearchParams } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import { useData } from '../lib/useData'
 import { buildRosterIterations } from '../lib/rosterIterations'
 import { headCoachesForTeam } from '../lib/coaches'
-import { teamBreakdownUrl, teamHistoryUrl } from '../lib/teamUrl'
+import { teamBreakdownUrl } from '../lib/teamUrl'
 import { eventLabel, longDate, num, pct, rating } from '../lib/format'
 import RosterTimeline from '../components/RosterTimeline'
 import TeamLogo from '../components/TeamLogo'
-import Select from '../components/ui/Select'
 
 function Metric({ label, value, sub }) {
   return (
@@ -59,16 +58,13 @@ function IterationCard({ iteration, events }) {
 }
 
 export default function TeamHistory() {
-  const navigate = useNavigate()
-  const [params] = useSearchParams()
-  const team = params.get('team') || ''
+  const team = 'NRG'
   const { data: teamData, loading: teamsLoading } = useData('team_buckets')
   const { data: playerData, loading: playersLoading } = useData(team ? 'player_buckets' : null)
   const { data: matchData, loading: matchesLoading } = useData(team ? 'match_results' : null)
   const { data: matchPlayerData, loading: matchPlayersLoading } = useData(team ? 'match_players' : null)
   const { data: liquipediaData } = useData(team ? 'liquipedia_rosters' : null)
 
-  const teams = useMemo(() => Object.keys(teamData?.meta || {}).sort((a, b) => a.localeCompare(b)), [teamData])
   const iterations = useMemo(
     () => buildRosterIterations(matchData, matchPlayerData, team),
     [matchData, matchPlayerData, team],
@@ -81,22 +77,11 @@ export default function TeamHistory() {
   return (
     <div className="flex min-w-0 flex-col gap-6">
       <div>
-        <h1 className="font-display text-2xl font-semibold text-ink">Team history</h1>
-        <p className="mt-1 text-sm text-muted">Follow each roster through events and compare its results.</p>
+        <h1 className="font-display text-2xl font-semibold text-ink">NRG history</h1>
+        <p className="mt-1 text-sm text-muted">Follow NRG's rosters through the years and compare their results.</p>
       </div>
 
       <div className="flex flex-wrap items-center gap-3">
-        <label htmlFor="team-history-picker" className="text-sm font-medium text-muted">Team</label>
-        <Select
-          id="team-history-picker"
-          className="w-full sm:w-72"
-          value={team}
-          onChange={(next) => navigate(teamHistoryUrl(next))}
-          options={teams}
-          placeholder="Choose a team…"
-          searchable
-          disabled={teamsLoading}
-        />
         {team && teamData?.meta?.[team] && (
           <Link to={teamBreakdownUrl(team)} className="text-xs text-accent-bright hover:underline">
             Current team breakdown →
@@ -104,11 +89,8 @@ export default function TeamHistory() {
         )}
       </div>
 
-      {teamsLoading ? <p className="text-sm text-muted">Loading teams…</p>
-        : !team ? <div className="rounded-xl border border-hairline bg-surface p-8 text-center text-sm text-muted">
-          Choose a team to see its roster history.
-        </div>
-          : !teamData?.meta?.[team] ? <p className="text-sm text-muted">No team found matching “{team}”.</p>
+      {teamsLoading ? <p className="text-sm text-muted">Loading NRG history…</p>
+          : !teamData?.meta?.[team] ? <p className="text-sm text-muted">NRG history is unavailable.</p>
             : playersLoading || matchesLoading || matchPlayersLoading || !playerData || !matchData || !matchPlayerData
               ? <p className="text-sm text-muted">Loading roster history…</p>
               : <>

@@ -1,0 +1,5904 @@
+{
+  "updatedAt": "2026-10-07T11:36:54Z",
+  "source": "HenrikDev",
+  "server": "ap",
+  "accounts": [
+    {
+      "id": "ethan",
+      "player": "ethan",
+      "riotId": "CostcoHotdog1#yummm",
+      "role": "player",
+      "server": "AP",
+      "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+      "updatedAt": "2026-10-07T11:29:44Z",
+      "stats": {
+        "winPct": 0.4827586206896552,
+        "roundWinPct": 0.5087719298245614,
+        "kd": 1.0444444444444445,
+        "acs": 224.04306220095694,
+        "adr": 147.96810207336523,
+        "ddDelta": 12.995215311004785,
+        "hsPct": 0.27204884667571233,
+        "kast": 0.7384370015948963,
+        "kpr": 0.7496012759170654,
+        "kda": 1.5888888888888888,
+        "avgKills": 16.20689655172414,
+        "matches": 29,
+        "rank": {
+          "tier": "Immortal 1",
+          "rr": 157,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 29,
+        "wins": 14,
+        "losses": 14,
+        "draws": 1,
+        "rounds": 627,
+        "roundsWon": 319,
+        "kills": 470,
+        "deaths": 450,
+        "assists": 245,
+        "score": 140475,
+        "headshots": 401,
+        "bodyshots": 993,
+        "legshots": 101,
+        "damage": 93666,
+        "damageReceived": 85159,
+        "enemyDamage": 92776,
+        "enemyDamageReceived": 84628,
+        "enemyHeadshots": 401,
+        "enemyBodyshots": 972,
+        "enemyLegshots": 101,
+        "enemyCombatRounds": 627,
+        "kastRounds": 463,
+        "kastEligibleRounds": 627
+      },
+      "newestMatchId": "a7fe701f-59e7-4877-aa99-eb8d3e853164",
+      "coverage": {
+        "matches": 29,
+        "from": "2026-09-11T07:25:03.547Z",
+        "to": "2026-10-06T16:33:21.17Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    },
+    {
+      "id": "skuba",
+      "player": "skuba",
+      "riotId": "skububu#sku",
+      "role": "player",
+      "server": "AP",
+      "puuid": "edd85006-41c1-5e74-82b1-29be6bade69f",
+      "updatedAt": "2026-10-07T11:30:47Z",
+      "stats": {
+        "winPct": 0.25,
+        "roundWinPct": 0.4787234042553192,
+        "kd": 0.6615384615384615,
+        "acs": 135.13829787234042,
+        "adr": 89.35106382978724,
+        "ddDelta": -37.53191489361702,
+        "hsPct": 0.2857142857142857,
+        "kast": 0.6914893617021277,
+        "kpr": 0.4574468085106383,
+        "kda": 1.0615384615384615,
+        "avgKills": 10.75,
+        "matches": 4,
+        "rank": {
+          "tier": "Unrated",
+          "rr": 0,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 4,
+        "wins": 1,
+        "losses": 2,
+        "draws": 1,
+        "rounds": 94,
+        "roundsWon": 45,
+        "kills": 43,
+        "deaths": 65,
+        "assists": 26,
+        "score": 12703,
+        "headshots": 32,
+        "bodyshots": 73,
+        "legshots": 7,
+        "damage": 8434,
+        "damageReceived": 11975,
+        "enemyDamage": 8399,
+        "enemyDamageReceived": 11927,
+        "enemyHeadshots": 32,
+        "enemyBodyshots": 73,
+        "enemyLegshots": 7,
+        "enemyCombatRounds": 94,
+        "kastRounds": 65,
+        "kastEligibleRounds": 94
+      },
+      "newestMatchId": "a767fece-5c25-49b8-ad45-3bb8fb662453",
+      "coverage": {
+        "matches": 4,
+        "from": "2026-09-12T02:27:28.136Z",
+        "to": "2026-10-06T14:04:16.863Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    },
+    {
+      "id": "mada",
+      "player": "mada",
+      "riotId": "apollodaphne#mada",
+      "role": "player",
+      "server": "AP",
+      "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+      "updatedAt": "2026-10-07T11:32:46Z",
+      "stats": {
+        "winPct": 0.5365853658536586,
+        "roundWinPct": 0.5189599133261105,
+        "kd": 1.11177347242921,
+        "acs": 231.54171180931743,
+        "adr": 150.5092091007584,
+        "ddDelta": 12.505958829902491,
+        "hsPct": 0.2941443486155243,
+        "kast": 0.7269772481040087,
+        "kpr": 0.8082340195016251,
+        "kda": 1.4754098360655739,
+        "avgKills": 18.195121951219512,
+        "matches": 41,
+        "rank": {
+          "tier": "Immortal 1",
+          "rr": 362,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 41,
+        "wins": 22,
+        "losses": 18,
+        "draws": 1,
+        "rounds": 923,
+        "roundsWon": 479,
+        "kills": 746,
+        "deaths": 671,
+        "assists": 244,
+        "score": 213713,
+        "headshots": 648,
+        "bodyshots": 1424,
+        "legshots": 133,
+        "damage": 139481,
+        "damageReceived": 127737,
+        "enemyDamage": 138920,
+        "enemyDamageReceived": 127377,
+        "enemyHeadshots": 648,
+        "enemyBodyshots": 1422,
+        "enemyLegshots": 133,
+        "enemyCombatRounds": 923,
+        "kastRounds": 671,
+        "kastEligibleRounds": 923
+      },
+      "newestMatchId": "a767fece-5c25-49b8-ad45-3bb8fb662453",
+      "coverage": {
+        "matches": 41,
+        "from": "2026-09-11T11:56:43.37Z",
+        "to": "2026-10-06T14:04:16.863Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    },
+    {
+      "id": "brawk",
+      "player": "brawk",
+      "riotId": "VALNRG0005#bawrk",
+      "role": "player",
+      "server": "AP",
+      "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+      "updatedAt": "2026-10-07T11:34:50Z",
+      "stats": {
+        "winPct": 0.5348837209302325,
+        "roundWinPct": 0.4962962962962963,
+        "kd": 0.9929971988795518,
+        "acs": 220.73015873015873,
+        "adr": 147.2962962962963,
+        "ddDelta": 11.250793650793652,
+        "hsPct": 0.24393592677345538,
+        "kast": 0.7185185185185186,
+        "kpr": 0.7502645502645503,
+        "kda": 1.3893557422969187,
+        "avgKills": 16.488372093023255,
+        "matches": 43,
+        "rank": {
+          "tier": "Immortal 1",
+          "rr": 408,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 43,
+        "wins": 23,
+        "losses": 19,
+        "draws": 1,
+        "rounds": 945,
+        "roundsWon": 469,
+        "kills": 709,
+        "deaths": 714,
+        "assists": 283,
+        "score": 208590,
+        "headshots": 533,
+        "bodyshots": 1435,
+        "legshots": 217,
+        "damage": 140487,
+        "damageReceived": 129451,
+        "enemyDamage": 139195,
+        "enemyDamageReceived": 128563,
+        "enemyHeadshots": 533,
+        "enemyBodyshots": 1435,
+        "enemyLegshots": 217,
+        "enemyCombatRounds": 945,
+        "kastRounds": 679,
+        "kastEligibleRounds": 945
+      },
+      "newestMatchId": "3cb53a27-bf28-4da2-804e-775e5953e27b",
+      "coverage": {
+        "matches": 43,
+        "from": "2026-09-11T07:37:46.295Z",
+        "to": "2026-10-06T14:29:43.037Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    },
+    {
+      "id": "keiko",
+      "player": "keiko",
+      "riotId": "k12#2112",
+      "role": "player",
+      "server": "AP",
+      "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+      "updatedAt": "2026-10-07T11:35:55Z",
+      "stats": {
+        "winPct": 0.5952380952380952,
+        "roundWinPct": 0.5152505446623094,
+        "kd": 1.1204330175913397,
+        "acs": 249.76143790849673,
+        "adr": 162.75925925925927,
+        "ddDelta": 18.41938997821351,
+        "hsPct": 0.41818181818181815,
+        "kast": 0.7331154684095861,
+        "kpr": 0.9019607843137255,
+        "kda": 1.3585926928281462,
+        "avgKills": 19.714285714285715,
+        "matches": 42,
+        "rank": {
+          "tier": "Immortal 1",
+          "rr": 474,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 42,
+        "wins": 25,
+        "losses": 16,
+        "draws": 1,
+        "rounds": 918,
+        "roundsWon": 473,
+        "kills": 828,
+        "deaths": 739,
+        "assists": 176,
+        "score": 229281,
+        "headshots": 736,
+        "bodyshots": 989,
+        "legshots": 59,
+        "damage": 150317,
+        "damageReceived": 133548,
+        "enemyDamage": 149413,
+        "enemyDamageReceived": 132504,
+        "enemyHeadshots": 736,
+        "enemyBodyshots": 965,
+        "enemyLegshots": 59,
+        "enemyCombatRounds": 918,
+        "kastRounds": 673,
+        "kastEligibleRounds": 918
+      },
+      "newestMatchId": "c553f20f-f73b-466d-9f1d-29482c3577cf",
+      "coverage": {
+        "matches": 42,
+        "from": "2026-09-11T07:25:03.547Z",
+        "to": "2026-10-06T17:12:34.11Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    },
+    {
+      "id": "bonkar",
+      "player": "bonkar",
+      "riotId": "瑞典肉丸#goach",
+      "role": "coach",
+      "server": "AP",
+      "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+      "updatedAt": "2026-10-07T11:36:54Z",
+      "stats": {
+        "winPct": 0.3333333333333333,
+        "roundWinPct": 0.4806201550387597,
+        "kd": 0.7222222222222222,
+        "acs": 151.63565891472868,
+        "adr": 108.20930232558139,
+        "ddDelta": -19.410852713178294,
+        "hsPct": 0.2658959537572254,
+        "kast": 0.751937984496124,
+        "kpr": 0.5038759689922481,
+        "kda": 1.211111111111111,
+        "avgKills": 10.833333333333334,
+        "matches": 6,
+        "rank": {
+          "tier": "Ascendant 3",
+          "rr": 82,
+          "leaderboardRank": null
+        }
+      },
+      "counters": {
+        "matches": 6,
+        "wins": 2,
+        "losses": 3,
+        "draws": 1,
+        "rounds": 129,
+        "roundsWon": 62,
+        "kills": 65,
+        "deaths": 90,
+        "assists": 44,
+        "score": 19561,
+        "headshots": 46,
+        "bodyshots": 115,
+        "legshots": 12,
+        "damage": 14151,
+        "damageReceived": 16513,
+        "enemyDamage": 13959,
+        "enemyDamageReceived": 16463,
+        "enemyHeadshots": 46,
+        "enemyBodyshots": 115,
+        "enemyLegshots": 12,
+        "enemyCombatRounds": 129,
+        "kastRounds": 97,
+        "kastEligibleRounds": 129
+      },
+      "newestMatchId": "23a323b5-12f5-4bea-a93c-631aa1bdb098",
+      "coverage": {
+        "matches": 6,
+        "from": "2026-09-17T03:33:32.649Z",
+        "to": "2026-10-06T13:35:37.39Z",
+        "truncated": false,
+        "unreadable": 0
+      }
+    }
+  ],
+  "matches": [
+    {
+      "id": "c553f20f-f73b-466d-9f1d-29482c3577cf",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T17:12:34.11Z",
+      "players": [
+        {
+          "puuid": "e4eb40d1-d866-5146-b100-bb686184a373",
+          "riotId": "becca#poppy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "55ab27c9-b5a6-5bcb-9b63-f39aac212cfd",
+          "riotId": "QTD margaret#1118",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b727dbbe-98a5-5f47-a67a-e4a251bfecaa",
+          "riotId": "Secret kellyS#MJC",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4109c02c-c66f-5e32-9c3f-0e72c73531bd",
+          "riotId": "omg#0215",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e6c54b3f-43de-509a-86c8-cd9d9cad4dec",
+          "riotId": "snappyคาบบ#XGOD",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ff90a205-5ac9-55dd-9f3f-0d3e7f44fbb3",
+          "riotId": "loopy#bibi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "115fbb95-7677-53be-be7a-c79666f4e1a2",
+          "riotId": "키르아#고양이",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "3525eb9c-2c1f-5ce9-ae11-65597eca2594",
+          "riotId": "OAS hotsauzinho#CLTCH",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "580ce911-0c1c-5ec8-b0f6-3ebf0442c972",
+          "riotId": "艾斯卡诺#hycxy",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "a7fe701f-59e7-4877-aa99-eb8d3e853164",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T16:33:21.17Z",
+      "players": [
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "21a9fd5b-fcf6-5a36-b359-744a9a79bb1a",
+          "riotId": "Willimauu#1825",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72671a16-c8e5-5741-8ce8-84158f0e35fc",
+          "riotId": "浮黎元始天尊#1343",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "498736ca-81ed-5250-ad85-b64db9b09bb3",
+          "riotId": "I Z#few",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ff90a205-5ac9-55dd-9f3f-0d3e7f44fbb3",
+          "riotId": "loopy#bibi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e921a9dc-7d59-53db-8d9c-818dd4d728fe",
+          "riotId": "L1M1T#2008",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f1897cd8-4c43-53d1-b1a7-8afca4c363d9",
+          "riotId": "路明非天天开心#0214",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e6c54b3f-43de-509a-86c8-cd9d9cad4dec",
+          "riotId": "snappyคาบบ#XGOD",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "435a802b-3cc1-5d94-a7fc-f65d38c32596",
+          "riotId": "舟舟子#zzz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "40a47820-ae1d-4bc8-bba3-7a678184c6c9",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T15:47:25.845Z",
+      "players": [
+        {
+          "puuid": "b9e563b0-c8c8-5639-a9f4-ec910812a4af",
+          "riotId": "习近龟的平头#8964",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1d2a6941-dc44-5e8b-9865-28ed94c663dc",
+          "riotId": "개굴닌자#개 굴",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ffd7d869-fa35-5c0a-a2d2-1c45bbc7f6a9",
+          "riotId": "MC3D MD2#2605",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7224af97-da65-5648-8553-4014abcc250b",
+          "riotId": "Bakashin O#uma",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "fa9ac49d-2ff3-5448-a6b8-be82b4886d3b",
+          "riotId": "LeBron James#JoxJo",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "30827d32-6146-5a62-bf05-9519b6c5c82c",
+          "riotId": "國服馬超#kokoa",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "13470234-5360-5e2e-9766-6de096855587",
+          "riotId": "MC3D TAPHTAPH#JHEL",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "91499388-5b30-5a9a-920e-9a34471ef02e",
+          "riotId": "JADE 2GEMONSTA#BELLA",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "8b516544-a35f-40ef-a5c3-167a0234c13d",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T15:05:22.608Z",
+      "players": [
+        {
+          "puuid": "0b16779a-1574-54b6-bee5-4370ad4546fa",
+          "riotId": "NS Xross#2007",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b9e563b0-c8c8-5639-a9f4-ec910812a4af",
+          "riotId": "习近龟的平头#8964",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "30827d32-6146-5a62-bf05-9519b6c5c82c",
+          "riotId": "國服馬超#kokoa",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bedca446-2300-5057-b444-9ee324ffe0fb",
+          "riotId": "ipipipipipipipip#eeee",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a3238444-989d-51a4-b159-64cd04e7dcd2",
+          "riotId": "CR Meiy#SP005",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "137337c1-028e-52f4-9282-1d4f216caff5",
+          "riotId": "爷爷已经63岁了让一下呗#刚退休",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "43aca414-e907-594d-a579-26b27fef0ad0",
+          "riotId": "JADE azyshaha#17N",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "91499388-5b30-5a9a-920e-9a34471ef02e",
+          "riotId": "JADE 2GEMONSTA#BELLA",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "3cb53a27-bf28-4da2-804e-775e5953e27b",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T14:29:43.037Z",
+      "players": [
+        {
+          "puuid": "74ce8d5a-3aa0-57c0-af51-485556e104e4",
+          "riotId": "俺是农民歌手大衣哥朱之文#1031",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "137337c1-028e-52f4-9282-1d4f216caff5",
+          "riotId": "爷爷已经63岁了让一下呗#刚退休",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "24fa9511-e5e8-5c37-ac2d-37ad9d7aedec",
+          "riotId": "懶鬼公主的小狗#ling",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "34f87d1b-e0d0-5e57-9f34-da88c84b6e5a",
+          "riotId": "uume#nono",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "486ffce4-3750-540b-849f-063fb96a9f55",
+          "riotId": "Espejo#VEO19",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0b16779a-1574-54b6-bee5-4370ad4546fa",
+          "riotId": "NS Xross#2007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c157ad6f-dbcd-5108-ba3e-cc1753cef9b4",
+          "riotId": "Bichon Frise#puppy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "48ccb36e-f7aa-5f98-a19d-4b2ca622b5a6",
+          "riotId": "조선제일건#hayg",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5bf19d71-f4c9-58ed-9ac9-2facde72c68e",
+          "riotId": "DRG Verse#VVV",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "4ecc6549-acd3-4d7a-aaf9-0cedf3353477",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T14:19:51.489Z",
+      "players": [
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9f43403d-4d14-581c-82dc-1db88ca42eb5",
+          "riotId": "DJT TouXi#車禍大隊長",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "dc186a46-402b-5db8-9ca9-af1282f0f39f",
+          "riotId": "Daz#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e133eeb9-4e51-5a7c-983b-6b70e6daf838",
+          "riotId": "i am b00nrealcul#VNno1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8d1b4f53-1aff-5072-832e-e0584fe23f13",
+          "riotId": "Chiquita#scute",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "15d4c214-25fc-5ae7-ba84-a983f8986bc5",
+          "riotId": "EP kozzy#0916",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bf947d47-c30c-5a62-b7fa-08f7ec9db16b",
+          "riotId": "尽人事听天命#2010",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "435a802b-3cc1-5d94-a7fc-f65d38c32596",
+          "riotId": "舟舟子#zzz",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "a767fece-5c25-49b8-ad45-3bb8fb662453",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T14:04:16.863Z",
+      "players": [
+        {
+          "puuid": "b41d34e4-2061-56f5-b0d7-443efe408e4a",
+          "riotId": "Rowan Atkinson#mrb",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a018f5e6-b902-5d3a-9b94-8b0b041eb362",
+          "riotId": "Skidibidi Toilet#6769",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b26672a4-ee00-5cea-8776-9bb295a22008",
+          "riotId": "어제보다#조금나음",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a6ccad3f-974a-5175-b4f3-97c96f0c5184",
+          "riotId": "life is a nacho#tos",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "edd85006-41c1-5e74-82b1-29be6bade69f",
+          "riotId": "skububu#sku",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e9191e30-3ee3-5e80-8d4b-56634dfb7b24",
+          "riotId": "여보세요#끼미히끼잉",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a65a11ea-8279-5391-8001-60bd64c5cdbf",
+          "riotId": "snow#0222",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cb168bcb-e8ad-5c2b-87ab-5e4ad17835e6",
+          "riotId": "Tonk#1121",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3b52db11-cc48-5a69-86a9-93ed90fdbe39",
+          "riotId": "俺马桶堵了#60kg",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "23a323b5-12f5-4bea-a93c-631aa1bdb098",
+      "queue": "competitive",
+      "playedAt": "2026-10-06T13:35:37.39Z",
+      "players": [
+        {
+          "puuid": "5b38e13f-c6aa-5e83-8811-d50468d0d60f",
+          "riotId": "wezzy#skrr",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d99fab9c-84f6-5f93-9e8b-26c7ba454554",
+          "riotId": "Bensy#IGL",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5f6b2d5a-6732-5cbb-8a35-620c4f673a5d",
+          "riotId": "CST Space#2010",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b2f0762a-5166-5a0c-ae66-d56620065ce2",
+          "riotId": "No1r#Bl4nc",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f478b6cc-7d81-5b97-9509-a051084beb77",
+          "riotId": "HANRORO#0403",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "66ffc3a7-7109-51cf-a4a2-94b59f3d3a95",
+          "riotId": "퍼스트 펭귄#긍정의사고",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8634fbe2-b447-5042-af8b-f51eaf3cb972",
+          "riotId": "Aizen Sosuke#pa1z",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ad6914af-9f02-56a9-a2d1-a5e466bbfb85",
+          "riotId": "SKR eugeneS#JSTNE",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "09105491-d9b9-40c4-9113-bad112cd6123",
+      "queue": "competitive",
+      "playedAt": "2026-10-05T16:43:47.478Z",
+      "players": [
+        {
+          "puuid": "7973c66e-9d64-59da-b798-e84f4ffded8f",
+          "riotId": "Lightning#LFTtt",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1d3e86af-5c12-5848-8d9a-5f4926ccc473",
+          "riotId": "bme d#bea",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9a8afdff-8ed7-517c-8be3-952e968c0678",
+          "riotId": "叶叶叶叶叶#2007",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d72acee8-d7d7-5328-937f-decabf327f13",
+          "riotId": "João Pedro#TRN",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7979eb47-771c-56e8-8e56-87d22c78d54b",
+          "riotId": "ellish#XGOD",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ff90a205-5ac9-55dd-9f3f-0d3e7f44fbb3",
+          "riotId": "loopy#bibi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "92f72165-bcc9-5c72-8c52-98b7a608fe76",
+          "riotId": "Jinboong#eeee",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "35dc0911-9f93-5191-b231-0da6c128a3d1",
+          "riotId": "TRINITY DIKY#nina1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "fc1a2d58-0117-42de-a2a3-15a9927e4f64",
+      "queue": "competitive",
+      "playedAt": "2026-10-05T16:01:13.865Z",
+      "players": [
+        {
+          "puuid": "7979eb47-771c-56e8-8e56-87d22c78d54b",
+          "riotId": "ellish#XGOD",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7d1a7508-5377-5b77-b1e7-b7b91c53d547",
+          "riotId": "sakura#ZKPG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "435a802b-3cc1-5d94-a7fc-f65d38c32596",
+          "riotId": "舟舟子#zzz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6cb87f4c-896b-5c8f-9057-a69d4b282976",
+          "riotId": "Dantè#earl",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ff90a205-5ac9-55dd-9f3f-0d3e7f44fbb3",
+          "riotId": "loopy#bibi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8993ce97-9559-5cf7-903b-35b0adc79d3e",
+          "riotId": "Gu1lt#0210",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8da5c802-7d54-517b-8436-fe28909dfa29",
+          "riotId": "心有千斤坠却无一字言#1117",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9b40407b-3c10-5aea-900f-8d3ffb2f08d5",
+          "riotId": "Twitch03Sheep#0508",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "3f906550-bbd5-4d3e-bb6d-061e2f137d07",
+      "queue": "competitive",
+      "playedAt": "2026-10-05T15:23:58.843Z",
+      "players": [
+        {
+          "puuid": "c296bbff-ed20-56ec-a53b-18491549eceb",
+          "riotId": "NOVA autumn#Sera",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6ab12b42-de06-53e1-b1e0-c25b5120da3b",
+          "riotId": "NOVA swagzor#shnq",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1800be36-9d58-5490-bda2-e30ef5c364bf",
+          "riotId": "만 휘#天淩客",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ac1e55c3-94a1-536d-931c-91465e10edac",
+          "riotId": "VaNish#skrr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7979eb47-771c-56e8-8e56-87d22c78d54b",
+          "riotId": "ellish#XGOD",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8993ce97-9559-5cf7-903b-35b0adc79d3e",
+          "riotId": "Gu1lt#0210",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "21a9fd5b-fcf6-5a36-b359-744a9a79bb1a",
+          "riotId": "Willimauu#1825",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ff90a205-5ac9-55dd-9f3f-0d3e7f44fbb3",
+          "riotId": "loopy#bibi",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "cdc6e38f-be08-464f-a6ec-dc9cadd07b26",
+      "queue": "competitive",
+      "playedAt": "2026-10-04T14:57:37.88Z",
+      "players": [
+        {
+          "puuid": "6ceb9f46-210c-5d3f-8879-65e32200bf64",
+          "riotId": "天空又下起了雨#YANGG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "020f75b2-4876-52c1-bbd5-0862430ad3b9",
+          "riotId": "nhoc#prime",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "db9dc87d-612f-50f5-ab57-a825772466f8",
+          "riotId": "Lolong The Great#Crocs",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "219fa1bc-22a4-51fb-ae13-a3b504c3f3f1",
+          "riotId": "delbisky#FN1",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c9a7394f-e53e-5315-9b30-0787c40312d6",
+          "riotId": "IlIlIIIII#클레버리",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "19d1ec26-fbe4-5e71-b4e3-61fa98d44720",
+          "riotId": "E b#勿忘我",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4891265f-6515-53c0-a2e1-08c993d14fc4",
+          "riotId": "mochi#ENVY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4a88e123-c779-5c61-9f92-ac9f15d334d2",
+          "riotId": "Saikyo#LFT11",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a6b35c84-52d7-5a04-8d6e-64f5c533d354",
+          "riotId": "私じゃなかったんだね#NotMe",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "a1985d70-6a24-48e2-bbcf-3b7bf7af9032",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T17:13:58.349Z",
+      "players": [
+        {
+          "puuid": "b9a96d99-2d47-523f-9245-7ab44e492543",
+          "riotId": "打人别打坤#1880",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7b5a1121-44b7-5144-9250-55a1af05c7ce",
+          "riotId": "whereismymusic#VIT",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "42124d09-1068-5e36-a9bb-3010a3769057",
+          "riotId": "DLSU Fission#1022",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7ebe98ab-8b9c-5106-9e73-db9dddb50097",
+          "riotId": "LFT ichikaa#2008",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1b4d5ce0-d67a-57a3-80d8-ac9ffe6f29cc",
+          "riotId": "666luckylw#llx",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b5a85608-0992-535c-be69-cb8816badae1",
+          "riotId": "有些乏味#6666",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "49e6044f-1825-5c33-8d42-56c0c2a61b14",
+          "riotId": "소나무#이파리",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "09aa5dce-f326-532e-936b-49a468a52755",
+          "riotId": "Xirao#我是西绕",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "f93ad589-23cb-4ac8-a95c-1c91c7fc0d51",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T16:29:16.46Z",
+      "players": [
+        {
+          "puuid": "8d7d2a05-53c8-55d2-8cc0-69774fc933a9",
+          "riotId": "抖音ivcc#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3c1b2c47-8b71-55f9-a8c3-d7e27f197f5c",
+          "riotId": "深情男孩#0924",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8e1c6c03-b8c8-5d7b-b782-363384d29aec",
+          "riotId": "와와합포#0929",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "30ce57fb-f617-5bcc-965c-4af84d307e70",
+          "riotId": "Out west#XXX",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1634a55b-8d42-5100-9159-9242ca38cf2d",
+          "riotId": "glacier#Ayana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "cb09f7f2-e258-5df4-a859-724caaef9557",
+          "riotId": "symfora#7337",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c296bbff-ed20-56ec-a53b-18491549eceb",
+          "riotId": "NOVA autumn#Sera",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6ab12b42-de06-53e1-b1e0-c25b5120da3b",
+          "riotId": "NOVA swagzor#shnq",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "0238e200-0966-485d-a685-3b0848cc9d1e",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T16:10:37.872Z",
+      "players": [
+        {
+          "puuid": "ee874a40-7a98-5c91-8fdd-bde01c8ac9be",
+          "riotId": "heartbeat#yunni",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f9c8433e-5303-59f0-81f5-09ac471672f2",
+          "riotId": "140#爱yu",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "dbf73d05-53b8-5845-a283-679725288d58",
+          "riotId": "sry#8213",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "21a9fd5b-fcf6-5a36-b359-744a9a79bb1a",
+          "riotId": "Willimauu#1825",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "aae19b2e-d562-507f-9b37-564ef8bed9a8",
+          "riotId": "psychosis player#психо",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e133eeb9-4e51-5a7c-983b-6b70e6daf838",
+          "riotId": "i am b00nrealcul#VNno1",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f1fba809-b3f4-51e2-9aef-1a96a2e6e588",
+          "riotId": "유 튜 브 우 주 조 종 사#1337",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "9ad0e9cd-cf25-4be1-8fde-8bde4b472d71",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T15:54:56.442Z",
+      "players": [
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7e35b39e-5dc3-51fe-b926-daca632703e2",
+          "riotId": "WOL Deryeon#BBMMR",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "30ce57fb-f617-5bcc-965c-4af84d307e70",
+          "riotId": "Out west#XXX",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8e1c6c03-b8c8-5d7b-b782-363384d29aec",
+          "riotId": "와와합포#0929",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "371da646-29b1-5a55-bb9c-3f9a318461e7",
+          "riotId": "Framemaxxing#Wide",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4616c968-1775-5635-8014-d0a7de04cbfe",
+          "riotId": "zhubibi#xxxx",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7979eb47-771c-56e8-8e56-87d22c78d54b",
+          "riotId": "ellish#XGOD",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1634a55b-8d42-5100-9159-9242ca38cf2d",
+          "riotId": "glacier#Ayana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "740b1317-bfa8-5e15-a8e0-46666245124b",
+          "riotId": "Lebron张姆斯#juicy",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "c77fb5ea-62d8-4abf-afec-e7aceb5ba780",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T15:40:52.412Z",
+      "players": [
+        {
+          "puuid": "ae1406f0-d698-563d-b322-0a98e2b9040b",
+          "riotId": "T1 cat#0327",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b14770eb-5325-5281-b7b8-17317c8ddda4",
+          "riotId": "2221005315#666",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "936940bd-6af0-52d1-8011-aa343e758150",
+          "riotId": "EE mo#1234",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "90c8f4cc-d07c-54de-a97a-41d20934ff67",
+          "riotId": "consz999#0124",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e78609dd-dbad-54f1-8e08-2bae51861f09",
+          "riotId": "T1 TenZ#2001",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a0dc3ac2-e4d4-54d2-b43c-9a781106c42d",
+          "riotId": "FLC m0NESY#yongh",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "44c243bd-a969-562a-9123-9d9866b9bc0f",
+          "riotId": "FLC karrigan#yeon",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7b5a1121-44b7-5144-9250-55a1af05c7ce",
+          "riotId": "whereismymusic#VIT",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "131abe65-3b5c-4e39-89aa-78952184cbe2",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T15:22:01.398Z",
+      "players": [
+        {
+          "puuid": "fc371d72-9994-524d-aa88-96337c16c843",
+          "riotId": "Aimer Ray#7777",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4616c968-1775-5635-8014-d0a7de04cbfe",
+          "riotId": "zhubibi#xxxx",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b57161be-c1d5-57e8-89bd-262bf62cd895",
+          "riotId": "FrightingK#75hz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7979eb47-771c-56e8-8e56-87d22c78d54b",
+          "riotId": "ellish#XGOD",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "740b1317-bfa8-5e15-a8e0-46666245124b",
+          "riotId": "Lebron张姆斯#juicy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d7e924a2-1e2e-587d-bbda-25e893ef834f",
+          "riotId": "Kity#SOOP",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "371da646-29b1-5a55-bb9c-3f9a318461e7",
+          "riotId": "Framemaxxing#Wide",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7e35b39e-5dc3-51fe-b926-daca632703e2",
+          "riotId": "WOL Deryeon#BBMMR",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "148ac3d9-cbf2-4092-8888-c9788753da3f",
+      "queue": "competitive",
+      "playedAt": "2026-10-03T06:38:10.184Z",
+      "players": [
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "214510de-fd37-5e4a-af96-410b3327e93e",
+          "riotId": "mondegreen#frght",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2c040bf7-caee-590f-b286-40ade690a87b",
+          "riotId": "GunGom#건곰감리",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "88537ed3-a811-57b8-acb5-1c412756a3df",
+          "riotId": "AURA Aston#100",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0e5ded42-189d-5e25-b94e-081e5f7cec18",
+          "riotId": "zephito#zphr",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "da926767-d1f4-5b40-b862-b351794de65e",
+          "riotId": "TingFengDY#555",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "67c89ca3-4ecf-54a9-8326-79e9cd60512e",
+          "riotId": "SCar#xolve",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "871b8f99-5b34-5fb7-aec3-e5caf18491ab",
+          "riotId": "KYLEE#12111",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f47abe89-15e0-5dd6-8508-2610e72a0ff5",
+          "riotId": "TheShy排位号#马头牛逼",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "87c938de-ba63-4d98-9ffe-30bc6f7fcc64",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T17:10:00.551Z",
+      "players": [
+        {
+          "puuid": "0bd411ee-2603-55cf-a261-a302b03faced",
+          "riotId": "Pigpig#1015",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "36f2ad08-f87e-5f52-96d4-ba4bebbdb70e",
+          "riotId": "FS Leviathan#Bell",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "427ad736-d933-5951-af1d-54280cd62e74",
+          "riotId": "LEV blowz#알곤이다",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "bcb31a19-9438-5997-942d-9d3e54fd0f08",
+          "riotId": "GGA KiTae#1029",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9905b347-6898-594c-b7f1-b2ca79f2715e",
+          "riotId": "ODG Moves#Win",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "57faeb41-328b-54a1-ab53-601bb77d6650",
+          "riotId": "PHANSOM#tana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "53eb22dc-9cdf-588f-a863-f8a4ee8642de",
+          "riotId": "Defectio#001",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "577af2f6-9375-57d1-8726-2c00ea4279a9",
+          "riotId": "紫雨 impavidez#NINA",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "20fb4924-8a39-467b-99c6-b5ec6186e894",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T16:32:21.422Z",
+      "players": [
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f6220c7e-5d33-5925-bf37-2d3181be123d",
+          "riotId": "kioshi#0224",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bc6eac9a-e2ed-5485-a90f-a779f9e90ef1",
+          "riotId": "Pottercarryu#0605",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "233676ea-5217-55c7-bc7b-7452c554400e",
+          "riotId": "No land of Rose#vert",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "fd0b146b-d61d-53e3-a86b-275efec2c719",
+          "riotId": "Hairy#1tap",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "36f2ad08-f87e-5f52-96d4-ba4bebbdb70e",
+          "riotId": "FS Leviathan#Bell",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5e224266-515c-52de-9e04-871c0e930143",
+          "riotId": "MyFirstLove#2001",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "57faeb41-328b-54a1-ab53-601bb77d6650",
+          "riotId": "PHANSOM#tana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "577af2f6-9375-57d1-8726-2c00ea4279a9",
+          "riotId": "紫雨 impavidez#NINA",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "de22d7f6-0256-41d6-9e17-25951c2610db",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T16:12:25.363Z",
+      "players": [
+        {
+          "puuid": "d278becd-390b-5b58-a3d5-b43c5102eeb2",
+          "riotId": "ego#00430",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b41d34e4-2061-56f5-b0d7-443efe408e4a",
+          "riotId": "Rowan Atkinson#mrb",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8f5b7f52-4974-5ca5-a9b6-30c3936a5083",
+          "riotId": "uuuuuuuuuuuuuu#rrr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "327a34e4-7bee-51f4-9a45-e6d4a1323193",
+          "riotId": "foxu#foxz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9ecebde8-d15c-5f2e-98bd-ceff409dd3b3",
+          "riotId": "yetujey#1337",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "46d91f21-d428-540a-a0b3-6ee19385b235",
+          "riotId": "rayy#kresh",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "93fcbb91-1720-528d-8b52-1454c10e2820",
+          "riotId": "misa#1128",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "68a88af7-6e60-52e5-9d49-570ebd985bb9",
+          "riotId": "HOT MAN#HONEY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "624ed285-0638-5f4b-a2b6-30e99d28a0af",
+          "riotId": "Demon1#카피드포",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "c5137272-2194-42cc-8958-070fcf4d4b27",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T15:56:12.304Z",
+      "players": [
+        {
+          "puuid": "36f2ad08-f87e-5f52-96d4-ba4bebbdb70e",
+          "riotId": "FS Leviathan#Bell",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a42931a8-2398-5248-8b39-534811067671",
+          "riotId": "evilzinho#L M",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9f245fd0-1813-546a-be01-08c2145c7dd2",
+          "riotId": "PRX f0rsakeN#bibii",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7c59aabe-68e1-52ad-976e-04742271e300",
+          "riotId": "miracle#若黯夜终临",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "21a9fd5b-fcf6-5a36-b359-744a9a79bb1a",
+          "riotId": "Willimauu#1825",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "15035ac9-4236-5b9a-bea2-430dc6e0efe4",
+          "riotId": "T1 xccurate#1802",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8f77f940-f9a4-5930-8796-3fefadc8b470",
+          "riotId": "AEKN val#1004",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "26b86acd-6803-464a-9c60-05dbff8df9f7",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T15:15:07.064Z",
+      "players": [
+        {
+          "puuid": "0b836a56-d0d3-5de4-a6a7-6488be1ed20a",
+          "riotId": "SeeMyTry#0104",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f24e72d7-0661-5d86-aa93-e7fc4488e1ec",
+          "riotId": "Conor McGregor#Tuff",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "57101dd8-4766-52e9-b560-c024de07ee43",
+          "riotId": "Secret Zeus#ela",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "bd129b73-bdab-5085-8bc1-b840f3100d98",
+          "riotId": "Aurelia aurita#sesh",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "57faeb41-328b-54a1-ab53-601bb77d6650",
+          "riotId": "PHANSOM#tana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "01d460a8-47b9-5f01-879e-88af9fdbf95b",
+          "riotId": "Nyanpire#優しい",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "09aa5dce-f326-532e-936b-49a468a52755",
+          "riotId": "Xirao#我是西绕",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "59026c39-1596-4677-a1ab-3249cba0adbe",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T14:15:58.865Z",
+      "players": [
+        {
+          "puuid": "a92a31d0-8845-50e7-b540-a42a253d29d0",
+          "riotId": "kyros#1TAP",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "78f1835d-03cb-51ca-b500-532072bce23d",
+          "riotId": "Damit2k#cclan",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "664b5c03-c510-5ddb-9ca6-e07da450cd93",
+          "riotId": "HK ADHD Player#ADHD",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f7b938e2-43f1-5f92-9e58-4734af19e663",
+          "riotId": "Day2#에겐남",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7b5a1121-44b7-5144-9250-55a1af05c7ce",
+          "riotId": "whereismymusic#VIT",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "04b4c4d3-06be-54a6-9651-c34f82ef39b9",
+          "riotId": "EDG 世界上最高高高高高高的山#Jieni",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "87ec97e3-9807-55af-9601-909d1806b655",
+          "riotId": "EDGY TakashiUwU#HaLi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "04a69e79-259e-52b9-b55f-941e61f05aec",
+          "riotId": "이은우#AKANE",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "aef1dfd8-9c34-4fbc-87a2-f10fc3313111",
+      "queue": "competitive",
+      "playedAt": "2026-10-02T13:37:47.887Z",
+      "players": [
+        {
+          "puuid": "7a7e80d6-6072-5279-a608-26075b2c8689",
+          "riotId": "Deft#30877",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "87ec97e3-9807-55af-9601-909d1806b655",
+          "riotId": "EDGY TakashiUwU#HaLi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2d6e2dec-dc18-5ef8-85df-5a45c43c6bc8",
+          "riotId": "donk6767#6767",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2da9f0ef-b8d7-59ec-9635-20b710e039c2",
+          "riotId": "HAN JI#X001",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72e90e08-79f3-587e-9468-6c2611a0c438",
+          "riotId": "June 1st#Guran",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "20f46560-06df-580e-80fe-ddae3de0a6a4",
+          "riotId": "Nana#b1ast",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "04b4c4d3-06be-54a6-9651-c34f82ef39b9",
+          "riotId": "EDG 世界上最高高高高高高的山#Jieni",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f973c1df-3bfb-5a08-8f3a-36908cd30e7c",
+          "riotId": "曾许人间第一流#cute",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "2752d4e3-0532-42da-aa23-d2664bf5cb75",
+      "queue": "competitive",
+      "playedAt": "2026-10-01T16:17:27.707Z",
+      "players": [
+        {
+          "puuid": "8f5b7f52-4974-5ca5-a9b6-30c3936a5083",
+          "riotId": "uuuuuuuuuuuuuu#rrr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "168d13fe-efbf-54ec-9d24-1a2825297731",
+          "riotId": "国之重器歼36机长Ben1Ley#帝皇召唤人",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2b7737b5-aae9-5cc8-9e8a-7cc43058302b",
+          "riotId": "EscO#235",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "163593cc-6931-5f72-b839-00af68b9ce6e",
+          "riotId": "殲 saucee#ovv",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ae1406f0-d698-563d-b322-0a98e2b9040b",
+          "riotId": "T1 cat#0327",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1e7f3ad9-e758-5074-941a-fd4056dc3c72",
+          "riotId": "M1n#112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a1ddefbd-9d20-55fd-b4e1-277b520abf5b",
+          "riotId": "CryCryCry#lulu",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1634a55b-8d42-5100-9159-9242ca38cf2d",
+          "riotId": "glacier#Ayana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5e224266-515c-52de-9e04-871c0e930143",
+          "riotId": "MyFirstLove#2001",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "d103cd0a-9583-4800-91ac-82288477d658",
+      "queue": "competitive",
+      "playedAt": "2026-10-01T06:35:19.647Z",
+      "players": [
+        {
+          "puuid": "b7e04d35-b4e1-5de4-995a-206545be8ac4",
+          "riotId": "KRX Haein#V S",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5c3a0e44-a2c8-5d6c-b2bc-97c310619bb1",
+          "riotId": "L  L#3322",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f089e399-e831-5ca0-b639-d23e0f431fe1",
+          "riotId": "iHatetheworld#1203",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d19f45ff-fd12-5c63-9b1e-9e5c8535e7f8",
+          "riotId": "MC3D Funky#nika",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "653ea7f7-e514-5152-846a-c49b519dd57e",
+          "riotId": "Baby Yoda#joo",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "11d446ab-945b-5bfd-b2dc-1f946f82dd57",
+          "riotId": "xkb#owo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "260ffe14-9e47-5ff6-94b6-6951731e8725",
+          "riotId": "owo#50914",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a33fa082-b859-55c4-8f58-df8ddafc5807",
+          "riotId": "MC3D Superkob#1029",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "edaf3887-789f-4938-a3ec-22d0ae1b7dc6",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T17:16:48.158Z",
+      "players": [
+        {
+          "puuid": "5e224266-515c-52de-9e04-871c0e930143",
+          "riotId": "MyFirstLove#2001",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f24e72d7-0661-5d86-aa93-e7fc4488e1ec",
+          "riotId": "Conor McGregor#Tuff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b189a367-aeb4-5989-af05-e283bb6ed9bf",
+          "riotId": "LuoK1ng#0328",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "911f7b7f-5b97-558c-9b89-0f17d1650aaa",
+          "riotId": "ZmjjKK 屹#G不辣",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b3a63117-0548-59e2-a602-60f4275ca074",
+          "riotId": "5Y1H#617",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a59964de-bc47-592c-8e01-83e435887bc5",
+          "riotId": "Dokkei#ryu",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "211bafd0-2696-5277-8c7c-8b6c8b61c2ad",
+          "riotId": "secret player#dddd",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cc1f403d-d997-50fc-8546-7e6d03f47b88",
+          "riotId": "S1Mon#625",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "bd4919dd-8dea-4492-8faf-493501ae9db8",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T16:37:13.414Z",
+      "players": [
+        {
+          "puuid": "465cdf98-e43a-518e-a327-efa6f04ac6ba",
+          "riotId": "Prism#7000",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5e07d76c-d794-52da-9902-4c18f521e415",
+          "riotId": "knight kłlled u#FATE",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "aca8d696-8fb6-5b6c-b05e-f53f260dc462",
+          "riotId": "Kim JENNIE#top",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b189a367-aeb4-5989-af05-e283bb6ed9bf",
+          "riotId": "LuoK1ng#0328",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "12709fc3-4b7c-504c-b9cc-d5067a99aa51",
+          "riotId": "rain#43636",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2710a71a-e4e8-56e4-8751-8a72ddd59f30",
+          "riotId": "Jiee1001#Love婷",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f0da63f5-f230-525f-b8b8-89ee4f40e25b",
+          "riotId": "一碗粥#0508",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b3a63117-0548-59e2-a602-60f4275ca074",
+          "riotId": "5Y1H#617",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "911f7b7f-5b97-558c-9b89-0f17d1650aaa",
+          "riotId": "ZmjjKK 屹#G不辣",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "02d0aacb-5a51-4413-b866-5544f75c55e5",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T16:03:33.769Z",
+      "players": [
+        {
+          "puuid": "49a9967c-c0ae-5a32-b445-63aca4cf1726",
+          "riotId": "Stiles Stilinski#k4t1l",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "28401cd6-6bd5-5019-badb-01ef1a556574",
+          "riotId": "5OKAN#00000",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9f245fd0-1813-546a-be01-08c2145c7dd2",
+          "riotId": "PRX f0rsakeN#bibii",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a8cb38bf-e63d-5660-9983-8b3267fa9cba",
+          "riotId": "GSRGSRGRSGRSGRS#2323",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5827ef24-ca81-56c1-9c6d-19b6965952c4",
+          "riotId": "awkofwao#62363",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ee874a40-7a98-5c91-8fdd-bde01c8ac9be",
+          "riotId": "heartbeat#yunni",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f0da63f5-f230-525f-b8b8-89ee4f40e25b",
+          "riotId": "一碗粥#0508",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bdbb8194-0b31-5d43-b218-adeac24b9f52",
+          "riotId": "trexx#wrld",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f9c8433e-5303-59f0-81f5-09ac471672f2",
+          "riotId": "140#爱yu",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "cf4e0ebf-f800-451c-a9bb-eb80c53c4251",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T15:19:43.48Z",
+      "players": [
+        {
+          "puuid": "4c7a6312-8720-57ff-8637-b2871563224c",
+          "riotId": "T1 Ruby#0923",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a42931a8-2398-5248-8b39-534811067671",
+          "riotId": "evilzinho#L M",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b2e1dd05-9c92-5027-9f61-fc1a5c324eb3",
+          "riotId": "G2 BABYBAY#SMEAG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "36f2ad08-f87e-5f52-96d4-ba4bebbdb70e",
+          "riotId": "FS Leviathan#Bell",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62c3f894-f1b4-54ea-8b79-d788674a09bc",
+          "riotId": "G2 valyn#B2TB",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7b8e57ae-385b-50b0-81e0-31e43fae7452",
+          "riotId": "废物不配选择#Link7",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "fb35f274-1914-5689-ab78-71ac7e5e8076",
+          "riotId": "うちは サスケ#Stone",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2feab5c1-ad3e-5d47-aec3-1d725212f18c",
+          "riotId": "PulsarBuZz Mouse#BUYIT",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "faba37a7-203d-4e85-ba07-1e3e5a2de652",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T14:42:27.696Z",
+      "players": [
+        {
+          "puuid": "4e3837c6-dacc-59e3-8c8d-538fe3fe70e8",
+          "riotId": "ANNA#9386",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "183a65a9-56cb-563d-9761-95a41a7e8d0b",
+          "riotId": "Kitsch#moku",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "aac217b9-5219-5093-a78d-6d2fcb299719",
+          "riotId": "zixing#OvO",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62c3f894-f1b4-54ea-8b79-d788674a09bc",
+          "riotId": "G2 valyn#B2TB",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c0331a2e-26ce-5c30-9086-c6ebc837a76b",
+          "riotId": "伊莉雅斯菲尔 冯 爱因兹贝伦#JDG",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "da757ab6-00a2-5535-8446-4477ac802310",
+          "riotId": "FS Crws#ssss",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8993ce97-9559-5cf7-903b-35b0adc79d3e",
+          "riotId": "Gu1lt#0210",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b2e1dd05-9c92-5027-9f61-fc1a5c324eb3",
+          "riotId": "G2 BABYBAY#SMEAG",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "00b01706-b209-4c39-b894-a3a2752db7b3",
+      "queue": "competitive",
+      "playedAt": "2026-09-28T13:56:14.424Z",
+      "players": [
+        {
+          "puuid": "6d91b2a7-91a0-5deb-b8ab-5dace19ffc6f",
+          "riotId": "Rico#moris",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5306e258-2199-521d-830a-6d37d7c15d32",
+          "riotId": "babyblue 吟#aiLHY",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2d909c09-a6de-5338-aa2c-27c826d38a44",
+          "riotId": "Freeman#TYLOO",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8993ce97-9559-5cf7-903b-35b0adc79d3e",
+          "riotId": "Gu1lt#0210",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bc15385d-e010-5528-9c0d-a3a61793102a",
+          "riotId": "bobbert#15123",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8789814a-3843-594b-8d20-a5cf8d1100f3",
+          "riotId": "JAWGEMO#MANGO",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62277327-f7d9-5f38-9ddf-f35176c13bb5",
+          "riotId": "arbok#otot",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b39ee7ce-4b75-53f4-91b8-9d138ca33942",
+          "riotId": "ilya eugene#1111",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "75d9ba7f-55f8-4071-afc8-5df8e205118b",
+      "queue": "competitive",
+      "playedAt": "2026-09-27T16:22:27.826Z",
+      "players": [
+        {
+          "puuid": "b7e04d35-b4e1-5de4-995a-206545be8ac4",
+          "riotId": "KRX Haein#V S",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6ef998b1-4278-5e63-9ce6-699c741faa58",
+          "riotId": "手心的蔷薇刺伤而不自觉#youze",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "73aa99fb-21c8-575e-8b90-b71f2663ad4a",
+          "riotId": "如果再看你一眼 是否还会有感觉#Jun14",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "66f810bc-f4d9-5745-9901-9ae9ce07eee4",
+          "riotId": "Justakiaway#1043",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "bca59277-8e3a-5a7c-b67e-c6237a71d8e8",
+          "riotId": "我努力假装现在过的很好#TuT",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "15035ac9-4236-5b9a-bea2-430dc6e0efe4",
+          "riotId": "T1 xccurate#1802",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6e26f704-b21c-5845-b984-41f9ac57a76f",
+          "riotId": "0iqshooter#occ",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "fc887e6e-a5f1-507c-99d8-8527e0274b6b",
+          "riotId": "annyeon kłlled u#FATE",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a9a678d4-3da4-5a16-a71f-8cb36586625e",
+          "riotId": "sanye#ovo",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "fc8d2b35-7d37-487a-b568-789125bbe9ae",
+      "queue": "competitive",
+      "playedAt": "2026-09-27T16:05:03.52Z",
+      "players": [
+        {
+          "puuid": "9dc0d418-79a2-5bff-9e21-5fa06b1cd220",
+          "riotId": "抖音 小u郁#030",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3979877a-4850-556e-9cfe-4cf3f9198632",
+          "riotId": "遥远鸡的哥吧微小#0十1",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "09aa5dce-f326-532e-936b-49a468a52755",
+          "riotId": "Xirao#我是西绕",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d8b514b5-7e54-521e-b018-7797fca5749d",
+          "riotId": "T1 Impact#1111",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c59d4179-8bf8-5536-864f-00af9767d29e",
+          "riotId": "sentiment#xinx",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "70b45b2a-8512-544f-bc4f-43d25dffad8c",
+          "riotId": "3185#whyz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0b836a56-d0d3-5de4-a6a7-6488be1ed20a",
+          "riotId": "SeeMyTry#0104",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ff17c036-9226-5d29-abbd-e33d449340a4",
+          "riotId": "YERIM#miNt",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a93b2d4c-74bb-5c9e-ab72-96be50ca126e",
+          "riotId": "主请祢让他对天微笑感受祢的仁慈#mGw",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "f5d9f88d-d6c1-4ade-b8b1-a122eea894af",
+      "queue": "competitive",
+      "playedAt": "2026-09-27T15:53:25.655Z",
+      "players": [
+        {
+          "puuid": "78f1835d-03cb-51ca-b500-532072bce23d",
+          "riotId": "Damit2k#cclan",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1034f603-ccd7-5202-9873-8ddef6483a14",
+          "riotId": "FANCY bucute#lynh1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "68ca0742-8d16-5bb9-b437-0531a597ef60",
+          "riotId": "桃大好き#jakal",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "29572377-6291-5d76-bfef-ab90218e23e4",
+          "riotId": "crazyguy#nunca",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f85a52c6-df1c-5b9c-8c56-44400f85587a",
+          "riotId": "Kiss Me Right#uuu",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e9a7163d-5683-5ba7-978e-9c757c51483c",
+          "riotId": "Toyota GR Supra#A90",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "51ed1c98-d40b-5878-99aa-d871225d3018",
+          "riotId": "GGA seungho#aimer",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3a968d91-043d-5212-9961-0880f4daf724",
+          "riotId": "aspas#naxy0",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "740b1317-bfa8-5e15-a8e0-46666245124b",
+          "riotId": "Lebron张姆斯#juicy",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "4c2e2387-faed-47dc-a945-1775e7ad24cf",
+      "queue": "competitive",
+      "playedAt": "2026-09-27T15:08:02.47Z",
+      "players": [
+        {
+          "puuid": "3d26aae7-d695-5f68-af8c-497a1aa4cc3c",
+          "riotId": "LuX#BIBI",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b3a63117-0548-59e2-a602-60f4275ca074",
+          "riotId": "5Y1H#617",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a4747207-3f95-576c-aaad-8249c7f5db20",
+          "riotId": "Я видел драконов#LFT",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8b99d6db-ca5b-526a-b3fe-e000f1e8c56b",
+          "riotId": "EDGskyRa1n#yshen",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d99fab9c-84f6-5f93-9e8b-26c7ba454554",
+          "riotId": "Bensy#IGL",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4311c44a-ea00-56d8-bc4b-8b31f0a9fa72",
+          "riotId": "AG iamgrq#riki",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "27e6b452-f00f-50be-82fd-6e35629c1b72",
+          "riotId": "AG L#K1ra",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2558115e-257e-5c35-94dd-e811d66f4cf7",
+          "riotId": "Ran#1026",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "12473af2-aeac-5494-96fe-b16c60336d8f",
+          "riotId": "Miyamoto Musashi#mind",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "b1aea113-a16b-4ca0-9e95-ed8659ce01b0",
+      "queue": "competitive",
+      "playedAt": "2026-09-26T15:07:12.744Z",
+      "players": [
+        {
+          "puuid": "7664cfb2-731d-5d43-8bc9-d6e34ef3e5db",
+          "riotId": "derp#2008",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6bfaebdd-b2e1-5cd6-bbc7-af5e39c8b58c",
+          "riotId": "水無月MINAZUKI#Aykuz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5b4a5dba-ba25-55d1-9c02-59dd41a9fe75",
+          "riotId": "JDG Yuicaw#220",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "89b67c87-81d3-507a-a579-917c11276a95",
+          "riotId": "Knight#awa",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "fc4dc290-d912-5e30-8584-6973b8467d3b",
+          "riotId": "Bishop#はなぞの",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "22345ab0-8e96-5a79-8853-3333831b74ab",
+          "riotId": "K0mIn#0320",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7e35b39e-5dc3-51fe-b926-daca632703e2",
+          "riotId": "WOL Deryeon#BBMMR",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "39036584-1d3e-5053-bf83-c513a8845529",
+          "riotId": "XLG happywei#yst",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "867334ed-a586-54dc-b8a0-e2709cf4b3c0",
+          "riotId": "Ustinian#55555",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "19d4a3f2-af2b-40a2-b5a2-b2cdcbe4d6d3",
+      "queue": "competitive",
+      "playedAt": "2026-09-26T13:34:44.619Z",
+      "players": [
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3746494b-ae04-588e-97c0-8dfad82056c7",
+          "riotId": "GEN Karon#115",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f089e399-e831-5ca0-b639-d23e0f431fe1",
+          "riotId": "iHatetheworld#1203",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "71d6dca5-0e5d-583c-9555-49d522bd149f",
+          "riotId": "T1 Joshua#2006",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "af279bbd-908a-55be-95eb-db6921e53fb7",
+          "riotId": "beabadoobeefan#domii",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "383c20cd-280e-5778-a3b6-64228158b73d",
+          "riotId": "Deadmanwalking#clid",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7f4f89cf-d43c-5fba-bc97-3f2cfc49e64a",
+          "riotId": "青莲剑尊#李谪仙",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a42931a8-2398-5248-8b39-534811067671",
+          "riotId": "evilzinho#L M",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "1f113f30-cc46-4cf2-8f29-70c010eefbe7",
+      "queue": "competitive",
+      "playedAt": "2026-09-26T13:05:08.761Z",
+      "players": [
+        {
+          "puuid": "0cd981ac-9b7e-543a-9e66-cab5dbe8cbb2",
+          "riotId": "DLSU Santos#0318",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "af279bbd-908a-55be-95eb-db6921e53fb7",
+          "riotId": "beabadoobeefan#domii",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "91499388-5b30-5a9a-920e-9a34471ef02e",
+          "riotId": "JADE 2GEMONSTA#BELLA",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "58173881-4e4a-57ae-b381-55c54415c54f",
+          "riotId": "SULASOK FUN#PINAY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "56747dfb-e260-570e-a1b6-84af1832c542",
+          "riotId": "ZX Chuchu#bangg",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "383c20cd-280e-5778-a3b6-64228158b73d",
+          "riotId": "Deadmanwalking#clid",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a42931a8-2398-5248-8b39-534811067671",
+          "riotId": "evilzinho#L M",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "c657caad-1484-4cb9-85da-2f4ade2e737b",
+      "queue": "competitive",
+      "playedAt": "2026-09-26T12:17:33.906Z",
+      "players": [
+        {
+          "puuid": "f3bf16b2-36a1-57ae-ad54-b6710681eea1",
+          "riotId": "SCARZ Kellan#2009",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "af279bbd-908a-55be-95eb-db6921e53fb7",
+          "riotId": "beabadoobeefan#domii",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "3b8f112c-c433-587f-8782-0369b2e802e8",
+          "riotId": "T1A PeGasus#0912",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a4747207-3f95-576c-aaad-8249c7f5db20",
+          "riotId": "Я видел драконов#LFT",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5b38e13f-c6aa-5e83-8811-d50468d0d60f",
+          "riotId": "wezzy#skrr",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c4315168-ad82-5501-b677-c0429a6d170e",
+          "riotId": "Layla#2701",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7e9bc1a3-eeb8-59dc-ac40-a8436a69f6fa",
+          "riotId": "Neyn#007",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "56747dfb-e260-570e-a1b6-84af1832c542",
+          "riotId": "ZX Chuchu#bangg",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "383c20cd-280e-5778-a3b6-64228158b73d",
+          "riotId": "Deadmanwalking#clid",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "2baafe7c-adde-4602-9ed4-d64a4d9f3753",
+      "queue": "competitive",
+      "playedAt": "2026-09-26T06:06:37.2Z",
+      "players": [
+        {
+          "puuid": "875d4ffc-21b2-55ff-8603-65bbf1d16f29",
+          "riotId": "LOUD Bati#shark",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "947cb62c-8d57-5ddd-9fa0-03f553f204f9",
+          "riotId": "ImHZBY#aly",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a32dd92a-4414-5c49-a3ec-4b9808b0a7c1",
+          "riotId": "序言y#0406",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2a879e06-1016-5951-8469-35a3c5ea69b8",
+          "riotId": "1q2w3e4r#val",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9905b347-6898-594c-b7f1-b2ca79f2715e",
+          "riotId": "ODG Moves#Win",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "61f455a3-80a4-5641-87e6-e6d400dffb97",
+          "riotId": "luk xo#gii",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "abaeb7de-de0b-5914-a4bc-f4b244cef033",
+          "riotId": "ddddddddddd#DaFt",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "defb013b-7fd7-59e3-9010-7d9ab6ff1f4f",
+          "riotId": "Solid WAYNE#INF",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "a6057dbc-0586-4786-b853-951da15bf59b",
+      "queue": "competitive",
+      "playedAt": "2026-09-23T14:42:55.391Z",
+      "players": [
+        {
+          "puuid": "2558115e-257e-5c35-94dd-e811d66f4cf7",
+          "riotId": "Ran#1026",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c8427f7c-3620-5c35-9d01-33505b39086f",
+          "riotId": "WysteD#xyz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a9759bf5-c1f6-5ffe-90d9-9c54bc54e272",
+          "riotId": "너는나를존중해야한다나는발롱도르#개인트로피",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "49a9967c-c0ae-5a32-b445-63aca4cf1726",
+          "riotId": "Stiles Stilinski#k4t1l",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "28401cd6-6bd5-5019-badb-01ef1a556574",
+          "riotId": "5OKAN#00000",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ebadc1b0-fce0-5f90-8b55-a24af30f3cd1",
+          "riotId": "NU Dalit#Chi",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "11d446ab-945b-5bfd-b2dc-1f946f82dd57",
+          "riotId": "xkb#owo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ebd6d5ab-e851-5808-8c81-711ed4244b24",
+          "riotId": "zale#lnz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62c3f894-f1b4-54ea-8b79-d788674a09bc",
+          "riotId": "G2 valyn#B2TB",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "fad8e79c-6823-4c5a-94b2-5ab37a75aa2f",
+      "queue": "competitive",
+      "playedAt": "2026-09-23T14:11:31.959Z",
+      "players": [
+        {
+          "puuid": "9ecebde8-d15c-5f2e-98bd-ceff409dd3b3",
+          "riotId": "yetujey#1337",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "03c2a8be-ae1f-518e-aa45-7635d5af0ab8",
+          "riotId": "yamazaki#00022",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c084a066-6104-580f-ac5d-ef428d6ff36e",
+          "riotId": "안성우#1234",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "48763408-27d8-56b8-984a-56fae7518d9e",
+          "riotId": "류호금#0421",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "edd85006-41c1-5e74-82b1-29be6bade69f",
+          "riotId": "skububu#sku",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "13727f06-0106-5460-9791-2661dc61ac8c",
+          "riotId": "grumble#1111",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bcb31a19-9438-5997-942d-9d3e54fd0f08",
+          "riotId": "GGA KiTae#1029",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1c0ea951-7887-59ab-9a8b-1e480ea1769b",
+          "riotId": "shu kłlled you#FATE",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a1d5b87c-9893-5dda-9a69-bbae8338ef14",
+          "riotId": "挾飛仙以遨遊抱明月而長終#moon",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "a8b1fede-4887-41f0-9345-6bddb0eea233",
+      "queue": "competitive",
+      "playedAt": "2026-09-23T14:07:56.77Z",
+      "players": [
+        {
+          "puuid": "d3cdfef4-a2f8-5c4d-84f4-7683bf3f4a29",
+          "riotId": "IveeeenH#0227",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2558115e-257e-5c35-94dd-e811d66f4cf7",
+          "riotId": "Ran#1026",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "419405ea-a6b7-5676-a352-9334640279dc",
+          "riotId": "BaekBao#1111",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8be0a806-166d-540c-b659-c53f03f50292",
+          "riotId": "Destiny#정해진운명",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "49a9967c-c0ae-5a32-b445-63aca4cf1726",
+          "riotId": "Stiles Stilinski#k4t1l",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "28401cd6-6bd5-5019-badb-01ef1a556574",
+          "riotId": "5OKAN#00000",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "35ac3116-f752-5381-9f2a-226377c84c81",
+          "riotId": "PGS Cream#sushi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c8427f7c-3620-5c35-9d01-33505b39086f",
+          "riotId": "WysteD#xyz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7c36238a-2a3d-5b65-9869-b40f845f1114",
+          "riotId": "Kiddo Jay#goat",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "67f54756-9ac7-4c92-96ea-09c1a76651aa",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T15:42:56.091Z",
+      "players": [
+        {
+          "puuid": "f25bb843-3086-55e2-87b7-6e9636a359f6",
+          "riotId": "EMEAVCTAsia0001#KC1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "11cbea24-b6c1-5b39-82ac-1f1bf22293ff",
+          "riotId": "好风凭借力#2007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8c50e020-cf08-56de-9fff-04fa6cfca8b2",
+          "riotId": "LFT Suka#Nana",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a52dd0b0-0f90-5112-9d73-2253e44eeb82",
+          "riotId": "TYLOO Pr0digy#taduy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "458a6ad9-5a2e-5523-af91-598050036298",
+          "riotId": "JADE Mojer#0614",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "983bb680-53a6-5d73-b756-4a4aaf584a94",
+          "riotId": "Yukxx#1 DAY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c670f281-f63c-52f4-a7e2-a4a3c7d7c7db",
+          "riotId": "WSIG M1ng929#2007",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "aedd62f1-e87b-4dc8-9a20-86d2e6b63c4d",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T15:08:56.986Z",
+      "players": [
+        {
+          "puuid": "6ceb9f46-210c-5d3f-8879-65e32200bf64",
+          "riotId": "天空又下起了雨#YANGG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8a1cf71c-08fa-57b1-9963-bbd875b847bf",
+          "riotId": "Benjamin Engel#Van",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6e2c8ee0-b053-500a-93a1-42a8bf8033bc",
+          "riotId": "买你片刻情#dd6",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c670f281-f63c-52f4-a7e2-a4a3c7d7c7db",
+          "riotId": "WSIG M1ng929#2007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f25bb843-3086-55e2-87b7-6e9636a359f6",
+          "riotId": "EMEAVCTAsia0001#KC1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "73aa99fb-21c8-575e-8b90-b71f2663ad4a",
+          "riotId": "如果再看你一眼 是否还会有感觉#Jun14",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "11cbea24-b6c1-5b39-82ac-1f1bf22293ff",
+          "riotId": "好风凭借力#2007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "65d07f15-32ec-4e18-bc24-c214dfe61ea7",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T14:34:37.349Z",
+      "players": [
+        {
+          "puuid": "3bdc7d96-5d64-5806-961c-f200a8793664",
+          "riotId": "Feeling#1126",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "09aa5dce-f326-532e-936b-49a468a52755",
+          "riotId": "Xirao#我是西绕",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1fcf626d-bcc8-564c-bcd7-27b4b81cc465",
+          "riotId": "NYsleeptight#泪涔涔",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "be7fa7c8-aec4-510d-a75d-2589fb4d0086",
+          "riotId": "MyAffection#xoxo",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7c6e9c08-9a4f-5b1a-8f57-7679e0b19256",
+          "riotId": "Raph q t#eisly",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "954ff42d-d3c8-5c96-b022-d312b467a3b9",
+          "riotId": "not rank player#dest1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e48bf63d-ca3b-5f81-9200-5bbf565cbfd9",
+          "riotId": "Death01#qy123",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "85f10ed7-24bf-564a-bb39-f4d7e9bd4d0c",
+          "riotId": "eyescream#zeros",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8b5611c3-c685-51b3-9ba1-6a3028b2bbfe",
+          "riotId": "Wynlorn#9999",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "f9c0b4d5-5d23-4b81-942e-1b83a305d692",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T14:33:28.535Z",
+      "players": [
+        {
+          "puuid": "9ecebde8-d15c-5f2e-98bd-ceff409dd3b3",
+          "riotId": "yetujey#1337",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "28401cd6-6bd5-5019-badb-01ef1a556574",
+          "riotId": "5OKAN#00000",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2feab5c1-ad3e-5d47-aec3-1d725212f18c",
+          "riotId": "PulsarBuZz Mouse#BUYIT",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "71d6dca5-0e5d-583c-9555-49d522bd149f",
+          "riotId": "T1 Joshua#2006",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "78745e7f-4b89-5dfb-8303-e8bf9f0af68d",
+          "riotId": "Silly baby#05egg",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "711599bf-52b8-5aef-b344-ed41bdf2c5ba",
+          "riotId": "米拉玛大陆最后の98K狙神#6868",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "962d1239-24ab-563a-9877-ab2e26616bca",
+          "riotId": "想跟你躺在院子摇椅上聊天#0731",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f25bb843-3086-55e2-87b7-6e9636a359f6",
+          "riotId": "EMEAVCTAsia0001#KC1",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "d6cb0d4e-db7f-48ba-ad3e-f6673323d5a0",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T14:03:53.258Z",
+      "players": [
+        {
+          "puuid": "be7fa7c8-aec4-510d-a75d-2589fb4d0086",
+          "riotId": "MyAffection#xoxo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "09aa5dce-f326-532e-936b-49a468a52755",
+          "riotId": "Xirao#我是西绕",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "954ff42d-d3c8-5c96-b022-d312b467a3b9",
+          "riotId": "not rank player#dest1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "754cfd34-6255-5d9f-83ca-aae20826b333",
+          "riotId": "أن يثق#أنا",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8b5611c3-c685-51b3-9ba1-6a3028b2bbfe",
+          "riotId": "Wynlorn#9999",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "84064370-a86e-530b-b3ab-49f53ac828b0",
+          "riotId": "SakuraMoon#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bd94557e-f540-5d18-8b39-9df2b51d1102",
+          "riotId": "抖瓦第一颜TryTryz#0104",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "828e9bae-e1b8-541b-942b-64e40682f184",
+          "riotId": "mbmbmbmbmbmbmb#1231",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "92357d67-ebf7-579e-b5c1-fa2ae34a6a34",
+          "riotId": "xRan#东北人",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "dc5f3b82-1383-4fc3-a9bd-c37f97fdacdd",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T13:30:23.878Z",
+      "players": [
+        {
+          "puuid": "ca611128-b4d6-59f3-ad43-6e141448b305",
+          "riotId": "WBG Razziss#starr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8b5611c3-c685-51b3-9ba1-6a3028b2bbfe",
+          "riotId": "Wynlorn#9999",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "be7fa7c8-aec4-510d-a75d-2589fb4d0086",
+          "riotId": "MyAffection#xoxo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "fad16827-6ac2-5c75-89a7-5198a9ca4413",
+          "riotId": "神手中最锋利の剑#CXL",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3387ad8c-89e7-5bf5-97e8-5fcd4d979549",
+          "riotId": "OG Anubatayo#wanzy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ad287d4f-802a-57ee-8d83-45697134f6e1",
+          "riotId": "冰冰的杀手#0826",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "37473639-44a1-554d-89c7-524abd3cf033",
+          "riotId": "OG 16Chops#2005",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "993179ba-9447-5339-bb2b-4e05e5006b8c",
+          "riotId": "抖音大鼻子狗#1028",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6bc374d1-0c0b-5f7e-b8d6-486fadbabfa8",
+          "riotId": "荒木飛吕彥#0414",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "391bf2f7-e460-4976-ad68-32abc36ef947",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T13:12:05.642Z",
+      "players": [
+        {
+          "puuid": "3b9e968c-745b-55fb-af28-175454babb97",
+          "riotId": "afterRain#然后雨",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e09b11d9-80e8-5f33-b9c4-570bc2a20b37",
+          "riotId": "Gattouz0#kolab",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c222cd4e-7280-5d4d-a508-96decb15675a",
+          "riotId": "Falcons NiKo#nik0k",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "219c9458-a324-5f5e-b24a-7a3474d14502",
+          "riotId": "손예진#사랑해",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8496356a-05cd-5fb9-b9f9-d7836b176631",
+          "riotId": "奇怪怪怪怪怪怪怪怪#6666",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "711599bf-52b8-5aef-b344-ed41bdf2c5ba",
+          "riotId": "米拉玛大陆最后の98K狙神#6868",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ad48ca2d-6398-58f9-b253-a95eff8cb170",
+          "riotId": "SirAlexius#Rong",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "56747dfb-e260-570e-a1b6-84af1832c542",
+          "riotId": "ZX Chuchu#bangg",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "20b4362f-a015-4e33-aa81-081fc53a4b60",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T13:02:21.846Z",
+      "players": [
+        {
+          "puuid": "6210e11f-13ef-539e-aa4e-1a5bb651bee5",
+          "riotId": "最终兵器程肖宇#笨 奶",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "45540814-476c-5e99-81ac-0ddb5f811446",
+          "riotId": "焚天地狱深渊至尊海豹神#Only9",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "993179ba-9447-5339-bb2b-4e05e5006b8c",
+          "riotId": "抖音大鼻子狗#1028",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6bc374d1-0c0b-5f7e-b8d6-486fadbabfa8",
+          "riotId": "荒木飛吕彥#0414",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5306e258-2199-521d-830a-6d37d7c15d32",
+          "riotId": "babyblue 吟#aiLHY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "95b6835d-875b-561b-a56b-ebd214e61de9",
+          "riotId": "KikiFoly#wsq",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ca611128-b4d6-59f3-ad43-6e141448b305",
+          "riotId": "WBG Razziss#starr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "87ec97e3-9807-55af-9601-909d1806b655",
+          "riotId": "EDGY TakashiUwU#HaLi",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5da2d712-98c6-5e4d-9b49-86c4e1788cf8",
+          "riotId": "First in Asia#新世界",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "f586401c-ff64-4527-9669-45ab5e5e13ed",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T12:34:24.625Z",
+      "players": [
+        {
+          "puuid": "e09b11d9-80e8-5f33-b9c4-570bc2a20b37",
+          "riotId": "Gattouz0#kolab",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9d218dc7-6561-5fe9-a9c6-c581b30aba67",
+          "riotId": "TE yuz#TEAC",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bcb31a19-9438-5997-942d-9d3e54fd0f08",
+          "riotId": "GGA KiTae#1029",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a234a0b6-ef17-54ff-9c4f-5651f0432bb4",
+          "riotId": "Fric#1007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7a896b7a-300b-500c-8556-b1fd045788cd",
+          "riotId": "Tsukuyomi#D4C",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "7e4b40a8-42b5-56b6-997f-2938f2ea3bae",
+          "riotId": "Cyan#LFT08",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "eb1fca62-0acc-566f-8ee8-012f54e7c72e",
+          "riotId": "重拳出击鸭#monk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1fed8235-f51c-5c31-a96d-81587b4fa2a0",
+          "riotId": "TE zilver#TEAC",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b235b76d-fe84-502b-bdcb-1e31bfdc2157",
+          "riotId": "FreshAllen#4KMG",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "dee7d4a7-4eeb-4efe-b853-0a5f1aec97c6",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T12:26:12.68Z",
+      "players": [
+        {
+          "puuid": "e2440bfc-3c1f-5d95-b0d4-fe5444f732c2",
+          "riotId": "Maybe not today#Ezeir",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0ca64392-1f76-5dee-af67-3e6596a021bc",
+          "riotId": "DFM LuckyOVO#ラッキー",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a9a678d4-3da4-5a16-a71f-8cb36586625e",
+          "riotId": "sanye#ovo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "92f72165-bcc9-5c72-8c52-98b7a608fe76",
+          "riotId": "Jinboong#eeee",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "993179ba-9447-5339-bb2b-4e05e5006b8c",
+          "riotId": "抖音大鼻子狗#1028",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6bc374d1-0c0b-5f7e-b8d6-486fadbabfa8",
+          "riotId": "荒木飛吕彥#0414",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5ca9e0f6-6e4b-5a25-b901-7a34edf419d3",
+          "riotId": "madelyn#1010",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "eb76fbae-6312-5487-97ae-3bad5359bba5",
+          "riotId": "mindfreak#777",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "260ffe14-9e47-5ff6-94b6-6951731e8725",
+          "riotId": "owo#50914",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "74451976-7387-40ef-9062-a858a6daf1c9",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T11:51:54.133Z",
+      "players": [
+        {
+          "puuid": "e013a1fe-b201-55b7-9eb4-d7da7bc1c174",
+          "riotId": "Light Switch#Lumen",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f89a0709-80c7-59ff-91f6-e7d53af2666d",
+          "riotId": "FLC m0NESY#gh8",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2da9f0ef-b8d7-59ec-9635-20b710e039c2",
+          "riotId": "HAN JI#X001",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a59c38df-7117-5a3a-b03d-af334be64b33",
+          "riotId": "賜我一把斬斷過去的劍#love",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5ca9e0f6-6e4b-5a25-b901-7a34edf419d3",
+          "riotId": "madelyn#1010",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ef280245-0e1f-5e0f-83d2-d48dae1f5301",
+          "riotId": "忍不住化身一条固执的鱼#xiaoy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "eb76fbae-6312-5487-97ae-3bad5359bba5",
+          "riotId": "mindfreak#777",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5da2d712-98c6-5e4d-9b49-86c4e1788cf8",
+          "riotId": "First in Asia#新世界",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "513f0336-164c-5a3a-b6e8-abc5325b2903",
+          "riotId": "점보드래곤#1234",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "710bc99e-c318-4681-abd7-6c9dba939ff8",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T11:47:47.182Z",
+      "players": [
+        {
+          "puuid": "e2440bfc-3c1f-5d95-b0d4-fe5444f732c2",
+          "riotId": "Maybe not today#Ezeir",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e7a7863a-b499-5fa5-84ee-958f8369c7aa",
+          "riotId": "EG demon1#1202",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4ffd3d5f-50fb-59a2-a9e4-3e1de0a66b88",
+          "riotId": "finalboss lyra#2009",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2710d7fc-f9de-548d-bf02-a334563f733e",
+          "riotId": "王唯楚#2006",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "36b9752b-2dfb-57a8-b653-d4e5f60c44af",
+          "riotId": "Nbs#013",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0ca64392-1f76-5dee-af67-3e6596a021bc",
+          "riotId": "DFM LuckyOVO#ラッキー",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d7c71239-c0a0-5a1f-acb2-abe314e9c3d7",
+          "riotId": "HTG Jerry#0313",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c5651b23-37dd-58a1-b0aa-7513b927baa7",
+          "riotId": "jiha#lft",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "7c6120af-2474-4eee-a1d6-cfbe078d892f",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T11:16:42.199Z",
+      "players": [
+        {
+          "puuid": "34f87d1b-e0d0-5e57-9f34-da88c84b6e5a",
+          "riotId": "uume#nono",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2997c37c-a24a-5bb3-972d-bb67eafa6044",
+          "riotId": "yanwei#yyyy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e7f86f8e-7057-573f-97bd-40e52a91f56a",
+          "riotId": "zhen#zzzz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "36b9752b-2dfb-57a8-b653-d4e5f60c44af",
+          "riotId": "Nbs#013",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "dd8a5f8e-1d30-51c4-b635-e8f183db7814",
+          "riotId": "Martini#chris",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5ca9e0f6-6e4b-5a25-b901-7a34edf419d3",
+          "riotId": "madelyn#1010",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "eb76fbae-6312-5487-97ae-3bad5359bba5",
+          "riotId": "mindfreak#777",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "2fd40d9e-85a6-488e-9675-9e113c60abad",
+      "queue": "competitive",
+      "playedAt": "2026-09-22T10:45:00.803Z",
+      "players": [
+        {
+          "puuid": "2da9f0ef-b8d7-59ec-9635-20b710e039c2",
+          "riotId": "HAN JI#X001",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9083e1d1-9278-532a-9268-599246b93673",
+          "riotId": "爱上一个人眼睛不会说谎#yuy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "513f0336-164c-5a3a-b6e8-abc5325b2903",
+          "riotId": "점보드래곤#1234",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3afcf488-3804-591a-9d11-cd14325fe662",
+          "riotId": "Fishweet#ovo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2997c37c-a24a-5bb3-972d-bb67eafa6044",
+          "riotId": "yanwei#yyyy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e7f86f8e-7057-573f-97bd-40e52a91f56a",
+          "riotId": "zhen#zzzz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6bac79d2-e07e-587b-8ffe-b9712a59e82b",
+          "riotId": "骂我算调情#OwO",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "13ea6801-58d1-4fa6-8d36-4d7376cf9395",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T14:35:43.892Z",
+      "players": [
+        {
+          "puuid": "f2b9aef5-e63d-5eeb-a477-a8f85dd1fa51",
+          "riotId": "PaTr1ck#뚱인데요",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "123786a5-ee33-5101-a9ec-5f37e8f8805a",
+          "riotId": "qvqvqvq#qvq",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5e36ee7d-8e53-5e40-9a4d-3ce4e417c34e",
+          "riotId": "XSET Cryo#TipSy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d7c71239-c0a0-5a1f-acb2-abe314e9c3d7",
+          "riotId": "HTG Jerry#0313",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2710d7fc-f9de-548d-bf02-a334563f733e",
+          "riotId": "王唯楚#2006",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6ae7676f-ed53-5181-a3ee-a5a664624049",
+          "riotId": "Cangshu#DRG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0ef49a50-9126-5c3f-8572-9aa90115e600",
+          "riotId": "CF veteran#10ys",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b0ce8c3c-c5b3-5466-a757-2247622ebeae",
+          "riotId": "Minji 김민지#银河银河",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "852ebfde-e8c2-541d-a6d2-f69f5144560d",
+          "riotId": "BanaSorc#A T",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "7fab4dc0-c188-41be-a37d-9959016c978f",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T13:56:50.096Z",
+      "players": [
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "470bfb11-7114-50d5-af8c-da08cf6adc2f",
+          "riotId": "Autumn Leaves#1015",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e2440bfc-3c1f-5d95-b0d4-fe5444f732c2",
+          "riotId": "Maybe not today#Ezeir",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1f2044fd-a24d-5235-9253-1b7daea9328a",
+          "riotId": "陈君铭无敌龙神飞天唯我独尊#陪龙蛋许愿",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ad9b966a-47ec-5253-9626-ccdcb0a5c637",
+          "riotId": "Pingdol#9119",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2e6fe4ba-5903-5376-9025-3f78367e6e8f",
+          "riotId": "lp killed you#fate",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f85092b-a93e-5763-b7a0-9f2e73c394dc",
+          "riotId": "神的右手#chill",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "43da4d25-914f-5c96-b585-e014f0b6e493",
+          "riotId": "Buddy#0422",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0a8418c5-7de4-5b35-a4bf-b13bda9ff814",
+          "riotId": "CndeR kłlled you#FATE",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "714464e5-2ea6-4a2c-a3a2-ba149ace12fb",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T13:10:34.902Z",
+      "players": [
+        {
+          "puuid": "470bfb11-7114-50d5-af8c-da08cf6adc2f",
+          "riotId": "Autumn Leaves#1015",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3b8f112c-c433-587f-8782-0369b2e802e8",
+          "riotId": "T1A PeGasus#0912",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e2440bfc-3c1f-5d95-b0d4-fe5444f732c2",
+          "riotId": "Maybe not today#Ezeir",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "edd85006-41c1-5e74-82b1-29be6bade69f",
+          "riotId": "skububu#sku",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "43bd7948-ec85-48ef-9b05-8bd6734e8ce2",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T12:41:17.863Z",
+      "players": [
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "751301f7-985f-544f-ba16-13dc81c6091f",
+          "riotId": "ill die anyway#inred",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "db3dbb8b-3ae4-5fc7-b05b-f5451c3e5db2",
+          "riotId": "乙Fyx美しい#LFT10",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "1197a195-ddbd-5e4c-af9b-96a2874771a4",
+          "riotId": "豪之巅傲世间斩尽伪豪灭九天#抖音xYU",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "43d5e483-4d6f-5f76-af7f-e67ce473bf63",
+          "riotId": "EDG aimm0od#001",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "73aa99fb-21c8-575e-8b90-b71f2663ad4a",
+          "riotId": "如果再看你一眼 是否还会有感觉#Jun14",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "70623841-3e03-5556-bb72-116ec777ee3c",
+          "riotId": "partylikeits3012#danyy",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "44ba8152-cb5c-49df-8a13-1f9293f05e3f",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T12:02:02.965Z",
+      "players": [
+        {
+          "puuid": "1385f5fc-b71b-5ecc-87ce-e06327a9371c",
+          "riotId": "Sanrio#Yang",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "73aa99fb-21c8-575e-8b90-b71f2663ad4a",
+          "riotId": "如果再看你一眼 是否还会有感觉#Jun14",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "81274807-1c84-50f7-af85-792c63ae3c53",
+          "riotId": "马天帝#ddd",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "993179ba-9447-5339-bb2b-4e05e5006b8c",
+          "riotId": "抖音大鼻子狗#1028",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "38caacd1-a458-54f4-ac7f-fee02096573f",
+          "riotId": "Yasuki#0616",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6bc374d1-0c0b-5f7e-b8d6-486fadbabfa8",
+          "riotId": "荒木飛吕彥#0414",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "7af9b106-88be-438c-9642-281bde44447f",
+      "queue": "competitive",
+      "playedAt": "2026-09-21T11:14:55.083Z",
+      "players": [
+        {
+          "puuid": "88709d93-db72-5380-874c-c81d68564394",
+          "riotId": "T1 Gnadel#suy",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c5651b23-37dd-58a1-b0aa-7513b927baa7",
+          "riotId": "jiha#lft",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "fb35f274-1914-5689-ab78-71ac7e5e8076",
+          "riotId": "うちは サスケ#Stone",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ef35edae-3758-50cb-aab2-3e2837e18175",
+          "riotId": "Karte#18yo",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5ff4cebd-2c75-5987-a9b4-43b2f42a4f81",
+          "riotId": "k3k#b9f89",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a1897251-d334-5174-a090-fe94ac261aeb",
+          "riotId": "Goodjao#jbogs",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cb08bdf9-293d-5660-affa-af72dcda8804",
+          "riotId": "e4sy#zzz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cc306418-0ed9-5a72-934c-8237c173c19a",
+          "riotId": "S8UL Anq#015",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "82b6bbc9-ca7f-4e66-8df9-753d68a4522c",
+      "queue": "competitive",
+      "playedAt": "2026-09-18T03:25:21.266Z",
+      "players": [
+        {
+          "puuid": "1755f538-d4eb-5417-9fb2-a2b33930ed53",
+          "riotId": "QZQIANGZAI#20011",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8fc5aa2a-0ade-52e7-9b0e-3a7c9468c516",
+          "riotId": "manhkun#66666",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e872bd15-33c6-5ea6-93bf-c8baffbdfab7",
+          "riotId": "MiniPuu#Puiu",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a2e4efd4-b84e-597e-bf2b-c4b7f11d1ed1",
+          "riotId": "MRzrk#maeyo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ef6cc5cd-61d0-5d39-bf16-22c59b6782f3",
+          "riotId": "Everyday起床吃饭打瓦睡觉#ddd",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "92357d67-ebf7-579e-b5c1-fa2ae34a6a34",
+          "riotId": "xRan#东北人",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "0e633977-8f9a-5670-8cea-09dc2c1268ac",
+          "riotId": "洋洋洋洋洋#yang",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a7b2bc90-e3f8-574f-8c1f-840031f453d0",
+          "riotId": "小狗命#ovo",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "2d441cf7-319e-43d4-9285-eed8970a77fd",
+      "queue": "competitive",
+      "playedAt": "2026-09-18T02:47:08.77Z",
+      "players": [
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9bdecb2f-f404-5488-addd-69158e46654a",
+          "riotId": "lllll#fnaf3",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "cc663a9d-115e-5144-9624-1532b5b22e20",
+          "riotId": "对不起对不起对不起对不起#hhh",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ea09f22e-114f-554d-a778-7e34e1efce83",
+          "riotId": "starcrew#b3l",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "bcea8d92-4665-5a34-8497-bb265fb0f458",
+          "riotId": "batmon#42069",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "345611f9-694c-5197-bc98-4eaaee0f8ff8",
+          "riotId": "超 羊#懸賞金エグ",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8f221b73-32dc-507f-a6b0-8e58c7d4ad38",
+          "riotId": "DFM 天音T慶#T K",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c1dd6389-6c30-5573-9719-85d19c22613f",
+          "riotId": "慢心した瞬間敗北は始まる#完全燃焼",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f03498df-1c00-5106-acc1-b6a679daf7b2",
+          "riotId": "Sota#Noob",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "f6b8562e-c375-4531-9216-0227c588dd75",
+      "queue": "competitive",
+      "playedAt": "2026-09-17T10:23:22.596Z",
+      "players": [
+        {
+          "puuid": "8ee1b1da-2952-57ae-8064-e413c2b707f5",
+          "riotId": "winnablefps#STG",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "00743ad0-6887-5538-a7fe-9cf67ba513cd",
+          "riotId": "dontcryforme#zzz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "42cc677c-3da8-56a4-899f-74ee7057e6f8",
+          "riotId": "DoroDoroOrange#Bell",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5d87dcac-94c2-51fc-b936-ae29b0055aba",
+          "riotId": "budweiser#wwww",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "cfef8957-ab1f-5c82-9385-aad4e7c46b07",
+          "riotId": "QTD Kippei#USA",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "0c3e6bfe-15fb-5876-ba8f-fa189a11e75c",
+          "riotId": "현구리탱탱구리#0411",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3a0cb50e-1c32-5c5c-b45c-dc1a11fc5c26",
+          "riotId": "iqian#qjcdw",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a0f6dda8-3111-5121-8a3d-d141f84c1f4f",
+          "riotId": "Ethen#DOKI",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "ff7c0dc9-2b5c-4c8a-aa51-c4ac63ad17c1",
+      "queue": "competitive",
+      "playedAt": "2026-09-17T03:33:32.649Z",
+      "players": [
+        {
+          "puuid": "1f766f78-f7fd-5040-9a6e-c06098774655",
+          "riotId": "scryxx#kane",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a3b91e35-0a3a-540f-b806-dd842e1a73f1",
+          "riotId": "katsuqt#scryx",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce03caf8-e32f-5a55-9324-3c86665161fc",
+          "riotId": "瑞典肉丸#goach",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "871ef11d-a73d-52cb-8676-d6b5fec689a6",
+          "riotId": "zaito#宅宅彤",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9d050d77-b0c3-5453-b943-c05f8a43875c",
+          "riotId": "Myuxl1n9#9718",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b2f8775d-4f00-5828-b9d1-b51567c767e8",
+          "riotId": "bxis#Aimer",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9f39ca48-5cf6-53df-ac46-52e264c2af5c",
+          "riotId": "GameNotOver#JAE H",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "8097e783-04de-5403-8305-2f647f195a30",
+          "riotId": "wtuxEnd#0417",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "affc0785-a7ed-562f-bd83-b3cdec54193e",
+          "riotId": "ShowAndProve#Nunnu",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "c7621da4-bbeb-44d1-a728-f5d89f8552a9",
+      "queue": "competitive",
+      "playedAt": "2026-09-17T03:27:48.843Z",
+      "players": [
+        {
+          "puuid": "f2f777db-5d2f-55c6-aea6-2b81bffc889c",
+          "riotId": "CR neth#3150",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "90bef811-f9d8-5a3a-ab29-78e2c081a8fd",
+          "riotId": "ショットガン脇田 Twitch#ドパネオン",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "5b14aed7-8da0-5d98-9ece-08978cc0cc8e",
+          "riotId": "にっく どかた#NKRN",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8f221b73-32dc-507f-a6b0-8e58c7d4ad38",
+          "riotId": "DFM 天音T慶#T K",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2eb7c4d2-fb14-5b39-a27d-524f4bcd2e40",
+          "riotId": "Vr1tish#cat",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f620029-c067-58b8-b488-f4b95915b7bc",
+          "riotId": "ZUTOMAYO ACAね#ずとまろ",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4ee53d11-ea94-5ae4-98cc-4d099cee646f",
+          "riotId": "坂本優太郎#こんちゃ",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "345611f9-694c-5197-bc98-4eaaee0f8ff8",
+          "riotId": "超 羊#懸賞金エグ",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "fb50f091-d3ea-45d3-a951-350d513ab860",
+      "queue": "competitive",
+      "playedAt": "2026-09-16T11:47:46.202Z",
+      "players": [
+        {
+          "puuid": "91e08237-01b3-5756-a9c1-cae301772232",
+          "riotId": "x69x420x69xD#1111",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "04b4c4d3-06be-54a6-9651-c34f82ef39b9",
+          "riotId": "EDG 世界上最高高高高高高的山#Jieni",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c54fc6a7-43d6-5464-ae77-f5f0141d6e76",
+          "riotId": "guoguosuper#big",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9f39ca48-5cf6-53df-ac46-52e264c2af5c",
+          "riotId": "GameNotOver#JAE H",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9a42f179-edb0-5503-8bfb-d17d8c0d7571",
+          "riotId": "Rsiua#777",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1197a195-ddbd-5e4c-af9b-96a2874771a4",
+          "riotId": "豪之巅傲世间斩尽伪豪灭九天#抖音xYU",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "996ee387-498b-525c-a891-09e8cb3bc303",
+          "riotId": "Kel#maxx",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c89f23d8-1f7b-5af5-95cc-0e97761a1187",
+          "riotId": "mettawrldpeace#abyss",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "66d1d3c4-d897-5000-8126-2a26f899c442",
+          "riotId": "Jett世一#愛mia",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "8d5c2194-86df-4db9-9577-a574aeb3b3f2",
+      "queue": "competitive",
+      "playedAt": "2026-09-16T11:01:19.137Z",
+      "players": [
+        {
+          "puuid": "ea3005b6-f35a-5f06-8a7c-6084a4666824",
+          "riotId": "Ed Rothstaylor#Doom",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "996ee387-498b-525c-a891-09e8cb3bc303",
+          "riotId": "Kel#maxx",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f4bf27fb-6597-55db-a2ec-1ed39d3c137f",
+          "riotId": "T1 Satoru#DDONG",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5b4a98ac-bf6f-5726-9113-b9c988e7879c",
+          "riotId": "cyAimKing#c4r",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "66499d11-04a4-5af0-b780-4b3ed9abee83",
+          "riotId": "Kira#bane",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2a111d76-c334-54e8-80e8-32839c62a2fb",
+          "riotId": "Snow#hurt",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c89f23d8-1f7b-5af5-95cc-0e97761a1187",
+          "riotId": "mettawrldpeace#abyss",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "12ea8808-b52f-5e75-9201-c66a9e9e629a",
+          "riotId": "babyminilirybae#bbbbb",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "c9ff9e3d-d819-42eb-acea-6c41f9d060d0",
+      "queue": "competitive",
+      "playedAt": "2026-09-16T10:14:17.104Z",
+      "players": [
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "17d9dbb4-4199-5544-ac66-3393fbb6f598",
+          "riotId": "세종자이우#zywoo",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72a22847-6dfa-5c5a-9edf-b35a285b0b76",
+          "riotId": "Benedict#0306",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4ee53d11-ea94-5ae4-98cc-4d099cee646f",
+          "riotId": "坂本優太郎#こんちゃ",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "578b3dca-c11d-5818-96dd-4f75f0b0551b",
+          "riotId": "Vex#LFT",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c1d72335-a3f7-5c05-8232-f8f2eed0a525",
+          "riotId": "Airy#369",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "479b110b-0fab-51bc-a54c-ab0a3f08aef2",
+          "riotId": "Syram ツ#월령친동생",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b924d87e-e0ab-5e8b-a2a1-8f4e73d04ffc",
+          "riotId": "Karis#ian",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "31e059d1-dd50-51d1-b64b-ff62907fd8b3",
+          "riotId": "우주최강성연준#나우아임영",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "2fb6796f-a05a-491c-8210-6d81d6721f2f",
+      "queue": "competitive",
+      "playedAt": "2026-09-16T03:27:06.365Z",
+      "players": [
+        {
+          "puuid": "748ee5e1-b442-5c1d-a39b-9e01fb51acf4",
+          "riotId": "じろきち#びんびん",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cf78aadd-23f2-5acc-ae73-687bacb74afd",
+          "riotId": "준아가#18살",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "eba99f37-8be8-5f7b-9433-800b44c6dbc2",
+          "riotId": "LFT DaiLy#2007",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "cc663a9d-115e-5144-9624-1532b5b22e20",
+          "riotId": "对不起对不起对不起对不起#hhh",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "09b61b84-15fc-5b36-893e-a568d23ddb0e",
+          "riotId": "98989#8989",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "74d863dd-3032-5c82-a728-d1cf15a9b997",
+          "riotId": "しゅんたFPS#ttv",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9e9af394-fbfb-58b9-8b33-8e70560d090f",
+          "riotId": "アキレス#760",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0e46f086-cf04-5d17-9674-9f35bbd4d34a",
+          "riotId": "praxx#1111",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "0b7e89a6-4125-487d-b57b-8015fd3d1ee2",
+      "queue": "competitive",
+      "playedAt": "2026-09-16T02:33:27.064Z",
+      "players": [
+        {
+          "puuid": "eba99f37-8be8-5f7b-9433-800b44c6dbc2",
+          "riotId": "LFT DaiLy#2007",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "aab8ffd5-027e-51e8-a2e5-f7b4ddc59a91",
+          "riotId": "DRX Lightning95#XoNŠ",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a1b40a3c-b4c0-502c-8949-80521aa547ce",
+          "riotId": "DRX Lightning96#noctn",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "90159321-d0b0-5afd-9a26-83b854d2bc8c",
+          "riotId": "DJT Danielle#HaNNK",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "091cadda-22d7-57a4-af0b-81f91698ce4f",
+          "riotId": "DJT Aaron#2011",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "cca0b5d8-e00f-5f1e-97ba-eff8cdb0bed1",
+          "riotId": "しょーたDX#noob",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f29e3eee-1dac-5807-b220-7e4b16598816",
+          "riotId": "mioji666#999",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c7a2c132-4329-551a-bbe5-50ce760136f2",
+          "riotId": "treactis#0727",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "6bd0dac0-34d7-4ebb-936d-9393730b20b9",
+      "queue": "competitive",
+      "playedAt": "2026-09-15T03:20:51.679Z",
+      "players": [
+        {
+          "puuid": "12cd32f9-3b69-5911-aceb-a26b77582790",
+          "riotId": "dwushka#222",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9a51962f-bb05-5c94-bff4-685c397d0a20",
+          "riotId": "哦哦哦哦哦哦哦哦哦哦哦哦哦#YYY",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8b5611c3-c685-51b3-9ba1-6a3028b2bbfe",
+          "riotId": "Wynlorn#9999",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e91e4b37-de5e-5438-bdf0-17f9c6882370",
+          "riotId": "Who is who Daddy#fufu",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b00dacd2-6d05-5a80-bda4-70828881c767",
+          "riotId": "kat#3386",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ee204c5d-591e-5ba6-82d2-a841f825e26e",
+          "riotId": "街仔头的王#511",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "bc5441fa-fbef-5b02-970a-2f32b03f6fd2",
+          "riotId": "天若有情天亦老#sjc",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "76b3c483-800e-5255-b3e8-965b2ab09da4",
+          "riotId": "TYLOO 안나#spl",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "744251f5-2814-4a60-842e-1d97ec55f2b1",
+      "queue": "competitive",
+      "playedAt": "2026-09-14T13:09:59.798Z",
+      "players": [
+        {
+          "puuid": "b924d87e-e0ab-5e8b-a2a1-8f4e73d04ffc",
+          "riotId": "Karis#ian",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "52b5351a-6235-5475-9748-e1b37f6a6e59",
+          "riotId": "Lroll#qqq",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a3238444-989d-51a4-b159-64cd04e7dcd2",
+          "riotId": "CR Meiy#SP005",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "12473af2-aeac-5494-96fe-b16c60336d8f",
+          "riotId": "Miyamoto Musashi#mind",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "cbccc3e2-805a-5837-888f-53618335bca7",
+          "riotId": "R S#397",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5425a8f9-8f61-5cd1-bf01-8f0970073d11",
+          "riotId": "ilikepeeking#303",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "51852269-b689-54e3-9bec-9c9dcbd4db8c",
+          "riotId": "Gangnamcityboy#준기형이야",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "479b110b-0fab-51bc-a54c-ab0a3f08aef2",
+          "riotId": "Syram ツ#월령친동생",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1d07f390-db51-5b64-b7b9-dcb557debd0f",
+          "riotId": "hauwehf#dsafk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "8728fdf3-b7c4-44fe-8d09-b50a83b1a580",
+      "queue": "competitive",
+      "playedAt": "2026-09-14T12:27:49.442Z",
+      "players": [
+        {
+          "puuid": "994742cc-16a0-5db1-a724-85d1fde3de4e",
+          "riotId": "W u#naf1a",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ed2c7e25-14d5-519b-8459-0451d0397439",
+          "riotId": "BIN#SONG",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5bfc492d-6e27-52df-ba23-9f62535024c6",
+          "riotId": "멋쟁이 토마토#dora",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "3746494b-ae04-588e-97c0-8dfad82056c7",
+          "riotId": "GEN Karon#115",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "479b110b-0fab-51bc-a54c-ab0a3f08aef2",
+          "riotId": "Syram ツ#월령친동생",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5425a8f9-8f61-5cd1-bf01-8f0970073d11",
+          "riotId": "ilikepeeking#303",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "57276e56-33f4-51e6-a95f-d58afa993934",
+          "riotId": "VandalKingV2#2010",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b7f1b743-30da-523a-b955-2efa7533faad",
+          "riotId": "すぱのばSTREAM#コンです",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "580cfaa8-f53b-50ac-b3a5-253b2a2f9c06",
+          "riotId": "D ำ#don",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "7df78891-85c6-4019-8b68-25e3337d6ea9",
+      "queue": "competitive",
+      "playedAt": "2026-09-14T11:29:15.267Z",
+      "players": [
+        {
+          "puuid": "2a111d76-c334-54e8-80e8-32839c62a2fb",
+          "riotId": "Snow#hurt",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a730fbb5-3103-5f6a-b18d-dd187927e518",
+          "riotId": "愛就像一場小雨#yiii",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4d2a12dc-d572-5824-a0b4-b8a049104c37",
+          "riotId": "RVL aplycs#yvl",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6ea18ae0-e119-54b4-8e40-21a1b76d7855",
+          "riotId": "S J#김성준",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0a7c9fc8-9cab-5b6b-bbac-2c1a42f612b7",
+          "riotId": "我叫JA#NAA",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "8f77f940-f9a4-5930-8796-3fefadc8b470",
+          "riotId": "AEKN val#1004",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "424c750c-dfdf-5f70-a178-f651f0f9f0ba",
+          "riotId": "heyyou Chooko#0468",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "de6854f5-6d39-56cd-8583-bedbfe92df0b",
+          "riotId": "MC3D astro#hjenn",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "9f7443e4-62a0-4c24-b7fc-6bc01a5252be",
+      "queue": "competitive",
+      "playedAt": "2026-09-14T03:31:32.79Z",
+      "players": [
+        {
+          "puuid": "c0ae9bbc-3028-5d7e-9489-2fd4298585ff",
+          "riotId": "ELDENRING#0217",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "c75284a1-cb59-51db-973b-5f2afb96e4d7",
+          "riotId": "Risk it all#rhk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f4bf27fb-6597-55db-a2ec-1ed39d3c137f",
+          "riotId": "T1 Satoru#DDONG",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b2cfc09d-ab34-5cdf-a890-c718c99d6c9f",
+          "riotId": "opsil#9999",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "627d7807-9c75-5f07-b853-537f650221ed",
+          "riotId": "RedLight#0224",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "fc1b8095-5b33-531f-8940-1849a0fdbc6f",
+          "riotId": "kinetic#rk1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b41f80be-d64b-59fa-9052-2cf8701c374b",
+          "riotId": "VA Vaul#naomi",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b106e7b5-2421-5db6-b8b7-fba5a03d2238",
+          "riotId": "SIN#hy3on",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "62d39f25-b66c-4cfd-94fe-f0a5971480d3",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T12:47:04.102Z",
+      "players": [
+        {
+          "puuid": "67aad41e-03c6-5ce3-9316-9beba87d0235",
+          "riotId": "LUVMI#UMI72",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5bf19d71-f4c9-58ed-9ac9-2facde72c68e",
+          "riotId": "DRG Verse#VVV",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5306e258-2199-521d-830a-6d37d7c15d32",
+          "riotId": "babyblue 吟#aiLHY",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5f186ef6-a587-53b8-b4dd-a3b3dfe52656",
+          "riotId": "别对我说情话 我不相信爱情#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "962d1239-24ab-563a-9877-ab2e26616bca",
+          "riotId": "想跟你躺在院子摇椅上聊天#0731",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "99a77703-1334-50b9-89e3-1cd557abe0dc",
+          "riotId": "久秋JiuChiu#apex",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b189a367-aeb4-5989-af05-e283bb6ed9bf",
+          "riotId": "LuoK1ng#0328",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "81cdfcdc-ecc2-589f-866d-37b3efa9c99f",
+          "riotId": "666mirp#kill",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4616c968-1775-5635-8014-d0a7de04cbfe",
+          "riotId": "zhubibi#xxxx",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "c43b3c60-5673-4c8d-b975-f82a8fc287ec",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T12:35:46.549Z",
+      "players": [
+        {
+          "puuid": "ee8275d4-ec53-5608-9858-c30475d92f9a",
+          "riotId": "Soon Mong#Lee",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "4ffd3d5f-50fb-59a2-a9e4-3e1de0a66b88",
+          "riotId": "finalboss lyra#2009",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "29d68a8a-1227-5849-8ad2-4c26a3222100",
+          "riotId": "宸宸宸宸宸宸宸宸宸宸宸宸宸宸宸宸#宸神神了",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d9f95a0d-a57f-55b1-9bb6-7971c3a53be2",
+          "riotId": "renz666#clr",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a5e3b73a-5800-511e-ad0f-7d676553dc18",
+          "riotId": "Irrad#bnc",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "19aa2704-0859-5bfa-b727-4a83654ad584",
+          "riotId": "JKCF#7480",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7d274e81-97e5-5283-9b56-49320276a3d6",
+          "riotId": "Hohyeon#1014",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "39f8c190-4b18-5478-bb94-dd9023f03dd7",
+          "riotId": "Songjiho#텐코시부키",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "e210c461-35b5-48ba-8c40-d5e661aae04c",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T12:26:14.697Z",
+      "players": [
+        {
+          "puuid": "c8fd7efc-52a8-58fb-be0a-eed0d3f72624",
+          "riotId": "Baro#0 6",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce1e70aa-0e76-5563-9ade-1920a2a416b3",
+          "riotId": "ˇ ˇ#6436",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2c040bf7-caee-590f-b286-40ade690a87b",
+          "riotId": "GunGom#건곰감리",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a91045b0-b3d3-5a77-b8fb-ff72ede643fb",
+          "riotId": "LFT zeroflaw#최성수",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ad9b966a-47ec-5253-9626-ccdcb0a5c637",
+          "riotId": "Pingdol#9119",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "34f03e51-9cca-59a8-ad02-12329c2d92bb",
+          "riotId": "乙骨t3tsuko#世界平和",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9d49529a-cb28-5a2c-b0b5-a37652dc7e98",
+          "riotId": "AlmostMetYou#krx i",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c4f99064-11c6-52b0-a53d-0c26caab341f",
+          "riotId": "shinji ikari#fly",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "17ce4631-9f6f-5d5f-a204-fb1f4d7d4be2",
+          "riotId": "俺でキャリーでtv#aace",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "51b3ef60-2ea6-48c3-ba1e-c22d70a50b0a",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T11:53:46.609Z",
+      "players": [
+        {
+          "puuid": "424c750c-dfdf-5f70-a178-f651f0f9f0ba",
+          "riotId": "heyyou Chooko#0468",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9b4aa22d-f8c6-5e76-b256-c01b9ca95d53",
+          "riotId": "Aqua Ch1ka#Zuk1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6d5dde79-88d8-5c94-99d6-37983bb68c3b",
+          "riotId": "山田凉#結束バンド",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "e765c281-180f-550e-982b-91dfcc5b9d88",
+          "riotId": "fallingforyou#iwnl",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "577af2f6-9375-57d1-8726-2c00ea4279a9",
+          "riotId": "紫雨 impavidez#NINA",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "dc13c620-401a-5823-9859-ac83982e2b56",
+          "riotId": "iwannabeurflower#ki1sy",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "609c1264-9305-583b-b65c-36515e52490c",
+          "riotId": "Iceyyyzx#otto8",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "24479d88-1393-58d4-b58a-b7c106d728b0",
+          "riotId": "HAPPY#1Blue",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "f9161a16-a4c2-404a-85b7-659d34e48071",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T11:42:02.432Z",
+      "players": [
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce1e70aa-0e76-5563-9ade-1920a2a416b3",
+          "riotId": "ˇ ˇ#6436",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "52b5351a-6235-5475-9748-e1b37f6a6e59",
+          "riotId": "Lroll#qqq",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d1aefdfa-5635-5c4f-a545-2c7a8f0895ad",
+          "riotId": "PROVIT#0824",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "e23ad9cd-0119-5ddf-8449-f66ec486dd7e",
+          "riotId": "アライグマになりたい#333",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "34f03e51-9cca-59a8-ad02-12329c2d92bb",
+          "riotId": "乙骨t3tsuko#世界平和",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "90bef811-f9d8-5a3a-ab29-78e2c081a8fd",
+          "riotId": "ショットガン脇田 Twitch#ドパネオン",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72a22847-6dfa-5c5a-9edf-b35a285b0b76",
+          "riotId": "Benedict#0306",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "0a5cf5d9-1066-58f7-a884-f4299fb0fe14",
+          "riotId": "Take my soul#Niz",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5e07d76c-d794-52da-9902-4c18f521e415",
+          "riotId": "knight kłlled u#FATE",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "57c6ab35-7fcc-4b30-a15b-0b639233ccd2",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T03:36:07.764Z",
+      "players": [
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "45d50649-7e02-50d7-915b-6bf1de734c28",
+          "riotId": "Codename57#XXXX",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a59c38df-7117-5a3a-b03d-af334be64b33",
+          "riotId": "賜我一把斬斷過去的劍#love",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a1f1c4a7-3959-5f4f-a007-e7be367877f0",
+          "riotId": "枪响人抬走#QaQ",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "3c638c0f-f037-5ac5-a63c-61b6800adee0",
+          "riotId": "LOVEBECA#8888",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce6dc08a-f6df-5244-8716-b86075933396",
+          "riotId": "BLG Ryan#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "7c6e9c08-9a4f-5b1a-8f57-7679e0b19256",
+          "riotId": "Raph q t#eisly",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "04561a74-8931-4c06-bc8e-04ae2140257e",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T02:54:19.612Z",
+      "players": [
+        {
+          "puuid": "e893056f-c22f-57d5-aa35-21dd0b555ee4",
+          "riotId": "mmm嘘つきmmm#2011",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3c638c0f-f037-5ac5-a63c-61b6800adee0",
+          "riotId": "LOVEBECA#8888",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ce6dc08a-f6df-5244-8716-b86075933396",
+          "riotId": "BLG Ryan#2009",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "260ffe14-9e47-5ff6-94b6-6951731e8725",
+          "riotId": "owo#50914",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "66f4f442-9a0f-5e26-bb91-8d17fa6322d0",
+          "riotId": "EDG hobby#1990",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "45d50649-7e02-50d7-915b-6bf1de734c28",
+          "riotId": "Codename57#XXXX",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "a59c38df-7117-5a3a-b03d-af334be64b33",
+          "riotId": "賜我一把斬斷過去的劍#love",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6b878eba-1eaf-56f6-ae12-65f507d59b65",
+          "riotId": "Recovery#너 랑",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "25545a83-b3b7-41c1-8898-dabe68bd5c5f",
+      "queue": "competitive",
+      "playedAt": "2026-09-12T02:27:28.136Z",
+      "players": [
+        {
+          "puuid": "f0c38d4e-f0af-5620-856d-cd894aa47e89",
+          "riotId": "黎 明#123",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4ecc96ac-17ca-5497-bfe1-334006aed80b",
+          "riotId": "JunWoo#0214",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d7d9f60f-81f4-5381-8faf-b0ddb735f8e2",
+          "riotId": "KING KAZUMA#GOAT",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d9276ba7-04ae-579f-ac60-636714eedbfa",
+          "riotId": "鬼舞辻 まさとvsゴート せいや#神の戦い",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "699d83d3-0576-52b2-a683-c90d9cc108af",
+          "riotId": "Karon fan boy#SZK",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "942e945c-398b-56fb-9130-8d0e6d303f3e",
+          "riotId": "Elfaria Serfort#DMA",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "1f8d7fca-5ea7-5256-b8a9-eefdd18d7c89",
+          "riotId": "aespa Winter#0119",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "edd85006-41c1-5e74-82b1-29be6bade69f",
+          "riotId": "skububu#sku",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b0751897-da05-5fa4-abff-886fff47ed10",
+          "riotId": "개구닥다리마우스viperv2p#dora",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "71bedae8-34a7-599b-b927-0b956f6ddf25",
+          "riotId": "Meiy#B3L",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "74615dab-3bb3-4e33-aff0-b91743a5b630",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T12:56:38.727Z",
+      "players": [
+        {
+          "puuid": "a062381e-8ce6-5769-b984-23f69e68f9d2",
+          "riotId": "pikachu#yuyu",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "28bccc07-1105-5f75-9fae-3992a8661be0",
+          "riotId": "PRX something#112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b937edaa-2828-5f5d-94e2-f8f95d089f92",
+          "riotId": "Kamisama 茶#2009",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ec3dee79-7983-5c9c-893a-a53aa4bfe8b5",
+          "riotId": "RSushi#Yum",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "fe0a768b-42e9-57fc-930e-e8410bd8881a",
+          "riotId": "zlb#SYN",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ae1406f0-d698-563d-b322-0a98e2b9040b",
+          "riotId": "T1 cat#0327",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6dee7f65-1e4a-527c-9880-ed42631aace3",
+          "riotId": "FANCY deviceHP#ailee",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d1c1debd-103b-500f-9da5-3abd5f6f07cb",
+          "riotId": "x1oNG#1on",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "cb8662a4-e332-4af5-a5af-4e6c81998fba",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T12:37:31.404Z",
+      "players": [
+        {
+          "puuid": "b929b03a-577e-58fe-814a-faa62c26c9c6",
+          "riotId": "내가 하늘에 서겠다#KUMI",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b089eebf-874d-55fb-a362-e2bc343bd053",
+          "riotId": "sfdjhoii#qfwen",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "187f3f3d-52e3-56e6-8cad-8a661d133a81",
+          "riotId": "halfslxt#Xer",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "4a88e123-c779-5c61-9f92-ac9f15d334d2",
+          "riotId": "Saikyo#LFT11",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "71d6dca5-0e5d-583c-9555-49d522bd149f",
+          "riotId": "T1 Joshua#2006",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2fecd5e1-e541-5de8-b69c-cb6d3d37d05f",
+          "riotId": "Aisu#12345",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "345611f9-694c-5197-bc98-4eaaee0f8ff8",
+          "riotId": "超 羊#懸賞金エグ",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "f03498df-1c00-5106-acc1-b6a679daf7b2",
+          "riotId": "Sota#Noob",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "6b1e26d4-eefa-520a-965b-0bd1a9e9bff4",
+          "riotId": "IN THE RAIN#xgﾉ",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "d507998c-8576-456f-bf9e-1cd8c84a018a",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T12:27:52.169Z",
+      "players": [
+        {
+          "puuid": "df16eb92-a5f1-5981-8ba0-88abd9f2939b",
+          "riotId": "Xis#121",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "763bfaa1-35ad-5a6f-9058-5b113e5e6483",
+          "riotId": "Flowering#glNcE",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "de621e16-f28d-5943-bf21-289a9831d0fc",
+          "riotId": "咪咪大人#5269",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9daca8d7-a2ba-5d5e-8e3a-9aee490f282d",
+          "riotId": "INS Flora#2006",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "828e9bae-e1b8-541b-942b-64e40682f184",
+          "riotId": "mbmbmbmbmbmbmb#1231",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "70f291ae-3608-5fbd-8fde-29fb85ad4331",
+          "riotId": "NOPRIME#TOP1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2e42204c-7324-5e79-9800-d82c4d2b9cef",
+          "riotId": "王旭东最帅#X1Ao",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "d5eaecac-9f4f-5d42-895f-8e035ff988b8",
+          "riotId": "風散人間再無相逢時#TvT",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "dc5686f7-aa50-4489-bf74-afb9f38a505d",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T12:04:36.456Z",
+      "players": [
+        {
+          "puuid": "751b278b-bd94-5e37-b207-ae3fd70bfd62",
+          "riotId": "路明非生日快乐#0717",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "9b4aa22d-f8c6-5e76-b256-c01b9ca95d53",
+          "riotId": "Aqua Ch1ka#Zuk1",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b072b662-f187-5ebb-aa86-7c35f81a43b8",
+          "riotId": "DFM Asuka汐#Zxが好き",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "112ef109-6b0d-52e1-b083-03eeeb7dc519",
+          "riotId": "Secret Zeus#SNCD1",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "a7f21cc4-ae64-505e-ae56-30dcb8b0517b",
+          "riotId": "WBG Milan#1998",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "dba26e74-ab10-5a54-8fac-5579108a778d",
+          "riotId": "NU Liporada#darky",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "c6eb1c5c-aaab-536d-8652-dad7fb74ff33",
+          "riotId": "NU Huyong#Ash9",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "dd089f32-77f6-5ab0-af69-a7eeb9036f08",
+          "riotId": "сакред#1025",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "b5cd1aaf-a238-47bf-b2f5-7e1b1317fb6e",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T12:00:09.338Z",
+      "players": [
+        {
+          "puuid": "b089eebf-874d-55fb-a362-e2bc343bd053",
+          "riotId": "sfdjhoii#qfwen",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "5bd625a3-9fbd-594d-856f-cc975089b6b4",
+          "riotId": "ながの#にゃがの",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2c040bf7-caee-590f-b286-40ade690a87b",
+          "riotId": "GunGom#건곰감리",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "f294f75b-3ae8-50f1-ab19-f65e49fc0aad",
+          "riotId": "XoNs#drip",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "187f3f3d-52e3-56e6-8cad-8a661d133a81",
+          "riotId": "halfslxt#Xer",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "33971d94-eebd-5459-9f7f-fa6cca202b1b",
+          "riotId": "うちは Madara#Necro",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d5ddd1a0-72c7-5143-81a7-7f9e23656072",
+          "riotId": "STARSOL#high",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ad30e461-e2a8-5bdc-b613-2d0570cf7787",
+          "riotId": "Day1#1119",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "aad9b81b-9aad-59b3-b8be-9c8a07a37f5c",
+          "riotId": "와 이거 재껴지네#유즈하리코",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Red"
+        }
+      ]
+    },
+    {
+      "id": "e8ade135-34d4-43a2-9dba-44018ac4821c",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T11:56:43.37Z",
+      "players": [
+        {
+          "puuid": "280935df-5b3b-58a0-a012-f9a7fb4f12cb",
+          "riotId": "透 過#8z2",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b138ddf6-4b1f-5711-b222-655e06df8bd3",
+          "riotId": "어둠을 군림하는 흑야 하랑#dds하랑",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "52154f35-c80c-5ea2-9a65-78d6e045e939",
+          "riotId": "Cosmos#Carl",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "52b7959e-749d-55f0-b770-3edac36f1b68",
+          "riotId": "Charles Oliveira#0430",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62e78567-8d9e-54b9-b52b-2d091faf692a",
+          "riotId": "apollodaphne#mada",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "641e5a36-2a87-5568-9b26-901df90bb358",
+          "riotId": "ProspeR#2009y",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "3c835441-057b-58bb-9dc1-964fd14d949c",
+          "riotId": "大したことは分からない#知ってます",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "21cc04ab-94e2-5985-b627-e2d82af5cd59",
+          "riotId": "皇甫天耀#るなみん",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "b0f8a827-4156-50bf-b935-4f1711984803",
+          "riotId": "Priyatno Тобой#assan",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "a3d6af01-5d4d-459b-8e58-f9a68378f5e5",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T07:37:46.295Z",
+      "players": [
+        {
+          "puuid": "7f10e312-37c5-57ba-9029-ecf4228ce15d",
+          "riotId": "실패는 언제나 인생을 관통한다#패자ovo",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "ec3dee79-7983-5c9c-893a-a53aa4bfe8b5",
+          "riotId": "RSushi#Yum",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "9e62b6c1-25d9-5507-bec6-1ce0862f5073",
+          "riotId": "radiant mmr#enz",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "2f921d8c-5abd-58bc-9b4d-c6962440ee7f",
+          "riotId": "VALNRG0005#bawrk",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "6ab12b42-de06-53e1-b1e0-c25b5120da3b",
+          "riotId": "NOVA swagzor#shnq",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "22d23163-21f8-5999-afb4-8b82523f3368",
+          "riotId": "囊囊囊囊囊囊囊囊囊囊囊囊囊囊囊囊#中不中",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "b0a04b29-0f59-54e8-ad8e-9b567fdcae31",
+          "riotId": "alone#6924",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "76b3c483-800e-5255-b3e8-965b2ab09da4",
+          "riotId": "TYLOO 안나#spl",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d641ac48-e79d-5c28-a9e7-fc82f60a506b",
+          "riotId": "TYLOO 斯巴拉西不拉稀拿冠军#Erv",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "d895330f-e1b9-57cf-ae8c-df8023edd88c",
+          "riotId": "mitch#fff",
+          "teamId": "Blue"
+        }
+      ]
+    },
+    {
+      "id": "536ddc6b-b36a-4c8d-9456-e0d5fa476fae",
+      "queue": "competitive",
+      "playedAt": "2026-09-11T07:25:03.547Z",
+      "players": [
+        {
+          "puuid": "d6705455-6c45-5fd9-a701-094bb46b3c9d",
+          "riotId": "wonyoungUwU#Heng",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "3c638c0f-f037-5ac5-a63c-61b6800adee0",
+          "riotId": "LOVEBECA#8888",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "247e0ffd-b766-58ed-9a52-fee88e8a0e0d",
+          "riotId": "Taps#Earl",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "72c4c3b9-bb74-5d9a-aebf-fdf56d506fc1",
+          "riotId": "k12#2112",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "32f79eff-fd8c-501f-b069-9280a1270d3b",
+          "riotId": "CostcoHotdog1#yummm",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "62160299-2796-508a-96a2-ddedb95a4560",
+          "riotId": "花曇り#优 优 优",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "ae8a3079-e573-5118-96d6-c3197c9589d6",
+          "riotId": "你等着我破茧后化成蝶#F1END",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "35870306-3299-5275-9692-2223a198202c",
+          "riotId": "ตามใจหมวย#6767",
+          "teamId": "Red"
+        },
+        {
+          "puuid": "580079fb-b682-571b-a5e0-728663ee264f",
+          "riotId": "lost control#flex",
+          "teamId": "Blue"
+        },
+        {
+          "puuid": "846d680a-863f-5792-9d71-0047a669a30f",
+          "riotId": "EDGY Sa1uatUwU#yunaA",
+          "teamId": "Blue"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+:root { --ink: #111; --paper: #f5f4ed; --rule: #aaa; --muted: #474747; --pink: #ff00a8; --blue: #184aff; --lime: #baf02f; --yellow: #e7cf77; --copy: 'DM Sans', Arial, Helvetica, sans-serif; --display: 'Anton', Impact, 'Arial Narrow', sans-serif; }
+:root { --ui-base: #fff; --ui-surface: #fff; --ui-surface2: #fff5ec; --ui-surface3: #f6e7d8; --ui-border: #e6ceba; --ui-ink: #a63a0d; --ui-muted: #85614a; }
+.team-logo-dark { display: none; }
+.theme-toggle { align-items: center; gap: 5px; cursor: pointer; white-space: nowrap; }
+.theme-toggle > span { font-size: 15px; line-height: .8; }
+html { color-scheme: light; background: #111; scroll-behavior: smooth; }
+body { background: #111; color: #111; font-family: var(--copy); }
+:focus-visible { outline: 3px solid var(--blue); outline-offset: 4px; }
+::selection { background: var(--pink); color: white; }
+.portal-shell { min-height: 100dvh; padding-top: 0; overflow: clip; position: relative; background: var(--paper); }
+.portal-header { position: absolute; inset: 14px auto auto 22px; height: auto; z-index: 60; display: flex; align-items: center; gap: 12px; padding: 0; border: 0; background: transparent; }
+.portal-wordmark { display: flex; align-items: center; gap: 0; color: #111; font-family: Arial, sans-serif; font-size: 25px; font-weight: 900; line-height: 1; letter-spacing: -.08em; background: var(--yellow); padding: 7px 9px; transform: rotate(-2deg); }
+.portal-wordmark span, .portal-wordmark b { padding: 0; color: #111; font-weight: 900; }
+.portal-wordmark i { font-size: 25px; font-style: normal; margin-left: 8px; }
+.masthead-note { margin: 0; padding: 5px 8px; background: white; color: #111; font-family: var(--copy); font-size: 8px; line-height: 1.3; transform: rotate(1deg); }
+.portal-navigation { position: absolute; z-index: 65; top: 16px; right: 23px; display: flex; gap: 7px; border: 0; padding: 0; background: transparent; }
+.portal-nav-link { display: inline-flex; margin: 0; padding: 9px 12px; border: 1px solid black; border-radius: 0; color: black; background: white; font-family: var(--copy); font-size: 10px; font-weight: 700; box-shadow: 2px 2px 0 black; }
+.portal-nav-link:nth-child(1) { transform: rotate(-3deg); }
+.portal-nav-link:nth-child(2) { transform: rotate(2deg); }
+.portal-nav-link:nth-child(3) { transform: rotate(-2deg); }
+.portal-nav-link:hover, .portal-nav-link.is-active { color: black; background: var(--lime); }
+.portal-main { min-width: 0; margin: 0 auto; padding: 0; max-width: 1600px; }
+.portal-main:has(> .nrg-landing) { max-width: none; }
+.portal-main > div { max-width: none; margin-inline: 0; }
+.portal-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; font: 9px var(--copy); margin: 0; padding: 13px 24px; border: 0; color: white; background: black; }
+.skip-link { background: var(--blue); color: white; }
+.standard-roster-timeline a { color: white; }
+.standard-roster-timeline table { min-width: 930px; }
+.paper-roster-timeline { border-radius: 0; box-shadow: none; border: 1px solid #111; background: white; }
+.paper-roster-timeline table { min-width: 845px; }
+.paper-roster-timeline .roster-name { color: #111; font-size: 13px; font-weight: 600; }
+.paper-roster-timeline td:first-child { color: #111; font: 10px var(--copy); background: #f4f2dc; text-align: left; overflow: hidden; text-overflow: ellipsis; }
+.paper-roster-timeline td { border-color: rgba(0,0,0,.24); }
+.nrg-landing { isolation: isolate; }
+.collage-scribble { fill: none; stroke: #111; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; pointer-events: none; }
+/* Real camera-roll prints build the wall; opaque paper keeps the content above it. */
+.collage-wall { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; background: #22221f; }
+.wall-print { position: absolute; margin: 0; padding: 6px 6px 16px; background: #f3f0e7; box-shadow: 2px 4px 9px #0006; }
+.wall-print img { width: 100%; height: 100%; object-fit: cover; filter: saturate(.72); }
+.wall-print:nth-child(3n+1) img { filter: grayscale(1); }
+.wall-print:nth-child(even) { padding: 0; clip-path: polygon(0 2%, 12% 0, 26% 2%, 39% 0, 55% 1%, 72% 0, 88% 2%, 100% 0, 99% 21%, 100% 45%, 98% 67%, 100% 100%, 84% 98%, 67% 100%, 49% 98%, 28% 100%, 11% 98%, 0 100%, 1% 73%, 0 52%, 2% 27%); }
+.wall-print:nth-child(3n+1)::after { content: ''; position: absolute; left: 34%; top: -8px; width: 33%; height: 24px; background: #e8dfbeaa; transform: rotate(-6deg); }
+.wall-print-1 { left: -3%; top: -9%; width: 38%; height: 47%; transform: rotate(-8deg); }
+.wall-print-2 { left: 27%; top: -8%; width: 39%; height: 38%; transform: rotate(5deg); }
+.wall-print-3 { right: -6%; top: -3%; width: 42%; height: 40%; transform: rotate(-5deg); }
+.wall-print-4 { left: -10%; top: 28%; width: 35%; height: 56%; transform: rotate(6deg); }
+.wall-print-5 { left: 17%; bottom: -12%; width: 43%; height: 52%; transform: rotate(-9deg); }
+.wall-print-6 { right: -8%; top: 28%; width: 39%; height: 57%; transform: rotate(8deg); }
+.wall-print-7 { right: 17%; bottom: -18%; width: 37%; height: 48%; transform: rotate(5deg); }
+.wall-print-8 { right: -3%; bottom: -10%; width: 29%; height: 38%; transform: rotate(-7deg); }
+.wall-paper { position: absolute; clip-path: polygon(0 3%, 19% 0, 40% 3%, 65% 0, 83% 4%, 100% 0, 97% 24%, 100% 52%, 96% 76%, 100% 98%, 73% 100%, 43% 97%, 19% 100%, 0 98%, 3% 74%, 0 51%, 2% 26%); }
+.wall-paper-pink { right: 5%; top: 5%; width: 19%; height: 13%; background: var(--pink); transform: rotate(14deg); }
+.wall-paper-blue { left: -4%; top: 54%; width: 17%; height: 30%; background: var(--blue); transform: rotate(-18deg); }
+.wall-paper-lime { right: -4%; bottom: 9%; width: 17%; height: 18%; background: var(--lime); transform: rotate(9deg); }
+.wall-type { position: absolute; white-space: pre-line; font-family: var(--display); font-size: clamp(100px, 17vw, 240px); color: #111; background: #f6f3e9; line-height: .82; letter-spacing: -.05em; left: -3%; top: 9%; padding: 10px 8px; transform: rotate(-7deg); }
+.wall-tag { position: absolute; right: -1%; bottom: 23px; font-family: var(--display); font-size: 48px; color: #111; background: var(--pink); transform: rotate(3deg); padding: 0 12px; }
+.wall-scribble { position: absolute; right: -2%; top: 16%; width: 30%; height: 50%; stroke: var(--lime); stroke-width: 4; transform: rotate(18deg); }
+.nrg-cover { position: relative; isolation: isolate; min-height: 710px; height: min(880px, 100svh); overflow: hidden; background: white; }
+.collage-wall-cover .wall-type { left: 38%; top: 67%; font-size: 125px; transform: rotate(8deg); }
+.collage-wall-cover .wall-tag { right: 5%; bottom: 5%; }
+.cover-repeat { position: absolute; z-index: 0; left: -10px; top: 17%; color: white; font-family: Arial, sans-serif; font-weight: 900; letter-spacing: -.075em; font-size: clamp(115px, 14vw, 230px); line-height: .84; transform: rotate(-2deg); }
+.cover-techno { position: absolute; top: 64px; left: 18%; background: #191218; color: #ffc4eb; font: bold 15px var(--copy); padding: 5px 12px; transform: rotate(-2deg); }
+.cover-poster { position: absolute; right: 0; top: 10%; font-family: var(--display); font-size: clamp(100px, 14vw, 215px); line-height: .83; color: black; background: white; padding: 4px 18px 8px; transform: rotate(2deg); }
+.cover-poster span { display: block; font: 11px var(--copy); letter-spacing: -.03em; margin-top: 7px; }
+.magazine-window { position: absolute; z-index: 10; top: 15%; left: 9%; width: 64%; max-width: 1000px; background: #fffefa; color: #111; border: 1px solid #111; box-shadow: 7px 9px 0 #e1dccf, 10px 13px 0 #111, 14px 20px 28px #0006; transform: rotate(-1deg); }
+.window-bar { display: flex; justify-content: space-between; gap: 8px; align-items: center; font: 8px var(--copy); color: #333; background: #e5e4e4; border-bottom: 1px solid #aaa; padding: 5px 9px; }
+.window-bar > :first-child { color: #818181; font-size: 6px; letter-spacing: 2px; }
+.magazine-masthead { display: flex; justify-content: space-between; align-items: start; padding: 16px 16px 9px; font-size: 11px; }
+.magazine-masthead > :last-child { font-size: 8px; text-align: right; line-height: 1.1; }
+.magazine-content { display: grid; grid-template-columns: 29% 71%; padding: 5px 14px 14px; gap: 0; }
+.magazine-copy { padding: 0 14px 0 0; }
+.magazine-copy h1 { color: #203666; font-family: Arial, Helvetica, sans-serif; font-size: clamp(48px, 5.7vw, 86px); line-height: .8; font-weight: 900; margin: 10px 0 19px; letter-spacing: -.065em; }
+.magazine-copy h1 span { display: block; font-size: .25em; color: black; margin-top: 12px; letter-spacing: -.04em; }
+.magazine-copy p { font: 10px/1.45 Arial, sans-serif; margin: 0 0 14px; }
+.scrap-cta { position: relative; z-index: 10; display: block; background: var(--yellow); padding: 10px 7px; font: bold 9px var(--copy); color: black; transform: rotate(-2deg); border: 1px solid black; }
+.scrap-cta:hover { background: var(--lime); }
+.cover-ratings-link { position: relative; z-index: 10; display: inline-block; color: black; font: bold 8px var(--copy); padding-top: 13px; text-decoration: underline; text-underline-offset: 3px; }
+.magazine-team-photo { position: relative; margin: 0; min-width: 0; }
+.magazine-team-photo img { width: 100%; height: 325px; object-fit: cover; object-position: center 67%; }
+.magazine-team-photo figcaption { background: white; font: 8px var(--copy); padding-top: 6px; }
+.cover-player-cutout { position: absolute; z-index: 5; right: -1%; top: 28%; width: 30%; height: 63%; margin: 0; padding: 8px; background: #f6f3e9; transform: rotate(7deg); clip-path: polygon(0 2%, 18% 0, 38% 2%, 57% 0, 80% 2%, 100% 0, 98% 27%, 100% 52%, 98% 76%, 100% 100%, 70% 98%, 43% 100%, 22% 98%, 0 100%, 2% 74%, 0 46%); }
+.cover-player-cutout img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(1); }
+.cover-player-cutout figcaption { position: absolute; right: 14%; bottom: 13%; color: white; background: black; font-family: var(--display); font-size: 36px; line-height: .85; transform: rotate(-8deg); padding: 7px; }
+.cover-film { position: absolute; z-index: 5; bottom: 8%; left: 8%; width: 21%; height: 32%; margin: 0; padding: 12px 9px 6px; background: #111; transform: rotate(-5deg); border: 4px dashed #dedad1; }
+.cover-film img { width: 100%; height: calc(100% - 18px); object-fit: cover; filter: grayscale(1); }
+.cover-film figcaption { font: 8px var(--copy); padding-top: 5px; color: white; }
+.cover-sticker { position: absolute; z-index: 7; left: 26%; bottom: 12%; width: 132px; min-height: 166px; background: var(--yellow); padding: 13px 15px; color: black; transform: rotate(6deg); }
+.cover-sticker span { font-family: Arial, sans-serif; font-size: 22px; font-weight: 900; line-height: .94; }
+.cover-sticker small { display: block; margin-top: 22px; font: 8px var(--copy); }
+.cover-pen-mark { position: absolute; z-index: 6; left: 33%; bottom: -6%; width: 35%; height: 42%; stroke: var(--pink); stroke-width: 5; transform: rotate(-12deg); }
+.cover-handwriting { position: absolute; z-index: 9; right: 2%; bottom: 3%; font-family: 'Permanent Marker', 'Comic Sans MS', cursive; text-transform: uppercase; font-size: clamp(40px, 6vw, 85px); line-height: .8; color: black; background: white; transform: rotate(-5deg); padding: 2px 6px; }
+.cover-scribble-star { position: absolute; z-index: 6; right: 27%; top: 8%; font-size: 130px; color: var(--blue); line-height: 1; transform: rotate(9deg); }
+.cover-bottom-strip { position: absolute; z-index: 12; bottom: 0; left: 0; right: 0; display: flex; justify-content: space-between; gap: 10px; background: black; color: white; padding: 8px 18px; font: 8px var(--copy); }
+.cover-bottom-strip a { color: var(--lime); }
+.cover-bottom-strip a:hover { text-decoration: underline; }
+
+/* Printed content stays on a continuous sheet instead of competing with the wall. */
+.scrap-section { position: relative; isolation: isolate; padding: 35px 6% 38px; scroll-margin-top: 12px; overflow: hidden; }
+.scrap-section-heading, .ratings-layout { width: 100%; max-width: 1120px; margin-inline: auto; }
+.roster-section .scrap-section-heading, .shanghai-section .scrap-section-heading, .roster-paper, .shanghai-passport-scene { width: 100%; max-width: 1040px; margin-inline: auto; }
+.scrap-section-heading { position: relative; z-index: 4; display: flex; align-items: flex-end; justify-content: space-between; gap: 15px; flex-wrap: wrap; margin-bottom: 20px; }
+.scrap-section-heading > div { padding: 10px 16px 12px; background: #fffefa; border: 1px solid black; box-shadow: 4px 5px 0 #111; transform: rotate(-2deg); }
+.scrap-index { display: inline-block; font: 9px var(--copy); background: black; color: white; padding: 4px 8px; transform: rotate(3deg); margin-bottom: 8px; }
+.scrap-section-heading h2 { font-family: var(--display); font-size: clamp(36px, 5vw, 70px); color: black; font-weight: 400; line-height: .98; margin: 0; letter-spacing: -.015em; }
+.scrap-section-heading p { font-size: 10px; color: black; margin: 8px 0 0; }
+.collage-wall-ratings .wall-type { left: -5%; top: 34%; color: white; background: #111; }
+.ratings-layout { position: relative; z-index: 3; display: grid; grid-template-columns: 26% minmax(0,1fr); gap: 20px; align-items: start; }
+.rating-clippings { position: relative; padding-top: 5px; }
+.nrg-rating-note { position: relative; z-index: 3; background: var(--yellow); padding: 23px 20px 50px; width: 100%; transform: rotate(-6deg); border: 1px solid black; color: black; }
+.scrap-small-label { font: 9px var(--copy); letter-spacing: -.025em; }
+.nrg-rating-note h3 { margin: 14px 0 0; font: 60px/1 var(--display); color: #111; }
+.note-pin { position: absolute; right: 14px; top: 14px; font-size: 35px; color: black; }
+.note-rating { font-family: var(--display); font-size: clamp(58px, 6vw, 90px); line-height: 1; margin: 10px 0 4px; }
+.nrg-rating-note p { font: 10px/1.5 var(--copy); margin: 14px 0; }
+.note-handwriting { position: absolute; left: 18px; bottom: 19px; font-family: 'Permanent Marker', cursive; font-size: 16px; transform: rotate(-4deg); }
+.rating-snapshot { position: relative; width: 108%; height: 260px; margin: -9px 0 0 -10px; padding: 5px 5px 20px; background: white; transform: rotate(4deg); }
+.rating-snapshot img { width: 100%; height: 100%; object-fit: cover; object-position: center 67%; }
+.rating-snapshot figcaption { font: 8px var(--copy); padding-top: 5px; }
+.rating-poster { position: relative; font-family: var(--display); font-size: clamp(50px, 7vw, 100px); line-height: .85; color: white; background: black; transform: rotate(-3deg); padding: 8px 5px; margin: 5px 0 0 -7px; }
+.rating-poster .collage-scribble { position: absolute; inset: 0; width: 100%; height: 100%; stroke: var(--pink); stroke-width: 3; }
+.rating-sheet { position: relative; z-index: 5; min-width: 0; padding: 0 18px 18px; background: #fffefa; border: 1px solid #111; box-shadow: 6px 7px 0 #dfd9ca, 9px 11px 0 #111, 15px 20px 24px #0004; }
+.rating-sheet > .window-bar { margin-inline: -18px; background: black; color: white; border: 1px solid black; padding-block: 7px; }
+.scrap-standings { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 7px 9px; list-style: none; padding: 0; margin: 0; }
+.scrap-standings li { position: relative; display: grid; grid-template-columns: 24px minmax(0,1fr) 60px; gap: 7px; align-items: center; min-height: 78px; padding: 10px 12px; color: black; background: white; border: 1px solid black; box-shadow: 2px 2px 0 black; }
+.scrap-standings li:nth-child(4n+1) { transform: rotate(-1deg); }
+.scrap-standings li:nth-child(4n+2) { transform: rotate(1.2deg); background: #e6edff; }
+.scrap-standings li:nth-child(7n) { background: #ffd1ef; }
+.scrap-standings li.home-team-row { background: var(--lime); }
+.standing-number { grid-column: 1; grid-row: 1 / 3; align-self: start; font: 20px var(--display); }
+.scrap-standings .standing-team { grid-column: 2; display: flex; align-items: center; gap: 7px; font-size: 11px; font-weight: 700; min-width: 0; line-height: 1.2; }
+.scrap-standings small { display: block; font: 8px var(--copy); color: #444; margin-top: 3px; }
+.standing-record { grid-column: 2; grid-row: 2; padding-left: 33px; font: 9px var(--copy); color: #333; text-align: left; }
+.scrap-standings strong { grid-column: 3; grid-row: 1 / 3; font: 27px var(--display); text-align: right; font-variant-numeric: tabular-nums; }
+.rating-footnote { font: 9px/1.5 var(--copy); color: black; background: white; padding: 9px 10px; border: 1px solid black; margin: 12px 0 0; transform: rotate(.5deg); }
+.scrap-empty { padding: 25px 15px; font-size: 12px; color: black; background: white; }
+.roster-section { padding-block: 32px 40px; }
+.collage-wall-roster .wall-type { font-size: 160px; color: white; background: black; left: -20px; top: 20%; line-height: .85; }
+.roster-paper { background: #fffefa; border: 1px solid black; position: relative; z-index: 5; box-shadow: 6px 7px 0 #dfd9ca, 9px 11px 0 #111, 15px 20px 24px #0004; transform: rotate(-.4deg); padding: 0 18px 18px; }
+.roster-paper > .window-bar { margin-inline: -18px; }
+.roster-paper-caption { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin: 14px 0; }
+.roster-paper-caption h3 { font: bold 11px var(--copy); color: black; margin: 0; }
+.handwritten { font-family: 'Permanent Marker', cursive; font-size: 15px; color: black; margin-left: auto; transform: rotate(-3deg); }
+.roster-paper-footer { padding-top: 12px; }
+.roster-paper-footer p { max-width: 650px; color: #333; font: 9px/1.5 var(--copy); margin: 0; }
+.roster-scroll-hint { display: none; }
+@media (max-width: 1100px) {
+  .magazine-window { width: 67%; left: 7%; }
+  .magazine-team-photo img { height: 295px; }
+  .magazine-copy p { font-size: 9px; }
+  .cover-film { bottom: 7%; }
+  .cover-sticker { left: 23%; width: 116px; }
+  .ratings-layout { grid-template-columns: 25% minmax(0,1fr); gap: 15px; }
+  .scrap-section { padding-inline: 4%; }
+  .scrap-standings li { padding-inline: 9px; grid-template-columns: 20px minmax(0,1fr) 53px; gap: 5px; }
+  .scrap-standings strong { font-size: 24px; }
+  .scrap-standings .standing-team { font-size: 10px; }
+}
+@media (max-width: 767px) {
+  .portal-header { top: 12px; left: 12px; }
+  .portal-wordmark { font-size: 21px; padding: 7px; }
+  .portal-wordmark i, .masthead-note { display: none; }
+  .portal-navigation { top: 53px; left: 14px; right: auto; gap: 5px; }
+  .portal-navigation { width: calc(100% - 28px); max-width: calc(100% - 28px); flex-wrap: wrap; }
+  .theme-toggle { position: absolute; top: -41px; right: 0; }
+  .portal-nav-link { font-size: 9px; padding: 7px 9px; }
+  .nrg-cover { height: 780px; min-height: 0; }
+  .wall-print-1 { width: 64%; left: -20%; }
+  .wall-print-2 { width: 63%; left: 32%; }
+  .wall-print-3 { width: 54%; right: -29%; }
+  .wall-print-4 { width: 49%; left: -25%; }
+  .wall-print-6 { width: 52%; right: -25%; }
+  .wall-print-8 { width: 51%; right: -9%; }
+  .wall-tag { font-size: 28px; }
+  .wall-paper-pink { width: 34%; }
+  .wall-paper-blue { width: 30%; }
+  .wall-paper-lime { width: 28%; }
+  .collage-wall-cover .wall-type { top: 70%; left: 25%; font-size: 90px; }
+  .cover-repeat { font-size: 140px; left: -17px; top: 19%; }
+  .cover-techno { top: 105px; left: 7%; font-size: 11px; }
+  .cover-poster { right: -5%; top: 11%; font-size: 98px; padding-inline: 8px; }
+  .cover-poster span { font-size: 7px; }
+  .magazine-window { top: 25%; left: 6%; width: 88%; transform: rotate(-2deg); }
+  .window-bar { font-size: 6px; padding: 4px 6px; }
+  .magazine-masthead { font-size: 9px; padding: 10px 10px 8px; }
+  .magazine-masthead > :last-child { font-size: 6px; }
+  .magazine-content { grid-template-columns: 31% 69%; padding: 4px 8px 9px; }
+  .magazine-copy { padding-right: 8px; }
+  .magazine-copy h1 { font-size: 43px; margin: 8px 0 13px; }
+  .magazine-copy h1 span { font-size: 13px; margin-top: 8px; }
+  .magazine-copy p { font-size: 10px; line-height: 1.4; margin-bottom: 12px; }
+  .magazine-copy p + p { display: none; }
+  .scrap-cta { font-size: 8px; padding: 9px 5px; }
+  .cover-ratings-link { font-size: 8px; padding-top: 10px; }
+  .magazine-team-photo img { height: 220px; }
+  .magazine-team-photo figcaption { font-size: 6px; }
+  .cover-player-cutout { top: 56%; height: 36%; right: -4%; width: 48%; }
+  .cover-player-cutout figcaption { font-size: 23px; right: 8%; }
+  .cover-film { left: 7%; width: 34%; height: 23%; bottom: 11%; padding: 5px; border-width: 3px; }
+  .cover-film figcaption { font-size: 6px; }
+  .cover-sticker { left: 34%; bottom: 14%; width: 88px; min-height: 122px; padding: 10px; }
+  .cover-sticker span { font-size: 18px; }
+  .cover-sticker small { margin-top: 14px; font-size: 6px; }
+  .cover-pen-mark { left: 26%; width: 60%; bottom: -2%; height: 28%; }
+  .cover-handwriting { font-size: 41px; right: 0; bottom: 4%; }
+  .cover-scribble-star { top: 14%; right: 43%; font-size: 82px; }
+  .cover-bottom-strip { font-size: 6px; padding: 8px; }
+  .cover-bottom-strip > :last-child { text-align: right; }
+  .scrap-section { padding: 24px 16px 28px; }
+  .scrap-section-heading { gap: 10px; margin-bottom: 16px; }
+  .scrap-section-heading > div { padding: 8px 10px; max-width: 100%; }
+  .scrap-section-heading h2 { font-size: clamp(31px, 9vw, 55px); }
+  .scrap-section-heading p { font-size: 9px; }
+  .scrap-index { font-size: 8px; }
+  .wall-type { font-size: 130px; }
+  .ratings-layout { grid-template-columns: 1fr; gap: 18px; }
+  .rating-clippings { position: relative; min-height: 230px; padding: 0; }
+  .nrg-rating-note { width: 58%; padding: 17px 14px 37px; transform: rotate(-5deg); }
+  .nrg-rating-note h3 { font-size: 42px; margin-top: 10px; }
+  .scrap-small-label { font-size: 7px; }
+  .note-rating { font-size: 57px; margin-top: 5px; }
+  .note-pin { font-size: 26px; right: 12px; top: 28px; }
+  .nrg-rating-note p { font-size: 8px; margin: 10px 0; }
+  .note-handwriting { font-size: 11px; left: 13px; bottom: 16px; }
+  .rating-snapshot { position: absolute; width: 48%; height: 185px; right: 0; top: 16px; margin: 0; transform: rotate(5deg); }
+  .rating-snapshot figcaption { font-size: 6px; }
+  .rating-poster { position: absolute; right: -5px; bottom: -3px; font-size: 32px; line-height: .87; z-index: 3; }
+  .rating-sheet { padding: 0 10px 12px; }
+  .rating-sheet > .window-bar { margin-inline: -10px; }
+  .scrap-standings { grid-template-columns: 1fr; gap: 7px; }
+  .scrap-standings li { grid-template-columns: 27px minmax(0,1fr) 65px; min-height: 67px; padding: 8px 12px; }
+  .scrap-standings .standing-team { font-size: 12px; }
+  .scrap-standings strong { font-size: 28px; }
+  .standing-record { font-size: 9px; }
+  .roster-paper { padding: 0 9px 12px; transform: rotate(-.4deg); }
+  .roster-paper > .window-bar { margin-inline: -9px; }
+  .roster-paper-caption { gap: 7px; margin: 11px 0; }
+  .roster-paper-caption h3 { font-size: 10px; }
+  .handwritten { width: 100%; margin-left: 0; font-size: 13px; }
+  .roster-scroll-hint { display: block; font: 8px var(--copy); color: #333; margin: 0 0 9px; }
+  .paper-roster-timeline table { min-width: 695px; }
+  .paper-roster-timeline col:first-child { width: 145px !important; }
+  .paper-roster-timeline col:not(:first-child) { width: 110px !important; }
+  .portal-footer { padding: 12px 16px; font-size: 8px; }
+}
+/* A physical travel diary sits on top of the collage stock. */
+.shanghai-section { padding-bottom: 64px; }
+.collage-wall-shanghai .wall-type { background: var(--lime); font-size: 170px; top: 20%; }
+.shanghai-passport-scene { position: relative; z-index: 5; isolation: isolate; display: grid; place-items: center; padding: 32px 30px 28px; min-height: 560px; perspective: 1800px; overflow-anchor: none; background: #f8f6ef; border: 1px solid #111; box-shadow: 6px 7px 0 #dfd9ca, 9px 11px 0 #111, 15px 20px 24px #0004; }
+.shanghai-passport-scene::before { content: ''; position: absolute; z-index: -1; inset: 0; pointer-events: none; background: repeating-linear-gradient(0deg, transparent 0 31px, #c7c0ab35 31px 32px); }
+.passport-luggage-label { position: absolute; top: 3%; right: -1%; background: var(--yellow); border: 1px solid #111; padding: 14px 20px; font: 16px var(--copy); transform: rotate(7deg); box-shadow: 3px 3px 0 #111; }
+.passport-luggage-label b { font: 28px var(--display); }
+.passport-cover { position: relative; display: flex; flex-direction: column; align-items: center; width: 310px; min-height: 430px; margin: 0 0 18px; padding: 32px 22px 24px; color: #d8be82; background-color: #482128; background-image: repeating-linear-gradient(21deg, #ffffff04 0 1px, transparent 1px 4px), repeating-linear-gradient(119deg, #00000012 0 1px, transparent 1px 3px); border: 1px solid #231116; border-left: 8px solid #351b20; border-radius: 4px 13px 13px 4px; box-shadow: inset 0 0 0 8px #ffffff06, inset 0 0 0 10px #c5a76730, 3px 4px 0 #e7d9ba, 5px 7px 0 #b8ae97, 10px 16px 20px #0007; transform: rotate(-5deg); cursor: pointer; transition: transform .25s; }
+.passport-cover:hover { transform: rotate(-2deg) translateY(-5px); }
+.passport-cover-top { font: 9px var(--copy); letter-spacing: 2px; }
+.passport-cover > strong { margin: 22px 0 0; font: 62px/.95 var(--display); letter-spacing: 2px; }
+.passport-cover svg { width: 130px; height: 130px; margin: 12px 0; fill: none; stroke: currentColor; stroke-width: 1.4; opacity: .8; }
+.passport-cover svg path:last-child { fill: #482128; stroke-width: 2; }
+.passport-cover-title { font: 27px var(--display); letter-spacing: 4px; }
+.passport-cover-chinese { font: 11px var(--copy); margin-top: 8px; }
+.passport-open-label { display: block; margin-top: 31px; font: 10px var(--copy); border-bottom: 1px solid #d8be8270; padding-bottom: 3px; }
+.passport-diary { position: relative; width: min(100%, 900px); min-width: 0; }
+.passport-book-stage { position: relative; display: grid; align-items: center; min-height: 530px; }
+.passport-resting-cover { position: absolute; z-index: 20; left: 50%; top: 50%; margin: 0; transform: translate(-50%, -50%) rotate(-5deg); }
+.passport-resting-cover:hover { transform: translate(-50%, -50%) rotate(-2deg); }
+.passport-closed .passport-book, .passport-closed .passport-toolbar, .passport-closed .passport-controls, .passport-closed .passport-load-status { visibility: hidden; pointer-events: none; }
+.shanghai-passport-scene:not(.passport-closed) .passport-resting-cover { visibility: hidden; pointer-events: none; }
+.passport-book.is-opening, .passport-book.is-closing { transform-origin: var(--passport-origin-x) var(--passport-origin-y); background: transparent; box-shadow: none; }
+.passport-book.is-opening { animation: passport-open-spread 1100ms cubic-bezier(.22,.68,.2,1) both; }
+.passport-book.is-closing { animation: passport-close-spread 1100ms cubic-bezier(.22,.68,.2,1) both; }
+.passport-book.is-opening .passport-paper-left { transform-origin: right center; backface-visibility: hidden; animation: passport-unfold-paper 1100ms cubic-bezier(.22,.68,.2,1) both; }
+.passport-book.is-closing .passport-paper-left { visibility: hidden; }
+.passport-book.is-opening .passport-paper-left .passport-page-content { visibility: hidden; }
+.passport-opening .passport-toolbar, .passport-opening .passport-controls { animation: passport-reveal-controls 450ms 650ms ease-out both; }
+.passport-closing .passport-toolbar, .passport-closing .passport-controls { animation: passport-hide-controls 180ms ease-in both; }
+.passport-opening-cover { position: absolute; left: 50%; top: 7px; bottom: 10px; width: calc(50% - 7px); z-index: 15; transform-origin: left center; transform-style: preserve-3d; pointer-events: none; animation: passport-open-cover 1000ms 80ms cubic-bezier(.25,.65,.2,1) both; }
+.passport-opening-cover.is-closing { animation: passport-close-cover 650ms cubic-bezier(.25,.65,.2,1) both; }
+/* Keep the artwork at the resting cover's size. Its expansion cancels the
+   book's final shrink, so typography and edges match at the handoff. */
+.passport-opening-front.passport-cover { position: absolute; top: 0; left: 0; width: var(--passport-cover-width); height: var(--passport-cover-height); min-height: 0; margin: 0; transform: scale(var(--passport-cover-expand-x), var(--passport-cover-expand-y)); transform-origin: top left; transition: none; backface-visibility: hidden; overflow: hidden; }
+.passport-opening-inside { border-radius: 3px; box-shadow: inset -14px 0 17px -13px #0009; }
+@keyframes passport-open-spread {
+  from { transform: translate(var(--passport-rest-x), var(--passport-rest-y)) rotate(-5deg) scale(var(--passport-open-scale-x), var(--passport-open-scale-y)); }
+  to { transform: translateX(0) rotate(0) scale(1); }
+}
+@keyframes passport-close-spread {
+  0%, 60% { transform: translate(0, 0) rotate(0) scale(1); }
+  100% { transform: translate(var(--passport-rest-x), var(--passport-rest-y)) rotate(-5deg) scale(var(--passport-open-scale-x), var(--passport-open-scale-y)); }
+}
+@keyframes passport-open-cover { from { transform: rotateY(0); } to { transform: rotateY(-180deg); } }
+@keyframes passport-close-cover { from { transform: rotateY(-180deg); } to { transform: rotateY(0); } }
+@keyframes passport-unfold-paper { from { transform: rotateY(88deg); opacity: 0; } 35% { opacity: 1; } to { transform: rotateY(0); opacity: 1; } }
+@keyframes passport-reveal-controls { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes passport-hide-controls { from { opacity: 1; } to { opacity: 0; } }
+.passport-toolbar, .passport-controls { position: relative; display: flex; align-items: center; justify-content: space-between; gap: 10px; font: 600 13px/1.4 var(--copy); }
+.passport-toolbar { margin: 0 0 13px; }
+.passport-toolbar button, .passport-toolbar label, .passport-controls { background: #fff; border: 1px solid #111; padding: 9px 12px; box-shadow: 2px 2px 0 #111; }
+.passport-toolbar button, .passport-controls button { color: #111; cursor: pointer; }
+.passport-toolbar label { display: flex; align-items: center; gap: 8px; }
+.passport-toolbar select { padding: 3px 6px; color: #111; background: #f2eccf; border: 1px solid #111; }
+.passport-book { position: relative; display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); align-items: stretch; background: #482128; padding: 7px 7px 10px; border-radius: 6px; box-shadow: 3px 4px 0 #b4a98e, 5px 7px 0 #482128, 8px 13px 22px #0007; perspective: 1800px; }
+.passport-paper, .passport-sheet-front, .passport-sheet-back { color: #28353c; background-color: #eee8d2; background-image: repeating-linear-gradient(36deg, #7d958b06 0 1px, transparent 1px 4px), repeating-radial-gradient(ellipse at 50% 30%, transparent 0 18px, #9cae9820 19px 20px, transparent 21px 24px); }
+.passport-paper { position: relative; min-width: 0; }
+.passport-paper-left { grid-column: 1; grid-row: 1; border-radius: 3px 0 0 3px; box-shadow: inset -14px 0 17px -13px #0009; }
+.passport-paper-right { grid-column: 2; grid-row: 1; border-radius: 0 3px 3px 0; box-shadow: inset 14px 0 17px -13px #0009; }
+.passport-inactive-page { visibility: hidden; pointer-events: none; }
+.passport-page-content { position: relative; min-height: 530px; padding: 22px 26px 38px; }
+.passport-page-label { display: flex; justify-content: space-between; gap: 5px; font: 600 10px/1.4 var(--copy); padding-bottom: 12px; border-bottom: 1px solid #52676b55; letter-spacing: .07em; }
+.passport-photo { position: relative; width: 48%; margin-top: 26px; padding: 5px 5px 16px; background: #f9f8ef; transform: rotate(-4deg); box-shadow: 1px 2px 3px #0004; }
+.passport-photo img { width: 100%; height: 140px; object-fit: cover; filter: grayscale(1) sepia(.2); }
+.passport-photo span { display: block; font: 6px var(--copy); margin-top: 5px; }
+.passport-entry-stamp { position: absolute; right: 21px; top: 104px; display: flex; flex-direction: column; align-items: center; justify-content: center; width: 121px; height: 121px; border: 3px double #3e527bc2; border-radius: 50%; color: #3e527bc2; font: bold 14px var(--copy); transform: rotate(17deg); }
+.passport-entry-stamp b { font-size: 28px; border-block: 1px solid; margin: 3px 0; line-height: 1.2; }
+.passport-entry-stamp small { font-size: 9px; }
+.passport-field-label { font: 600 10px/1.4 var(--copy); letter-spacing: .07em; margin: 20px 0 5px; }
+.passport-identity h3 { font: 43px/1 var(--display); text-transform: uppercase; margin: 0; color: #26383e; }
+.passport-riot-id { font: 600 16px/1.5 var(--copy); overflow-wrap: anywhere; margin: 0; }
+.passport-id-details { display: flex; gap: 24px; margin-top: 18px; }
+.passport-id-details span { display: block; font: 600 10px/1.4 var(--copy); letter-spacing: .07em; margin-bottom: 4px; }
+.passport-id-details b { font: 600 12px/1.4 var(--copy); }
+.passport-handwriting { font: 18px 'Permanent Marker', cursive; transform: rotate(-4deg); color: #244fb5; margin: 25px 0; }
+.passport-machine-line { font: 11px/1.5 var(--copy); letter-spacing: 1px; overflow: hidden; white-space: nowrap; opacity: .7; }
+.passport-page-number { position: absolute; bottom: 13px; right: 20px; font: 10px var(--copy); }
+.passport-paper-left .passport-page-number { right: auto; left: 20px; }
+.passport-record h4 { color: #28353c; font: 30px/1.1 var(--display); margin: 23px 0 13px; }
+.passport-rank { padding: 7px 10px; border: 1px solid #50684a8c; background: #94ae7a20; transform: rotate(-1deg); }
+.passport-rank > span { display: block; font: 600 10px/1.4 var(--copy); letter-spacing: .07em; }
+.passport-rank strong { display: block; font: 700 16px/1.4 var(--copy); margin-top: 5px; }
+.passport-stats { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 13px 10px; margin: 21px 0 16px; }
+.passport-stats dt { font: 600 11px/1.4 var(--copy); text-transform: uppercase; letter-spacing: .04em; }
+.passport-stats dd { font: 26px var(--display); margin: 3px 0 0; }
+.passport-status { font: 13px/1.5 var(--copy); margin: 12px 0; }
+.passport-record .passport-meet-heading { font-size: 26px; margin: 25px 0 5px; border-top: 1px dashed #28353c55; padding-top: 15px; }
+.passport-meet-caption { font: 13px/1.5 var(--copy); margin: 0 0 12px; }
+.passport-encounters { list-style: none; padding: 0; margin: 0; }
+.passport-encounters li { border-bottom: 1px solid #52676b35; padding: 10px 0; display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; column-gap: 10px; row-gap: 3px; }
+.passport-encounters strong { font: 700 15px/1.4 var(--copy); }
+.passport-encounters span { font: 500 12px/1.5 var(--copy); font-variant-numeric: tabular-nums; }
+.passport-encounters time { width: 100%; font: 11px/1.4 var(--copy); color: #52646b; margin-top: 2px; }
+.passport-coverage { font: 12px/1.5 var(--copy); margin: 12px 0 0; color: #52646b; }
+.passport-controls { margin-top: 17px; background: var(--yellow); }
+.passport-controls button { border: 1px solid #111; background: white; padding: 8px 10px; font: 600 13px/1.4 var(--copy); }
+.passport-controls button:disabled { cursor: default; color: #666; background: #f2eccf; border-color: #8c8776; }
+.passport-controls button:hover:not(:disabled), .passport-toolbar button:hover { background: var(--lime); }
+.passport-controls > span { text-align: center; }
+.passport-load-status { padding: 35px; background: #eee8d2; font: 12px var(--copy); }
+.passport-turning-sheet { position: absolute; top: 7px; bottom: 10px; width: calc(50% - 7px); transform-style: preserve-3d; z-index: 10; pointer-events: none; }
+.turn-forward { left: 50%; transform-origin: left center; animation: passport-flip-forward 660ms ease-in-out both; }
+.turn-backward { right: 50%; transform-origin: right center; animation: passport-flip-backward 660ms ease-in-out both; }
+.passport-sheet-front, .passport-sheet-back { position: absolute; inset: 0; overflow: hidden; backface-visibility: hidden; box-shadow: 0 0 16px #0004; }
+.passport-sheet-back { transform: rotateY(180deg); }
+@keyframes passport-flip-forward { from { transform: rotateY(0); } to { transform: rotateY(-180deg); } }
+@keyframes passport-flip-backward { from { transform: rotateY(0); } to { transform: rotateY(180deg); } }
+@media (max-width: 767px) {
+  .portal-navigation { right: 12px; flex-wrap: wrap; }
+  .portal-nav-link { font-size: 8px; padding-inline: 7px; }
+  .shanghai-section { padding-bottom: 35px; }
+  .shanghai-passport-scene { padding: 40px 8px 16px; min-height: 470px; }
+  .passport-luggage-label { top: 0; font-size: 10px; padding: 8px 10px; }
+  .passport-luggage-label b { font-size: 17px; }
+  .passport-cover { width: 255px; min-height: 390px; }
+  .passport-book { padding: 5px 5px 8px; }
+  .passport-page-content { min-height: 510px; padding: 13px 11px 27px; }
+  .passport-page-label { font-size: 8px; letter-spacing: .03em; }
+  .passport-page-label > :last-child { display: none; }
+  .passport-photo { width: 88%; margin-top: 18px; padding: 3px 3px 12px; }
+  .passport-photo img { height: 117px; }
+  .passport-photo span { font-size: 5px; }
+  .passport-entry-stamp { z-index: 2; width: 66px; height: 66px; right: 2px; top: 160px; font-size: 8px; background: #eee8d290; border-width: 2px; }
+  .passport-entry-stamp b { font-size: 17px; margin: 1px 0; }
+  .passport-entry-stamp small { font-size: 5px; }
+  .passport-field-label { margin-top: 18px; font-size: 9px; }
+  .passport-identity h3 { font-size: 29px; }
+  .passport-riot-id { font-size: 12px; }
+  .passport-id-details { flex-direction: column; gap: 10px; margin-top: 16px; }
+  .passport-id-details span { font-size: 9px; }
+  .passport-id-details b { font-size: 11px; }
+  .passport-handwriting { font-size: 12px; margin: 17px 0; }
+  .passport-machine-line { font-size: 7px; letter-spacing: 0; }
+  .passport-record h4 { font-size: 21px; margin-top: 18px; }
+  .passport-rank { padding: 6px; }
+  .passport-rank span { font-size: 9px; letter-spacing: 0; }
+  .passport-rank strong { font-size: 12px; }
+  .passport-stats { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px 8px; margin: 17px 0; }
+  .passport-stats dt { font-size: 9px; }
+  .passport-stats dd { font-size: 21px; }
+  .passport-status { font-size: 11px; }
+  .passport-record .passport-meet-heading { font-size: 19px; margin-top: 18px; padding-top: 12px; }
+  .passport-meet-caption { font-size: 11px; }
+  .passport-coverage { font-size: 10px; }
+  .passport-encounters li:nth-child(n + 7) { display: none; }
+  .passport-encounters strong { font-size: 13px; }
+  .passport-encounters span { width: 100%; font-size: 10px; line-height: 1.5; }
+  .passport-encounters time { font-size: 10px; }
+  .passport-toolbar { font-size: 11px; gap: 8px; }
+  .passport-toolbar button, .passport-toolbar label { padding: 7px; }
+  .passport-toolbar label { gap: 5px; }
+  .passport-controls { padding: 8px; gap: 5px; font-size: 11px; }
+  .passport-controls button { padding: 7px 6px; font-size: 11px; }
+  .passport-turning-sheet { top: 5px; bottom: 8px; width: calc(50% - 5px); }
+  .passport-opening-cover { top: 5px; bottom: 8px; width: calc(50% - 5px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .passport-turning-sheet { display: none; }
+  .passport-cover { transition: none; }
+  .passport-book.is-opening, .passport-book.is-closing, .passport-book.is-opening .passport-paper-left, .passport-toolbar, .passport-controls { animation: none; }
+  .passport-opening-cover { display: none; }
+}
+
+/* Night paper keeps the photographs and fluorescent clippings in the scrapbook. */
+html[data-theme='dark'] { color-scheme: dark; --yellow: #aa9254; --paper: #17181b; --ink: #f2eee5; --muted: #bcb7ae; --rule: #515159; --ui-base: #17181b; --ui-surface: #232429; --ui-surface2: #2d2e34; --ui-surface3: #37383f; --ui-border: #515159; --ui-ink: #f2eee5; --ui-muted: #bcb7ae; }
+html[data-theme='dark'], html[data-theme='dark'] body { background: #17181b; color: var(--ink); }
+html[data-theme='dark'] .team-logo-light { display: none; }
+html[data-theme='dark'] .team-logo-dark { display: inline-block; }
+html[data-theme='dark'] .home-team-row .team-logo-light { display: inline-block; }
+html[data-theme='dark'] .home-team-row .team-logo-dark { display: none; }
+html[data-theme='dark'] .portal-nav-link, html[data-theme='dark'] .masthead-note { background: #232429; color: var(--ink); border-color: #858078; }
+html[data-theme='dark'] .portal-nav-link:hover, html[data-theme='dark'] .portal-nav-link.is-active { background: var(--lime); color: #111; }
+html[data-theme='dark'] .theme-toggle[aria-pressed='true'] { background: #37383f; }
+html[data-theme='dark'] .wall-print img { filter: brightness(.48) saturate(.65); }
+html[data-theme='dark'] .wall-print:nth-child(3n+1) img { filter: grayscale(1) brightness(.48); }
+html[data-theme='dark'] .wall-print { background: #45423d; }
+html[data-theme='dark'] .wall-paper { filter: brightness(.68); }
+html[data-theme='dark'] .magazine-window,
+html[data-theme='dark'] .scrap-section-heading > div,
+html[data-theme='dark'] .rating-sheet,
+html[data-theme='dark'] .roster-paper { background: #232429; color: var(--ink); box-shadow: 6px 7px 0 #41403d, 9px 11px 0 #080809, 15px 20px 24px #0008; }
+html[data-theme='dark'] .window-bar { background: #35363b; color: #dfdbd2; border-color: #515159; }
+html[data-theme='dark'] .magazine-copy h1 { color: #b8cafa; }
+html[data-theme='dark'] .magazine-copy h1 span,
+html[data-theme='dark'] .cover-ratings-link,
+html[data-theme='dark'] .scrap-section-heading h2,
+html[data-theme='dark'] .scrap-section-heading p,
+html[data-theme='dark'] .roster-paper-caption h3,
+html[data-theme='dark'] .handwritten,
+html[data-theme='dark'] .roster-scroll-hint { color: var(--ink); }
+html[data-theme='dark'] .roster-paper-footer p { color: var(--muted); }
+html[data-theme='dark'] .scrap-standings li { background: #2d2e34; color: var(--ink); border-color: #66646a; }
+html[data-theme='dark'] .scrap-standings li:nth-child(4n+2) { background: #29334b; }
+html[data-theme='dark'] .scrap-standings li:nth-child(7n) { background: #4b2941; }
+html[data-theme='dark'] .scrap-standings li.home-team-row { background: var(--lime); color: #111; }
+html[data-theme='dark'] .standing-record, html[data-theme='dark'] .scrap-standings small { color: #c4bfb8; }
+html[data-theme='dark'] .home-team-row .standing-record, html[data-theme='dark'] .home-team-row small { color: #333; }
+html[data-theme='dark'] .rating-footnote, html[data-theme='dark'] .scrap-empty { background: #2d2e34; color: var(--ink); border-color: #66646a; }
+html[data-theme='dark'] .paper-roster-timeline { background: #232429; border-color: #66646a; }
+html[data-theme='dark'] .paper-roster-timeline td:first-child { background: #30312e; color: var(--ink); }
+html[data-theme='dark'] .shanghai-passport-scene { background: #232429; color: var(--ink); box-shadow: 6px 7px 0 #41403d, 9px 11px 0 #080809, 15px 20px 24px #0008; }
+html[data-theme='dark'] .passport-toolbar button,
+html[data-theme='dark'] .passport-toolbar label,
+html[data-theme='dark'] .passport-controls { background: #2d2e34; color: var(--ink); border-color: #66646a; }
+html[data-theme='dark'] .passport-controls button { color: var(--ink); }
+html[data-theme='dark'] .passport-toolbar select { background: #37383f; color: var(--ink); border-color: #66646a; }
+html[data-theme='dark'] .passport-paper,
+html[data-theme='dark'] .passport-sheet-front,
+html[data-theme='dark'] .passport-sheet-back { background-color: #303630; color: #eee8d2; }
+html[data-theme='dark'] .passport-identity h3, html[data-theme='dark'] .passport-record h4 { color: #eee8d2; }
+html[data-theme='dark'] .passport-entry-stamp { color: #a8bce6; border-color: #a8bce6; }
+html[data-theme='dark'] .passport-handwriting { color: #aac2ff; }
+html[data-theme='dark'] .passport-photo { color: #28353c; }
+html[data-theme='dark'] ::-webkit-scrollbar-track { background: #17181b; }
+html[data-theme='dark'] ::-webkit-scrollbar-thumb { background: #65615a; }
+
+/* A travel scrapbook: colored stock, ticket stamps, ink and actual color photos. */
+.shanghai-passport-scene { background-color: #eff1fb; }
+.passport-cover { color: #b9eddf; background-color: #203c85; border-color: #101c47; border-left-color: #16275b; box-shadow: inset 0 0 0 8px #ffffff06, inset 0 0 0 10px #b9eddf60, 3px 4px 0 #bdb8e5, 5px 7px 0 #8486b4, 10px 16px 20px #0007; }
+.passport-cover svg path:last-child { fill: #203c85; }
+.passport-cover-title { color: #ffb5cb; }
+.passport-open-label { border-color: #b9eddf80; }
+.passport-book { background: #203c85; box-shadow: 3px 4px 0 #a6abd2, 5px 7px 0 #203c85, 8px 13px 22px #0007; }
+.passport-paper, .passport-sheet-front, .passport-sheet-back { color: #202f55; background-color: #f4f6ff; background-image: repeating-linear-gradient(0deg, transparent 0 31px, #5a7abc14 31px 32px); }
+.passport-paper-left,
+.turn-backward .passport-sheet-front,
+.turn-forward .passport-sheet-back,
+.passport-opening-inside { background-color: #eee6ff; background-image: repeating-linear-gradient(0deg, transparent 0 31px, #906db516 31px 32px); }
+.passport-paper-right,
+.turn-forward .passport-sheet-front,
+.turn-backward .passport-sheet-back { background-color: #e9f5f5; }
+.passport-page-label { border-color: #4667b366; }
+.passport-photo { background: #fff; box-shadow: 3px 4px 0 #a891cd55; }
+.passport-photo::before { content: ''; position: absolute; left: 29%; top: -9px; width: 54%; height: 20px; background: #ed8fbd9c; transform: rotate(7deg); }
+.passport-photo img { filter: none; }
+.passport-entry-stamp { color: #ce3770; border-color: #ce3770; }
+.passport-visa-sticker { position: absolute; top: 66px; right: 24px; background: #b3e4d3; color: #173d49; border: 1px dashed #173d49; padding: 5px 8px; font: 700 10px var(--copy); transform: rotate(-7deg); box-shadow: 2px 2px 0 #173d4940; }
+.passport-identity h3, .passport-record h4 { color: #243f8a; }
+.passport-identity h3 { width: fit-content; padding-right: 9px; background: linear-gradient(transparent 67%, #ffabc8 67% 94%, transparent 94%); }
+.passport-handwriting { color: #7544b7; }
+.passport-page-doodle { position: absolute; right: 14px; bottom: 34px; width: 96px; height: 68px; fill: none; stroke: #da4d89; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; pointer-events: none; opacity: .65; transform: rotate(-12deg); }
+.passport-rank { background: #c5ddff; border: 1px solid #345da8; box-shadow: 3px 3px 0 #345da833; }
+.passport-stats { gap: 10px; }
+.passport-stats > div { padding: 9px 10px; border: 1px solid #45629555; background: #d4e9fc; }
+.passport-stats > div:nth-child(3n+2) { background: #e4d6fa; transform: rotate(-1deg); }
+.passport-stats > div:nth-child(3n) { background: #f5cfdb; transform: rotate(1deg); }
+.passport-encounters li { border-color: #45629555; }
+.passport-encounters strong { color: #7544b7; }
+.passport-record .passport-meet-heading { border-color: #ce377066; }
+.passport-encounters time, .passport-coverage { color: #4b5d86; }
+.passport-page-number { display: grid; place-items: center; min-width: 24px; height: 24px; border: 1px solid #ce3770; border-radius: 50%; color: #ce3770; transform: rotate(8deg); }
+.passport-controls { background: #dad9f5; color: #202f55; }
+.passport-controls button:disabled { color: #66708b; background: #dce2f2; border-color: #909bb7; }
+html[data-theme='dark'] .passport-paper,
+html[data-theme='dark'] .passport-sheet-front,
+html[data-theme='dark'] .passport-sheet-back { color: #e4ebff; background-color: #24394c; }
+html[data-theme='dark'] .passport-paper-left,
+html[data-theme='dark'] .turn-backward .passport-sheet-front,
+html[data-theme='dark'] .turn-forward .passport-sheet-back,
+html[data-theme='dark'] .passport-opening-inside { background-color: #352d4c; }
+html[data-theme='dark'] .passport-identity h3,
+html[data-theme='dark'] .passport-record h4 { color: #bacaff; }
+html[data-theme='dark'] .passport-identity h3 { background: linear-gradient(transparent 67%, #833c66 67% 94%, transparent 94%); }
+html[data-theme='dark'] .passport-entry-stamp { color: #f79cc1; border-color: #f79cc1; }
+html[data-theme='dark'] .passport-handwriting,
+html[data-theme='dark'] .passport-encounters strong { color: #d0b5ff; }
+html[data-theme='dark'] .passport-rank { background: #324f7a; border-color: #8daff1; }
+html[data-theme='dark'] .passport-stats > div { background: #304a69; border-color: #92abce66; }
+html[data-theme='dark'] .passport-stats > div:nth-child(3n+2) { background: #493763; }
+html[data-theme='dark'] .passport-stats > div:nth-child(3n) { background: #61364c; }
+html[data-theme='dark'] .passport-encounters time,
+html[data-theme='dark'] .passport-coverage { color: #b3c3e4; }
+html[data-theme='dark'] .passport-page-number { color: #f79cc1; border-color: #f79cc1; }
+.passport-page-content[data-player] { height: 100%; background-color: var(--player-paper); background-image: repeating-linear-gradient(0deg, transparent 0 31px, #49628612 31px 32px); }
+.passport-page-content[data-pattern='stripes'] { background-image: repeating-linear-gradient(135deg, transparent 0 29px, #b84b1708 29px 34px); }
+.passport-page-content[data-pattern='waves'] { background-image: repeating-radial-gradient(ellipse at 0 25%, transparent 0 20px, #167e6d0d 21px 23px, transparent 24px 42px); }
+.passport-page-content[data-pattern='stars'] { background-image: radial-gradient(#b02f831f 1px, transparent 1px); background-size: 19px 19px; }
+.passport-page-content[data-pattern='grid'] { background-image: linear-gradient(#285ebe12 1px, transparent 1px), linear-gradient(90deg, #285ebe12 1px, transparent 1px); background-size: 23px 23px; }
+.passport-page-content[data-pattern='checks'] { background-image: repeating-conic-gradient(#526f1708 0% 25%, transparent 0% 50%); background-size: 34px 34px; }
+.passport-page-content[data-pattern='diagram'] { background-image: radial-gradient(#7550ad25 1px, transparent 1px); background-size: 28px 28px; }
+.passport-identity .passport-photo { margin-top: 18px; }
+.passport-identity .passport-photo img { height: 110px; }
+.passport-identity .passport-field-label { margin-top: 10px; }
+.passport-identity .passport-id-details { margin-top: 10px; }
+.passport-identity .passport-handwriting { margin: 14px 0; }
+.passport-familiar-faces .passport-meet-heading { font: 26px/1.1 var(--display); margin: 18px 0 5px; padding-top: 13px; border-top: 1px dashed var(--player-accent); }
+.passport-familiar-faces .passport-meet-caption { font-size: 11px; margin-bottom: 6px; }
+.passport-familiar-faces .passport-encounters li { padding-block: 6px; }
+.passport-familiar-faces .passport-encounters strong { font-size: 13px; }
+.passport-familiar-faces .passport-encounters span { font-size: 11px; }
+.passport-familiar-faces .passport-encounters time { font-size: 10px; }
+.passport-page-content[data-player] .passport-entry-stamp,
+.passport-page-content[data-player] .passport-page-number { color: var(--player-accent); border-color: var(--player-accent); }
+.passport-page-content[data-player] .passport-handwriting,
+.passport-page-content[data-player] .passport-encounters strong,
+.passport-page-content[data-player] h3,
+.passport-page-content[data-player] h4 { color: var(--player-accent); }
+.passport-page-content[data-player] .passport-page-doodle { stroke: var(--player-accent); }
+.passport-page-content[data-player] .passport-visa-sticker,
+.passport-page-content[data-player] .passport-rank,
+.passport-page-content[data-player] .passport-stats > div:nth-child(2n+1) { background-color: var(--player-wash); }
+.passport-page-content[data-player] .passport-photo::before { background: var(--player-wash); }
+.passport-page-content[data-player] h3 { background: linear-gradient(transparent 67%, var(--player-wash) 67% 94%, transparent 94%); }
+.passport-identity[data-player='ethan'] .passport-entry-stamp { border-radius: 0; width: 118px; height: 90px; border-style: dashed; transform: rotate(-8deg); }
+.passport-identity[data-player='skuba'] .passport-entry-stamp { border-radius: 44% 56% 52% 48%; transform: rotate(9deg); }
+.passport-identity[data-player='mada'] .passport-entry-stamp { border-radius: 0; clip-path: polygon(10% 0,90% 0,100% 10%,100% 90%,90% 100%,10% 100%,0 90%,0 10%); background: #ffffff50; }
+.passport-identity[data-player='brawk'] .passport-entry-stamp { border-radius: 12px; border-style: solid; transform: rotate(-5deg); }
+.passport-identity[data-player='keiko'] .passport-entry-stamp { border-radius: 50%; border-style: dashed; transform: rotate(-16deg); }
+.passport-identity[data-player='bonkar'] .passport-entry-stamp { border-radius: 4px; border-style: double; height: 95px; transform: rotate(4deg); }
+.passport-identity[data-player='skuba'] .passport-photo { transform: rotate(3deg); }
+.passport-identity[data-player='brawk'] .passport-photo { transform: rotate(-1deg); }
+.passport-identity[data-player='keiko'] .passport-photo { transform: rotate(5deg); }
+.passport-identity[data-player='bonkar'] .passport-photo { transform: rotate(-6deg); }
+.passport-identity[data-player='ethan'] .passport-rank { transform: rotate(1deg); border-left-width: 6px; }
+.passport-identity[data-player='skuba'] .passport-rank { border-radius: 16px 3px 16px 3px; }
+.passport-identity[data-player='mada'] .passport-rank { transform: rotate(-2deg); box-shadow: 4px 4px 0 #b02f8340; }
+.passport-identity[data-player='brawk'] .passport-rank { border: 2px solid #285ebe; transform: none; }
+.passport-identity[data-player='keiko'] .passport-rank { border-style: dashed; }
+.passport-identity[data-player='bonkar'] .passport-rank { border-style: double; border-width: 3px; }
+html[data-theme='dark'] .passport-page-content[data-player] { background-color: var(--player-night); }
+html[data-theme='dark'] .passport-page-content[data-player] .passport-entry-stamp,
+html[data-theme='dark'] .passport-page-content[data-player] .passport-page-number { color: var(--player-bright); border-color: var(--player-bright); }
+html[data-theme='dark'] .passport-page-content[data-player] .passport-handwriting,
+html[data-theme='dark'] .passport-page-content[data-player] .passport-encounters strong,
+html[data-theme='dark'] .passport-page-content[data-player] h3,
+html[data-theme='dark'] .passport-page-content[data-player] h4 { color: var(--player-bright); }
+html[data-theme='dark'] .passport-page-content[data-player] .passport-page-doodle { stroke: var(--player-bright); }
+html[data-theme='dark'] .passport-page-content[data-player] .passport-rank,
+html[data-theme='dark'] .passport-page-content[data-player] .passport-stats > div:nth-child(2n+1) { background-color: var(--player-night); border-color: var(--player-bright); }
+html[data-theme='dark'] .passport-page-content[data-player] h3 { background: linear-gradient(transparent 67%, #ffffff15 67% 94%, transparent 94%); }
+@media (max-width: 767px) {
+  .passport-visa-sticker { top: 56px; right: 12px; font-size: 7px; padding: 4px; }
+  .passport-identity[data-player] .passport-entry-stamp { width: 76px; height: 76px; }
+  .passport-stats > div { padding: 7px 6px; }
+  .passport-page-doodle { width: 60px; height: 46px; opacity: .4; }
+}
+
+.passport-ranked-stats h4 { font: 26px/1.1 var(--display); margin: 18px 0 10px; }
+
+/* The collage uses camera-roll prints and factual labels rather than slogans. */
+.cover-trophy-print, .cover-contact-print, .cover-celebration-print, .rating-archive-photo { margin: 0; padding: 7px 7px 20px; background: #f3f0e7; box-shadow: 3px 5px 10px #0005; }
+.cover-trophy-print, .cover-contact-print, .cover-celebration-print { position: absolute; }
+.cover-trophy-print img, .cover-contact-print img, .cover-celebration-print img, .rating-archive-photo img { width: 100%; height: calc(100% - 14px); object-fit: cover; }
+.cover-trophy-print figcaption, .cover-contact-print figcaption, .cover-celebration-print figcaption, .rating-archive-photo figcaption { font: 8px/1.4 var(--copy); color: #111; margin-top: 5px; }
+.cover-trophy-print { right: 1%; top: 10%; width: 26%; height: 34%; transform: rotate(-6deg); z-index: 1; }
+.cover-contact-print { left: 26%; bottom: 12%; width: 17%; height: 25%; transform: rotate(6deg); z-index: 7; }
+.cover-celebration-print { right: 2%; bottom: 4%; width: 32%; height: 22%; transform: rotate(-5deg); z-index: 8; }
+.rating-archive-photo { height: 185px; transform: rotate(-3deg); margin-top: 20px; }
+@media (max-width: 767px) {
+  .cover-trophy-print { right: -5%; top: 13%; width: 36%; height: 26%; }
+  .cover-contact-print { left: 34%; bottom: 14%; width: 25%; height: 18%; padding: 5px 5px 16px; }
+  .cover-celebration-print { right: -2%; bottom: 4%; width: 42%; height: 17%; }
+  .rating-archive-photo { height: 130px; max-width: 140px; margin-top: 12px; }
+}
+
+/* Current map pool and starting five, shown as compact lists. */
+.nrg-season-content { position: relative; z-index: 4; max-width: 1120px; margin-inline: auto; }
+.season-paper { padding: 22px; margin-bottom: 24px; border: 1px solid #111; background: #fffefa; color: var(--ink); box-shadow: 5px 6px 0 #111; }
+.season-panel-heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 18px; }
+.season-panel-heading h3 { font: 36px/1 var(--display); margin: 0; }
+.season-panel-heading p { font-size: 13px; margin: 0; }
+.season-player-list { list-style: none; padding: 0; margin: 0; }
+.season-player-name span { font-size: 11px; color: var(--muted); }
+.season-map-board { background-image: repeating-linear-gradient(0deg, transparent 0 31px, #77777712 31px 32px); }
+.season-map-gallery { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 24px 18px; list-style: none; padding: 14px 4px 8px; margin: 0; }
+.season-map-gallery > li { --map-sticker: #c0d889; position: relative; grid-column: span 3; padding: 8px 8px 13px; background: #f5f2e8; color: #171717; box-shadow: 2px 4px 0 #1113, 3px 8px 12px #1112; transform: rotate(-1.5deg); }
+.season-map-gallery > li:nth-child(-n+3) { grid-column: span 4; }
+.season-map-gallery > li:nth-child(2n) { --map-sticker: #b9cbef; transform: rotate(2deg); }
+.season-map-gallery > li:nth-child(3n) { --map-sticker: #e5afd0; transform: rotate(-2deg); }
+.season-map-gallery > li::before { content: ''; position: absolute; z-index: 2; top: -10px; left: 30%; width: 38%; height: 22px; background: #d8caa9b3; transform: rotate(-7deg); clip-path: polygon(0 8%, 98% 0, 100% 89%, 2% 100%); }
+.season-map-print { position: relative; }
+.season-map-print > img { display: block; width: 100%; aspect-ratio: 1.45; object-fit: cover; }
+.season-map-rate { position: absolute; bottom: 8px; right: -4px; padding: 7px 9px; background: var(--map-sticker); color: #171717; transform: rotate(-5deg); box-shadow: 2px 3px 0 #1114; }
+.season-map-rate > span { display: block; font: 700 8px/1.2 var(--copy); letter-spacing: .06em; }
+.season-map-rate strong { display: block; font: clamp(26px, 3.3vw, 44px)/1.1 var(--display); }
+.season-map-caption h4 { width: fit-content; font: 29px/1 var(--display); margin: 13px 0 7px; text-transform: uppercase; }
+.season-map-caption > span { font: 11px/1.4 var(--copy); }
+.season-player-list > li { display: grid; grid-template-columns: minmax(150px, 1fr) 3fr; align-items: center; gap: 24px; padding: 16px 0; border-top: 1px solid var(--rule); }
+.season-player-name { display: flex; align-items: center; gap: 12px; }
+.season-player-name img, .season-player-initial { width: 44px; height: 52px; flex-shrink: 0; object-fit: cover; }
+.season-player-initial { display: grid; place-items: center; background: #ded9ca; color: #111; font: 30px var(--display); }
+.season-player-name h4 { font: 27px/1 var(--display); margin: 0 0 6px; }
+.season-player-list dl { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; margin: 0; }
+.season-player-list dt { font-size: 10px; color: var(--muted); }
+.season-player-list dd { font: 24px/1.3 var(--display); margin: 3px 0 0; }
+html[data-theme='dark'] .season-paper { background: #232429; border-color: #777; }
+html[data-theme='dark'] .season-map-gallery > li { background: #34353b; color: var(--ink); box-shadow: 2px 4px 0 #0007, 3px 8px 12px #0005; }
+html[data-theme='dark'] .season-map-gallery > li::before { background: #8a8063b3; }
+@media (min-width: 768px) and (max-width: 1100px) {
+  .portal-navigation { width: calc(100% - 350px); flex-wrap: wrap; justify-content: flex-end; }
+}
+@media (max-width: 767px) {
+  .season-paper { padding: 14px; }
+  .season-panel-heading h3 { font-size: 30px; }
+  .season-map-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; padding-inline: 0; }
+  .season-map-gallery > li, .season-map-gallery > li:nth-child(-n+3) { grid-column: span 1; padding: 5px 5px 10px; }
+  .season-map-gallery > li:last-child { grid-column: span 2; width: 65%; justify-self: center; }
+  .season-map-caption h4 { font-size: 24px; }
+  .season-map-caption > span { font-size: 9px; }
+  .season-map-rate { padding: 5px 6px; right: -2px; bottom: 5px; }
+  .season-map-rate strong { font-size: 25px; }
+  .season-player-list > li { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .season-player-list dl { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+/* A film archive on paper, with the photographs behind the playable content. */
+.portal-main:has(> .documentaries-page) { max-width: none; }
+.documentaries-page { position: relative; isolation: isolate; min-height: 100dvh; padding: 110px 6% 60px; }
+.documentary-wall { position: absolute; inset: 0; z-index: -1; overflow: hidden; background: #20201f; }
+.documentary-print { position: absolute; width: 60%; height: 58%; object-fit: cover; border: 10px solid #e9e6de; }
+.documentary-print-1 { left: -15%; top: -4%; transform: rotate(-9deg); }
+.documentary-print-2 { right: -12%; top: -3%; transform: rotate(8deg); }
+.documentary-print-3 { left: -10%; bottom: -5%; transform: rotate(7deg); }
+.documentary-print-4 { right: -13%; bottom: -4%; transform: rotate(-8deg); }
+.documentary-content { max-width: 1120px; margin-inline: auto; }
+.documentaries-page h1 { font: clamp(38px, 6vw, 76px)/1 var(--display); color: var(--ink); margin: 0; }
+.documentary-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.documentary-card { min-width: 0; background: #fffefa; border: 1px solid #111; padding: 12px 12px 16px; box-shadow: 5px 6px 0 #111; }
+.documentary-card:nth-child(3n+1) { border-top: 7px solid var(--pink); }
+.documentary-card:nth-child(3n+2) { border-top: 7px solid var(--blue); }
+.documentary-card:nth-child(3n) { border-top: 7px solid var(--lime); }
+.documentary-player { aspect-ratio: 16 / 9; background: #111; }
+.documentary-player iframe { width: 100%; height: 100%; border: 0; display: block; }
+.documentary-caption { display: flex; align-items: start; gap: 12px; margin-top: 16px; }
+.documentary-number { font: 30px/1 var(--display); color: var(--muted); }
+.documentary-caption h2 { font: 22px/1.2 var(--display); color: var(--ink); margin: 0; }
+.documentary-link { display: inline-block; margin-top: 14px; font: 600 12px var(--copy); color: var(--ink); text-decoration: underline; text-underline-offset: 3px; }
+html[data-theme='dark'] .documentary-card { background: #292a30; border-color: #777; }
+html[data-theme='dark'] .documentary-wall { filter: brightness(.55); }
+@media (max-width: 767px) {
+  .documentaries-page { padding: 155px 5% 40px; }
+  .documentary-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  .documentary-caption h2 { font-size: 20px; }
+}

@@ -1,0 +1,11 @@
+{
+  "server": "ap",
+  "accounts": [
+    { "id": "ethan", "player": "ethan", "riotId": "CostcoHotdog1#yummm", "role": "player" },
+    { "id": "skuba", "player": "skuba", "riotId": "skububu#sku", "role": "player" },
+    { "id": "mada", "player": "mada", "riotId": "apollodaphne#mada", "role": "player" },
+    { "id": "brawk", "player": "brawk", "riotId": "VALNRG0005#bawrk", "role": "player" },
+    { "id": "keiko", "player": "keiko", "riotId": "k12#2112", "role": "player" },
+    { "id": "bonkar", "player": "bonkar", "riotId": "瑞典肉丸#goach", "role": "coach" }
+  ]
+}

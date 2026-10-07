@@ -4,7 +4,8 @@ import TopNav from './components/TopNav'
 import { teamBreakdownUrl } from './lib/teamUrl'
 
 // Keep pages split so the overview does not download every data view and tool.
-const Tournaments = lazy(() => import('./pages/Tournaments'))
+const NrgLanding = lazy(() => import('./pages/NrgLanding'))
+const Documentaries = lazy(() => import('./pages/Documentaries'))
 const TournamentDetail = lazy(() => import('./pages/TournamentDetail'))
 const Players = lazy(() => import('./pages/Players'))
 const PlayerProfile = lazy(() => import('./pages/PlayerProfile'))
@@ -48,7 +49,8 @@ function AppSurface() {
         <Suspense fallback={<div className="text-muted text-sm">Loading…</div>}>
           <Routes>
             <Route path="/" element={<Navigate to="/tournaments" replace />} />
-            <Route path="/tournaments" element={<Tournaments />} />
+            <Route path="/tournaments" element={<NrgLanding />} />
+            <Route path="/documentaries" element={<Documentaries />} />
             <Route path="/tournaments/:event" element={<TournamentDetail />} />
             <Route path="/event-stats" element={<EventStatsRedirect />} />
             <Route path="/players" element={<Players />} />

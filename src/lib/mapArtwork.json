@@ -1,0 +1,65 @@
+{
+  "Abyss": {
+    "src": "/map-artwork/abyss-1280.webp",
+    "srcSet": "/map-artwork/abyss-640.webp 640w, /map-artwork/abyss-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/224b0a95-48b9-f703-1bd8-67aca101a61f/splash.png",
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  },
+  "Ascent": {
+    "src": "/map-artwork/ascent-1280.webp",
+    "srcSet": "/map-artwork/ascent-640.webp 640w, /map-artwork/ascent-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/splash.png",
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  },
+  "Haven": {
+    "src": "/map-artwork/haven-1280.webp",
+    "srcSet": "/map-artwork/haven-640.webp 640w, /map-artwork/haven-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/splash.png",
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  },
+  "Lotus": {
+    "src": "/map-artwork/lotus-1280.webp",
+    "srcSet": "/map-artwork/lotus-640.webp 640w, /map-artwork/lotus-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/2fe4ed3a-450a-948b-6d6b-e89a78e680a9/splash.png",
+    "originalWidth": 3840,
+    "originalHeight": 2160
+  },
+  "Split": {
+    "src": "/map-artwork/split-1280.webp",
+    "srcSet": "/map-artwork/split-640.webp 640w, /map-artwork/split-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/splash.png",
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  },
+  "Summit": {
+    "src": "/map-artwork/summit-1280.webp",
+    "srcSet": "/map-artwork/summit-640.webp 640w, /map-artwork/summit-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/756da597-416b-c0f2-f47b-afbdf28670bc/splash.png",
+    "originalWidth": 3840,
+    "originalHeight": 2160
+  },
+  "Sunset": {
+    "src": "/map-artwork/sunset-1280.webp",
+    "srcSet": "/map-artwork/sunset-640.webp 640w, /map-artwork/sunset-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "source": "https://media.valorant-api.com/maps/92584fbe-486a-b1b2-9faa-39b0f486b498/splash.png",
+    "originalWidth": 1920,
+    "originalHeight": 1080
+  }
+}

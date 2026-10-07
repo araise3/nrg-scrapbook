@@ -1,0 +1,8 @@
+{
+  "ethan": { "src": "/images/nrg/passports/ethan.jpg", "position": "50% 57%", "flickrId": "55413480317" },
+  "skuba": { "src": "/images/nrg/passports/skuba.jpg", "position": "45% 44%", "flickrId": "55445005136" },
+  "mada": { "src": "/images/nrg/passports/mada.jpg", "position": "50% 36%", "flickrId": "55478337007" },
+  "brawk": { "src": "/images/nrg/passports/brawk.jpg", "position": "52% 38%", "flickrId": "55445005496" },
+  "keiko": { "src": "/images/nrg/passports/keiko.jpg", "position": "55% 40%", "flickrId": "55445005026" },
+  "bonkar": { "src": "/images/nrg/passports/bonkar.jpg", "position": "51% 45%", "flickrId": "55445005286" }
+}

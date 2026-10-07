@@ -327,10 +327,10 @@ export function countdown(startDate, endDate, now = new Date()) {
 // already does (DataTable passes the currently-displayed rows' own
 // min/max for each colorScale column).
 //
-// Keep the hue signal low in the dark theme so heatmaps remain secondary to
-// the value labels and retain contrast with the shared light table text.
+// Pale ink washes retain the view-relative hue signal while keeping orange
+// value labels readable on the white paper theme.
 const SAT = 36
-const LIGHT = 24
+const LIGHT = 93
 export function scaleColor(value, min, max) {
   if (value === null || value === undefined || Number.isNaN(value) || min === max) {
     return 'transparent'
