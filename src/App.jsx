@@ -74,7 +74,7 @@ function AppSurface() {
             <Route path="*" element={<div className="py-12"><h1 className="text-2xl font-semibold">Page not found</h1><a className="data-link" href="/tournaments">Go to overview</a></div>} />
           </Routes>
         </Suspense>
-        <footer className="portal-footer">VCT Data <span>Independent statistics · Not affiliated with Riot Games</span></footer>
+        <footer className="portal-footer">NRG Scrapbook <span>Independent fan page · Not affiliated with NRG or Riot Games</span></footer>
       </main>
     </div>
   )

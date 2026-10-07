@@ -87,8 +87,8 @@ API = "https://liquipedia.net/valorant/api.php"
 
 CONTACT = os.environ.get("LIQUIPEDIA_CONTACT", "")
 USER_AGENT = (
-    "vct-2026-data-analysis/1.0 "
-    "(https://github.com/araise3/vct-2026-data-analysis; {contact})"
+    "nrg-scrapbook/1.0 "
+    "(https://github.com/araise3/nrg-scrapbook; {contact})"
 )
 
 REQUEST_DELAY = 2.5

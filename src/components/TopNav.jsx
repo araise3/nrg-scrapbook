@@ -9,8 +9,8 @@ export default function TopNav() {
     <>
       <header className="portal-header">
         <a href="#main-content" className="skip-link">Skip to scrapbook</a>
-        <NavLink to="/tournaments" className="portal-wordmark" aria-label="VCT Data home"><span>VCT</span><b>DATA</b><i aria-hidden="true">✳</i></NavLink>
-        <p className="masthead-note">An independent<br />VALORANT scrapbook.</p>
+        <NavLink to="/tournaments" className="portal-wordmark" aria-label="NRG Scrapbook home"><span>NRG</span><b>SCRAPBOOK</b><i aria-hidden="true">✳</i></NavLink>
+        <p className="masthead-note">An independent<br />NRG fan page.</p>
       </header>
       <nav className="portal-navigation" aria-label="Scrapbook navigation">
         <NavLink to="/tournaments" end className={({ isActive }) => `portal-nav-link ${isActive ? 'is-active' : ''}`}>Home</NavLink>

@@ -22,6 +22,12 @@ totaling 17.15 GiB. File count is not yet a deduplicated gallery inventory.
 
 ## Hosting recommendation
 
+Public hosting depends on photo rights, not download availability. The sampled
+photos from all three source accounts say All rights reserved; the collection
+is not yet cleared for a self-hosted bulk gallery. See the
+[copyright research](gallery-copyright.md). Curate licensed or expressly permitted
+photos before publishing derivatives; use source album links for uncleared photos.
+
 Keep the existing React site on Cloudflare Pages. Store optimized gallery images
 in **Cloudflare R2**, served through a custom media subdomain on the site's domain.
 The subdomain is an example architecture choice; its exact name remains to be chosen.
@@ -55,7 +61,10 @@ flowchart LR
    its image uploads have completed successfully.
 5. Keep small album manifests in `public/data/gallery/`. Include ID, event, year,
    caption, known players, dimensions, image paths, source URL and photographer.
-   Store dimensions so the layout reserves space before images load.
+   Store dimensions so the layout reserves space before images load. Also record
+   the exact license, attribution requirements, permitted modifications and an
+   internal reference to permission evidence. Unknown rights are not publishable
+   by default; a credit line alone is not permission.
 6. Use responsive `srcset`, lazy loading and a viewport-appropriate thumbnail.
    Fetch the 1,600-pixel image only when its lightbox opens; optionally preload
    the neighboring image after the current one finishes.
@@ -66,7 +75,8 @@ An original-quality link can point back to the corresponding Flickr photo page.
 
 ## Delivery sequence
 
-First implement a local `/gallery` preview with around 30–50 curated photos and
+First establish the rights to the selected photographs, then implement a local
+`/gallery` preview with around 30–50 curated photos and
 their album metadata. Verify the contact sheet, mobile view, lightbox keyboard
 controls, focus restoration, source credits and image loading. Then configure
 R2 and a media domain, upload those derivatives, replace the local media base URL,

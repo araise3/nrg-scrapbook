@@ -1,15 +1,22 @@
-# VCT 2026 — Season Stats
+# NRG Scrapbook
 
-A statistics portal for VCT 2026 tier-1 Valorant esports, built from scraped
-[vlr.gg](https://vlr.gg) data. Statistics remain prebuilt JSON and aggregate
-in the browser.
+An independent NRG VALORANT fan page with a photo-collage scrapbook design,
+NRG roster history, current map pool and player season stats, international
+Glicko ratings, YouTube documentaries, and a Shanghai ranked-account passport.
+Competitive statistics use prebuilt [vlr.gg](https://vlr.gg) data and aggregate
+in the browser. The existing statistics tools remain available on their routes.
+
+The proposed photo gallery and its publication requirements are documented in
+[the gallery plan](docs/nrg-gallery-plan.md) and
+[the copyright research](docs/gallery-copyright.md).
 
 **Live at:** deployed via Cloudflare Pages, connected to this repo's `main` branch.
 
 ## What's here
 
-A statistics portal with a direct link to every main view in the navigation. The
-mobile navigation wraps so all destinations remain visible.
+The scrapbook navigation links to the NRG landing-page sections and documentaries.
+Mobile navigation wraps so all destinations remain visible. The legacy data views
+below remain available alongside the scrapbook.
 
 | View | What it shows |
 |---|---|

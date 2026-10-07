@@ -68,7 +68,7 @@ def main():
     if args.plan:
         return
     session = requests.Session()
-    session.headers['User-Agent'] = 'vct-2026-data-analysis/1.0 (https://github.com/araise3/vct-2026-data-analysis)'
+    session.headers['User-Agent'] = 'nrg-scrapbook/1.0 (https://github.com/araise3/nrg-scrapbook)'
     for team, filename, url, old, new, reuse in plan:
         if not new.exists():
             if reuse and old.exists():

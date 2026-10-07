@@ -20,7 +20,7 @@ starts a collection; `workflow_dispatch` is also defined. Download the
 Actions and never goes into the frontend or the downloaded data.
 
 First collection succeeded on 2026-10-07 at 11:36 UTC:
-[Actions run 37614216288](https://github.com/araise3/vct-2026-data-analysis/actions/runs/37614216288).
+[Actions run 37614216288](https://github.com/araise3/nrg-scrapbook/actions/runs/37614216288).
 All six accounts resolved, with 165 account-game appearances across 97 unique
 competitive lobbies: ethan 29, skuba 4, mada 41, brawk 43, keiko 42, bonkar 6.
 The returned coverage spans 2026-09-11 to 2026-10-06 (individual ranges differ),
@@ -43,7 +43,7 @@ Pros on unlisted event accounts will be absent until those identities are
 verified and added.
 
 Account-region metadata is not used to reject exact lobby identities. A targeted
-[audit run](https://github.com/araise3/vct-2026-data-analysis/actions/runs/37616262088)
+[audit run](https://github.com/araise3/nrg-scrapbook/actions/runs/37616262088)
 verified match `00b01706-b209-4c39-b894-a3a2752db7b3` on 2026-09-28:
 Henrik's match metadata reports `region: ap`, `cluster: Hong Kong`, with mada
 on Blue and `JAWGEMO#MANGO` on Red. Jawgemo's PUUID exactly matches the curated
