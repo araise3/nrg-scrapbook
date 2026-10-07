@@ -1,0 +1,35 @@
+name: Collect NRG Shanghai diary
+
+# Collect a reviewable data artifact using the existing API secret.
+# No commit, push, or deployment step.
+on:
+  workflow_dispatch:
+  push:
+    branches: [codex/nrg-shanghai-data]
+    paths:
+      - data_prep/fetch_nrg_shanghai.py
+      - data_prep/nrg_shanghai_accounts.json
+      - .github/workflows/collect-nrg-shanghai.yml
+
+permissions:
+  contents: read
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read Shanghai accounts
+        env:
+          HENRIKDEV_API_KEY: ${{ secrets.HENRIKDEV_API_KEY }}
+        run: python data_prep/fetch_nrg_shanghai.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: nrg-shanghai-diary
+          path: public/data/nrg_shanghai.json
+          if-no-files-found: error
