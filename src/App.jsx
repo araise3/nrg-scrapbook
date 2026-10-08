@@ -6,6 +6,7 @@ import { teamBreakdownUrl } from './lib/teamUrl'
 // Keep pages split so the overview does not download every data view and tool.
 const NrgLanding = lazy(() => import('./pages/NrgLanding'))
 const Documentaries = lazy(() => import('./pages/Documentaries'))
+const ChampionsShanghai = lazy(() => import('./pages/ChampionsShanghai'))
 const TournamentDetail = lazy(() => import('./pages/TournamentDetail'))
 const Players = lazy(() => import('./pages/Players'))
 const PlayerProfile = lazy(() => import('./pages/PlayerProfile'))
@@ -51,6 +52,7 @@ function AppSurface() {
             <Route path="/" element={<Navigate to="/tournaments" replace />} />
             <Route path="/tournaments" element={<NrgLanding />} />
             <Route path="/documentaries" element={<Documentaries />} />
+            <Route path="/champs" element={<ChampionsShanghai />} />
             <Route path="/tournaments/:event" element={<TournamentDetail />} />
             <Route path="/event-stats" element={<EventStatsRedirect />} />
             <Route path="/players" element={<Players />} />

@@ -5,7 +5,7 @@ import { applyAlwaysSettled } from '../lib/ratingStandings'
 import { num } from '../lib/format'
 import RosterTimeline from '../components/RosterTimeline'
 import TeamLogo from '../components/TeamLogo'
-import NrgShanghai from '../components/NrgShanghai'
+import { Link } from 'react-router-dom'
 import NrgSeasonStats from '../components/NrgSeasonStats'
 
 const photos = {
@@ -19,7 +19,7 @@ const wallPhotos = {
   cover: ['paris-trophy', 'bonkar-s0m', 'santiago-stage', 'ethan-shanghai', 's0m-brawk', 'paris-celebration', 'skuba-shanghai', 'ethan-city'],
   ratings: ['santiago-team', 'ethan-shanghai', 'paris-celebration', 'mada-shanghai', 'bonkar-s0m', 's0m-brawk', 'paris-trophy', 'skuba-shanghai'],
   roster: ['bonkar-s0m', 's0m-brawk', 'santiago-team', 'keiko-shanghai', 'paris-champions', 'santiago-stage', 'ethan-city', 'paris-trophy'],
-  shanghai: ['ethan-city', 'mada-shanghai', 'skuba-shanghai', 'keiko-shanghai', 'santiago-stage', 'ethan-shanghai', 'paris-trophy', 'santiago-team'],
+  shanghai: ['ethan-city', 'mada-shanghai', 'skuba-shanghai', 'keiko-shanghai', 'ethan-shanghai', 'mada-shanghai', 'ethan-city', 'skuba-shanghai'],
 }
 
 function CollageWall({ kind }) {
@@ -143,8 +143,8 @@ export default function NrgLanding() {
     {error ? <p className="scrap-empty" role="status">The match archive couldn't load. Refresh to see roster history.</p> : <RosterHistory matchData={matchData} />}
     <section id="nrg-shanghai" className="scrap-section shanghai-section" aria-labelledby="landing-shanghai-title">
       <CollageWall kind="shanghai" />
-      <SectionTitle number="04" title={<span id="landing-shanghai-title">NRG IN SHANGHAI.</span>} subtitle="Champions Shanghai 2026 / Ranked games and the pros in their lobbies." />
-      <NrgShanghai />
+      <SectionTitle number="04" title={<span id="landing-shanghai-title">NRG IN SHANGHAI.</span>} subtitle="Champions Shanghai 2026 / The games, the photos, the passport." />
+      <Link to="/champs" className="champs-home-link"><img src="/images/nrg/collage/mada-shanghai.webp" alt="Mada competing at Champions Shanghai" loading="lazy" /><span><b>CHAMPIONS / SHANGHAI</b>Past games. Upcoming games. The team’s travel diary.<strong>OPEN THE SHANGHAI PAGE ↗</strong></span></Link>
     </section>
   </div>
 }

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://nitter.kareem.one"
+  ],
+  "lookback_days": 30,
+  "max_posts_per_account": 20,
+  "relevant_pattern": "\\b(nrg|nrgfam|nrgwin|valorant|valorantart|valart|vct|champs|champions|playoffs?|gameday|scrims?|coaching|odin|ace|clutch|ranked|radiant|ascent|haven|lotus|abyss|sunset|skuba|keiko|mada|bonkar|s0m|mitch|brawk|ethan|nongshim|nsr_valorant|karminecorp|t1|loud|prx)\\b|\\bone game at a time\\b",
+  "promotion_pattern": "#(?:ad|sponsored|partner)\\b|\\b(?:paid partnership|sponsor(?:ed|ship)?|affiliate|discount|coupon|giveaway|give away|use (?:my |the )?code|promo(?:tion|tional)?|shop|buy|pre.?order|merch|jerseys?|sale|ambassador|casino|gambling|sportsbook|betting|prizepicks|underdog fantasy|gamer ?supps|g ?fuel|red ?bull|monster energy|razer|logitech|steelseries|corsair|nzxt|asus(?:_rog)?|zowie(?:bybenqusa)?)\\b|\\bnew nrg drop\\b|\\bcollection[\\s\\S]{0,40}available now\\b|\\bpremium flourishes\\b|\\bmeta glasses\\b",
+  "blocked_domains": [
+    "stake.com",
+    "prizepicks.com",
+    "underdogfantasy.com",
+    "gamersupps.gg",
+    "gfuel.com",
+    "store.nrg.gg",
+    "shop.nrg.gg"
+  ],
+  "allow_ids": [],
+  "deny_ids": []
+}

@@ -17,7 +17,7 @@ export default function TopNav() {
         <a href={onLanding ? '#team-ratings' : '/tournaments#team-ratings'} className="portal-nav-link">Glicko ratings</a>
         <a href={onLanding ? '#nrg-season' : '/tournaments#nrg-season'} className="portal-nav-link">Season stats</a>
         <a href={onLanding ? '#roster-history' : '/tournaments#roster-history'} className="portal-nav-link">Roster history</a>
-        <a href={onLanding ? '#nrg-shanghai' : '/tournaments#nrg-shanghai'} className="portal-nav-link">NRG in Shanghai</a>
+        <NavLink to="/champs" className={({ isActive }) => `portal-nav-link ${isActive ? 'is-active' : ''}`}>Champs Shanghai</NavLink>
         <NavLink to="/documentaries" className={({ isActive }) => `portal-nav-link ${isActive ? 'is-active' : ''}`}>Documentaries</NavLink>
         <button type="button" className="portal-nav-link theme-toggle" onClick={toggleTheme} aria-label="Dark mode" aria-pressed={mode === 'dark'} title={mode === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}><span aria-hidden="true">{mode === 'dark' ? '☀' : '☾'}</span>{mode === 'dark' ? 'Light' : 'Dark'}</button>
       </nav>
