@@ -23792,24 +23792,7 @@
       ]
     },
     "Joblife": {
-      "players": [
-        {
-          "id": "Enzo",
-          "name": "Enzo Mestari",
-          "joinDate": "2025-11-26",
-          "flag": "fr",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "kamyk",
-          "name": "Maksymilian Jan Rychlewski",
-          "joinDate": "2025-12-02",
-          "flag": "pl",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "starki",
@@ -24118,6 +24101,15 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "Enzo",
+          "name": "Enzo Mestari",
+          "joinDate": "2026-04-15",
+          "leaveDate": "2026-09-09",
+          "newTeam": null,
+          "flag": "fr",
+          "playerStatus": "INACTIVE"
+        },
+        {
           "id": "chiwa",
           "name": "Egor Stepaniuk",
           "joinDate": "2025-11-28",
@@ -24140,7 +24132,7 @@
           "name": "Maksymilian Jan Rychlewski",
           "joinDate": "2025-12-02",
           "leaveDate": "2026-09-02",
-          "newTeam": "Joblife (Inactive)",
+          "newTeam": null,
           "flag": "pl",
           "playerStatus": "STARTER"
         },
@@ -24192,21 +24184,12 @@
       ],
       "coaches": [
         {
-          "id": "Larsson",
-          "name": null,
+          "id": "pakko",
+          "name": "Pavle Kostić",
           "role": "Head Coach",
-          "joinDate": "2026-01-08",
+          "joinDate": "2026-10-07",
           "leaveDate": null,
-          "flag": "fr",
-          "status": "active"
-        },
-        {
-          "id": "SKAZZ",
-          "name": null,
-          "role": "Assistant Coach",
-          "joinDate": "2024-12-29",
-          "leaveDate": null,
-          "flag": "fr",
+          "flag": "rs",
           "status": "active"
         },
         {
