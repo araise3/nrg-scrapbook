@@ -3,7 +3,7 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-10T06:19:43Z"
+    "fetchedAt": "2026-10-10T12:59:40Z"
   },
   "matches": [
     {
@@ -353,9 +353,9 @@
       "bestOf": 3,
       "team1": "NRG",
       "team2": "LOUD",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 1,
+      "score2": 2,
+      "started": true
     },
     {
       "key": "1791633600|g2-esports|team-vitality",
@@ -366,18 +366,18 @@
       "bestOf": 3,
       "team1": "G2 Esports",
       "team2": "Team Vitality",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 0,
+      "score2": 0,
+      "started": true
     },
     {
-      "key": "1791709200|tbd|100-thieves",
+      "key": "1791709200|nrg|100-thieves",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1791709200,
       "bestOf": 3,
-      "team1": null,
+      "team1": "NRG",
       "team2": "100 Thieves",
       "score1": null,
       "score2": null,
@@ -397,14 +397,14 @@
       "started": false
     },
     {
-      "key": "1792130400|tbd|tbd",
+      "key": "1792130400|tbd|loud",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1792130400,
       "bestOf": 3,
       "team1": null,
-      "team2": null,
+      "team2": "LOUD",
       "score1": null,
       "score2": null,
       "started": false
