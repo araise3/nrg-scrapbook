@@ -13589,14 +13589,6 @@
     "PCIFIC Esports": {
       "players": [
         {
-          "id": "qpert",
-          "name": "Mateja Mijović",
-          "joinDate": "2026-01-20",
-          "flag": "rs",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "seven",
           "name": "Johann Hernandez",
           "joinDate": "2026-01-20",
@@ -13617,6 +13609,14 @@
           "name": "Patryk Koczyba",
           "joinDate": "2026-01-20",
           "flag": "pl",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "qpert",
+          "name": "Mateja Mijović",
+          "joinDate": "2026-01-20",
+          "flag": "rs",
           "captain": false,
           "playerStatus": "BENCHED"
         },
@@ -13845,6 +13845,15 @@
           "newTeam": "There is no Tomorrow",
           "flag": "tr",
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "qpert",
+          "name": "Mateja Mijović",
+          "joinDate": "2026-01-20",
+          "leaveDate": "2026-10-09",
+          "newTeam": "PCIFIC Esports (Inactive)",
+          "flag": "rs",
+          "playerStatus": "STARTER"
         },
         {
           "id": "waddle",
@@ -27453,6 +27462,14 @@
           "flag": "th",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "Niffy",
+          "name": "Patcharapon Junman",
+          "joinDate": "2026-10-09",
+          "flag": "th",
+          "captain": false,
+          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -27722,7 +27739,7 @@
           "name": "Patcharapon Junman",
           "joinDate": "2024-05-07",
           "leaveDate": "2026-01-10",
-          "newTeam": null,
+          "newTeam": "Sharper Esports",
           "flag": "th",
           "playerStatus": "STARTER"
         },
