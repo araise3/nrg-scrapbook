@@ -7045,7 +7045,7 @@
         },
         {
           "id": "Lysoar",
-          "name": "Liang Youhao",
+          "name": null,
           "joinDate": "2023-03-21",
           "leaveDate": "2024-10-15",
           "newTeam": "Wolves Esports",
@@ -19322,7 +19322,7 @@
         },
         {
           "id": "Lysoar",
-          "name": "Liang Youhao",
+          "name": null,
           "joinDate": "2025-10-20",
           "leaveDate": "2025-11-25",
           "newTeam": "XLG Esports",
@@ -19340,7 +19340,7 @@
         },
         {
           "id": "Lysoar",
-          "name": "Liang Youhao",
+          "name": null,
           "joinDate": "2024-10-15",
           "leaveDate": "2025-10-20",
           "newTeam": "Wolves Esports (Inactive)",
@@ -19550,7 +19550,7 @@
         },
         {
           "id": "Lysoar",
-          "name": "Liang Youhao",
+          "name": null,
           "joinDate": "2025-11-25",
           "flag": "cn",
           "captain": false,
