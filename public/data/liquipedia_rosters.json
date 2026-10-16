@@ -3348,7 +3348,7 @@
         },
         {
           "id": "keznit",
-          "name": "Angelo Mori",
+          "name": "Angelo Mori Lagos",
           "joinDate": "2026-01-09",
           "flag": "cl",
           "captain": false,
@@ -3543,7 +3543,7 @@
         },
         {
           "id": "keznit",
-          "name": "Angelo Mori",
+          "name": "Angelo Mori Lagos",
           "joinDate": "2026-01-09",
           "leaveDate": "2026-09-09",
           "newTeam": "ENVY (Inactive)",
@@ -6727,15 +6727,6 @@
       ],
       "coaches": [
         {
-          "id": "Vlad",
-          "name": "Berke Kantürk",
-          "role": "Head Coach",
-          "joinDate": "2026-03-27",
-          "leaveDate": null,
-          "flag": "tr",
-          "status": "active"
-        },
-        {
           "id": "Bambino",
           "name": "Tyler Jay",
           "role": "Assistant Coach",
@@ -6840,6 +6831,15 @@
           "role": "Head Coach",
           "joinDate": "2021-09-12",
           "leaveDate": "2025-07-14",
+          "flag": "tr",
+          "status": "former"
+        },
+        {
+          "id": "Vlad",
+          "name": "Berke Kantürk",
+          "role": "Head Coach",
+          "joinDate": "2026-03-27",
+          "leaveDate": "2026-10-14",
           "flag": "tr",
           "status": "former"
         },
@@ -7045,7 +7045,7 @@
         },
         {
           "id": "Lysoar",
-          "name": null,
+          "name": "Liang Youhao",
           "joinDate": "2023-03-21",
           "leaveDate": "2024-10-15",
           "newTeam": "Wolves Esports",
@@ -9245,7 +9245,7 @@
         },
         {
           "id": "kellyS",
-          "name": "Kelly Kent Sedillo",
+          "name": "Kelly Kent Pansoy Sedillo",
           "joinDate": "2024-10-31",
           "leaveDate": "2025-05-15",
           "newTeam": "Team Secret",
@@ -10171,7 +10171,7 @@
         },
         {
           "id": "keznit",
-          "name": "Angelo Mori",
+          "name": "Angelo Mori Lagos",
           "joinDate": "2021-06-19",
           "leaveDate": "2022-10-01",
           "newTeam": "Leviatán",
@@ -10333,7 +10333,7 @@
         },
         {
           "id": "keznit",
-          "name": "Angelo Mori",
+          "name": "Angelo Mori Lagos",
           "joinDate": "2025-09-25",
           "leaveDate": "2025-10-29",
           "newTeam": "ENVY",
@@ -10369,7 +10369,7 @@
         },
         {
           "id": "keznit",
-          "name": "Angelo Mori",
+          "name": "Angelo Mori Lagos",
           "joinDate": "2023-03-17",
           "leaveDate": "2025-09-25",
           "newTeam": "KRÜ Esports (Inactive)",
@@ -14320,7 +14320,7 @@
         },
         {
           "id": "xan",
-          "name": "Xan Ng",
+          "name": "Xan Ng Wei Chuin",
           "joinDate": "2026-06-26",
           "flag": "my",
           "captain": false,
@@ -14348,7 +14348,7 @@
         },
         {
           "id": "kellyS",
-          "name": "Kelly Kent Sedillo",
+          "name": "Kelly Kent Pansoy Sedillo",
           "joinDate": "2022-01-11",
           "leaveDate": "2022-10-27",
           "newTeam": "Action PH",
@@ -14519,7 +14519,7 @@
         },
         {
           "id": "xan",
-          "name": "Xan Ng",
+          "name": "Xan Ng Wei Chuin",
           "joinDate": "2026-06-26",
           "leaveDate": "2026-09-25",
           "newTeam": "Rex Regum Qeon (Inactive)",
@@ -16606,14 +16606,6 @@
     "Team Liquid": {
       "players": [
         {
-          "id": "nAts",
-          "name": "Ayaz Akhmetshin",
-          "joinDate": "2022-11-11",
-          "flag": "ru",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "kamo",
           "name": "Kamil Frąckowiak",
           "joinDate": "2024-10-15",
@@ -16646,6 +16638,14 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "nAts",
+          "name": "Ayaz Akhmetshin",
+          "joinDate": "2022-11-11",
+          "flag": "ru",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
           "id": "MiniBoo",
           "name": "Dominykas Lukaševičius",
           "joinDate": "2025-12-12",
@@ -16658,14 +16658,6 @@
           "name": "Semyon Borchev",
           "joinDate": "2025-12-12",
           "flag": "ru",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "wayne",
-          "name": "Wayne Chang Wei Jie",
-          "joinDate": "2025-12-12",
-          "flag": "sg",
           "captain": false,
           "playerStatus": "BENCHED"
         }
@@ -16942,6 +16934,24 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "nAts",
+          "name": "Ayaz Akhmetshin",
+          "joinDate": "2022-11-11",
+          "leaveDate": "2026-10-15",
+          "newTeam": "Team Liquid (Inactive)",
+          "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "wayne",
+          "name": "Wayne Chang Wei Jie",
+          "joinDate": "2026-06-05",
+          "leaveDate": "2026-10-12",
+          "newTeam": "Havoc & Yonder",
+          "flag": "sg",
+          "playerStatus": "INACTIVE"
+        },
+        {
           "id": "purp0",
           "name": "Semyon Borchev",
           "joinDate": "2025-12-12",
@@ -17073,7 +17083,7 @@
         },
         {
           "id": "kellyS",
-          "name": "Kelly Kent Sedillo",
+          "name": "Kelly Kent Pansoy Sedillo",
           "joinDate": "2025-05-15",
           "flag": "ph",
           "captain": false,
@@ -17228,7 +17238,7 @@
           "name": "Sha Mohtar",
           "joinDate": "2025-05-15",
           "leaveDate": "2025-10-15",
-          "newTeam": null,
+          "newTeam": "Retired",
           "flag": "sg",
           "playerStatus": "STARTER"
         },
@@ -17270,7 +17280,7 @@
         },
         {
           "id": "kellyS",
-          "name": "Kelly Kent Sedillo",
+          "name": "Kelly Kent Pansoy Sedillo",
           "joinDate": "2025-05-15",
           "leaveDate": "2026-09-16",
           "newTeam": "Team Secret (Inactive)",
@@ -19525,26 +19535,10 @@
     "Xi Lai Gaming": {
       "players": [
         {
-          "id": "Rarga",
-          "name": "Arthur Churyumov",
-          "joinDate": "2023-12-21",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "happywei",
           "name": "Teng Min-wei",
           "joinDate": "2024-03-14",
           "flag": "tw",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "NoMan",
-          "name": "James Man Ga Kit",
-          "joinDate": "2025-06-29",
-          "flag": "hk",
           "captain": false,
           "playerStatus": "STARTER"
         },
@@ -19571,6 +19565,22 @@
           "flag": "cn",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "Rarga",
+          "name": "Arthur Churyumov",
+          "joinDate": "2023-12-21",
+          "flag": "ru",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "NoMan",
+          "name": "James Man Ga Kit",
+          "joinDate": "2025-06-29",
+          "flag": "hk",
+          "captain": false,
+          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -19698,6 +19708,24 @@
           "leaveDate": "2025-05-18",
           "newTeam": "XLG Esports (Inactive)",
           "flag": "hk",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "NoMan",
+          "name": "James Man Ga Kit",
+          "joinDate": "2025-06-29",
+          "leaveDate": "2026-10-16",
+          "newTeam": "XLG Esports (Inactive)",
+          "flag": "hk",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Rarga",
+          "name": "Arthur Churyumov",
+          "joinDate": "2023-12-21",
+          "leaveDate": "2026-10-15",
+          "newTeam": "XLG Esports (Inactive)",
+          "flag": "ru",
           "playerStatus": "STARTER"
         },
         {
