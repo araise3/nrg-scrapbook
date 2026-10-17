@@ -3,22 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-17T11:07:35Z"
+    "fetchedAt": "2026-10-17T15:53:47Z"
   },
   "matches": [
-    {
-      "key": "1790335800|karmine-corp|xi-lai-gaming",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790335800,
-      "bestOf": 3,
-      "team1": "Karmine Corp",
-      "team2": "Xi Lai Gaming",
-      "score1": 2,
-      "score2": 0,
-      "started": true
-    },
     {
       "key": "1790413200|global-esports|team-vitality",
       "event": "Valorant Champions 2026",
@@ -392,19 +379,19 @@
       "bestOf": 5,
       "team1": "Team Vitality",
       "team2": "100 Thieves",
-      "score1": 2,
+      "score1": 3,
       "score2": 1,
       "started": true
     },
     {
-      "key": "1792306800|loud|tbd",
+      "key": "1792306800|loud|team-vitality",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
       "timestamp": 1792306800,
       "bestOf": 5,
       "team1": "LOUD",
-      "team2": null,
+      "team2": "Team Vitality",
       "score1": null,
       "score2": null,
       "started": false
