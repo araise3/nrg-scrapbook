@@ -3,22 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-18T05:03:30Z"
+    "fetchedAt": "2026-10-18T11:38:14Z"
   },
   "matches": [
-    {
-      "key": "1790413200|global-esports|team-vitality",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790413200,
-      "bestOf": 3,
-      "team1": "Global Esports",
-      "team2": "Team Vitality",
-      "score1": 1,
-      "score2": 2,
-      "started": true
-    },
     {
       "key": "1790425800|loud|edward-gaming",
       "event": "Valorant Champions 2026",
@@ -384,17 +371,17 @@
       "started": true
     },
     {
-      "key": "1792306800|loud|team-vitality",
+      "key": "1792305600|loud|team-vitality",
       "event": "Valorant Champions 2026",
       "liquipediaPage": "VCT/2026/Champions",
       "phase": null,
-      "timestamp": 1792306800,
+      "timestamp": 1792305600,
       "bestOf": 5,
       "team1": "LOUD",
       "team2": "Team Vitality",
-      "score1": null,
-      "score2": null,
-      "started": false
+      "score1": 3,
+      "score2": 1,
+      "started": true
     }
   ]
 }
