@@ -36,7 +36,7 @@
           "id": "vora",
           "name": "Jordan Pulwer",
           "joinDate": "2025-11-06",
-          "flag": "us",
+          "flag": "ca",
           "captain": true,
           "playerStatus": "STARTER"
         },
@@ -21444,14 +21444,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "d3ffo",
-          "name": "Nikita Sudakov",
-          "joinDate": "2026-01-29",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Nakya",
           "name": "Alehandro Fabian Simanjorang",
           "joinDate": "2026-01-29",
@@ -21666,6 +21658,15 @@
           "leaveDate": "2025-10-19",
           "newTeam": "Karmine Corp",
           "flag": "kz",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "d3ffo",
+          "name": "Nikita Sudakov",
+          "joinDate": "2026-01-29",
+          "leaveDate": "2026-10-16",
+          "newTeam": null,
+          "flag": "ru",
           "playerStatus": "STARTER"
         },
         {
