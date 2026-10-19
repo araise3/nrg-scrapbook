@@ -1617,15 +1617,6 @@
       ],
       "coaches": [
         {
-          "id": "Anaks",
-          "name": "Ye Sang-jun",
-          "role": "Head Coach",
-          "joinDate": "2026-06-30",
-          "leaveDate": null,
-          "flag": "kr",
-          "status": "active"
-        },
-        {
           "id": "JeXeN",
           "name": "Wang Linxiao",
           "role": "Coach",
@@ -1689,6 +1680,15 @@
           "status": "former"
         },
         {
+          "id": "Anaks",
+          "name": "Ye Sang-jun",
+          "role": "Head Coach",
+          "joinDate": "2026-06-30",
+          "leaveDate": "2026-10-19",
+          "flag": "kr",
+          "status": "former"
+        },
+        {
           "id": "Muggle",
           "name": "Tang Shijun",
           "role": "Head Coach",
@@ -1724,14 +1724,6 @@
           "joinDate": "2025-10-30",
           "flag": "us",
           "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Jackk",
-          "name": "Jack Foote",
-          "joinDate": "2026-05-02",
-          "flag": "us",
-          "captain": false,
           "playerStatus": "STARTER"
         },
         {
@@ -2039,6 +2031,15 @@
           "newTeam": "Trust In Plug",
           "flag": "ca",
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Jackk",
+          "name": "Jack Foote",
+          "joinDate": "2026-05-02",
+          "leaveDate": "2026-10-18",
+          "newTeam": "Cloud9 (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
         },
         {
           "id": "Notexxd",
@@ -7944,15 +7945,6 @@
       ],
       "coaches": [
         {
-          "id": "pipsoN",
-          "name": "Daniil Meshcheryakov",
-          "role": "Head Coach",
-          "joinDate": "2023-12-14",
-          "leaveDate": null,
-          "flag": "ru",
-          "status": "active"
-        },
-        {
           "id": "wayLander",
           "name": "Jan Rahkonen",
           "role": "Assistant Coach",
@@ -7977,6 +7969,15 @@
           "joinDate": "2025-01-02",
           "leaveDate": "2025-11-19",
           "flag": "fr",
+          "status": "former"
+        },
+        {
+          "id": "pipsoN",
+          "name": "Daniil Meshcheryakov",
+          "role": "Head Coach",
+          "joinDate": "2023-12-14",
+          "leaveDate": "2026-10-19",
+          "flag": "ru",
           "status": "former"
         }
       ]
@@ -8939,48 +8940,7 @@
       ]
     },
     "Global Esports": {
-      "players": [
-        {
-          "id": "Kr1stal",
-          "name": "Savva Fedorov",
-          "joinDate": "2024-10-31",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "UdoTan",
-          "name": "Go Kyung-won",
-          "joinDate": "2024-10-31",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "autumn",
-          "name": "Kale Dunne",
-          "joinDate": "2025-12-03",
-          "flag": "au",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "xavi8k",
-          "name": "Xavier Juan",
-          "joinDate": "2025-12-14",
-          "flag": "ph",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "PatMen",
-          "name": "Jhon Patrick Ramos Mendoza",
-          "joinDate": "2025-12-15",
-          "flag": "ph",
-          "captain": false,
-          "playerStatus": "STARTER"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "hellff",
@@ -9262,6 +9222,60 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "autumn",
+          "name": "Kale Dunne",
+          "joinDate": "2025-12-03",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "au",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Juv3nile",
+          "name": "Preston Dornon",
+          "joinDate": "2025-04-04",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Kr1stal",
+          "name": "Savva Fedorov",
+          "joinDate": "2024-10-31",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "PatMen",
+          "name": "Jhon Patrick Ramos Mendoza",
+          "joinDate": "2025-12-15",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "ph",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "UdoTan",
+          "name": "Go Kyung-won",
+          "joinDate": "2024-10-31",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "xavi8k",
+          "name": "Xavier Juan",
+          "joinDate": "2025-12-14",
+          "leaveDate": "2026-10-19",
+          "newTeam": null,
+          "flag": "ph",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "Deryeon",
           "name": "Derrick Yee Dong Ting",
           "joinDate": "2024-12-30",
@@ -9290,24 +9304,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "Platoon",
-          "name": "Daniel Zhou",
-          "role": "Head Coach",
-          "joinDate": "2026-06-26",
-          "leaveDate": null,
-          "flag": "ca",
-          "status": "active"
-        },
-        {
-          "id": "Aimix",
-          "name": "Derren dela Cruz",
-          "role": "Assistant Coach",
-          "joinDate": "2026-07-20",
-          "leaveDate": null,
-          "flag": "ph",
-          "status": "active"
-        },
         {
           "id": "shinobi",
           "name": "Josh Abastado",
@@ -9423,6 +9419,24 @@
           "joinDate": "2024-10-21",
           "leaveDate": "2025-04-04",
           "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Aimix",
+          "name": "Derren dela Cruz",
+          "role": "Assistant Coach",
+          "joinDate": "2026-07-20",
+          "leaveDate": "2026-10-19",
+          "flag": "ph",
+          "status": "former"
+        },
+        {
+          "id": "Platoon",
+          "name": "Daniel Zhou",
+          "role": "Head Coach",
+          "joinDate": "2026-06-26",
+          "leaveDate": "2026-10-19",
+          "flag": "ca",
           "status": "former"
         },
         {
@@ -26527,22 +26541,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "NiSMO",
-          "name": "Marc-Andre Tayar",
-          "joinDate": "2026-03-18",
-          "flag": "ca",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Kyu",
-          "name": "Mirel Braco Hrustemovic",
-          "joinDate": "2026-03-20",
-          "flag": "ca",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "spaz",
           "name": "Adam Laamoumi",
           "joinDate": "2026-03-21",
@@ -26694,6 +26692,24 @@
           "leaveDate": "2025-04-03",
           "newTeam": "YFP",
           "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Kyu",
+          "name": "Mirel Braco Hrustemovic",
+          "joinDate": "2026-03-20",
+          "leaveDate": "2026-10-18",
+          "newTeam": null,
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "NiSMO",
+          "name": "Marc-Andre Tayar",
+          "joinDate": "2026-03-18",
+          "leaveDate": "2026-10-18",
+          "newTeam": null,
+          "flag": "ca",
           "playerStatus": "STARTER"
         },
         {
