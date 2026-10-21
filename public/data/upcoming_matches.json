@@ -3,35 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-21T12:17:05Z"
+    "fetchedAt": "2026-10-21T21:57:01Z"
   },
   "matches": [
-    {
-      "key": "1790499600|100-thieves|t1",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790499600,
-      "bestOf": 3,
-      "team1": "100 Thieves",
-      "team2": "T1",
-      "score1": 2,
-      "score2": 0,
-      "started": true
-    },
-    {
-      "key": "1790508600|jdg-esports|fut-esports",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790508600,
-      "bestOf": 3,
-      "team1": "JDG Esports",
-      "team2": "FUT Esports",
-      "score1": 0,
-      "score2": 2,
-      "started": true
-    },
     {
       "key": "1790672400|g2-esports|paper-rex",
       "event": "Valorant Champions 2026",
