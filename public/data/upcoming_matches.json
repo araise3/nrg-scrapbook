@@ -3,48 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-22T12:18:30Z"
+    "fetchedAt": "2026-10-22T17:34:14Z"
   },
   "matches": [
-    {
-      "key": "1790672400|g2-esports|paper-rex",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790672400,
-      "bestOf": 3,
-      "team1": "G2 Esports",
-      "team2": "Paper Rex",
-      "score1": 1,
-      "score2": 2,
-      "started": true
-    },
-    {
-      "key": "1790685000|karmine-corp|nrg",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790685000,
-      "bestOf": 3,
-      "team1": "Karmine Corp",
-      "team2": "NRG",
-      "score1": 1,
-      "score2": 2,
-      "started": true
-    },
-    {
-      "key": "1790758800|team-vitality|loud",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790758800,
-      "bestOf": 3,
-      "team1": "Team Vitality",
-      "team2": "LOUD",
-      "score1": 2,
-      "score2": 0,
-      "started": true
-    },
     {
       "key": "1790769000|100-thieves|fut-esports",
       "event": "Valorant Champions 2026",
