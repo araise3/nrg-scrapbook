@@ -3,48 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-22T17:34:14Z"
+    "fetchedAt": "2026-10-22T21:53:42Z"
   },
   "matches": [
-    {
-      "key": "1790769000|100-thieves|fut-esports",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790769000,
-      "bestOf": 3,
-      "team1": "100 Thieves",
-      "team2": "FUT Esports",
-      "score1": 2,
-      "score2": 0,
-      "started": true
-    },
-    {
-      "key": "1790845200|tyloo|team-liquid",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790845200,
-      "bestOf": 3,
-      "team1": "TYLOO",
-      "team2": "Team Liquid",
-      "score1": 1,
-      "score2": 2,
-      "started": true
-    },
-    {
-      "key": "1790856600|xi-lai-gaming|nongshim-redforce",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790856600,
-      "bestOf": 3,
-      "team1": "Xi Lai Gaming",
-      "team2": "Nongshim RedForce",
-      "score1": 0,
-      "score2": 2,
-      "started": true
-    },
     {
       "key": "1790931600|global-esports|edward-gaming",
       "event": "Valorant Champions 2026",
