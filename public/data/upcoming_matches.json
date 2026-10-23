@@ -3,35 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-23T05:16:25Z"
+    "fetchedAt": "2026-10-23T12:00:31Z"
   },
   "matches": [
-    {
-      "key": "1790938800|t1|jdg-esports",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1790938800,
-      "bestOf": 3,
-      "team1": "T1",
-      "team2": "JDG Esports",
-      "score1": 2,
-      "score2": 1,
-      "started": true
-    },
-    {
-      "key": "1791018000|g2-esports|team-liquid",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791018000,
-      "bestOf": 3,
-      "team1": "G2 Esports",
-      "team2": "Team Liquid",
-      "score1": 2,
-      "score2": 0,
-      "started": true
-    },
     {
       "key": "1791027000|karmine-corp|nongshim-redforce",
       "event": "Valorant Champions 2026",
