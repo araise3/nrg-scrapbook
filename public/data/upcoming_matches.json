@@ -3,22 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-24T21:08:36Z"
+    "fetchedAt": "2026-10-24T23:38:05Z"
   },
   "matches": [
-    {
-      "key": "1791633600|g2-esports|team-vitality",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791633600,
-      "bestOf": 3,
-      "team1": "G2 Esports",
-      "team2": "Team Vitality",
-      "score1": 0,
-      "score2": 2,
-      "started": true
-    },
     {
       "key": "1791709200|nrg|100-thieves",
       "event": "Valorant Champions 2026",
