@@ -3,48 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-24T11:30:57Z"
+    "fetchedAt": "2026-10-24T21:08:36Z"
   },
   "matches": [
-    {
-      "key": "1791536400|t1|paper-rex",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791536400,
-      "bestOf": 3,
-      "team1": "T1",
-      "team2": "Paper Rex",
-      "score1": 2,
-      "score2": 1,
-      "started": true
-    },
-    {
-      "key": "1791547800|100-thieves|nongshim-redforce",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791547800,
-      "bestOf": 3,
-      "team1": "100 Thieves",
-      "team2": "Nongshim RedForce",
-      "score1": 2,
-      "score2": 1,
-      "started": true
-    },
-    {
-      "key": "1791622800|nrg|loud",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791622800,
-      "bestOf": 3,
-      "team1": "NRG",
-      "team2": "LOUD",
-      "score1": 1,
-      "score2": 2,
-      "started": true
-    },
     {
       "key": "1791633600|g2-esports|team-vitality",
       "event": "Valorant Champions 2026",
