@@ -1733,6 +1733,22 @@
           "flag": "us",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "Jackk",
+          "name": "Jack Foote",
+          "joinDate": "2026-05-02",
+          "flag": "us",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "v1c",
+          "name": "Victor Truong",
+          "joinDate": "2026-07-10",
+          "flag": "us",
+          "captain": false,
+          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -5221,14 +5237,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Primmie",
-          "name": "Papaphat Sriprapha",
-          "joinDate": "2025-12-08",
-          "flag": "th",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "seph1roth",
           "name": "Chinnakrit Phoojaroen",
           "joinDate": "2026-07-03",
@@ -5575,6 +5583,15 @@
           "joinDate": "2023-10-14",
           "leaveDate": "2025-01-10",
           "newTeam": "Motiv Esports",
+          "flag": "th",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Primmie",
+          "name": "Papaphat Sriprapha",
+          "joinDate": "2025-12-08",
+          "leaveDate": "2026-10-23",
+          "newTeam": null,
           "flag": "th",
           "playerStatus": "STARTER"
         },
@@ -6790,6 +6807,24 @@
           "playerStatus": "INACTIVE"
         },
         {
+          "id": "Berke Kantürk",
+          "name": "Monsters Reloaded 2026",
+          "joinDate": null,
+          "leaveDate": null,
+          "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Efe Tur",
+          "name": "Monsters Reloaded 2026",
+          "joinDate": null,
+          "leaveDate": null,
+          "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "Okan Alaçam",
           "name": "None",
           "joinDate": null,
@@ -7725,15 +7760,6 @@
           "status": "active"
         },
         {
-          "id": "shhhack",
-          "name": "Peter Belej",
-          "role": "Assistant Coach",
-          "joinDate": "2024-02-18",
-          "leaveDate": null,
-          "flag": "sk",
-          "status": "active"
-        },
-        {
           "id": "Robert Yip",
           "name": "Robert Yip",
           "role": "Performance Coach",
@@ -7813,16 +7839,25 @@
           "leaveDate": "2025-10-14",
           "flag": "us",
           "status": "former"
+        },
+        {
+          "id": "shhhack",
+          "name": "Peter Belej",
+          "role": "Assistant Coach",
+          "joinDate": "2024-02-18",
+          "leaveDate": "2026-10-24",
+          "flag": "sk",
+          "status": "former"
         }
       ]
     },
     "GIANTX": {
       "players": [
         {
-          "id": "ara",
-          "name": "Eduard-George Hanceriuc",
-          "joinDate": "2025-04-16",
-          "flag": "ro",
+          "id": "westside",
+          "name": "Miłosz Tomasz Duda",
+          "joinDate": "2024-11-26",
+          "flag": "pl",
           "captain": false,
           "playerStatus": "STARTER"
         },
@@ -7833,6 +7868,14 @@
           "flag": "be",
           "captain": true,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "ara",
+          "name": "Eduard-George Hanceriuc",
+          "joinDate": "2025-04-16",
+          "flag": "ro",
+          "captain": false,
+          "playerStatus": "BENCHED"
         },
         {
           "id": "tomaszy",
@@ -7971,12 +8014,12 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "westside",
-          "name": "Miłosz Tomasz Duda",
-          "joinDate": "2024-11-26",
-          "leaveDate": "2026-10-21",
-          "newTeam": "Joblife",
-          "flag": "pl",
+          "id": "ara",
+          "name": "Eduard-George Hanceriuc",
+          "joinDate": "2025-04-16",
+          "leaveDate": "2026-10-24",
+          "newTeam": "GIANTX (Inactive)",
+          "flag": "ro",
           "playerStatus": "STARTER"
         },
         {
@@ -11855,7 +11898,7 @@
           "joinDate": "2024-11-27",
           "flag": "br",
           "captain": false,
-          "playerStatus": "STARTER"
+          "playerStatus": "BENCHED"
         },
         {
           "id": "Verno",
@@ -11863,27 +11906,27 @@
           "joinDate": "2025-03-20",
           "flag": "us",
           "captain": false,
-          "playerStatus": "STARTER"
+          "playerStatus": "BENCHED"
         },
         {
           "id": "Mazino",
           "name": "Roberto Francisco Rivas Bugueño",
           "joinDate": "2025-12-18",
           "flag": "cl",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "zekken",
-          "name": "Zachary Jude Patrone",
-          "joinDate": "2025-12-18",
-          "flag": "us",
           "captain": false,
-          "playerStatus": "STARTER"
+          "playerStatus": "BENCHED"
         },
         {
           "id": "tex",
           "name": "Ian Botsch",
+          "joinDate": "2025-12-18",
+          "flag": "us",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "zekken",
+          "name": "Zachary Jude Patrone",
           "joinDate": "2025-12-18",
           "flag": "us",
           "captain": false,
@@ -12117,6 +12160,42 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "aspas",
+          "name": "Erick Santos",
+          "joinDate": "2024-11-27",
+          "leaveDate": "2026-10-23",
+          "newTeam": "MIBR (Inactive)",
+          "flag": "br",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Mazino",
+          "name": "Roberto Francisco Rivas Bugueño",
+          "joinDate": "2025-12-18",
+          "leaveDate": "2026-10-23",
+          "newTeam": "MIBR (Inactive)",
+          "flag": "cl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Verno",
+          "name": "Andrew Maust",
+          "joinDate": "2025-03-20",
+          "leaveDate": "2026-10-23",
+          "newTeam": "MIBR (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "zekken",
+          "name": "Zachary Jude Patrone",
+          "joinDate": "2025-12-18",
+          "leaveDate": "2026-10-23",
+          "newTeam": "MIBR (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "tex",
           "name": "Ian Botsch",
           "joinDate": "2025-12-18",
@@ -12236,8 +12315,460 @@
           "playerStatus": "STARTER"
         }
       ],
-      "formerPlayers": [],
-      "coaches": []
+      "formerPlayers": [
+        {
+          "id": "KOLER",
+          "name": "Yannick Blanchette",
+          "joinDate": "2020-10-11",
+          "leaveDate": "2020-12-08",
+          "newTeam": "NRG (Inactive)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "effys",
+          "name": "Loic Sauvageau",
+          "joinDate": "2020-11-11",
+          "leaveDate": "2020-11-23",
+          "newTeam": "Version1",
+          "flag": "ca",
+          "playerStatus": "TRIAL"
+        },
+        {
+          "id": "xCeeD",
+          "name": "Jack Holiman",
+          "joinDate": "2020-10-26",
+          "leaveDate": "2020-11-11",
+          "newTeam": "Noble",
+          "flag": "us",
+          "playerStatus": "TRIAL"
+        },
+        {
+          "id": "Wedid",
+          "name": "Matthew Suchan",
+          "joinDate": "2021-09-25",
+          "leaveDate": "2021-10-27",
+          "newTeam": "Pioneers (Trial)",
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Wedid",
+          "name": "Matthew Suchan",
+          "joinDate": "2021-06-27",
+          "leaveDate": "2021-09-25",
+          "newTeam": "NRG (Inactive)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "daps",
+          "name": "Damian Steele",
+          "joinDate": "2020-10-05",
+          "leaveDate": "2021-06-11",
+          "newTeam": "Retired",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Shanks",
+          "name": "Ryan Ngo",
+          "joinDate": "2020-12-17",
+          "leaveDate": "2021-03-23",
+          "newTeam": "Rise",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Infinite",
+          "name": "Gage Green",
+          "joinDate": "2020-12-26",
+          "leaveDate": "2021-02-17",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "KOLER",
+          "name": "Yannick Blanchette",
+          "joinDate": "2020-12-08",
+          "leaveDate": "2021-01-09",
+          "newTeam": "beastcoast",
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "tex",
+          "name": "Ian Botsch",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-12-08",
+          "newTeam": "The Guard",
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "eeiu",
+          "name": "Daniel Vucenovic",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-11-27",
+          "newTeam": "M80",
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Ethan",
+          "name": "Ethan Cole Arnold",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-11-11",
+          "newTeam": "Evil Geniuses",
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "hazed",
+          "name": "James Cobb",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-11-02",
+          "newTeam": "TSM",
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "eeiu",
+          "name": "Daniel Vucenovic",
+          "joinDate": "2020-10-14",
+          "leaveDate": "2022-09-30",
+          "newTeam": "NRG (Inactive)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Ethan",
+          "name": "Ethan Cole Arnold",
+          "joinDate": "2022-04-21",
+          "leaveDate": "2022-09-30",
+          "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "hazed",
+          "name": "James Cobb",
+          "joinDate": "2021-11-10",
+          "leaveDate": "2022-09-30",
+          "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "tex",
+          "name": "Ian Botsch",
+          "joinDate": "2021-03-24",
+          "leaveDate": "2022-09-30",
+          "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ANDROID",
+          "name": "Bradley Fodor",
+          "joinDate": "2022-04-21",
+          "leaveDate": "2022-08-19",
+          "newTeam": "Ottawa Braves",
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "ANDROID",
+          "name": "Bradley Fodor",
+          "joinDate": "2021-02-20",
+          "leaveDate": "2022-04-21",
+          "newTeam": "NRG (Inactive)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ardiis",
+          "name": "Ardis Svarenieks",
+          "joinDate": "2022-11-11",
+          "leaveDate": "2023-10-11",
+          "newTeam": "Natus Vincere",
+          "flag": "lv",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "FNS",
+          "name": "Pujan Mehta",
+          "joinDate": "2022-11-08",
+          "leaveDate": "2023-09-19",
+          "newTeam": "G2 Esports (Streamer)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ethos",
+          "name": "Alan Ruan",
+          "joinDate": "2023-03-30",
+          "leaveDate": "2023-09-15",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "s0m",
+          "name": "Sam Oh",
+          "joinDate": "2020-10-07",
+          "leaveDate": "2023-09-14",
+          "newTeam": "NRG",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "thwifo",
+          "name": "Zander Kim",
+          "joinDate": "2022-12-01",
+          "leaveDate": "2023-03-13",
+          "newTeam": "100 Thieves (Substitute)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Demon1",
+          "name": "Maximilian Mazanov",
+          "joinDate": "2024-05-25",
+          "leaveDate": "2024-10-09",
+          "newTeam": "Leviatán",
+          "flag": "us",
+          "playerStatus": "SUBSTITUTE"
+        },
+        {
+          "id": "crashies",
+          "name": "Austin Roberts",
+          "joinDate": "2024-09-03",
+          "leaveDate": "2024-10-08",
+          "newTeam": "Fnatic",
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "crashies",
+          "name": "Austin Roberts",
+          "joinDate": "2022-11-09",
+          "leaveDate": "2024-09-03",
+          "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Victor",
+          "name": "Victor Wong",
+          "joinDate": "2022-11-10",
+          "leaveDate": "2024-07-15",
+          "newTeam": "M80",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Demon1",
+          "name": "Maximilian Mazanov",
+          "joinDate": "2023-12-23",
+          "leaveDate": "2024-05-25",
+          "newTeam": "NRG (Substitute)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Marved",
+          "name": "Jimmy Nguyen",
+          "joinDate": "2023-12-23",
+          "leaveDate": "2024-05-25",
+          "newTeam": "Chet's Pets",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "s0m",
+          "name": "Sam Oh",
+          "joinDate": "2024-05-30",
+          "leaveDate": "2025-10-22",
+          "newTeam": "NRG (Content Creator)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "FNS",
+          "name": "Pujan Mehta",
+          "joinDate": "2024-05-30",
+          "leaveDate": "2025-05-09",
+          "newTeam": "Evil Geniuses (Streamer)",
+          "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Verno",
+          "name": "Andrew Maust",
+          "joinDate": "2025-02-16",
+          "leaveDate": "2025-03-19",
+          "newTeam": "MIBR",
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Verno",
+          "name": "Andrew Maust",
+          "joinDate": "2024-10-10",
+          "leaveDate": "2025-02-16",
+          "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "keiko",
+          "name": "Georgio Sanassy",
+          "joinDate": "2025-11-12",
+          "leaveDate": "2026-10-21",
+          "newTeam": null,
+          "flag": "gb",
+          "playerStatus": "STARTER"
+        }
+      ],
+      "coaches": [
+        {
+          "id": "bonkar",
+          "name": "Malkolm Rench",
+          "role": "Head Coach",
+          "joinDate": "2025-05-09",
+          "leaveDate": null,
+          "flag": "se",
+          "status": "active"
+        },
+        {
+          "id": "mitch",
+          "name": "Mitchell Semago",
+          "role": "Assistant Coach",
+          "joinDate": "2026-04-24",
+          "leaveDate": null,
+          "flag": "us",
+          "status": "active"
+        },
+        {
+          "id": "JoshRT",
+          "name": "Josh Lee",
+          "role": "Trial Coach",
+          "joinDate": "2021-04-08",
+          "leaveDate": "2021-05-12",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Chet",
+          "name": "Chetan Singh",
+          "role": "Coach",
+          "joinDate": "2020-10-05",
+          "leaveDate": "2021-04-05",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "JoshRT",
+          "name": "Josh Lee",
+          "role": "Inactive Coach",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-12-08",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Zikz",
+          "name": "Anthony Gray",
+          "role": "Inactive Coach",
+          "joinDate": "2022-09-30",
+          "leaveDate": "2022-11-17",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "JoshRT",
+          "name": "Josh Lee",
+          "role": "Head Coach",
+          "joinDate": "2021-05-12",
+          "leaveDate": "2022-09-30",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Zikz",
+          "name": "Anthony Gray",
+          "role": "Assistant Coach",
+          "joinDate": "2022-04-22",
+          "leaveDate": "2022-09-30",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "trainer",
+          "name": "Benjamin Bravo",
+          "role": "Assistant Coach",
+          "joinDate": "2022-12-13",
+          "leaveDate": "2023-09-28",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Tanizhq",
+          "name": "Tanishq Sabharwal",
+          "role": "Assistant Coach",
+          "joinDate": "2024-02-12",
+          "leaveDate": "2024-10-10",
+          "flag": "gb",
+          "status": "former"
+        },
+        {
+          "id": "Chet",
+          "name": "Chetan Singh",
+          "role": "Head Coach",
+          "joinDate": "2022-11-07",
+          "leaveDate": "2024-07-15",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "bonkar",
+          "name": "Malkolm Rench",
+          "role": "Inactive Coach",
+          "joinDate": "2025-02-16",
+          "leaveDate": "2025-05-09",
+          "flag": "se",
+          "status": "former"
+        },
+        {
+          "id": "Mikes",
+          "name": "Michael Hockom",
+          "role": "Head Coach",
+          "joinDate": "2025-02-16",
+          "leaveDate": "2025-05-02",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "bonkar",
+          "name": "Malkolm Rench",
+          "role": "Head Coach",
+          "joinDate": "2024-10-10",
+          "leaveDate": "2025-02-16",
+          "flag": "se",
+          "status": "former"
+        },
+        {
+          "id": "Strong",
+          "name": "Joseph Edwards",
+          "role": "Assistant Coach",
+          "joinDate": "2024-10-22",
+          "leaveDate": "2026-03-26",
+          "flag": "gb",
+          "status": "former"
+        }
+      ]
     },
     "Natus Vincere": {
       "players": [
@@ -12927,15 +13458,6 @@
           "status": "active"
         },
         {
-          "id": "yoman",
-          "name": "Chae Young-mun",
-          "role": "Coach",
-          "joinDate": "2026-01-05",
-          "leaveDate": null,
-          "flag": "kr",
-          "status": "active"
-        },
-        {
           "id": "Pine",
           "name": "Kim Do-hyeon",
           "role": "Head Coach",
@@ -12968,6 +13490,15 @@
           "role": "Coach",
           "joinDate": "2024-10-10",
           "leaveDate": "2025-09-05",
+          "flag": "kr",
+          "status": "former"
+        },
+        {
+          "id": "yoman",
+          "name": "Chae Young-mun",
+          "role": "Coach",
+          "joinDate": "2026-01-05",
+          "leaveDate": "2026-10-23",
           "flag": "kr",
           "status": "former"
         },
@@ -13628,14 +14159,6 @@
     "Paper Rex": {
       "players": [
         {
-          "id": "d4v41",
-          "name": "Ahmad Khalish Rusyaidee bin Nordin",
-          "joinDate": "2021-02-08",
-          "flag": "my",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "f0rsakeN",
           "name": "Jason Susanto",
           "joinDate": "2021-02-08",
@@ -13666,6 +14189,14 @@
           "flag": "ph",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "d4v41",
+          "name": "Ahmad Khalish Rusyaidee bin Nordin",
+          "joinDate": "2021-02-08",
+          "flag": "my",
+          "captain": false,
+          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -13875,6 +14406,15 @@
           "newTeam": "Paper Rex (Inactive)",
           "flag": "id",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "d4v41",
+          "name": "Ahmad Khalish Rusyaidee bin Nordin",
+          "joinDate": "2021-02-08",
+          "leaveDate": "2026-10-24",
+          "newTeam": "Paper Rex (Inactive)",
+          "flag": "my",
+          "playerStatus": "STARTER"
         }
       ],
       "coaches": [
@@ -13885,15 +14425,6 @@
           "joinDate": "2021-02-08",
           "leaveDate": null,
           "flag": "fr",
-          "status": "active"
-        },
-        {
-          "id": "Wendler",
-          "name": "Ashton Wendler",
-          "role": "Assistant Coach",
-          "joinDate": "2025-11-13",
-          "leaveDate": null,
-          "flag": "us",
           "status": "active"
         },
         {
@@ -13938,6 +14469,15 @@
           "role": "Coach",
           "joinDate": "2025-09-12",
           "leaveDate": "2025-10-07",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Wendler",
+          "name": "Ashton Wendler",
+          "role": "Assistant Coach",
+          "joinDate": "2025-11-13",
+          "leaveDate": "2026-10-24",
           "flag": "us",
           "status": "former"
         }
@@ -17143,14 +17683,6 @@
     "Team Vitality": {
       "players": [
         {
-          "id": "Derke",
-          "name": "Nikita Sirmitev",
-          "joinDate": "2024-10-21",
-          "flag": "fi",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Sayonara",
           "name": "Ștefan Mîtcu",
           "joinDate": "2025-03-18",
@@ -17587,6 +18119,15 @@
           "leaveDate": "2025-03-18",
           "newTeam": "Team Vitality (Inactive)",
           "flag": "ru",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Derke",
+          "name": "Nikita Sirmitev",
+          "joinDate": "2024-10-21",
+          "leaveDate": "2026-10-24",
+          "newTeam": null,
+          "flag": "fi",
           "playerStatus": "STARTER"
         },
         {
@@ -23553,16 +24094,7 @@
       ]
     },
     "Joblife": {
-      "players": [
-        {
-          "id": "westside",
-          "name": "Miłosz Tomasz Duda",
-          "joinDate": "2026-10-21",
-          "flag": "pl",
-          "captain": false,
-          "playerStatus": "STARTER"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "starki",
