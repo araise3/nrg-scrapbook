@@ -3,35 +3,9 @@
     "source": "Liquipedia",
     "license": "CC-BY-SA 3.0",
     "attribution": "Upcoming match schedule from Liquipedia (liquipedia.net), licensed CC-BY-SA 3.0.",
-    "fetchedAt": "2026-10-24T23:38:05Z"
+    "fetchedAt": "2026-10-25T11:57:12Z"
   },
   "matches": [
-    {
-      "key": "1791709200|nrg|100-thieves",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791709200,
-      "bestOf": 3,
-      "team1": "NRG",
-      "team2": "100 Thieves",
-      "score1": 0,
-      "score2": 2,
-      "started": true
-    },
-    {
-      "key": "1791717000|g2-esports|t1",
-      "event": "Valorant Champions 2026",
-      "liquipediaPage": "VCT/2026/Champions",
-      "phase": null,
-      "timestamp": 1791717000,
-      "bestOf": 3,
-      "team1": "G2 Esports",
-      "team2": "T1",
-      "score1": 2,
-      "score2": 1,
-      "started": true
-    },
     {
       "key": "1792130400|team-vitality|loud",
       "event": "Valorant Champions 2026",
