@@ -2301,7 +2301,7 @@
           "joinDate": "2026-01-01",
           "flag": "jp",
           "captain": false,
-          "playerStatus": "STARTER"
+          "playerStatus": "BENCHED"
         },
         {
           "id": "yatsuka",
@@ -2555,6 +2555,15 @@
           "newTeam": "DetonatioN FocusMe",
           "flag": "jp",
           "playerStatus": "SUBSTITUTE"
+        },
+        {
+          "id": "Caedye",
+          "name": "Amon Mateus Okakura",
+          "joinDate": "2026-01-01",
+          "leaveDate": "2026-10-25",
+          "newTeam": "DetonatioN FocusMe (Inactive)",
+          "flag": "jp",
+          "playerStatus": "STARTER"
         },
         {
           "id": "yatsuka",
@@ -2970,15 +2979,6 @@
           "name": "Huang Biaohong",
           "role": "Assistant Coach",
           "joinDate": "2025-03-10",
-          "leaveDate": null,
-          "flag": "cn",
-          "status": "active"
-        },
-        {
-          "id": "Alti",
-          "name": null,
-          "role": "Performance Coach",
-          "joinDate": "2026-06-30",
           "leaveDate": null,
           "flag": "cn",
           "status": "active"
@@ -8678,30 +8678,6 @@
     "Gentle Mates": {
       "players": [
         {
-          "id": "Minny",
-          "name": "Patrik Hušek",
-          "joinDate": "2024-12-04",
-          "flag": "cz",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "marteen",
-          "name": "Martin Pátek",
-          "joinDate": "2025-11-20",
-          "flag": "cz",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Proxh",
-          "name": "Yusuf Emre Tunc",
-          "joinDate": "2026-06-08",
-          "flag": "de",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Click",
           "name": "Haydem Ali",
           "joinDate": "2024-12-04",
@@ -8714,14 +8690,6 @@
           "name": "Taranvir Singh",
           "joinDate": "2025-11-20",
           "flag": "it",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "starxo",
-          "name": "Patryk Kopczyński",
-          "joinDate": "2025-11-20",
-          "flag": "pl",
           "captain": false,
           "playerStatus": "BENCHED"
         }
@@ -8924,6 +8892,42 @@
           "newTeam": "Gentle Mates (Inactive)",
           "flag": "nl",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "marteen",
+          "name": "Martin Pátek",
+          "joinDate": "2025-11-20",
+          "leaveDate": "2026-10-25",
+          "newTeam": null,
+          "flag": "cz",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Minny",
+          "name": "Patrik Hušek",
+          "joinDate": "2024-12-04",
+          "leaveDate": "2026-10-25",
+          "newTeam": null,
+          "flag": "cz",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Proxh",
+          "name": "Yusuf Emre Tunc",
+          "joinDate": "2026-06-08",
+          "leaveDate": "2026-10-25",
+          "newTeam": null,
+          "flag": "de",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "starxo",
+          "name": "Patryk Kopczyński",
+          "joinDate": "2026-09-01",
+          "leaveDate": "2026-10-25",
+          "newTeam": null,
+          "flag": "pl",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "H1ber",
