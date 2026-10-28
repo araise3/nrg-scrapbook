@@ -2688,14 +2688,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "vo0kashu",
-          "name": "Ilya Ushakov",
-          "joinDate": "2023-09-06",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "SpiritZ1",
           "name": "Lin Ting-yu",
           "joinDate": "2024-10-16",
@@ -2907,6 +2899,15 @@
           "leaveDate": "2025-01-02",
           "newTeam": "All Gamers",
           "flag": "cn",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "vo0kashu",
+          "name": "Ilya Ushakov",
+          "joinDate": "2023-09-06",
+          "leaveDate": "2026-10-26",
+          "newTeam": "Dragon Ranger Gaming (Inactive)",
+          "flag": "ru",
           "playerStatus": "STARTER"
         },
         {
@@ -3701,14 +3702,6 @@
     "Eternal Fire": {
       "players": [
         {
-          "id": "audaz",
-          "name": "Soner Ekiz",
-          "joinDate": "2026-03-20",
-          "flag": "tr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "echo",
           "name": "Ömür Serkan Şenol",
           "joinDate": "2026-03-20",
@@ -3731,6 +3724,14 @@
           "flag": "tr",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "audaz",
+          "name": "Soner Ekiz",
+          "joinDate": "2026-03-20",
+          "flag": "tr",
+          "captain": false,
+          "playerStatus": "BENCHED"
         },
         {
           "id": "nekky",
@@ -3991,6 +3992,15 @@
           "joinDate": "2025-06-01",
           "leaveDate": "2025-08-31",
           "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "audaz",
+          "name": "Soner Ekiz",
+          "joinDate": "2026-03-20",
+          "leaveDate": "2026-10-26",
+          "newTeam": "Eternal Fire (Inactive)",
           "flag": "tr",
           "playerStatus": "STARTER"
         },
@@ -5251,14 +5261,6 @@
           "flag": "th",
           "captain": false,
           "playerStatus": "SUBSTITUTE"
-        },
-        {
-          "id": "thyy",
-          "name": "Anupong Preamsak",
-          "joinDate": "2025-12-08",
-          "flag": "th",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -5585,6 +5587,15 @@
           "newTeam": "Motiv Esports",
           "flag": "th",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "thyy",
+          "name": "Anupong Preamsak",
+          "joinDate": "2026-04-03",
+          "leaveDate": "2026-10-27",
+          "newTeam": null,
+          "flag": "th",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "Primmie",
@@ -7400,14 +7411,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "valyn",
-          "name": "Jacob Batio",
-          "joinDate": "2023-09-22",
-          "flag": "us",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "leaf",
           "name": "Nathan Orf",
           "joinDate": "2023-10-25",
@@ -7737,6 +7740,15 @@
           "leaveDate": "2025-11-12",
           "newTeam": "G2 Esports (Inactive)",
           "flag": "ca",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "valyn",
+          "name": "Jacob Batio",
+          "joinDate": "2023-09-22",
+          "leaveDate": "2026-10-27",
+          "newTeam": null,
+          "flag": "us",
           "playerStatus": "STARTER"
         },
         {
@@ -8143,14 +8155,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Efina",
-          "name": "Kim Nak-yeon",
-          "joinDate": "2026-07-09",
-          "flag": "kr",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "RaxcaL",
           "name": "Kim Min-seok",
           "joinDate": "2026-07-09",
@@ -8519,6 +8523,15 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "Efina",
+          "name": "Kim Nak-yeon",
+          "joinDate": "2026-07-09",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "ZynX",
           "name": "Kim Dong-ha",
           "joinDate": "2026-01-08",
@@ -8678,14 +8691,6 @@
     "Gentle Mates": {
       "players": [
         {
-          "id": "Click",
-          "name": "Haydem Ali",
-          "joinDate": "2024-12-04",
-          "flag": "de",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
           "id": "bipo",
           "name": "Taranvir Singh",
           "joinDate": "2025-11-20",
@@ -8765,6 +8770,15 @@
           "leaveDate": "2024-08-29",
           "newTeam": "Gentle Mates (Inactive)",
           "flag": "fr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Click",
+          "name": "Haydem Ali",
+          "joinDate": "2025-05-13",
+          "leaveDate": "2025-11-02",
+          "newTeam": null,
+          "flag": "de",
           "playerStatus": "STARTER"
         },
         {
@@ -8968,15 +8982,6 @@
       ],
       "coaches": [
         {
-          "id": "Mavera",
-          "name": "Erim Sasal",
-          "role": "Assistant Coach",
-          "joinDate": "2026-04-05",
-          "leaveDate": null,
-          "flag": "tr",
-          "status": "active"
-        },
-        {
           "id": "Derly",
           "name": "Florentin Derly",
           "role": "Assistant Coach",
@@ -9053,8 +9058,17 @@
           "name": "Jiri Honkala",
           "role": "Head Coach",
           "joinDate": "2026-05-06",
-          "leaveDate": "2026-10-20",
+          "leaveDate": "2026-10-26",
           "flag": "fi",
+          "status": "former"
+        },
+        {
+          "id": "Mavera",
+          "name": "Erim Sasal",
+          "role": "Assistant Coach",
+          "joinDate": "2026-04-05",
+          "leaveDate": "2026-10-26",
+          "flag": "tr",
           "status": "former"
         },
         {
@@ -18173,15 +18187,6 @@
       ],
       "coaches": [
         {
-          "id": "PAL",
-          "name": "Gregor Morton",
-          "role": "Head Coach",
-          "joinDate": "2025-11-24",
-          "leaveDate": null,
-          "flag": null,
-          "status": "active"
-        },
-        {
           "id": "Scuttt",
           "name": "Benjamin Hutchinson",
           "role": "Assistant Coach",
@@ -18332,6 +18337,15 @@
           "joinDate": "2024-11-14",
           "leaveDate": "2025-11-09",
           "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "PAL",
+          "name": "Gregor Morton",
+          "role": "Head Coach",
+          "joinDate": "2025-11-24",
+          "leaveDate": "2026-10-26",
+          "flag": null,
           "status": "former"
         },
         {
@@ -24098,7 +24112,24 @@
       ]
     },
     "Joblife": {
-      "players": [],
+      "players": [
+        {
+          "id": "Sevire",
+          "name": "Ethan Starke",
+          "joinDate": "2026-10-27",
+          "flag": "gb",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "WanZeru",
+          "name": "Tomáš Peroutka",
+          "joinDate": "2026-10-27",
+          "flag": "cz",
+          "captain": false,
+          "playerStatus": "STARTER"
+        }
+      ],
       "formerPlayers": [
         {
           "id": "starki",
@@ -28279,6 +28310,15 @@
           "name": "Kitsada Pookamroong",
           "role": "Assistant Coach",
           "joinDate": "2026-07-16",
+          "leaveDate": null,
+          "flag": "th",
+          "status": "active"
+        },
+        {
+          "id": "JAIGRAYRAY",
+          "name": "Rujipoom Changkrut",
+          "role": "Assistant Coach",
+          "joinDate": "2026-10-27",
           "leaveDate": null,
           "flag": "th",
           "status": "active"
