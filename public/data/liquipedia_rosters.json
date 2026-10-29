@@ -6460,14 +6460,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "xeus",
-          "name": "Yusuf Doğan Gözgen",
-          "joinDate": "2024-10-19",
-          "flag": "tr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "KROSTALY",
           "name": "Okan Alaçam",
           "joinDate": "2025-11-18",
@@ -6733,6 +6725,15 @@
           "joinDate": "2023-10-13",
           "leaveDate": "2025-01-05",
           "newTeam": "FUT Esports (Inactive)",
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "xeus",
+          "name": "Yusuf Doğan Gözgen",
+          "joinDate": "2024-10-19",
+          "leaveDate": "2026-10-29",
+          "newTeam": null,
           "flag": "tr",
           "playerStatus": "STARTER"
         },
@@ -8177,6 +8178,14 @@
           "flag": "kr",
           "captain": false,
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Efina",
+          "name": "Kim Nak-yeon",
+          "joinDate": "2026-07-09",
+          "flag": "kr",
+          "captain": false,
+          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -8527,7 +8536,7 @@
           "name": "Kim Nak-yeon",
           "joinDate": "2026-07-09",
           "leaveDate": "2026-10-28",
-          "newTeam": null,
+          "newTeam": "Gen.G Esports (Inactive)",
           "flag": "kr",
           "playerStatus": "STARTER"
         },
@@ -10270,26 +10279,10 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "heat",
-          "name": "Olavo Marcelo Saabi Batista Lemes",
-          "joinDate": "2026-06-26",
-          "flag": "br",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Dantedeu5",
           "name": "Jesús Federico Larrosa",
           "joinDate": "2025-07-12",
           "flag": "ar",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "mwzera",
-          "name": "Leonardo da Silva Serrati",
-          "joinDate": "2025-12-13",
-          "flag": "br",
           "captain": false,
           "playerStatus": "BENCHED"
         },
@@ -10581,6 +10574,24 @@
           "newTeam": "OXEN",
           "flag": "cl",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "heat",
+          "name": "Olavo Marcelo Saabi Batista Lemes",
+          "joinDate": "2026-06-26",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "br",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "mwzera",
+          "name": "Leonardo da Silva Serrati",
+          "joinDate": "2026-09-23",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "br",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "mwzera",
@@ -12791,50 +12802,10 @@
     "Natus Vincere": {
       "players": [
         {
-          "id": "hiro",
-          "name": "Emirhan Kat",
-          "joinDate": "2024-12-03",
-          "flag": "nl",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Ruxic",
-          "name": "Uğur Güç",
-          "joinDate": "2024-12-03",
-          "flag": "tr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Shao",
           "name": "Andrei Kiprskii",
           "joinDate": "2022-11-08",
           "flag": "non",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "chloric",
-          "name": "Caide Heaton",
-          "joinDate": "2026-04-01",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "ExiT",
-          "name": "Abdullah Al-Twaijri",
-          "joinDate": "2026-04-01",
-          "flag": "sa",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "CyvOph",
-          "name": "Clément Millard",
-          "joinDate": "2026-06-25",
-          "flag": "fr",
           "captain": false,
           "playerStatus": "BENCHED"
         }
@@ -13030,6 +13001,51 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "chloric",
+          "name": "Caide Heaton",
+          "joinDate": "2026-09-02",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "CyvOph",
+          "name": "Clément Millard",
+          "joinDate": "2026-09-17",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "fr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "ExiT",
+          "name": "Abdullah Al-Twaijri",
+          "joinDate": "2026-09-03",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "sa",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "hiro",
+          "name": "Emirhan Kat",
+          "joinDate": "2024-12-03",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "nl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Ruxic",
+          "name": "Uğur Güç",
+          "joinDate": "2024-12-03",
+          "leaveDate": "2026-10-28",
+          "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "CyvOph",
           "name": "Clément Millard",
           "joinDate": "2026-06-25",
@@ -13094,15 +13110,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "ANGE1",
-          "name": "Kyrylo Karasov",
-          "role": "Head Coach",
-          "joinDate": "2025-12-03",
-          "leaveDate": null,
-          "flag": "ua",
-          "status": "active"
-        },
         {
           "id": "Salah",
           "name": "Salah Barakat",
@@ -13209,6 +13216,15 @@
           "joinDate": "2024-05-17",
           "leaveDate": "2025-02-18",
           "flag": "se",
+          "status": "former"
+        },
+        {
+          "id": "ANGE1",
+          "name": "Kyrylo Karasov",
+          "role": "Head Coach",
+          "joinDate": "2025-12-03",
+          "leaveDate": "2026-10-28",
+          "flag": "ua",
           "status": "former"
         },
         {
@@ -13813,14 +13829,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "al0rante",
-          "name": "Felix Brandl",
-          "joinDate": "2026-01-20",
-          "flag": "de",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
           "id": "NINJA",
           "name": "Patryk Koczyba",
           "joinDate": "2026-01-20",
@@ -14060,6 +14068,15 @@
           "leaveDate": "2024-02-05",
           "newTeam": "There is no Tomorrow",
           "flag": "tr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "al0rante",
+          "name": "Felix Brandl",
+          "joinDate": "2026-09-14",
+          "leaveDate": "2026-10-28",
+          "newTeam": "Joblife",
+          "flag": "de",
           "playerStatus": "INACTIVE"
         },
         {
@@ -16695,7 +16712,7 @@
           "name": "Ričardas Lukaševičius",
           "joinDate": "2026-09-03",
           "leaveDate": "2026-09-24",
-          "newTeam": null,
+          "newTeam": "Aurora Gaming",
           "flag": "lt",
           "playerStatus": "INACTIVE"
         },
@@ -16893,14 +16910,6 @@
           "id": "purp0",
           "name": "Semyon Borchev",
           "joinDate": "2025-12-12",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "trexx",
-          "name": "Nikita Cherednichenko",
-          "joinDate": "2026-06-26",
           "flag": "ru",
           "captain": false,
           "playerStatus": "BENCHED"
@@ -17176,6 +17185,15 @@
           "newTeam": "Gentle Mates",
           "flag": "pl",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "trexx",
+          "name": "Nikita Cherednichenko",
+          "joinDate": "2026-10-21",
+          "leaveDate": "2026-10-28",
+          "newTeam": "Aurora Gaming",
+          "flag": "ru",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "trexx",
@@ -18144,7 +18162,7 @@
           "name": "Nikita Sirmitev",
           "joinDate": "2024-10-21",
           "leaveDate": "2026-10-24",
-          "newTeam": null,
+          "newTeam": "Aurora Gaming",
           "flag": "fi",
           "playerStatus": "STARTER"
         },
@@ -19439,14 +19457,6 @@
           "flag": "cn",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "Deryeon",
-          "name": "Derrick Yee Dong Ting",
-          "joinDate": "2026-07-05",
-          "flag": "sg",
-          "captain": false,
-          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -19640,6 +19650,15 @@
           "playerStatus": "INACTIVE"
         },
         {
+          "id": "Deryeon",
+          "name": "Derrick Yee Dong Ting",
+          "joinDate": "2026-07-05",
+          "leaveDate": "2026-10-29",
+          "newTeam": null,
+          "flag": "sg",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "jowa",
           "name": "Jordan Wang",
           "joinDate": "2026-05-07",
@@ -19723,15 +19742,6 @@
       ],
       "coaches": [
         {
-          "id": "alexRr",
-          "name": "Alexander Frisch",
-          "role": "Head Coach",
-          "joinDate": "2026-05-19",
-          "leaveDate": null,
-          "flag": "de",
-          "status": "active"
-        },
-        {
           "id": "chaPPie",
           "name": "Chen Long",
           "role": "Assistant Coach",
@@ -19765,6 +19775,15 @@
           "joinDate": "2023-12-05",
           "leaveDate": "2024-06-12",
           "flag": "ru",
+          "status": "former"
+        },
+        {
+          "id": "alexRr",
+          "name": "Alexander Frisch",
+          "role": "Head Coach",
+          "joinDate": "2026-05-19",
+          "leaveDate": "2026-10-28",
+          "flag": "de",
           "status": "former"
         },
         {
@@ -24128,6 +24147,22 @@
           "flag": "cz",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "al0rante",
+          "name": "Felix Brandl",
+          "joinDate": "2026-10-28",
+          "flag": "de",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "hoody",
+          "name": "Aaro Peltokangas",
+          "joinDate": "2026-10-28",
+          "flag": "fi",
+          "captain": false,
+          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -24451,7 +24486,7 @@
           "name": "Egor Stepaniuk",
           "joinDate": "2025-11-28",
           "leaveDate": "2026-09-02",
-          "newTeam": null,
+          "newTeam": "Aurora Gaming",
           "flag": "ru",
           "playerStatus": "STARTER"
         },
