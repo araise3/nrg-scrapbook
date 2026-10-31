@@ -3718,14 +3718,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Spear",
-          "name": "Arda Burak Kartal",
-          "joinDate": "2026-07-22",
-          "flag": "tr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "audaz",
           "name": "Soner Ekiz",
           "joinDate": "2026-03-20",
@@ -3737,6 +3729,14 @@
           "id": "nekky",
           "name": "Anıl Dağdeviren",
           "joinDate": "2026-03-20",
+          "flag": "tr",
+          "captain": false,
+          "playerStatus": "BENCHED"
+        },
+        {
+          "id": "Spear",
+          "name": "Arda Burak Kartal",
+          "joinDate": "2026-07-22",
           "flag": "tr",
           "captain": false,
           "playerStatus": "BENCHED"
@@ -3992,6 +3992,15 @@
           "joinDate": "2025-06-01",
           "leaveDate": "2025-08-31",
           "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Spear",
+          "name": "Arda Burak Kartal",
+          "joinDate": "2026-07-22",
+          "leaveDate": "2026-10-29",
+          "newTeam": "Eternal Fire (Inactive)",
           "flag": "tr",
           "playerStatus": "STARTER"
         },
@@ -4718,14 +4727,6 @@
           "flag": "gb",
           "captain": false,
           "playerStatus": "BENCHED"
-        },
-        {
-          "id": "Veqaj",
-          "name": "Sylvain Jean-Pierre Pattyn",
-          "joinDate": "2025-11-09",
-          "flag": "fr",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -4970,6 +4971,15 @@
           "leaveDate": "2025-09-10",
           "newTeam": "Retired",
           "flag": "se",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Veqaj",
+          "name": "Sylvain Jean-Pierre Pattyn",
+          "joinDate": "2026-04-27",
+          "leaveDate": "2026-10-29",
+          "newTeam": "Mandatory",
+          "flag": "fr",
           "playerStatus": "INACTIVE"
         },
         {
@@ -8040,7 +8050,7 @@
           "name": "Adam Čtvrtníček",
           "joinDate": "2026-07-25",
           "leaveDate": "2026-10-02",
-          "newTeam": null,
+          "newTeam": "WIP Esports",
           "flag": "cz",
           "playerStatus": "STARTER"
         },
@@ -8948,7 +8958,7 @@
           "name": "Patryk Kopczyński",
           "joinDate": "2026-09-01",
           "leaveDate": "2026-10-25",
-          "newTeam": null,
+          "newTeam": "Mandatory",
           "flag": "pl",
           "playerStatus": "INACTIVE"
         },
@@ -13111,15 +13121,6 @@
       ],
       "coaches": [
         {
-          "id": "Salah",
-          "name": "Salah Barakat",
-          "role": "Assistant Coach",
-          "joinDate": "2026-06-25",
-          "leaveDate": null,
-          "flag": "gb",
-          "status": "active"
-        },
-        {
           "id": "Shiji_mm",
           "name": "Zuzanna Hejduk-Mostowy",
           "role": "Performance Coach",
@@ -13225,6 +13226,15 @@
           "joinDate": "2025-12-03",
           "leaveDate": "2026-10-28",
           "flag": "ua",
+          "status": "former"
+        },
+        {
+          "id": "Salah",
+          "name": "Salah Barakat",
+          "role": "Assistant Coach",
+          "joinDate": "2026-06-25",
+          "leaveDate": "2026-10-26",
+          "flag": "gb",
           "status": "former"
         },
         {
@@ -14224,14 +14234,6 @@
           "flag": "ph",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "d4v41",
-          "name": "Ahmad Khalish Rusyaidee bin Nordin",
-          "joinDate": "2021-02-08",
-          "flag": "my",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -14441,6 +14443,15 @@
           "newTeam": "Paper Rex (Inactive)",
           "flag": "id",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "d4v41",
+          "name": "Ahmad Khalish Rusyaidee bin Nordin",
+          "joinDate": "2026-10-24",
+          "leaveDate": "2026-10-31",
+          "newTeam": null,
+          "flag": "my",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "d4v41",
@@ -14860,22 +14871,6 @@
           "flag": "us",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "JonahP",
-          "name": "Jonah Pulice",
-          "joinDate": "2026-03-06",
-          "flag": "ca",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Jerrwin",
-          "name": "Gurjiwan Gill",
-          "joinDate": "2026-03-24",
-          "flag": "ca",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -15165,6 +15160,24 @@
           "leaveDate": "2025-10-22",
           "newTeam": "100 Thieves",
           "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Jerrwin",
+          "name": "Gurjiwan Gill",
+          "joinDate": "2026-09-15",
+          "leaveDate": "2026-10-30",
+          "newTeam": null,
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "JonahP",
+          "name": "Jonah Pulice",
+          "joinDate": "2026-03-06",
+          "leaveDate": "2026-10-30",
+          "newTeam": null,
+          "flag": "ca",
           "playerStatus": "STARTER"
         },
         {
@@ -16875,14 +16888,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Kicks",
-          "name": "Kimmie Laasner",
-          "joinDate": "2026-06-26",
-          "flag": "ee",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "GSR",
           "name": "Ognjen Bondžić",
           "joinDate": "2026-09-09",
@@ -16895,14 +16900,6 @@
           "name": "Ayaz Akhmetshin",
           "joinDate": "2022-11-11",
           "flag": "ru",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "MiniBoo",
-          "name": "Dominykas Lukaševičius",
-          "joinDate": "2025-12-12",
-          "flag": "lt",
           "captain": false,
           "playerStatus": "BENCHED"
         },
@@ -17185,6 +17182,24 @@
           "newTeam": "Gentle Mates",
           "flag": "pl",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "Kicks",
+          "name": "Kimmie Laasner",
+          "joinDate": "2026-06-26",
+          "leaveDate": "2026-10-29",
+          "newTeam": "Mandatory",
+          "flag": "ee",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "MiniBoo",
+          "name": "Dominykas Lukaševičius",
+          "joinDate": "2026-06-25",
+          "leaveDate": "2026-10-29",
+          "newTeam": "Mandatory",
+          "flag": "lt",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "trexx",
@@ -24522,7 +24537,7 @@
           "name": "Emil Trajkovski",
           "joinDate": "2025-11-30",
           "leaveDate": "2026-09-01",
-          "newTeam": null,
+          "newTeam": "Mandatory",
           "flag": "mk",
           "playerStatus": "STARTER"
         },
@@ -24589,6 +24604,33 @@
           "joinDate": "2023-09-15",
           "leaveDate": "2024-09-11",
           "flag": "pt",
+          "status": "former"
+        },
+        {
+          "id": "Larsson",
+          "name": "Kévin Bernard",
+          "role": "Head Coach",
+          "joinDate": "2024-12-29",
+          "leaveDate": "2025-09-10",
+          "flag": "fr",
+          "status": "former"
+        },
+        {
+          "id": "SKAZZ",
+          "name": "Arnaud Trocars",
+          "role": "Assistant Coach",
+          "joinDate": "2024-12-29",
+          "leaveDate": "2026-09-01",
+          "flag": "fr",
+          "status": "former"
+        },
+        {
+          "id": "Larsson",
+          "name": "Kévin Bernard",
+          "role": "Head Coach",
+          "joinDate": "2026-01-08",
+          "leaveDate": "2026-08-24",
+          "flag": "fr",
           "status": "former"
         }
       ]
