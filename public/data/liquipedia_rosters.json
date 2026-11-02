@@ -758,15 +758,6 @@
       ],
       "coaches": [
         {
-          "id": "ED101",
-          "name": "Han Tianqi",
-          "role": "Head Coach",
-          "joinDate": "2025-06-28",
-          "leaveDate": null,
-          "flag": "cn",
-          "status": "active"
-        },
-        {
           "id": "Jason",
           "name": null,
           "role": "Assistant Coach",
@@ -826,6 +817,15 @@
           "role": "Head Coach",
           "joinDate": "2025-01-02",
           "leaveDate": "2025-03-25",
+          "flag": "cn",
+          "status": "former"
+        },
+        {
+          "id": "ED101",
+          "name": "Han Tianqi",
+          "role": "Head Coach",
+          "joinDate": "2025-06-28",
+          "leaveDate": "2026-11-02",
           "flag": "cn",
           "status": "former"
         },
@@ -2272,44 +2272,12 @@
     "DetonatioN FocusMe": {
       "players": [
         {
-          "id": "Meiy",
-          "name": "Ibuki Seki",
-          "joinDate": "2023-11-28",
-          "flag": "jp",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "akame",
-          "name": "Yu Gwang-hui",
-          "joinDate": "2024-10-15",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "SSeeS",
           "name": "Tomonori Okimura",
           "joinDate": "2025-07-16",
           "flag": "jp",
           "captain": true,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "Caedye",
-          "name": "Amon Mateus Okakura",
-          "joinDate": "2026-01-01",
-          "flag": "jp",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "yatsuka",
-          "name": "Kazuya Ikeda",
-          "joinDate": "2026-01-01",
-          "flag": "jp",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -2557,6 +2525,42 @@
           "playerStatus": "SUBSTITUTE"
         },
         {
+          "id": "akame",
+          "name": "Yu Gwang-hui",
+          "joinDate": "2024-10-15",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Caedye",
+          "name": "Amon Mateus Okakura",
+          "joinDate": "2026-10-25",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "jp",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Meiy",
+          "name": "Ibuki Seki",
+          "joinDate": "2023-11-28",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "jp",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "yatsuka",
+          "name": "Kazuya Ikeda",
+          "joinDate": "2026-10-22",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "jp",
+          "playerStatus": "INACTIVE"
+        },
+        {
           "id": "Caedye",
           "name": "Amon Mateus Okakura",
           "joinDate": "2026-01-01",
@@ -2576,33 +2580,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "Vorz",
-          "name": "Kakeru Ikarashi",
-          "role": "Head Coach",
-          "joinDate": "2026-01-01",
-          "leaveDate": null,
-          "flag": "jp",
-          "status": "active"
-        },
-        {
-          "id": "Melofovia",
-          "name": "Hirotaka Okazaki",
-          "role": "Coach",
-          "joinDate": "2023-11-28",
-          "leaveDate": null,
-          "flag": "jp",
-          "status": "active"
-        },
-        {
-          "id": "NorthernLights",
-          "name": "Tsubasa Ando",
-          "role": "Coach",
-          "joinDate": "2024-02-05",
-          "leaveDate": null,
-          "flag": "jp",
-          "status": "active"
-        },
         {
           "id": "Melofovia",
           "name": "Hirotaka Okazaki",
@@ -2663,6 +2640,33 @@
           "role": "Peformance Coach",
           "joinDate": "2025-??-??",
           "leaveDate": "2025-08-??",
+          "flag": "jp",
+          "status": "former"
+        },
+        {
+          "id": "Melofovia",
+          "name": "Hirotaka Okazaki",
+          "role": "Coach",
+          "joinDate": "2023-11-28",
+          "leaveDate": "2026-11-02",
+          "flag": "jp",
+          "status": "former"
+        },
+        {
+          "id": "NorthernLights",
+          "name": "Tsubasa Ando",
+          "role": "Coach",
+          "joinDate": "2024-02-05",
+          "leaveDate": "2026-11-02",
+          "flag": "jp",
+          "status": "former"
+        },
+        {
+          "id": "Vorz",
+          "name": "Kakeru Ikarashi",
+          "role": "Head Coach",
+          "joinDate": "2026-01-01",
+          "leaveDate": "2026-11-02",
           "flag": "jp",
           "status": "former"
         },
@@ -4189,48 +4193,7 @@
       ]
     },
     "Evil Geniuses": {
-      "players": [
-        {
-          "id": "supamen",
-          "name": "Phat Le",
-          "joinDate": "2024-01-26",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "bao",
-          "name": "Bao Nguyen",
-          "joinDate": "2025-11-21",
-          "flag": "vn",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "dgzin",
-          "name": "Douglas De Santana Da Silva",
-          "joinDate": "2025-11-21",
-          "flag": "br",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "Paincakes",
-          "name": "Jake Hass",
-          "joinDate": "2026-05-07",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "zerona",
-          "name": "Javan Varela",
-          "joinDate": "2026-05-07",
-          "flag": "mx",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "Temperature",
@@ -4505,6 +4468,51 @@
         {
           "id": "bao",
           "name": "Bao Nguyen",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "vn",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "dgzin",
+          "name": "Douglas De Santana Da Silva",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "br",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Paincakes",
+          "name": "Jake Hass",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "supamen",
+          "name": "Phat Le",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "zerona",
+          "name": "Javan Varela",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "mx",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "bao",
+          "name": "Bao Nguyen",
           "joinDate": "2025-11-21",
           "leaveDate": "2026-10-20",
           "newTeam": "Evil Geniuses (Inactive)",
@@ -4636,6 +4644,33 @@
           "role": "Head Coach",
           "joinDate": "2023-05-09",
           "leaveDate": "2023-09-06",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "Faded",
+          "name": "Daniel Hwang",
+          "role": "Inactive Coach",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "pho",
+          "name": "Mike Panza",
+          "role": "Inactive Coach",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
+          "flag": "us",
+          "status": "former"
+        },
+        {
+          "id": "potter",
+          "name": "Christine Chi",
+          "role": "Inactive Coach",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-02",
           "flag": "us",
           "status": "former"
         },
@@ -5855,56 +5890,7 @@
       ]
     },
     "FURIA": {
-      "players": [
-        {
-          "id": "artzin",
-          "name": "Arthur Araujo",
-          "joinDate": "2025-12-01",
-          "flag": "br",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "eeiu",
-          "name": "Daniel Vucenovic",
-          "joinDate": "2025-12-01",
-          "flag": "ca",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "koalanoob",
-          "name": "GianFranco Potestio",
-          "joinDate": "2025-12-01",
-          "flag": "ca",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "basic",
-          "name": "Luiz Henrique Ferlin Tessaro",
-          "joinDate": "2026-07-01",
-          "flag": "br",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "Shyy",
-          "name": "Fabian Usnayo",
-          "joinDate": "2026-07-02",
-          "flag": "cl",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "C0M",
-          "name": "Corbin Daniel Lee",
-          "joinDate": "2026-07-19",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "Txddy1",
@@ -6242,6 +6228,60 @@
         {
           "id": "artzin",
           "name": "Arthur Araujo",
+          "joinDate": "2026-10-19",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "br",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "basic",
+          "name": "Luiz Henrique Ferlin Tessaro",
+          "joinDate": "2026-10-19",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "br",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "C0M",
+          "name": "Corbin Daniel Lee",
+          "joinDate": "2026-09-28",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "eeiu",
+          "name": "Daniel Vucenovic",
+          "joinDate": "2026-07-19",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "koalanoob",
+          "name": "GianFranco Potestio",
+          "joinDate": "2026-09-25",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "ca",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Shyy",
+          "name": "Fabian Usnayo",
+          "joinDate": "2026-10-19",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "cl",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "artzin",
+          "name": "Arthur Araujo",
           "joinDate": "2025-12-01",
           "leaveDate": "2026-10-19",
           "newTeam": "FURIA (Inactive)",
@@ -6377,24 +6417,6 @@
       ],
       "coaches": [
         {
-          "id": "shaW",
-          "name": "Ian Jardim Chapetta",
-          "role": "Head Coach",
-          "joinDate": "2025-07-15",
-          "leaveDate": null,
-          "flag": "br",
-          "status": "active"
-        },
-        {
-          "id": "Kamino",
-          "name": "Lucas Kamino",
-          "role": "Assistant Coach",
-          "joinDate": "2025-07-15",
-          "leaveDate": null,
-          "flag": "br",
-          "status": "active"
-        },
-        {
           "id": "Carlão",
           "name": "Carlos Mohn",
           "role": "Coach",
@@ -6445,6 +6467,24 @@
           "role": "Head Coach",
           "joinDate": "2024-12-09",
           "leaveDate": "2025-05-15",
+          "flag": "br",
+          "status": "former"
+        },
+        {
+          "id": "Kamino",
+          "name": "Lucas Kamino",
+          "role": "Assistant Coach",
+          "joinDate": "2025-07-15",
+          "leaveDate": "2026-11-02",
+          "flag": "br",
+          "status": "former"
+        },
+        {
+          "id": "shaW",
+          "name": "Ian Jardim Chapetta",
+          "role": "Head Coach",
+          "joinDate": "2025-07-15",
+          "leaveDate": "2026-11-02",
           "flag": "br",
           "status": "former"
         },
@@ -14220,14 +14260,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Jinggg",
-          "name": "Wang Jing Jie",
-          "joinDate": "2024-03-29",
-          "flag": "sg",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "invy",
           "name": "Adrian Jiggs Aisa Reyes",
           "joinDate": "2025-12-16",
@@ -14452,6 +14484,15 @@
           "newTeam": null,
           "flag": "my",
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Jinggg",
+          "name": "Wang Jing Jie",
+          "joinDate": "2024-03-29",
+          "leaveDate": "2026-10-31",
+          "newTeam": null,
+          "flag": "sg",
+          "playerStatus": "STARTER"
         },
         {
           "id": "d4v41",
@@ -14782,15 +14823,6 @@
       ],
       "coaches": [
         {
-          "id": "Rebecca",
-          "name": "Rebecca Wong",
-          "role": "Performance Coach",
-          "joinDate": "2024-07-30",
-          "leaveDate": null,
-          "flag": "my",
-          "status": "active"
-        },
-        {
           "id": "Vyminal",
           "name": "Paco Santos",
           "role": "Inactive Coach",
@@ -14824,6 +14856,15 @@
           "joinDate": "2022-09-30",
           "leaveDate": "2025-10-16",
           "flag": "za",
+          "status": "former"
+        },
+        {
+          "id": "Rebecca",
+          "name": "Rebecca Wong",
+          "role": "Performance Coach",
+          "joinDate": "2024-07-30",
+          "leaveDate": "2026-11-02",
+          "flag": "my",
           "status": "former"
         },
         {
@@ -15371,30 +15412,6 @@
           "flag": "kr",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "Munchkin",
-          "name": "Byeon Sang-beom",
-          "joinDate": "2025-11-28",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Meteor",
-          "name": "Kim Tae-oh",
-          "joinDate": "2024-10-12",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
-          "id": "DH",
-          "name": "Kang Dong-ho",
-          "joinDate": "2026-07-06",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -15716,6 +15733,33 @@
         {
           "id": "DH",
           "name": "Kang Dong-ho",
+          "joinDate": "2026-10-22",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Meteor",
+          "name": "Kim Tae-oh",
+          "joinDate": "2026-10-22",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Munchkin",
+          "name": "Byeon Sang-beom",
+          "joinDate": "2025-11-28",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "DH",
+          "name": "Kang Dong-ho",
           "joinDate": "2026-07-06",
           "leaveDate": "2026-10-22",
           "newTeam": "T1 (Inactive)",
@@ -15751,15 +15795,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "KDG",
-          "name": "Kim Dong-gun",
-          "role": "Head Coach",
-          "joinDate": "2025-10-29",
-          "leaveDate": null,
-          "flag": "kr",
-          "status": "active"
-        },
         {
           "id": "fRoD",
           "name": "Daniel Montaner",
@@ -15820,6 +15855,15 @@
           "role": "Assistant Coach",
           "joinDate": "2024-10-08",
           "leaveDate": "2025-10-21",
+          "flag": "kr",
+          "status": "former"
+        },
+        {
+          "id": "KDG",
+          "name": "Kim Dong-gun",
+          "role": "Head Coach",
+          "joinDate": "2025-10-29",
+          "leaveDate": "2026-11-02",
           "flag": "kr",
           "status": "former"
         },
@@ -21744,14 +21788,6 @@
     "BOOM Esports": {
       "players": [
         {
-          "id": "Shiro",
-          "name": "Hildegrad Arnaldo Herikusuma",
-          "joinDate": "2022-10-27",
-          "flag": "id",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "NcSlasher",
           "name": "Sheldon Andersen Chandra",
           "joinDate": "2023-09-13",
@@ -21974,6 +22010,15 @@
           "leaveDate": "2025-10-19",
           "newTeam": "Karmine Corp",
           "flag": "kz",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Shiro",
+          "name": "Hildegrad Arnaldo Herikusuma",
+          "joinDate": "2022-10-27",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "id",
           "playerStatus": "STARTER"
         },
         {
