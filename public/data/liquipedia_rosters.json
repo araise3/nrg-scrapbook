@@ -546,14 +546,6 @@
           "flag": "ru",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "Bai",
-          "name": "Zhang Zeyang",
-          "joinDate": "2026-04-29",
-          "flag": "cn",
-          "captain": false,
-          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -680,6 +672,15 @@
           "joinDate": "2025-01-02",
           "leaveDate": "2025-02-06",
           "newTeam": "Havoc & Yonder",
+          "flag": "cn",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Bai",
+          "name": "Zhang Zeyang",
+          "joinDate": "2026-04-29",
+          "leaveDate": "2026-11-04",
+          "newTeam": null,
           "flag": "cn",
           "playerStatus": "STARTER"
         },
@@ -1384,6 +1385,15 @@
         {
           "id": "Viento",
           "name": "Göktuğ Alp Çebi",
+          "role": "Inactive Coach",
+          "joinDate": "2026-09-09",
+          "leaveDate": "2026-11-02",
+          "flag": "tr",
+          "status": "former"
+        },
+        {
+          "id": "Viento",
+          "name": "Göktuğ Alp Çebi",
           "role": "Assistant Coach",
           "joinDate": "2025-12-19",
           "leaveDate": "2026-09-09",
@@ -1711,22 +1721,6 @@
     "Cloud9": {
       "players": [
         {
-          "id": "OXY",
-          "name": "Francis Hoang",
-          "joinDate": "2023-09-29",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Zellsis",
-          "name": "Jordan Montemurro",
-          "joinDate": "2025-10-30",
-          "flag": "us",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "FireBallOps",
           "name": "Cameron Tomaselli",
           "joinDate": "2026-05-29",
@@ -1735,12 +1729,12 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Jackk",
-          "name": "Jack Foote",
-          "joinDate": "2026-05-02",
-          "flag": "us",
+          "id": "GLYPH",
+          "name": "Conner Garcia",
+          "joinDate": "2026-11-02",
+          "flag": "ph",
           "captain": false,
-          "playerStatus": "BENCHED"
+          "playerStatus": "STARTER"
         },
         {
           "id": "v1c",
@@ -2039,6 +2033,33 @@
           "newTeam": "Trust In Plug",
           "flag": "ca",
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Jackk",
+          "name": "Jack Foote",
+          "joinDate": "2026-10-18",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "OXY",
+          "name": "Francis Hoang",
+          "joinDate": "2023-09-29",
+          "leaveDate": "2026-11-02",
+          "newTeam": "Sentinels",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Zellsis",
+          "name": "Jordan Montemurro",
+          "joinDate": "2025-10-30",
+          "leaveDate": "2026-11-02",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "STARTER"
         },
         {
           "id": "v1c",
@@ -3403,14 +3424,6 @@
           "playerStatus": "BENCHED"
         },
         {
-          "id": "GLYPH",
-          "name": "Conner Garcia",
-          "joinDate": "2026-06-30",
-          "flag": "ph",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
           "id": "nightz",
           "name": "Christian Verio-Smith",
           "joinDate": "2026-07-15",
@@ -3545,6 +3558,15 @@
           "newTeam": "Team Envy",
           "flag": "ca",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "GLYPH",
+          "name": "Conner Garcia",
+          "joinDate": "2026-09-09",
+          "leaveDate": "2026-11-02",
+          "newTeam": "Cloud9",
+          "flag": "ph",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "nightz",
@@ -3722,20 +3744,20 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "audaz",
-          "name": "Soner Ekiz",
-          "joinDate": "2026-03-20",
+          "id": "s0pp",
+          "name": "Efe Tur",
+          "joinDate": "2026-11-03",
           "flag": "tr",
           "captain": false,
-          "playerStatus": "BENCHED"
+          "playerStatus": "STARTER"
         },
         {
-          "id": "nekky",
-          "name": "Anıl Dağdeviren",
-          "joinDate": "2026-03-20",
+          "id": "sociablEE",
+          "name": "Volkan Yönal",
+          "joinDate": "2026-11-03",
           "flag": "tr",
-          "captain": false,
-          "playerStatus": "BENCHED"
+          "captain": true,
+          "playerStatus": "STARTER"
         },
         {
           "id": "Spear",
@@ -3998,6 +4020,24 @@
           "newTeam": null,
           "flag": "tr",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "audaz",
+          "name": "Soner Ekiz",
+          "joinDate": "2026-10-26",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "nekky",
+          "name": "Anıl Dağdeviren",
+          "joinDate": "2026-09-11",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "tr",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "Spear",
@@ -5065,24 +5105,6 @@
       ],
       "coaches": [
         {
-          "id": "Desmo",
-          "name": "Casper Rasmussen",
-          "role": "Assistant Coach",
-          "joinDate": "2025-12-01",
-          "leaveDate": null,
-          "flag": "dk",
-          "status": "active"
-        },
-        {
-          "id": "Szed",
-          "name": "Philipp Schickor",
-          "role": "Performance Coach",
-          "joinDate": "2025-03-17",
-          "leaveDate": null,
-          "flag": "de",
-          "status": "active"
-        },
-        {
           "id": "Anderzz",
           "name": "Martin Schelasin",
           "role": "Strategic Coach",
@@ -5242,6 +5264,24 @@
           "joinDate": "2023-10-21",
           "leaveDate": "2025-02-06",
           "flag": "au",
+          "status": "former"
+        },
+        {
+          "id": "Desmo",
+          "name": "Casper Rasmussen",
+          "role": "Assistant Coach",
+          "joinDate": "2025-12-01",
+          "leaveDate": "2026-11-03",
+          "flag": "dk",
+          "status": "former"
+        },
+        {
+          "id": "Szed",
+          "name": "Philipp Schickor",
+          "role": "Performance Coach",
+          "joinDate": "2025-03-17",
+          "leaveDate": "2026-11-03",
+          "flag": "de",
           "status": "former"
         },
         {
@@ -6516,22 +6556,6 @@
           "flag": "tr",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "s0pp",
-          "name": "Efe Tur",
-          "joinDate": "2026-03-28",
-          "flag": "tr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "sociablEE",
-          "name": "Volkan Yönal",
-          "joinDate": "2026-04-01",
-          "flag": "tr",
-          "captain": true,
-          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -6779,6 +6803,24 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "s0pp",
+          "name": "Efe Tur",
+          "joinDate": "2026-03-28",
+          "leaveDate": "2026-11-03",
+          "newTeam": "Eternal Fire",
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "sociablEE",
+          "name": "Volkan Yönal",
+          "joinDate": "2026-04-01",
+          "leaveDate": "2026-11-03",
+          "newTeam": "Eternal Fire",
+          "flag": "tr",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "xeus",
           "name": "Yusuf Doğan Gözgen",
           "joinDate": "2024-10-19",
@@ -7011,6 +7053,15 @@
           "role": "Head Coach",
           "joinDate": "2021-09-12",
           "leaveDate": "2025-07-14",
+          "flag": "tr",
+          "status": "former"
+        },
+        {
+          "id": "Vlad",
+          "name": "Berke Kantürk",
+          "role": "Inactive Coach",
+          "joinDate": "2026-10-14",
+          "leaveDate": "2026-11-02",
           "flag": "tr",
           "status": "former"
         },
@@ -7476,14 +7527,6 @@
           "flag": "us",
           "captain": false,
           "playerStatus": "STARTER"
-        },
-        {
-          "id": "babybay",
-          "name": "Andrej Francisty",
-          "joinDate": "2025-11-13",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -7794,6 +7837,15 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "babybay",
+          "name": "Andrej Francisty",
+          "joinDate": "2025-11-13",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "valyn",
           "name": "Jacob Batio",
           "joinDate": "2023-09-22",
@@ -7916,30 +7968,6 @@
     },
     "GIANTX": {
       "players": [
-        {
-          "id": "westside",
-          "name": "Miłosz Tomasz Duda",
-          "joinDate": "2024-11-26",
-          "flag": "pl",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Flickless",
-          "name": "Karel Ivo Maeckelbergh",
-          "joinDate": "2025-04-16",
-          "flag": "be",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "ara",
-          "name": "Eduard-George Hanceriuc",
-          "joinDate": "2025-04-16",
-          "flag": "ro",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
         {
           "id": "tomaszy",
           "name": "Tomás Machado",
@@ -8079,6 +8107,33 @@
         {
           "id": "ara",
           "name": "Eduard-George Hanceriuc",
+          "joinDate": "2026-10-24",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "ro",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Flickless",
+          "name": "Karel Ivo Maeckelbergh",
+          "joinDate": "2025-04-16",
+          "leaveDate": "2026-11-03",
+          "newTeam": "UCAM Esports",
+          "flag": "be",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "westside",
+          "name": "Miłosz Tomasz Duda",
+          "joinDate": "2024-11-26",
+          "leaveDate": "2026-11-03",
+          "newTeam": "Joblife",
+          "flag": "pl",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "ara",
+          "name": "Eduard-George Hanceriuc",
           "joinDate": "2025-04-16",
           "leaveDate": "2026-10-24",
           "newTeam": "GIANTX (Inactive)",
@@ -8182,14 +8237,6 @@
     "Gen.G": {
       "players": [
         {
-          "id": "Ash",
-          "name": "Ha Hyun-cheol",
-          "joinDate": "2025-03-17",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Karon",
           "name": "Kim Won-tae",
           "joinDate": "2025-10-24",
@@ -8228,14 +8275,6 @@
           "flag": "kr",
           "captain": false,
           "playerStatus": "INACTIVE"
-        },
-        {
-          "id": "Efina",
-          "name": "Kim Nak-yeon",
-          "joinDate": "2026-07-09",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -8582,6 +8621,24 @@
           "playerStatus": "STARTER"
         },
         {
+          "id": "Ash",
+          "name": "Ha Hyun-cheol",
+          "joinDate": "2025-03-17",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Efina",
+          "name": "Kim Nak-yeon",
+          "joinDate": "2026-10-28",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "INACTIVE"
+        },
+        {
           "id": "Efina",
           "name": "Kim Nak-yeon",
           "joinDate": "2026-07-09",
@@ -8665,15 +8722,6 @@
           "status": "active"
         },
         {
-          "id": "peri",
-          "name": "Jung Beom-gi",
-          "role": "Coach",
-          "joinDate": "2025-11-28",
-          "leaveDate": null,
-          "flag": "kr",
-          "status": "active"
-        },
-        {
           "id": "mCe",
           "name": "Matthew Elmore",
           "role": "Coach",
@@ -8742,6 +8790,15 @@
           "role": "Head Coach",
           "joinDate": "2024-01-30",
           "leaveDate": "2025-10-21",
+          "flag": "kr",
+          "status": "former"
+        },
+        {
+          "id": "peri",
+          "name": "Jung Beom-gi",
+          "role": "Coach",
+          "joinDate": "2025-11-28",
+          "leaveDate": "2026-11-03",
           "flag": "kr",
           "status": "former"
         }
@@ -8989,7 +9046,7 @@
           "name": "Yusuf Emre Tunc",
           "joinDate": "2026-06-08",
           "leaveDate": "2026-10-25",
-          "newTeam": null,
+          "newTeam": "Barça eSports",
           "flag": "de",
           "playerStatus": "STARTER"
         },
@@ -12378,14 +12435,6 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "brawk",
-          "name": "Brock Somerhalder",
-          "joinDate": "2025-02-16",
-          "flag": "us",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "skuba",
           "name": "Logan Jenkins",
           "joinDate": "2025-05-09",
@@ -12698,6 +12747,15 @@
           "joinDate": "2024-10-10",
           "leaveDate": "2025-02-16",
           "newTeam": "NRG (Inactive)",
+          "flag": "us",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "brawk",
+          "name": "Brock Somerhalder",
+          "joinDate": "2025-02-16",
+          "leaveDate": "2026-11-03",
+          "newTeam": "Sentinels",
           "flag": "us",
           "playerStatus": "STARTER"
         },
@@ -13127,7 +13185,7 @@
           "name": "Dawid Czarnecki",
           "joinDate": "2025-12-03",
           "leaveDate": "2026-06-24",
-          "newTeam": null,
+          "newTeam": "UCAM Esports",
           "flag": "pl",
           "playerStatus": "STARTER"
         },
@@ -13160,15 +13218,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "Shiji_mm",
-          "name": "Zuzanna Hejduk-Mostowy",
-          "role": "Performance Coach",
-          "joinDate": "2024-12-06",
-          "leaveDate": null,
-          "flag": "pl",
-          "status": "active"
-        },
         {
           "id": "SmartSeven",
           "name": "Dzmitry Smartselau",
@@ -13260,6 +13309,15 @@
           "status": "former"
         },
         {
+          "id": "Shiji_mm",
+          "name": "Zuzanna Hejduk-Mostowy",
+          "role": "Performance Coach",
+          "joinDate": "2024-12-06",
+          "leaveDate": "2026-11-03",
+          "flag": "pl",
+          "status": "former"
+        },
+        {
           "id": "ANGE1",
           "name": "Kyrylo Karasov",
           "role": "Head Coach",
@@ -13332,12 +13390,12 @@
           "playerStatus": "STARTER"
         },
         {
-          "id": "Dambi",
-          "name": "Lee Hyuk-kyu",
-          "joinDate": "2024-11-26",
+          "id": "UdoTan",
+          "name": "Go Kyung-won",
+          "joinDate": "2026-11-04",
           "flag": "kr",
           "captain": false,
-          "playerStatus": "BENCHED"
+          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -13520,6 +13578,15 @@
           "newTeam": "QT DIG∞",
           "flag": "kr",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "Dambi",
+          "name": "Lee Hyuk-kyu",
+          "joinDate": "2026-10-20",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "Dambi",
@@ -13893,14 +13960,6 @@
           "flag": "rs",
           "captain": false,
           "playerStatus": "BENCHED"
-        },
-        {
-          "id": "waddle",
-          "name": "Wadir Taraki",
-          "joinDate": "2026-07-14",
-          "flag": "gb",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -14118,6 +14177,15 @@
           "leaveDate": "2024-02-05",
           "newTeam": "There is no Tomorrow",
           "flag": "tr",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "waddle",
+          "name": "Wadir Taraki",
+          "joinDate": "2026-09-16",
+          "leaveDate": "2026-11-03",
+          "newTeam": "UCAM Esports",
+          "flag": "gb",
           "playerStatus": "INACTIVE"
         },
         {
@@ -14909,6 +14977,22 @@
           "id": "reduxx",
           "name": "Yassin Ibrahim Aboulalazm",
           "joinDate": "2025-11-01",
+          "flag": "us",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "OXY",
+          "name": "Francis Hoang",
+          "joinDate": "2026-11-02",
+          "flag": "us",
+          "captain": false,
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "brawk",
+          "name": "Brock Somerhalder",
+          "joinDate": "2026-11-03",
           "flag": "us",
           "captain": false,
           "playerStatus": "STARTER"
@@ -15795,6 +15879,15 @@
         }
       ],
       "coaches": [
+        {
+          "id": "sungmin",
+          "name": "So Seong-min",
+          "role": "Coach",
+          "joinDate": "2026-11-04",
+          "leaveDate": null,
+          "flag": "kr",
+          "status": "active"
+        },
         {
           "id": "fRoD",
           "name": "Daniel Montaner",
@@ -16946,14 +17039,6 @@
           "flag": "ru",
           "captain": false,
           "playerStatus": "BENCHED"
-        },
-        {
-          "id": "purp0",
-          "name": "Semyon Borchev",
-          "joinDate": "2025-12-12",
-          "flag": "ru",
-          "captain": false,
-          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -17226,6 +17311,15 @@
           "newTeam": "Gentle Mates",
           "flag": "pl",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "purp0",
+          "name": "Semyon Borchev",
+          "joinDate": "2026-09-09",
+          "leaveDate": "2026-11-03",
+          "newTeam": "Barça eSports",
+          "flag": "ru",
+          "playerStatus": "INACTIVE"
         },
         {
           "id": "Kicks",
@@ -18439,14 +18533,6 @@
     "Titan Esports Club": {
       "players": [
         {
-          "id": "Haodong",
-          "name": "Guo Haodong",
-          "joinDate": "2024-10-19",
-          "flag": "cn",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "dynamite",
           "name": "Zhao Zihao",
           "joinDate": "2024-12-25",
@@ -18458,14 +18544,6 @@
           "id": "CoCo",
           "name": "Ding Dajian",
           "joinDate": "2025-03-09",
-          "flag": "cn",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "lucas",
-          "name": "Lu Yunkun",
-          "joinDate": "2025-06-26",
           "flag": "cn",
           "captain": false,
           "playerStatus": "STARTER"
@@ -18485,6 +18563,14 @@
           "flag": "tw",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "lucas",
+          "name": "Lu Yunkun",
+          "joinDate": "2025-06-26",
+          "flag": "cn",
+          "captain": false,
+          "playerStatus": "BENCHED"
         }
       ],
       "formerPlayers": [
@@ -18615,6 +18701,24 @@
           "playerStatus": "TRIAL"
         },
         {
+          "id": "Haodong",
+          "name": "Guo Haodong",
+          "joinDate": "2024-10-19",
+          "leaveDate": "2026-11-04",
+          "newTeam": null,
+          "flag": "cn",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "lucas",
+          "name": "Lu Yunkun",
+          "joinDate": "2025-06-26",
+          "leaveDate": "2026-11-04",
+          "newTeam": "Titan Esports Club (Inactive)",
+          "flag": "cn",
+          "playerStatus": "STARTER"
+        },
+        {
           "id": "Abo",
           "name": "Han Bohao",
           "joinDate": "2023-11-02",
@@ -18634,33 +18738,6 @@
         }
       ],
       "coaches": [
-        {
-          "id": "AfteR",
-          "name": "Lo Wen-hsin",
-          "role": "Head Coach",
-          "joinDate": "2025-01-03",
-          "leaveDate": null,
-          "flag": "tw",
-          "status": "active"
-        },
-        {
-          "id": "Muggle",
-          "name": "Tang Shijun",
-          "role": "Coach",
-          "joinDate": "2026-06-28",
-          "leaveDate": null,
-          "flag": "cn",
-          "status": "active"
-        },
-        {
-          "id": "3water",
-          "name": "Liu Miao",
-          "role": "Assistant Coach",
-          "joinDate": "2025-01-03",
-          "leaveDate": null,
-          "flag": "cn",
-          "status": "active"
-        },
         {
           "id": "YorkMonster",
           "name": "Yao Kun",
@@ -18686,6 +18763,33 @@
           "joinDate": "2024-10-19",
           "leaveDate": "2025-01-03",
           "flag": "tw",
+          "status": "former"
+        },
+        {
+          "id": "3water",
+          "name": "Liu Miao",
+          "role": "Assistant Coach",
+          "joinDate": "2025-01-03",
+          "leaveDate": "2026-11-04",
+          "flag": "cn",
+          "status": "former"
+        },
+        {
+          "id": "AfteR",
+          "name": "Lo Wen-hsin",
+          "role": "Head Coach",
+          "joinDate": "2025-01-03",
+          "leaveDate": "2026-11-04",
+          "flag": "tw",
+          "status": "former"
+        },
+        {
+          "id": "Muggle",
+          "name": "Tang Shijun",
+          "role": "Coach",
+          "joinDate": "2026-06-28",
+          "leaveDate": "2026-11-04",
+          "flag": "cn",
           "status": "former"
         }
       ]
@@ -19096,56 +19200,7 @@
       ]
     },
     "VARREL": {
-      "players": [
-        {
-          "id": "C1ndeR",
-          "name": "Go Jae-hyuk",
-          "joinDate": "2025-12-12",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Klaus",
-          "name": "Kim Min-hyuk",
-          "joinDate": "2025-12-12",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "oonzmlp",
-          "name": "Shin Sang-beom",
-          "joinDate": "2025-12-12",
-          "flag": "kr",
-          "captain": true,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "XuNa",
-          "name": "Kim Tae-geon",
-          "joinDate": "2025-12-12",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "zexy",
-          "name": "Jang Suk-hyun",
-          "joinDate": "2025-12-12",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
-          "id": "Foxy9",
-          "name": "Jung Jae-sung",
-          "joinDate": "2026-05-13",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        }
-      ],
+      "players": [],
       "formerPlayers": [
         {
           "id": "makiba",
@@ -19371,18 +19426,63 @@
           "newTeam": "VEC",
           "flag": "kr",
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "C1ndeR",
+          "name": "Go Jae-hyuk",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Foxy9",
+          "name": "Jung Jae-sung",
+          "joinDate": "2026-05-13",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "Klaus",
+          "name": "Kim Min-hyuk",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "oonzmlp",
+          "name": "Shin Sang-beom",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "XuNa",
+          "name": "Kim Tae-geon",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
+        },
+        {
+          "id": "zexy",
+          "name": "Jang Suk-hyun",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
         }
       ],
       "coaches": [
-        {
-          "id": "TK9",
-          "name": "Goo Tae-kyun",
-          "role": "Head Coach",
-          "joinDate": "2025-12-12",
-          "leaveDate": null,
-          "flag": "kr",
-          "status": "active"
-        },
         {
           "id": "Ell",
           "name": "Lowell Marcelo",
@@ -19462,6 +19562,15 @@
           "joinDate": "2023-07-19",
           "leaveDate": "2024-01-19",
           "flag": null,
+          "status": "former"
+        },
+        {
+          "id": "TK9",
+          "name": "Goo Tae-kyun",
+          "role": "Head Coach",
+          "joinDate": "2025-12-12",
+          "leaveDate": "2026-11-03",
+          "flag": "kr",
           "status": "former"
         },
         {
@@ -20192,14 +20301,6 @@
           "playerStatus": "BENCHED"
         },
         {
-          "id": "Xdll",
-          "name": "Yuto Mizomori",
-          "joinDate": "2024-10-16",
-          "flag": "jp",
-          "captain": false,
-          "playerStatus": "BENCHED"
-        },
-        {
           "id": "eKo",
           "name": "Yeom Wang-ryong",
           "joinDate": "2025-11-28",
@@ -20546,6 +20647,15 @@
           "joinDate": "2024-09-07",
           "leaveDate": "2025-03-10",
           "newTeam": "REJECT",
+          "flag": "jp",
+          "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "Xdll",
+          "name": "Yuto Mizomori",
+          "joinDate": "2026-09-23",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
           "flag": "jp",
           "playerStatus": "INACTIVE"
         },
@@ -22291,7 +22401,7 @@
           "name": "Ondřej Petrů",
           "joinDate": "2026-01-09",
           "leaveDate": "2026-09-01",
-          "newTeam": null,
+          "newTeam": "Barça eSports",
           "flag": "cz",
           "playerStatus": "STARTER"
         },
@@ -23545,6 +23655,15 @@
           "status": "former"
         },
         {
+          "id": "Lêv",
+          "name": "Levent Köktürk",
+          "role": "Inactive Coach",
+          "joinDate": "2026-09-21",
+          "leaveDate": "2026-11-02",
+          "flag": "nl",
+          "status": "former"
+        },
+        {
           "id": "XovLoV",
           "name": "Buğra Erdönmez",
           "role": "Assistant Coach",
@@ -24223,6 +24342,14 @@
           "flag": "fi",
           "captain": false,
           "playerStatus": "STARTER"
+        },
+        {
+          "id": "westside",
+          "name": "Miłosz Tomasz Duda",
+          "joinDate": "2026-11-03",
+          "flag": "pl",
+          "captain": false,
+          "playerStatus": "STARTER"
         }
       ],
       "formerPlayers": [
@@ -24564,7 +24691,7 @@
           "name": "Maksymilian Jan Rychlewski",
           "joinDate": "2025-12-02",
           "leaveDate": "2026-09-02",
-          "newTeam": null,
+          "newTeam": "UCAM Esports",
           "flag": "pl",
           "playerStatus": "STARTER"
         },
@@ -24573,7 +24700,7 @@
           "name": "Mohammad Khatib",
           "joinDate": "2026-07-24",
           "leaveDate": "2026-09-02",
-          "newTeam": null,
+          "newTeam": "Barça eSports",
           "flag": "dk",
           "playerStatus": "STARTER"
         },
@@ -26433,14 +26560,6 @@
     "Weibo Gaming": {
       "players": [
         {
-          "id": "AcMe",
-          "name": "Cha Il-hwan",
-          "joinDate": "2026-04-01",
-          "flag": "kr",
-          "captain": false,
-          "playerStatus": "STARTER"
-        },
-        {
           "id": "Satoshi",
           "name": "Fei Zhixian",
           "joinDate": "2026-04-01",
@@ -26652,6 +26771,15 @@
           "newTeam": "Wolves Esports",
           "flag": "au",
           "playerStatus": "INACTIVE"
+        },
+        {
+          "id": "AcMe",
+          "name": "Cha Il-hwan",
+          "joinDate": "2026-04-01",
+          "leaveDate": "2026-11-03",
+          "newTeam": null,
+          "flag": "kr",
+          "playerStatus": "STARTER"
         },
         {
           "id": "chenze",
