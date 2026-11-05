@@ -22,6 +22,11 @@ scraping pipeline and its data remain.)
 - **`data/player_photos/`** and `data/player_photos.json`: player photos from
   vlr.gg profiles (`scraper/vlr_player_photos_scraper.py`).
 
+## Stat graphics
+
+`charts/` turns the exported data into ready-to-post graphics (player
+scatter plots, agent-by-agent comparisons). See [charts/README.md](charts/README.md).
+
 ## Layout
 
 ```
@@ -35,6 +40,7 @@ scraper/
   *.bat                       Windows helpers (setup.bat first)
   README.md                   scraper details, schema, exit codes
 data/                         exported JSON + player photos
+charts/                       graphics generator (make_chart.py)
 .github/workflows/update-data.yml
 ```
 
