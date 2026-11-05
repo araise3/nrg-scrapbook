@@ -1,0 +1,99 @@
+{{DISPLAYTITLE:QT DIG∞}}{{Liquipedia links/QT DIG}}
+{{Tabs static
+|name1={{team|QT DIG}}
+|name2={{team|Sengoku Gaming Female}}
+|name3={{team|Sengoku Gaming B}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=QT DIG∞
+|image=QT DIG 2025 allmode.png
+|location=Japan
+|region=JP
+|coaches={{Flag|jp}} [[Relife]]<br>{{player|Ryanguru|flag=kr}}
+|manager=
+|analyst=
+|captain={{Flag|jp}} [[misaya]]
+|igl={{Flag|jp}} [[misaya]]
+|website=https://qtdig.com/
+|twitter=QT_DIG
+|facebook=SENGOKUGAMING
+|youtube=@QT_DIG
+|instagram=qtdig_esports.gram
+|tiktok=_qtdig
+|created={{Org}}: 2017<br>{{VALORANT}}: 2020-05-08
+|disbanded=
+}}
+
+'''QT DIG∞''' ('''DIG''' is an abbreviation for "'''Digital Innovation Gaming'''", formerly known as Sengoku Gaming) is a [[:Category:Japan|Japanese]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2022-02-08|displaydate=February 8th|text=[[SHMZ]] joins as an analyst and manager. <ref name="shmz joins">{{cite web|url=https://twitter.com/shmz_fs/status/1491029438842441730|title=これからSengokuの一員として頑張ります|trans_title=I'll try my best as a member of Sengoku|date=2022-02-08|author=[[SHMZ]]|language={{Flag|jp}} Japanese}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=misaya|joindate=2021-09-28|captain=true}}
+}}
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=Aktm|name=Akihiro Kushida|joindate=2020-05-08}}
+|{{SquadAutoRow|id=himajun|name=Ryoto Takeuchi|joindate=2020-05-08}}
+|{{SquadAutoRow|id=Merieux|name=Tsukasa Asano|joindate=2021-02-04}}
+|{{SquadAutoRow|id=timatin|name=|joindate=2021-04-03|newteam=BLUE BEES}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=LiaqN|link=fortnite:LiaqN|flag=jp|name=|role=Owner|joindate=2025-04-08}}
+|{{SquadAutoRow|id=iwamoto|flag=jp|name=Ryosuke Iwamoto|role=CEO & Founder|joindate=2017-??-??}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=SHNZ|flag=jp|role=Analyst & Manager|joindate=2022-02-08 <ref name="shmz joins"/>|leavedate=2022-??-??}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Interviews==
+{{Tabs dynamic
+|name1=2020
+|This=1
+
+|content1=
+* {{ExternalMediaLink
+|date=2020-05-15
+|link=https://www.thespike.gg/news/from-kyushu-to-the-world-interview-with-sengoku-gaming/269
+|title=From Kyushu to the World: Interview with Sengoku Gaming
+|by=Bankoma
+|of=THESPIKE
+|type=interview
+}}
+}}
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="300px">
+QT DIG at VCL Japan 2025 split 2 Playoff.jpg|QT DIG at [[VCL/2025/Japan/Split_2|VALORANT Challengers 2025 Japan: Split 2 Playoff]]<br><small>From left to right:</small><br>[[Gwangboong]] ∙ [[kippei]] ∙ [[Yuran]] ∙ [[nobita]] ∙ [[misaya]] ∙ [[ikedamaru]]
+</gallery>
+===Logos===
+{{TeamLogoGallery}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

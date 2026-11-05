@@ -1,0 +1,93 @@
+{{Liquipedia links|wildrift=KeepBest Gaming|mobilelegends=KeepBest Gaming}}
+{{Team Tabs}}
+{{Infobox team
+|name=KeepBest Gaming
+|image=KeepBest Gaming full allmode.png
+<!--|image=KeepBest Gaming 2026 full lightmode.png
+|imagedark=KeepBest Gaming 2026 full darkmode.png-->
+|location=China
+|region=cn
+|igl=
+|coach={{player|Naint|flag=ru}}
+|manager={{Flag|cn}} Li Chenkang
+|facebook=KeepBestGamingEsports
+|instagram=keepbestgaming
+|tiktok=keepbestgamingesports
+|vlr=12784
+|weibo=u/7861844066
+|bilibili=3546382797376024
+|douyin_page=8lpmxOQHDHw
+|created1=org: 20??-??-??
+|created2=valorant: 2023-04-??
+|disbanded=
+}}
+
+'''KeepBest Gaming''' ''(also known as '''KBG''')'' is a [[:Category:China|Chinese]] professional esports organization with teams in [[:wildrift:KeepBest Gaming|Wild Rift]] and [[:mobilelegends:KeepBest Gaming|Mobile Legends]].
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=Snail<!--aka izyy-->|name=Zhu Dongnan<!--朱东楠-->|joindate=2023-09-06}}
+|{{SquadAutoRow|id=UCc|name=Wang Ziyi<!--王梓译-->|joindate=2023-09-06}}
+|{{SquadAutoRow|id=dimasick|captain=true|joindate=2024-05-20}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=NESA|name=Yao Zhijie|joindate=2023-09-06}}
+|{{SquadAutoRow|id=SHARK|name=Guo Hongcen|joindate=2023-09-06}}
+|{{SquadAutoRow|id=SNAIL|name=Zhu Dongnan|joindate=2023-09-06}}
+|{{SquadAutoRow|id=DRK|link=DRK (Chinese player)|name=Zhang Chenghai|joindate=2023-09-06}}
+|{{SquadAutoRow|id=ONLY|name=He Yiting|joindate=2023-09-06}}
+|{{SquadAutoRow|id=UCC|name=Wang Ziyi|joindate=2023-09-06}}
+|{{SquadAutoRow|id=SHARK|name=Guo Hongcen|joindate=2023-12-16}}
+|{{SquadAutoRow|id=SNAIL|name=Zhu Dongnan|joindate=2023-12-16}}
+|{{SquadAutoRow|id=UCC|name=Wang Ziyi|joindate=2023-12-16}}
+|{{SquadAutoRow|id=On1y|name=He Yiting|joindate=2023-12-16}}
+|{{SquadAutoRow|id=XJian|name=Ma Lijian|joindate=2023-12-16}}
+|{{SquadAutoRow|id=ZiXuan|name=Liu Junwei|joindate=2024-04-20}}
+|{{SquadAutoRow|id=GREEN|name=Qiu Jianzhi|joindate=2023-12-16}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Mccarthy_404|name=Yang Sizhe<!--杨思哲-->|joindate=2024-04-20}}
+|{{SquadAutoRow|id=李辰康|name=Li Chenkang|joindate=2023-09-06}}
+|{{SquadAutoRow|id=张子健|name=Zhang Zijian|joindate=2023-09-06}}
+}}
+
+===Inactive===
+{{Squad|type=staff|status=active|title=Inactive Organization
+|{{Person |flag=cn|id=Mccarthy_404|name=Yang Sizhe|role=Inactive Coach|joindate=2024-09-09<ref name="20240909Inactive">{{cite web|url=https://weibo.com/7861844066/Owd7y5JIi|title=【KBG 2024无畏契约晋升赛】出征大名单公示}}</ref>}}
+|{{Person |flag=ru|id=hugeon|name=Denis Vasiliev|role=Inactive Coach|joindate=2024-09-09<ref name="20240909Inactive"/>}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=刘淼|name=Liu Miao|joindate=2023-09-06}}
+|{{SquadAutoRow|id=司蔚鏮|name=Si Weikang|joindate=2023-10-03}}
+|{{SquadAutoRow|id=刘梦宇|name=Liu Mengyu|joindate=2023-12-16}}
+}}
+
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table|team=KeepBest Gaming}}
+|name2=Recent Matches|content2={{Team recent matches table|team=KeepBest Gaming}}
+}}
+
+==Data==
+{{TeamData}}
+
+<!--===Logos===
+{{TeamLogoGallery}}-->
+
+==References==
+{{Reflist|2}}
+
+{{Team roster}}

@@ -1,0 +1,642 @@
+{{DISPLAYTITLE:VALORANT Masters Santiago 2026}}
+{{VCT Masters Navbox}}
+{{VALORANT Champions Tour Navbox/2026/Kickoff}}
+{{Tabs static
+|name1=Overview|link1=VCT/2026/Stage 1/Masters
+|name2=Showmatch|link2=VCT/2026/Stage 1/Masters/Showmatch
+|name3=Statistics|link3=VCT/2026/Stage 1/Masters/Statistics
+|name4=Qualification|link4=VCT/2026/Stage 1/Masters/Qualification
+|name5=Additional Content|link5=VCT/2026/Stage 1/Masters/Additional Content
+}}
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=highlighted
+|name=VALORANT Masters Santiago&nbsp;2026
+|shortname=Masters Santiago 2026
+|tickername=Masters Santiago
+|caption=¡GRITA CON EL ALMA!
+|image=Valorant Champions Tour Masters Santiago 2026 allmode.png
+|icon=VCT Masters icon allmode.png
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|organizer=Riot Games
+|organizer-link=https://playvalorant.com/
+|sponsor=[https://aws.amazon.com/ AWS]
+|sponsor2=[http://www.coinbase.com Coinbase]
+|sponsor3=[http://www.esportsworldcup.com Esports World Cup]
+|sponsor4=[https://www.globant.com/ Globant]
+|sponsor5=[http://www.hyperxgaming.com HyperX]
+|sponsor6=[https://www.priceless.com Mastercard]
+|sponsor7=[https://www.omen.com/us/en.html OMEN]
+|sponsor8=[https://www.redbull.com/ Red Bull]
+|sponsor9=[https://secretlab.co/ Secretlab]
+|sponsor10=[https://www.verizon.com/5g/ Verizon]
+|prizepoolusd=1,000,000
+|type=Offline
+|country=Chile
+|city=Santiago
+|venue=Espacio Riesco
+|venuelink=https://www.espacioriesco.cl
+|patch=12.03
+|sdate=2026-02-28
+|edate=2026-03-15
+|web=https://valorantesports.com
+|rulebook=https://cdn.sanity.io/files/dsfx7636/news_live/3ea5d7549c28b15fac416c99c39f081f8c8404cf.pdf
+|twitter=ValorantEsports
+|twitch=VALORANT
+|instagram=valorantesports
+|tiktok=valorantesports
+|facebook=ValorantEsports
+|youtube=@ValorantEsports
+|map1=Abyss
+|map2=Breeze
+|map3=Bind
+|map4=Corrode
+|map5=Haven
+|map6=Pearl
+|map7=Split
+|team_number=12
+|previous=VCT/2025/Stage 2/Masters{{!}}Masters Toronto
+|previous2=VCT/2025/Champions{{!}}Champions Paris
+|next=VCT/2026/Stage 2/Masters{{!}}Masters London
+}}
+
+==About==
+===Format===
+* '''Swiss Stage:''' February ''28<sup>th</sup>'' -  March ''4<sup>th</sup>'', 2026
+** 8-team Swiss System Format
+*** 2<sup>nd</sup> and 3<sup>rd</sup> place teams from the International Leagues
+** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 4 teams}} proceed to ''Playoffs''
+** {{Bgcolortext|down|Bottom 4 teams}} are eliminated
+** <span class="mw-customtoggle-Swiss-Draw" style="border-bottom:1px dotted;">''Click here for detailed information about the Swiss Stage Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Swiss-Draw" style="margin-top:10px;" style="margin-left:45px;">
+* '''Round 1:'''
+** Second-seeded team is matched against a third-seeded team from a different region
+*** Pool 1: EMEA ''#2'', Americas ''#2'', Pacific ''#2'', China ''#2''
+*** Pool 2: EMEA ''#3'', Americas ''#3'', Pacific ''#3'', China ''#3''
+* '''Round 2 & 3:'''
+** Intra-regional matchups are permitted
+** Matches are seeded based on each team's win-loss record
+** For Round 3, repeat matchups from previous rounds are not allowed
+</div></div>
+
+* '''Playoffs:''' March ''6<sup>th</sup>'' - ''15<sup>th</sup>'', 2026
+** 8-team Double-Elimination bracket
+*** 4 teams from the ''Swiss Stage''
+*** The 4 winners from each International League
+** All matches ''(excl. Lower Bracket Final and Grand Final)'' are {{Abbr/Bo3}}
+** Lower Bracket Final and Grand Final are {{Abbr/Bo5}}
+** <span class="mw-customtoggle-Playoffs-Draw" style="border-bottom:1px dotted;">''Click here for detailed information about the Playoffs Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Playoffs-Draw" style="margin-top:10px;" style="margin-left:45px;">
+* Top-seeded teams pick their Upper Bracket Quarterfinal opponents from the Swiss Stage teams in random order
+<!--** Order drawn: [[XLG Esports]], then [[Rex Regum Qeon]], then [[G2 Esports]], leaving [[Fnatic]] with the last remaining Swiss Stage qualifier
+** Picks were done live at the Enercare Centre with {{Abbr|Victoria Horsley|Global Competition Manager of VALORANT}}, [[Vansilli]] and representatives from each top seed after the conclusion of the Swiss Stage-->
+</div></div>
+
+* '''Skirmish Side Selection:''' <ref>{{cite web|url=https://x.com/ValorantEsports/status/2011453254891110603|title=Starting at Kickoff, equally seeded VCT matches will use a skill-based standard for side selection.|date=2026-01-14|author=[[Riot Games]]}}</ref>
+** Applies to all matches ''(excl. Swiss Round 1, {{Abbr|UB|Upper Bracket}} Round 1, {{Abbr|LB|Lower Bracket}} Round 2 & {{Abbr|LB|Lower Bracket}} Final)''
+** Before the start of a match, each team submits a starting player to represent the team
+** The two players face off in a 1v1 in the in-game [[Skirmish]] game mode
+** Abilities are disabled, only guns can be used
+** First player to reach five rounds wins the Skirmish
+** Winner player grants their team the choice to be the starting team or the second team in the Map Veto
+
+===Prize Pool===
+{{TeamPrizePool|points=vct|points1link=VCT/2026/Championship Points
+|{{Slot|usdprize=350,000|points=6}}
+|{{Slot|usdprize=200,000|points=4}}
+|{{Slot|usdprize=125,000|points=3}}
+|{{Slot|usdprize=75,000|points=2}}
+|{{Slot|usdprize=50,000|count=2|points=1}}
+|{{Slot|usdprize=35,000|count=2|points=0}}
+|{{Slot|usdprize=25,000|count=2|points=0}}
+|{{Slot|usdprize=15,000|count=2|points=0}}
+|adjacentContent=
+	{{AwardPrizePool|noprize=y
+		|{{Slot|award=MVP|{{SoloOpponent|Dambi}}}}
+	}}
+}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/Stage 1/Masters|sdate=2026-02-28|button2Text=Hide schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipantsControls|showplayerinfo=true}}
+===Playoffs Teams===
+{{TeamParticipants
+|{{Opponent|FURIA|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Americas League/Kickoff|text=Americas Kickoff|placement=1}}
+  |players={{Persons
+    |{{Person|basic|played=false|status=sub}}
+    |{{Person|shaW|role=Head Coach|type=staff}}
+    |{{Person|Kamino|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|All Gamers|import=true|qualification={{Qualification|method=qual|page=VCT/2026/China League/Kickoff|text=China Kickoff|placement=1}}
+|players={{Persons
+    |{{Person|Spitfires|played=false|status=sub}}
+	|{{Person|Septem7|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|BBL Esports|import=true|qualification={{Qualification|method=qual|page=VCT/2026/EMEA League/Kickoff|text=EMEA Kickoff|placement=1}}
+|players={{Persons
+	|{{Person|Viento|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|Nongshim RedForce|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Pacific League/Kickoff|text=Pacific Kickoff|placement=1}}
+}}
+}}
+
+===Swiss Stage Teams===
+{{TeamParticipants
+|{{Opponent|G2 Esports|qualification={{Qualification|method=qual|page=VCT/2026/Americas League/Kickoff|text=Americas Kickoff|placement=2}}
+  |players={{Persons
+    |{{Person|valyn|role=Captain}}
+	|{{Person|trent}}
+	|{{Person|leaf}}
+	|{{Person|jawgemo}}
+	|{{Person|babybay}}
+    |{{Person|JoshRT|role=Head Coach|type=staff}}
+	|{{Person|shhhack|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|NRG|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Americas League/Kickoff|text=Americas Kickoff|placement=3}}
+  |players={{Persons
+    |{{Person|bonkar|role=Head Coach|type=staff}}
+	|{{Person|Strong|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|XLG Esports|import=true|qualification={{Qualification|method=qual|page=VCT/2026/China League/Kickoff|text=China Kickoff|placement=2}}
+  |players={{Persons
+	|{{Person|steady|role=Assistant Coach|type=staff}}
+	|{{Person|Fistie|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|EDward Gaming|import=true|qualification={{Qualification|method=qual|page=VCT/2026/China League/Kickoff|text=China Kickoff|placement=3}}
+|players={{Persons
+	|{{Person|Jieni7|played=false|status=sub}}
+	|{{Person|24K|role=Assistant Coach|type=staff}}
+	|{{Person|indigo|role=Assistant Coach|type=staff}}
+	}}
+}}
+|{{Opponent|Gentle Mates|import=true|qualification={{Qualification|method=qual|page=VCT/2026/EMEA League/Kickoff|text=EMEA Kickoff|placement=2}}
+  |players={{Persons
+	|{{Person|KUNDIKUNDI|role=Assistant Coach|type=Staff}}
+	|{{Person|pakko|role=Head Coach|type=Staff}}
+	}}
+}}
+|{{Opponent|Team Liquid|import=true|qualification={{Qualification|method=qual|page=VCT/2026/EMEA League/Kickoff|text=EMEA Kickoff|placement=3}}
+  |players={{Persons
+	|{{Person|yaotziN|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|T1|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Pacific League/Kickoff|text=Pacific Kickoff|placement=2}}
+  |players={{Persons
+    |{{Person|carpe|played=false|status=sub}}
+	|{{Person|CheongGak|role=Assistant Coach|type=staff}}
+	}}
+}}
+|{{Opponent|Paper Rex|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Pacific League/Kickoff|text=Pacific Kickoff|placement=3}}
+  |players={{Persons
+	|{{Person|Wendler|role=Assistant Coach|type=staff}}
+	}}
+}}
+}}
+
+==Results==
+==={{Stage|Swiss Stage}}===
+====Overview====
+<section begin="Swiss Stage"/>
+{{SwissTableLeague|rounds=3|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=diff games|tiebreaker4=diff|edate=March 4, 2026 - 17:10 {{Abbr/CLST}}
+|tournament=VCT/2026/Stage 1/Masters
+|placements=1-2;3-4;5-6;7-8
+|pbg1=up|pbg2=up|pbg3=up|pbg4=up|pbg5=down|pbg6=down|pbg7=down|pbg8=down
+|bg1=down|team1=XLG Esports
+|bg2=down|team2=EDward Gaming
+|bg3=down|team3=T1
+|bg4=up|team4=Gentle Mates
+|bg5=up|team5=G2 Esports
+|bg6=up|team6=Paper Rex
+|bg7=down|team7=Team Liquid
+|bg8=up|team8=NRG
+}}
+<section end="Swiss Stage"/>
+
+====Detailed Results====
+{{Toggle group start|state=hide}}
+=====Round 1=====
+{{Matchlist|id=VCT26S1MR1|title=Round 1 Matches|matchsection=Round 1|width=380
+|M1header=February 28, 2026
+|M1={{Match}}
+|M2={{Match}}
+|M3header=March 1, 2026
+|M3={{Match}}
+|M4={{Match}}
+}}
+
+=====Round 2=====
+{{box|start|padding=2em}}
+======High (1-0)======
+{{Matchlist|id=VCT26S1M2H|title=Round 2 High Matches|matchsection=Round 2|width=380
+|M1header=March 2, 2026
+|M1={{Match}}
+|M2={{Match}}
+}}
+{{box|break|padding=2em}}
+
+======Low (0-1)======
+{{Matchlist|id=VCT26S1M2L|title=Round 2 Low Matches|matchsection=Round 2|width=380
+|M1header=March 3, 2026
+|M1={{Match}}
+|M2={{Match}}
+}}
+{{box|end}}
+
+=====Round 3=====
+======Mid (1-1)======
+{{Matchlist|id=VCT26S1MR3|title=Round 3 Matches|matchsection=Round 3|width=380
+|M1header=March 4, 2026
+|M1={{Match}}
+|M2={{Match}}
+}}
+{{Toggle group end}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/8U4L2DSL1D|id=VCT26S1MPo|matchsection=Playoffs
+
+<!-- Upper Bracket Round 1 -->
+|R1M1header=!ux!1
+|R1M1={{Match}}
+|R1M2={{Match}}
+|R1M3={{Match}}
+|R1M4={{Match}}
+
+<!-- Upper Bracket Round 2 -->
+|R2M1header=!ux!2
+|R2M1={{Match}}
+|R2M2={{Match}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match}}
+|R1M6={{Match}}
+
+<!-- Lower Bracket Round 2 -->
+|R2M3header=!lx!2
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match}}
+
+<!-- Grand Final -->
+|R5M1={{Match}}
+}}
+
+==Broadcast==
+===Talent===
+{{Tabs dynamic|name1=English Broadcast|name2=Americas Broadcast|name3=EMEA Broadcasts|name4=Pacific Broadcasts|This=1}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=0.5em}}
+{{BroadcasterCard
+|position=Host|lang=English
+|b1=Goldenboy
+}}
+{{BroadcasterCard
+|position=Stage Host|lang=English
+|b1=Valinaaa
+}}
+{{BroadcasterCard
+|position=Analyst|lang=English
+|b1=aEvilcat
+|b2=kaquka
+|b3=Sideshow
+}}
+{{box|break|padding=0.5em}}
+{{BroadcasterCard
+|position=Commentator|lang=English
+|b1=Achilios
+|b2=Hypoc
+|b3=Pansy
+|b4=Paperthin
+|b5=Uber
+|b6=Wyatt
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Producer|lang=English
+|b1=Alberto De La Rosa
+}}
+{{BroadcasterCard
+|position=Observer|lang=English
+|b1=prius
+|b2=sapphiRe
+|b3=Tiie
+|b4=Yehty
+}}
+{{BroadcasterCard
+|position=Replay Operator|lang=English
+|b1=furtive
+|b2=sarcopels
+|b3=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Host|lang=Portuguese
+|b1=Tonello
+|b2=Tayhuhu
+}}
+{{BroadcasterCard
+|position=Brazilian Commentator|lang=Portuguese
+|b1=Canedo
+|b2=Vecet
+}}
+{{BroadcasterCard
+|position=Brazilian Analyst|lang=Portuguese
+|b1=napeR
+|b2=Nyang
+}}
+{{BroadcasterCard
+|position=Brazilian Interviewer|lang=Portuguese
+|b1=Melão 
+|b2=spacca
+|b3=xrm 
+}}
+{{BroadcasterCard
+|position=Brazilian Guest|lang=Portuguese
+|b1=shaW
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=LATAM Host |lang=Spanish
+|b1=Gatotowsky
+|b2=Valinaaa
+}}
+{{BroadcasterCard
+|position=LATAM Commentator & Analyst |lang=Spanish
+|title=LATAM Commentators & Analysts
+|b1=Luigi9|b1flag=es
+|b2=AbogadiThais
+|b3=Cantor
+|b4=KEVHO
+|b5=7Mitssu
+|b6=Nosfeh
+|b7=uLISES
+}}
+{{BroadcasterCard
+|position=LATAM Interviewer |lang=Spanish
+|b1=Dryad
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=LATAM Producer|lang=Spanish
+|b1=chipzzz
+|b2=
+|b3=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=French Host|lang=French
+|b1=Sellycats
+}}
+{{BroadcasterCard
+|position=French Commentator|lang=French
+|b1=Loupiote
+|b2=ERO G 
+|b3=APO
+|b4=Jawed
+|b5=bramz
+|b6=MARCTYLINHO
+|b7=Soul Chains
+}}
+{{BroadcasterCard
+|position=French Producer|lang=French
+|b1=Nakredor
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|title='''Turkish Commentators & Analysts:'''
+|position=Turkish Commentator & Analyst|lang=Turkish
+|b1=Karahan
+|b2=root|b2link=root (Turkish caster)
+|b3=Vlad
+|b4=Hetze
+|b5=Gtrst
+|b6=Meseka
+|b7=Noeldayi
+}}
+{{BroadcasterCard
+|position=Hungarian Commentator|lang=Hungarian
+|b1=Bengac
+|b2=Knaksz
+|b3=Eddie
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Czech Commentator|lang=Czech
+|b1=Caidorn
+|b2=Krewca
+}}
+{{BroadcasterCard
+|position=Czech Producer|lang=Czech
+|b1=Caidorn
+|b2=Krewca
+}}
+{{box|end}}
+{{Tabs dynamic/tab|4}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Korean Caster|lang=Korean
+|b1=Kim Su-hyeon
+|b2=Jeong Yong-geom
+|b3=Chae Min-joon
+}}
+{{BroadcasterCard
+|position=Korean Translator|lang=Korean
+|b1=JennLee
+}}
+{{BroadcasterCard
+|position=Korean Commentator|lang=Korean
+|b1=DONGJIN
+|b2=BINBON
+|b3=Locomotive
+|b4=Jung In-ho
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Japanese Commentator|lang=Japanese
+|b1=Kaiki Kawano
+|b2=Taiga Kishi
+|b3=OooDa
+|b4=yukishiro
+|b5=yue
+|b6=Retloff
+}}<!--
+{{BroadcasterCard
+|position=Japanese Analyst|lang=Japanese
+|b1=
+}}
+{{BroadcasterCard
+|position=Japanese Translator|lang=Japanese
+|b1=
+}}-->
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Chinese Host & Translator|lang=Chinese
+|title=Chinese Hosts & Translators:
+|b1=Valora
+|b2=Echotsin
+|b3=Vera|b3link=Vera (Chinese host)
+}}
+{{BroadcasterCard
+|position=Chinese Commentator|lang=Chinese
+|b1=Nai8
+|b2=Saki
+|b3=Alan|b3link=Alan (Chinese commentator)
+|b4=TianShi
+|b5=1703
+|b6=Zhou Tunma
+|b7=Vivi
+|b8=ADing
+|b9=BaiYang
+|b10=ChengKai
+|b11=NOC
+|b12=KriyuR
+|b13=Starcy
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Indonesian Host
+|b1=Donna Visca
+|b2=Momochan
+|b3=Abigail
+|b4=Nabbsky
+}}
+{{BroadcasterCard
+|position=Indonesian Commentator & Analyst|lang=Indo
+|title=Indonesian Commentators & Analysts:
+|b1=Son
+|b2=Kocul
+|b3=Bella Heartfire
+|b4=Jamalismcast
+|b5=Frostmisty
+|b6=Bredel
+|b7=Realize
+|b8=Daveee
+|b9=Leehan
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Thai Host & Analyst|lang=Thai
+|title=Thai Hosts & Analysts:
+|b1=Pochi Pochi
+|b2=Ptrip
+|b3=CatCaster
+}}
+{{BroadcasterCard
+|position=Thai Commentator|lang=Thai
+|b1=Aoeyjiwa
+|b2=ZoFeaRz
+|b3=Kirimoji
+|b4=Bounty
+|b5=BossP
+|b6=PORPON
+|b7=HAx0R
+}}
+{{box|break|padding=1em}}
+<!--{{BroadcasterCard
+|position=Filipino Host & Analyst|lang=Filipino
+|title=Filipino Hosts & Analysts:
+|b1=
+|b2=
+}}
+{{BroadcasterCard
+|position=Filipino Commentator|lang=Filipino 
+|b1=
+|b2=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Vietnamese Host |lang=Vietnamese
+|b1=
+|b2=
+}}-->
+{{BroadcasterCard
+|position=Vietnamese Commentator|lang=Vietnamese
+|b1=Sam|b1link=Sam_(Vietnamese_caster)
+|b2=Cường OT
+|b3=Gnourt
+|b4=Husky Man
+|b5=Luasg
+|b6=Ngon Phuong
+|b7=Sinh Toxic
+|b8=Trịnh Long
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Taiwanese Commentator|lang=Taiwanese
+|b1=宗瑋Jong-wei|b1flag=tw
+|b2=Badman
+|b3=UNDERWATER|b3flag=tw
+|b4=KMoMo
+|b5=DanDan|b5flag=tw
+|b6=PPDBJ
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Hindi Commentator|lang=Hindi
+|b1=|b1link=
+|b2=|b2link=
+|b3=
+|b4=
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Streams===
+{{box|start|padding=2em}}
+{{Streams|title=Primary
+|lang1=usuk  |twitch1=valorant
+             |youtube1=@ValorantEsports
+			 |tiktok1=@valorantesports/live
+			 |2tiktok1=@valorant/live
+			 |3tiktok1=@valesportsna/live
+}}
+{{box|break}}
+{{Streams|title=Secondary
+|lang1=ptbr		|twitch1=valorant_br |youtube1=@valesportsbr |tiktok1=@valesportsbr/live
+|lang2=esmx		|1twitch2=valorant_la |youtube2=@VALORANTEsportsLA
+|lang3=fr		|twitch3=valorant_fr |youtube3=@VALORANTChallengersFr
+|lang4=es		|twitch4=valorant_es
+|lang5=tr		|twitch5=valorant_tur |youtube5=@VALORANTChallengersTR
+|lang6=cz		|twitch6=hitpointcz |2twitch6=hitpointcz2 |youtube6=@hitpointcz
+|lang7=kr		|youtube7=@ValorantEsportsKR |afreeca7=valorant |chzzk7=4e10683fd32d6fb6d38924cb9bf483a3
+|lang8=cn		|twitch8=valorantesports_cn |youtube8=@VALORANTEsportsCN |huya8=660679 |bilibili8=22908869 |stream8=https://vct.qq.com/live.html |2stream8=https://weibo.com/7552587338 |douyin8=62239548500 |kuaishou8=kuaishou_valorant
+|lang9=jp		|twitch9=valorant_jpn |youtube9=VALORANTjp
+|lang10=ph		|twitch10=valorant_ph |youtube10=@VALORANTEsportsPH |facebook10=valorantesportsPH
+|lang11=th		|twitch11=valorant_th |youtube11=@VALORANTEsportsTH |afreeca11=valorantth |tiktok11=@valorantth/live
+|lang12=id		|twitch12=valorant_id |youtube12=VALORANTEsportsIndonesia |soop12=valorantid |tiktok12=@valorantesportsid/live
+|lang13=vn		|youtube13=@VALORANTChampionsTourVietnam |stream13=https://play.onlive.vn/valorant |tiktok13=@valorantesportsvn/live
+|lang14=tw		|twitch14=valorant_tw |youtube14=@VALORANTEsportsTW |soop14=valoranttw
+|lang15=hu		|twitch15=pxltv_hu
+}}
+{{box|end}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}

@@ -1,0 +1,111 @@
+{{Liquipedia links/KOI}}
+{{Tabs static
+|name1={{Team|koi}}
+|name2={{Team|mad lions}}
+|name3={{Team|movistar riders}}
+|This=1
+}}
+{{Tabs static
+|name1={{Team|koi}}
+|name2={{Team|KOI fénix}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=KOI
+|image=KOI 2024 allmode.png
+|location=Spain
+|region=eu
+|manager={{Flag|de}} Jannik Reidegeld
+|website=https://movistarkoi.gg/
+|discord=MovistarKOI
+|twitter=MovistarKOIVAL
+|twitter2=MovistarKOI
+|twitter3=MovistarKOI_en
+|youtube=@MovistarKOIValorant
+|twitch=KOI
+|tiktok=MovistarKOI
+|instagram=MovistarKOI
+|created1=Org: 2021-12-15
+|created2=VALORANT: 2022-01-05
+|disbanded=2025-09-06
+}}
+
+'''KOI''' (also known as '''Movistar KOI''' for sponsorship purposes) is a [[:Category:Spain|Spanish]] esports organization founded by [[leagueoflegends:Ibai|Ibai]] and [[wikipedia:Gerard_Piqué|Gerard Piqué]] in December 2021. The organization entered VALORANT in January 2022, joining the Spanish Regional League. <ref name="KOI 2022/>
+
+In January 2024 [[wikipedia:OverActive_Media|OverActive Media]] announced the acquisition of  '''[[KOI]]''' and '''[[Movistar Riders]]''', merging it with '''[[MAD Lions]]''' to form a single organization.
+
+On September 6<sup>th</sup>, 2025, [[Riot Games]] announced that '''KOI'''<nowiki>'</nowiki>s partnership agreement in the VCT EMEA International League has been terminated, citing a breach of the team's contractual agreement. <ref>{{cite web|url=https://x.com/valesports_emea/status/1964325341998075991|title=VCT EMEA Update|date=2025-09-06|author=[[Riot Games]]}}</ref>
+
+==History==
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2022-01-05|displaydate=January 5th|text='''KOI''' enters ''Valorant'' with a squad consisting of {{Player|H1ber}}, {{Player|PHYRN}}, {{Player|Sacake}}, {{Player|shrew}}, {{Player|starkk}} and {{Player|ThoR}}, the latter as a substitute. {{Player|Aska}} and {{Player|Sikak0}} join as Head Coach and Assistant Coach respectively while {{Player|tRRini}} joins as Manager. <ref name="KOI 2022">{{cite web|url=https://twitter.com/MovistarKOI/status/1478831874105659392|title=Dad una cálida bienvenida al equipo que nos representará en VALORANT|trans_title=Give a warm welcome to the team that will represent us in VALORANT.|language={{Flag|es}} Spanish|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2022-04-27|displaydate=April 27th|text=[[H1ber]] leaves after completing his loan with [[Fnatic]]. <ref name="H1ber leaves">{{cite web|url=https://twitter.com/MovistarKOI/status/1519285292389347335|title=No más @H1berr go kill.|trans_title=No more H1ber go kill|language={{Flag|es}} Spanish|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2022-09-21|displaydate=September 21st|text='''KOI''' is announced as a "'''VCT Partner Team'''", joining the EMEA International League on a four-year contract. <ref name="2023 Partner Teams">{{cite web|url=https://valorantesports.com/vct-teams|title=2023 VALORANT TEAMS REVEAL|date=2022-09-21|author='''[[Riot Games]]'''}}</ref>}}
+|{{SquadAutoRow|date=2022-10-12|displaydate=October 12th|text=[[Sikak0]] and [[Aska]] both move to an Inactive Coach position. <ref name="Sikak0 inactive">{{cite web|url=https://twitter.com/sikak0/status/1580176732568838144|title=KOI has allowed me to explore my options, even tho still being considered for VCT 2023|date=2022-10-12|author=[[Sikak0]]}}</ref><ref name="Aska inactive">{{cite web|url=https://twitter.com/Askattw/status/1580169462979756033|title=Still under contract and considered for VCT 2023 with @KOI but they have allowed me to explore other options.|date=2022-10-12|author=[[Aska]]}}</ref>}}
+|{{SquadAutoRow|date=2022-12-16|displaydate=December 16th|text='''KOI''' announces their new roster for 2023, signing {{Player|koldamenta}}, {{Player|Sheydos}}, {{Player|trexx}} amd {{Player|Wolfen}}. {{Player|BARBARR}} and {{Player|goked}} join as Head Coach and Strategic Coach respectively. <ref name="KOI 2023">{{cite web|url=https://twitter.com/MovistarKOI/status/1603824915420954625|title=Dad una cálida bienvenida a nuestro equipo para #VCT|trans_title=Give a warm welcome to our team for #VCT |language={{Flag|es}} Spanish|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2022-12-31|displaydate=December 31st|text='''KOI''' release their 2022 roster, consisting of {{Player|Famsii}}, {{Player|PHYRN}}, {{Player|Sacake}}, {{Player|shrew}}, {{Player|ThoR}}, {{Player|Aska}} and {{Player|Sikak0}}. <ref name="KOI 2022 released">{{cite web|url=https://twitter.com/MovistarKOI/status/1609270728196763650|title=Antes de cerrar el año teníamos que despedirnos del Valorant en España.|trans_title=Before closing the year we had to say goodbye to Valorant in Spain.|language={{Flag|es}} Spanish|date=2022-12-31|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2023-01-04|displaydate=January 4th|text='''KOI''' announce [[starxo]] as their fifth player, rounding out their roster for 2023. <ref name="starxo joins">{{cite web|url=https://twitter.com/MovistarKOI/status/1610742925834477568|title=La pieza que le faltaba a nuestro equipo de #VCT ya está aquí.|trans_title=The piece that our #VCT team was missing is now here.|language={{Flag|es}} Spanish|date=2023-01-04|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2023-10-27|displaydate=October 27th|text=[[ShadoW]], [[kamo]] and [[UNFAKE]] join for the [[LVP/Crossfire_Cup/2023|Crossfire Cup 2023]]. <ref name="2023 off season roster">{{cite web|url=https://twitter.com/KOI/status/1717934192674083131|title=Os presentamos el nuevo roster que participará en la Crossfire Cup.|trans_title=We present the new roster that will participate in the Crossfire Cup.|language={{Flag|es}} Spanish|author='''KOI'''}}</ref>}}
+|{{SquadAutoRow|date=2024-02-09|displaydate=February 9th|text='''KOI''' announces their new roster for 2024, signing {{player|GRUBINHO}}, {{player|kamo}}, {{player|ShadoW}} and {{player|aer0z}} as an assistant coach. <ref name="2024 roster">{{cite web|url=https://twitter.com/MovistarKOI/status/1756002796988465344|title=La ilusión es algo que nunca se puede perder.|trans_title=The illusion is something that can never be lost.|language={{Flag|es}} Spanish|author='''KOI'''}}</ref>}}
+}}
+
+==Player Roster==
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=ThoR|name=Gerard Vicente Domínguez|joindate=2022-01-05|leavedate=2022-12-31}}
+|{{SquadAutoRow|id=flyuh|captain=true|joindate=2024-11-07}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|name=Gerard Piqué |link=wikipedia:Gerard Piqué |flag=es |role=Co-Founder/Co-Owner |joindate=2021-12-15}}
+|{{SquadAutoRow|id=Ibai |link=wikipedia:Ibai Llanos |flag=es|name=Ibai Llanos |role=Co-Founder/Co-Owner |joindate=2021-12-15}}
+|{{SquadAutoRow|name=Adam Adamou |flag=ca|role=Co-Owner |joindate=2024-01-04}}
+|{{SquadAutoRow|name=Fernando Piquer |flag=es|role=Co-Owner |joindate=2024-01-04}}
+|{{SquadAutoRow|id=Black|name=Alejandro García|joindate=2024-01-04}}
+|{{SquadAutoRow|id=Karchez|name=Carlos Sánchez|joindate=2024-01-04}}
+|{{SquadAutoRow|id=Re1|name=Jannik Reidegeld|flag=de|role=Senior Team Manager|joindate=2025-04-23}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=leacharls|name=Léa Charles |flag=fr |role=Team Manager |manager=true |joindate=2022-12-16|leavedate=2023-12-05 <ref name="leacharls leave"> {{cite web|url=https://twitter.com/leacharls/status/1732074853765984292|title=Thanks for everything @RoguexOfficial |date=2023-12-05|author=[[leacharls]]|publisher=Twitter}}</ref>}}
+|{{SquadAutoRow|id=saba |name=David Sabater |flag=es |role=Sports Director / Manager |manager=true |joindate=2021-12-15 <ref name="saba joins">{{cite web |url=https://twitter.com/sabaREFORMED/status/1471223144488841224 |title=Muchas gracias a @IbaiLlanos @3gerardpique y @justeffe por confiar en mi para ser el encargado de la dirección deportiva de @SquadKoi. |date=2021-12-15 |author=[[saba]] |publisher=Twitter |language={{Flag|es}} Spanish}}</ref>|leavedate=2023-10-23 <ref name="saba leaves"> {{cite web|url=https://twitter.com/sabaREFORMED/status/1716542985049915628|title=The Iberian Cup 2023 will be my last tournament as Sports Director of @KOI. |date=2023-10-23|author=[[saba]]|publisher=Twitter}}</ref>}}
+|{{SquadAutoRow|id=tRRini|name=Alberto Royo|joindate=2022-01-05|leavedate=2024-02-02}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements |content1={{Team achievements table|team=KOI}}
+|name2=Recent Matches |content2={{Team recent matches table|team=KOI}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="200px">
+KOI at the VCT 2023 LOCKIN São Paulo.jpg|KOI at the [[VCT/2023/LOCK_IN_São_Paulo|VCT 2023: LOCK//IN São Paulo]]<br><small>From left to right:</small><br>[[Sheydos]] ∙ [[Wolfen]] ∙ [[starxo]] ∙ [[koldamenta]] ∙ [[trexx]]
+</gallery>
+
+===Team Capsules===
+<gallery mode="packed-hover" heights="200px">
+VCT 2025 KOI Capsule.jpg|KOI 2025 Team Capsule
+VCT 2024 KOI Capsule.jpg|KOI 2024 Team Capsule
+</gallery>
+
+===Logos===
+{{TeamLogoGallery}}
+
+==Documentaries==
+{{box|start|padding=2em|max-width=1400px}}
+{{#ev:youtube|F8O9U1NaiK0|400}}
+{{box|end}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

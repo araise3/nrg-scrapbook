@@ -1,0 +1,622 @@
+{{DISPLAYTITLE:VCT 2026: Pacific Stage 2}}
+{{VALORANT Champions Tour Navbox/2026}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/Pacific_League/Stage_2
+|name2=Group Stage |link2=VCT/2026/Pacific_League/Stage_2/Group Stage
+|name3=Statistics |link3=VCT/2026/Pacific_League/Stage_2/Statistics
+|name4=Additional Content |link4=VCT/2026/Pacific_League/Stage_2/Additional Content
+}} 
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=sponsored
+|name=VCT 2026: Pacific Stage 2
+|shortname=VCT '26 Pacific Stage 2
+|tickername=VCT Pacific: Stage 2
+|caption=EARN EVERYTHING
+|image=VCT Pacific League Stage 2 full allmode.png
+|icon=VCT 2023 Pacific League allmode.png
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|organizer=Riot Games
+|organizer-link=https://playvalorant.com/
+|sponsor=[https://zowie.benq.com/en-ap/index.html/ ZOWIE]
+|sponsor2=[https://www.acer.com/us-en/predator Predator]
+|sponsor3=[https://intel.com/ intel]
+|sponsor4=[https://www.pulsar.gg/ pulsar]
+|sponsor5=[https://electronics.sony.com/t/inzone-gaming-gear?srsltid=AfmBOooiKedTphbpy4Ssmhx50UaQUHM5YibPs_EtN9QbH0yEomgB8MDm INZONE]
+|sponsor6=[https://www.redbull.com Red Bull]
+|prizepoolusd=250,000
+|type=Offline
+|country=South Korea
+|city=Seoul
+|venue1=Riot Games Arena |venue1desc=
+|country2=South Korea
+|city2=Busan
+|venue2=Sajik Indoor Gymnasium|venue2desc=Finals Weekend
+|sdate=2026-07-16
+|edate=2026-09-06
+|patch=13.01
+|rulebook=
+|web=https://valorantesports.com
+|youtube=@VCTPacific
+|twitter=VCTPacific
+|tiktok=vctpacific
+|twitch=valorant_pacific
+|instagram=vctpacific
+|facebook=vctpacific
+|kick=valorant_pacific
+|team_number=16
+|map1=Ascent
+|map2=Haven
+|map3=Sunset
+|map4=Split
+|map5=Lotus
+|map6=Breeze
+|map7=Summit
+|previous=VCT/2026/Pacific League/Stage 1{{!}}Stage 1
+|next=VCT/2027/Pacific League/Kickoff{{!}}2027: Kickoff
+|next2=VCT/2026/Champions{{!}}Champions
+}}
+
+==About==
+===Format===
+* '''Group Stage:''' July ''16<sup>th</sup>'' - August ''9<sup>th</sup>, 2026''
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} advance to ''Play-In Upper Bracket Round 2''
+*** {{Bgcolortext|stay|5<sup>th</sup> & 6<sup>th</sup> placed teams}} advance to ''Play-In Upper Bracket Round 1''
+** <span class="mw-customtoggle-Kickoff-Drawshow" style="border-bottom:1px dotted;">''Click here for detailed information about Group Stage Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Kickoff-Drawshow" style="margin-top:10px;" style="margin-left:45px;">
+* 12 Teams are divided into 6 seeds as per their final standings in [[VCT/2026/Pacific League/Stage 1|Stage 1 2026]].
+* 2 seeds are grouped into a single pool, 3 pools are formed.
+* A representative draw slip (Slips with #1, #2 etc. written) will be placed into three pools.
+* Each Pool will select a single draw slip.
+* The chosen seed in the slip will swap groups for Stage 2 as follows:
+** '''Pool 1''' consists of top two teams from the Stage 1: 
+*** '''#6 Seeds: {{Team|Gen.G Esports}} & {{Team|VARREL}}
+*** '''#5 Seeds: {{Team|Team Secret}} & {{Team|ZETA DIVISION}}
+** '''Pool 2''' consists of the 3rd & 4th teams the Stage 1:
+*** '''#4 Seeds: {{Team|Nongshim RedForce}} & {{Team|DetonatioN FocusMe}}
+*** '''#3 Seeds: {{Team|DRX}} & {{Team|Rex Regum Qeon}}
+** '''Pool 3''' consists of the 5th & 6th teams the Stage 1: 
+*** '''#2 Seeds: {{Team|Global Esports}} & {{Team|T1}}
+*** '''#1 Seeds: {{Team|Paper Rex}} & {{Team|FULL SENSE}}
+</div></div>
+** <span class="mw-customtoggle-Tiebreaker" style="border-bottom:1px dotted;">''Click here for tiebreaker rules''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Tiebreaker" style="margin-left:45px">
+*'''Tiebreaker rules:'''
+*#Head-to-head Match Score
+*#Head-to-head Map Differential
+*#Head-to-head Round Differential
+*#Map Differential
+*#Round Differential
+* The following "Subgroup Tie-breaker Rule" will be applied for 3+ Team tie-breakers:
+** If any Team(s) can be clearly ranked highest based on the given criterion (e.g., head-to-head match score), all teams will be split into two subgroups: the top Team(s) and the remaining Team(s). The remaining Teams are treated as one group, even if they are no longer tied under that criterion.
+** A new tiebreaker is then applied from the beginning, based on the number of Teams in each subgroup.
+*** '''Example:''' In a 4-way tie, if two Teams can be clearly ranked highest using the given criterion, the four Teams will be split into two 2-Team subgroups. Each subgroup will then follow the 2-way tiebreaker process, starting from (1) Head-to-head Match Score.
+** The next tie-breaker criterion (e.g., (2), (3), etc.) is used only when no subgrouping can be made based on the current step.
+** This process is repeated until all Teams are fully ranked
+</div></div>
+
+* '''Play-Ins:''' August ''13<sup>th</sup>'' - ''24<sup>th</sup>'', 2026
+** 12-team Double-Elimination bracket
+*** 8 teams from [[VCT/2025/Pacific League/Stage 2/Group Stage|Group Stage]]
+*** 4 teams from '''Regional Challengers'''
+** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} advances to ''Upper Bracket Round 1''
+** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} start from ''Lower Bracket Round 1''
+
+* '''Playoffs:''' August ''26<sup>th</sup>'' - September ''6<sup>th</sup>'', 2026
+** Double-Elimination bracket
+** All matches ''(excl. Lower Bracket Final & Grand Final)'' are {{Abbr/Bo3}}
+** Lower Bracket Final & Grand Final are {{Abbr/Bo5}}
+** {{Bgcolortext|up|Top 2 teams}} qualify for '''[[VCT/2026/Champions|Champions]]'''
+
+===Prize Pool===
+{{box|start|padding=2em}}
+{{TeamPrizePool|points=vctpac2026
+|qualifies1=VCT/2026/Champions|qualifies1name=Champions
+|{{Slot|usdprize=100,000|qualified1=true|points=}}
+|{{Slot|usdprize=65,000|qualified1=true|points=}}
+|{{Slot|usdprize=40,000|points=}}
+|{{Slot|usdprize=25,000|points=}}
+|{{Slot|usdprize=10,000|count=2
+  |{{Opponent|points=}}
+  |{{Opponent|points=}}
+}}
+|{{Slot|count=2
+  |{{Opponent|points=}}
+  |{{Opponent|points=}}
+}}
+|{{Slot|count=2|points=}}
+|{{Slot|count=2|points=}}
+
+|adjacentContent=
+{{box|start|padding=1em}}
+{{MVPTable|cutafter=4|margin=false
+|title=Match MVPs
+|tournament=VCT/2026/Pacific League/Stage 2/Group Stage
+|tournament2=VCT/2026/Pacific League/Stage 2
+}}
+{{box|end}}
+}}
+{{box|break|padding=2em}}
+{| class="wikitable infobox-icon-small" style="text-align:center; margin:0; margin-top: 26px; position:relative;"
+! colspan="3"|Base Points Distribution
+|-
+!Place
+!Points
+|-
+|{{Placement|1}}||[[File:VCT Champions logo.png|24px|link=VCT/2026/Champions]]
+|-
+|{{Placement|2}}||[[File:VCT Champions logo.png|24px|link=VCT/2026/Champions]]
+|-
+|{{Placement|3}}||5
+|-
+|{{Placement|4}}||4
+|-
+|'''Group Stage<br>Match Victory'''||1
+|}
+{{box|end}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/Pacific_League/Stage_2/Group Stage|sdate=2026-07-16|button1Text=Group Stage|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+{{Toggle bracket start|tournament=VCT/2026/Pacific_League/Stage_2#Play-Ins|sdate=2026-08-13|button1Text=Play-Ins|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+{{Toggle bracket start|tournament=VCT/2026/Pacific_League/Stage_2#Playoffs|sdate=2026-08-26|button1Text=Playoffs|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipantsControls|showplayerinfo=true}}
+
+===VCT Teams===
+{{TeamParticipants
+|{{Opponent|DetonatioN FocusMe|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+}}
+
+|{{Opponent|DRX|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Yong|status=sub|played=true}}
+	}}
+}}
+|{{Opponent|FULL SENSE|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+  	|{{Person|FrosT|role=Head Coach|type=staff}}
+	|{{Person|THEE|role=Assistant Coach|type=staff}}
+	|{{Person|sushiboys|role=Assistant Coach|type=staff}}
+	}}
+  |notes={{Notes
+	|{{Notes|November 18th - [[Riot Games]] announces that '''[[TALON]]''' has been removed from VCT Pacific. <ref name="TALON leaves VCT">{{cite web|url=https://valorantesports.com/en-SG/news/riot-games-terminates-talon-esports-vct-pacific-partnership|title=Riot Games Terminates TALON Esports' VCT Pacific Partnership|publisher=VALORANT Champions Tour|date=2025-11-18|language={{Flag|usuk}} English}}</ref>|highlighted=true}}
+	|{{Notes|December 8th - [[Riot Games]] announces that '''[[FULL SENSE]]''' will fill the vacant slot. <ref name="FULL SENSE joins VCT">{{cite web|url=https://valorantesports.com/en-SG/news/riot-games-welcomes-full-sense-to-vct-pacific-for-2026|title=Riot Games Welcomes Full Sense to VCT Pacific for 2026|publisher='''VALORANT Esports'''|date=2025-11-18|language={{Flag|usuk}} English}}</ref>|highlighted=true}}
+  }}
+}}
+
+|{{Opponent|Gen.G Esports|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Xiesta|status=sub|played=0}}
+}}
+}}
+
+|{{Opponent|Global Esports|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+  	|{{Person|Platoon|role=Head Coach|type=staff}}
+	|{{Person|Aimix|role=Assistant Coach|type=staff}}
+	|{{Person|Fields|role=Analyst|type=staff}}
+	}}
+}}
+
+|{{Opponent|Paper Rex|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Wendler|role=Assistant Coach|type=staff}}
+	|{{Person|Panda|flag=us|role=Performance Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|Rex Regum Qeon|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+    |{{Person|xan|status=sub}}
+	|{{Person|Warbirds|role=assistant coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|T1|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+    |{{Person|stax|status=sub|played=true}}
+	|{{Person|CheongGak|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|Team Secret|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+}}
+
+|{{Opponent|ZETA DIVISION|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered Teams#Pacific|text=Partner Team}}
+  |players={{Persons
+    |{{Person|ryota|role=Head Coach|type=staff}}
+	|{{Person|XQQ|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|VARREL|import=true|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/Pacific|text=Ascension 2025|placement=1}}
+  |players={{Persons
+    |{{Person|Klaus|link=Klaus (Korean player)|status=sub|played=true}}
+	|{{Person|R3THME|role=Analyst|type=staff}}
+	}}
+  |notes={{Notes
+	|{{Notes|December 12th - [[Riot Games]] announces that [[SLT]]'s roster is acquired by [[VARREL]]. <ref name="VARREL joins VCT">{{cite web|url=https://valorantesports.com/en-SG/news/slt-seongnam-to-compete-as-varrel-in-2026-article|title=SLT Seongnam to Compete as VARREL in 2026|publisher='''VALORANT Esports'''|date=2025-12-12|language={{Flag|usuk}} English}}</ref>|highlighted=true}}
+  }}
+}}
+
+|{{Opponent|Nongshim RedForce|import=true|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/Pacific|text=Ascension 2025|placement=2}}
+  |players={{Persons
+    |{{Person|WoohyuN|flag=kr|status=sub|played=0}}
+	
+	|{{Person|SilKanoN|role=head coach|type=staff}}
+	|{{Person|sungmin|role=coach|type=staff}}
+	|{{Person|yoman|role=coach|type=staff}}
+}}
+|notes={{Notes
+	|{{Notes|Slot defended via '''[[VCL/2025/Ascension/Pacific|Ascension 2025]]'''|highlighted=true}}
+  }}
+}}
+}}
+<br/>{{Transfer List
+|title=Roster moves since the end of Stage 1
+|page=VCT/2026/Pacific League/Stage 2
+|sdate=2026-05-17
+|edate=2026-08-30
+}}
+
+===Challengers Teams===
+{{TeamParticipants
+|{{Opponent|Sharper Esports|import=true|qualification={{Qualification|method=qual|page=VCL/2026/Southeast_Asia/Split_2|text=Challengers SEA: Split 2|placement=1}}
+  |players={{Persons
+	|{{Person|MYM|role=Assistant Coach|type=staff}}
+	|{{Person|Psychopath|role=Analyst|type=staff|flag=th}}
+	}}
+}}
+|{{Opponent|QT DIG|qualification={{Qualification|method=qual|page=VCL/2026/Japan/Season_Finals|text=Challengers Japan: Finals|placement=1}}
+  |players={{Persons
+    |{{Person|Yuran}}
+    |{{Person|Pkm}}
+    |{{Person|misaya}}
+    |{{Person|margaret}}
+	|{{Person|Kippei}}
+
+	|{{Person|Relife|role=head coach|type=staff}}
+	|{{Person|Dhimoruto|role=analyst|type=staff}}
+  }}
+}}
+|{{Opponent|ONSIDE GAMING|qualification={{Qualification|method=qual|page=VCL/2026/Korea/Split_2|text=Challengers Korea: Split 2|placement=1}}
+  |players={{Persons
+    |{{Person|Wolverine}}
+    |{{Person|Ray|link=Ray (Korean player)}}
+    |{{Person|Cloudy|link=Cloudy (Korean player)}}
+    |{{Person|Hermes}}
+	|{{Person|Xiesta}}
+		
+	|{{Person|Faither|status=sub|played=false}}
+	
+	|{{Person|Hype|link=Hype (Korean player)|role=head coach|type=staff}}
+	|{{Person|Doo|flag=kr|role=coach|type=staff}}
+  }}
+}}
+|{{Opponent|Xipto Esports|import=true|qualification={{Qualification|method=qual|page=VCL/2026/Pacific/Last Chance Qualifier|text=Last Chance Qualifier|placement=1}}
+  |players={{Persons
+	|{{Person|bnwGiggs|role=Assistant Coach|type=staff}}
+	}}
+    |notes={{Notes
+	|{{Notes|July 16th - [[555]]'s roster is acquired by [[Xipto Esports]]. <ref>{{cite web|url=https://x.com/XiptoEsports/status/2077623445135970577|title=Team Xipto is proud to announce the signing of our new VALORANT roster — fresh off their Pacific LCQ championship run.|publisher='''Xipto Esports'''|date=2026-07-16|language={{Flag|usuk}} English}}</ref>}}
+  }}
+}}
+}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start|padding=1em}}
+{{LPDB storage|false}}
+{{box|start|padding=1em}}
+{{#section:{{PAGENAME}}/Group Stage|Group Alpha}}
+{{box|break|padding=1em}} 
+{{#section:{{PAGENAME}}/Group Stage|Group Omega}}
+{{box|end|padding=1em}}
+{{LPDB storage|true}}<br>
+: ''For detailed match results of the '''Group Stage''', [[/Group Stage|click here]].''
+{{box|break|padding=1em}}
+{{StageWinnings|cutafter=4
+|tournament=VCT/2026/Pacific League/Stage 2/Group Stage
+|title=Group Stage Points
+|points=vctpac2026
+|pointsPerWin=1
+|hideWinnings=true
+}}
+{{box|end}}
+
+==={{Stage|Play-Ins}}===
+{{Bracket|Bracket/8L4DS-2Q-U-8L2D-2Q|id=NDogXnwwAQ
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+|opponent1literal=Omega #6
+|opponent2literal=Challengers Team
+}}
+|R1M2={{Match
+|opponent1literal=Alpha #5
+|opponent2literal=Challengers Team
+}}
+|R1M3={{Match
+|opponent1literal=Alpha #6
+|opponent2literal=Challengers Team
+}}
+|R1M4={{Match
+|opponent1literal=Omega #5
+|opponent2literal=Challengers Team
+}}
+
+<!-- Upper Bracket Round 2 -->
+|R2M1={{Match
+|opponent1literal=Alpha #3
+}}
+|R2M2={{Match
+|opponent1literal=Omega #4
+}}
+|R2M3={{Match
+|opponent1literal=Omega #3
+}}
+|R2M4={{Match
+|opponent1literal=Alpha #4
+}}
+
+<!-- Upper Bracket Round 3 -->
+|R4M1={{Match}}
+|R4M2={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R2M5={{Match}}
+|R2M6={{Match}}
+|R2M7={{Match}}
+|R2M8={{Match}}
+
+<!-- Lower Bracket Round 3 -->
+|R3M1={{Match}}
+|R3M2={{Match}}
+
+<!-- Lower Bracket Round 4 -->
+|R4M3={{Match}}
+|R4M4={{Match}}
+}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/4L2DSU4L2DSL1D|id=0aHqe5e8Ht|matchsection=Playoffs
+
+<!-- Upper Bracket Round 1 -->
+|R1M1header=!ux!1
+|R1M1={{Match
+|opponent1literal=Omega #2
+|opponent2literal=Play-In #1-2
+}}
+|R1M2={{Match
+|opponent1literal=Alpha #2
+|opponent2literal=Play-In #1-2
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+|opponent1literal=Alpha #1
+}}
+|R2M2={{Match
+|opponent1literal=Omega #1
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M3={{Match
+|opponent2literal=Play-In #3-4
+}}
+|R1M4={{Match
+|opponent2literal=Play-In #3-4
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match}}
+
+<!-- Grand Final -->
+|R5M1={{Match}}
+}}
+
+==Broadcast==
+===Talent===
+{{Tabs dynamic|name1=English Broadcast|name2=Korean Broadcast|name3=Japanese Broadcast|name4=Tagalog (Filipino) Broadcast|name5=Thai Broadcast|name6=Indonesian Broadcast|name7=Taiwanese Broadcast|name8=Vietnamese Broadcast|name9=Hindi Broadcast|This=1}}
+{{tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=English Host|lang=English
+|b1=ChubbyNinja
+|b2=Mikafabs
+}}
+{{BroadcasterCard
+|position=Stage Host|lang=English
+|b1=Bella
+|b2=Jennlee
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=English Commentator & Analyst|lang=English
+|title=English Commentators & Analysts:
+|b1=pilski
+|b2=BigTime
+|b3=Achilios
+|b4=Paperthin
+|b5=heyimquack
+|b6=Elfishguy
+}}
+{{box|end}}
+{{tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Korean Host & Caster|lang=Korean
+|title=Korean Hosts & Casters:
+|b1=CHAESTER
+|b2=Kim Su-hyeon
+|b3=Jeong Yong-geom
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Korean Commentator & Analyst|lang=Korean
+|title=Korean Commentators & Analysts:
+|b1=BINBON
+|b2=DONGJIN
+|b3=Jung In-ho
+|b4=Locomotive
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Korean Guest Analyst|lang=Korean
+|b1=Lakia
+|b2=Sayaplayer
+}}
+{{box|end}}
+{{tabs dynamic/tab|3}}
+{{BroadcasterCard
+|position=Japanese Commentator|lang=Japanese
+|b1=Taiga Kishi
+|b2=Kaiki Kawano
+|b3=yue
+|b4=yukishiro
+|b5=Retloff
+}}
+{{BroadcasterCard
+|position=Japanese Translator|lang=Japanese
+|b1=MIZUKA
+}}
+{{tabs dynamic/tab|4}}
+{{BroadcasterCard
+|position=Tagalog (Filipino) Commentator & Analyst|lang=Filipino
+|title=Tagalog (Filipino) Commentators & Analysts:
+|b1=
+|b2=
+}}
+{{tabs dynamic/tab|5}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Thai Host|lang=Thai
+|b1=
+|b2=
+|b3=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Thai Commentator & Analyst|lang=Thai
+|title=Thai Commentators & Analysts:
+|b1=
+|b2=
+|b3=
+|b4=
+|b5=
+|b6=
+|b7=
+}}
+{{box|end}}
+{{tabs dynamic/tab|6}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Indonesian Host|lang=Indo
+|b1=Abigail
+|b2=Momochan
+|b3=Donna Visca
+|b4=Nona Berlian
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Indonesian Caster|lang=Indo
+|b1=Son
+|b2=Kocul
+|b3=Bella Heartfire
+|b4=Jamalismcast
+|b5=Frostmisty
+|b6=Bredel
+|b7=Realize
+|b8=Daveee
+|b9=Kompoo
+}}
+{{box|end}}
+{{tabs dynamic/tab|7}}
+{{BroadcasterCard|lang=Taiwanese
+|position=Taiwanese Commentator
+|b1=
+|b2=
+|b3=
+|b4=
+|b5=
+|b6=
+}}
+{{tabs dynamic/tab|8}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Vietnamese Host|lang=Vietnamese
+|b1=Trịnh Long
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Vietnamese Commentator|lang=Vietnamese
+|b1=Cường OT
+|b2=Gnourt
+|b3=Husky Man
+|b4=Luasg
+|b5=Ngon Phuong
+|b6=Sinh Toxic
+|b7=Trịnh Long
+}}
+{{box|end}}
+{{tabs dynamic/tab|9}}
+{{BroadcasterCard|lang=Hindi
+|position=Hindi Commentator
+|b1=
+|b2=
+}}
+{{tabs dynamic/end}}
+
+===Streams===
+{{box|start|padding=1em}}
+{{Streams|title=Primary
+|lang1=usuk			|twitch1=valorant_pacific
+					|youtube1=@VCTPacific
+					|soop1=valoranten
+					|kick1=valorant_pacific
+}}
+{{box|break}}
+{{Streams|title=Secondary
+|lang1=kr|youtube1=@ValorantEsportsKR|soop1=valorant|chzzk1=4e10683fd32d6fb6d38924cb9bf483a3
+|lang2=jp|twitch2=valorant_jpn|youtube2=@VALORANTjp
+|lang3=ph|twitch3=valorant_ph|youtube3=@VALORANTEsportsPH|facebook3=valorantesportsPH
+|lang4=id|twitch4=valorant_id|youtube4=@VALORANTEsportsIndonesia|soop4=valorantid|tiktok4=@valorantesportsid/live
+|lang5=th|twitch5=valorant_th|youtube5=@VALORANTEsportsTH|soop5=valorantth|facebook5=valorantesportsTH|tiktok5=@valorantth/live
+|lang6=vn|youtube6=@VALORANTChampionsTourVietnam|stream6=https://play.onlive.vn/valorant|tiktok6=@valorantesportsvn/live
+|lang7=tw|twitch7=valorant_tw|youtube7=@VALORANTEsportsTW|soop7=valoranttw
+|lang8=in|youtube8=@VALORANTinsa|2youtube8=@NODWINgaming|facebook8=NODWINGaming
+}}
+{{box|end}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}
+<br>
+{{VALORANT Champions Tour Navbox/2026}}

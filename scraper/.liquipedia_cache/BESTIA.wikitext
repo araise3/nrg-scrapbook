@@ -1,0 +1,57 @@
+{{Liquipedia links|counterstrike=BESTIA|pubg=BESTIA}}
+{{Team Tabs}}
+{{Infobox team
+|name=BESTIA
+|image=BESTIA full lightmode.png
+|imagedark=BESTIA full darkmode.png
+|location=Argentina
+|region=las
+|coach={{Flag|br}} [[phonics]]
+|igl={{Flag|cl}} [[Melser]]
+|twitter=bestia_corp
+|youtube=@bestia_corp
+|instagram=bestia_corp
+|threads=bestia_corp
+|tiktok=bestia_corp
+|twitch=bestia_corp
+|kick=bestia_corp
+|discord=aSS9WpA52v
+|created1=Org: 2023-02-14
+|created2=VALORANT: 2026-04-22
+}}
+
+'''BESTIA''' is an [[:Category:Argentina|Argentinian]] esports organization. Founded by an Argentinian poker player and rapper Alejandro "Papo MC" Lococo.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=Melser|captain=true|joindate=2026-04-22}}
+}}
+
+===Former===
+{{FormerSquadAuto}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=PapoMC|flag=ar|name=Alejandro Lococo|role=Founder & Chief Executive Officer|joindate=2023-02-14}}
+|{{SquadAutoRow|id=TecTH0R|flag=ar|name=Hector Leonhardtt|role=Team Manager|joindate=2026-02-18}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

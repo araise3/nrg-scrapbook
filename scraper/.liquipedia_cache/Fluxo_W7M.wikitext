@@ -1,0 +1,43 @@
+{{Liquipedia links/Fluxo W7M}}
+{{Team Tabs}}
+{{Infobox team
+|name=Fluxo W7M
+|image=Fluxo W7M Dec 2025 allmode.png
+|location=Brazil
+|region=br
+|coach={{Flag|br}} [[stk]]
+|website=https://www.w7mesports.com
+|twitter=fluxogg
+|instagram=fxw7m
+|facebook=W7MGaming
+|created1=Org: 2025-12-09
+|created2=VALORANT: 2026-??-??
+}}
+
+'''Fluxo W7M''' is a [[:category:Brazil|Brazilian]] esports organization. Founded as a partnership between ⁠[[Fluxo]] and [[w7m esports]].
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

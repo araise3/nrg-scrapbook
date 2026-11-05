@@ -1,0 +1,474 @@
+{{DISPLAYTITLE:VCT 2026: EMEA Stage 1}}
+{{VALORANT Champions Tour Navbox/2026/Stage 1}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/EMEA League/Stage 1
+|name2=Group Stage |link2=VCT/2026/EMEA League/Stage 1/Group Stage
+|name3=Statistics |link3=VCT/2026/EMEA League/Stage 1/Statistics
+|name4=Additional Content |link4=VCT/2026/EMEA League/Stage 1/Additional Content
+}} 
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=sponsored
+|name=VCT 2026: EMEA Stage 1
+|shortname=VCT '26 EMEA Stage 1
+|tickername=VCT EMEA: Stage 1
+|caption=CHANGE THE TEMPO
+|image=VCT EMEA League Stage 1 full lightmode.png
+|imagedark=VCT EMEA League Stage 1 full darkmode.png
+|icon=VCT 2024 EMEA League lightmode.png
+|icondark=VCT 2024 EMEA League darkmode.png
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|organizer= Riot Games
+|organizer-link=https://playvalorant.com/
+|sponsor=[https://www.expressvpn.com/ ExpressVPN]
+|sponsor2=[https://www.kitkat.com/ KitKat]
+|sponsor3=[https://www.razer.com/ Razer]
+|sponsor4=[https://www.movember.com/ Movember]
+|sponsor5=[https://www.redbull.com/ Red Bull]
+|sponsor6=[https://www.aorus.com/ Aorus]
+|type=Offline
+|country=Germany
+|city=Berlin
+|venue=Riot Games Arena
+|sdate=2026-04-01
+|edate=2026-05-17
+|patch=12.05
+|epatch=12.08
+|web=https://valorantesports.com
+|rulebook=https://cdn.sanity.io/files/dsfx7636/news_live/eea0c41407e107cf9cd908d7197906b031ff6066.pdf
+|twitter=vct_emea
+|twitch=valorant_emea
+|instagram=vctemea
+|tiktok=vctemea
+|facebook=ValorantEsports
+|youtube=@vctemea
+|team_number=12
+|map1=Bind
+|map2=Breeze
+|map3=Fracture
+|map4=Haven
+|map5=Lotus
+|map6=Pearl
+|map7=Split
+|map8=Ascent
+|previous=VCT/2026/EMEA League/Kickoff{{!}}Kickoff
+|next=VCT/2026/EMEA League/Stage 2{{!}}Stage 2
+|next2=VCT/2026/Stage 2/Masters{{!}}Masters London
+}}
+
+==About==
+===Format===
+* '''Group Stage:''' ''April 1<sup>st</sup> - May 1<sup>st</sup>, 2026''
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 4 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> & 3<sup>rd</sup>-placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|4<sup>th</sup>-placed teams}} start from ''Lower Bracket Round 1''
+** <span class="mw-customtoggle-Kickoff-Drawshow" style="border-bottom:1px dotted;">''Click here for detailed information about Group Stage Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Kickoff-Drawshow" style="margin-top:10px;" style="margin-left:45px;">
+* 12 Teams are divided into 6 seeds as per their final standings in [[VCT/2026/EMEA League/Kickoff|Kickoff 2026]].
+** '''Pool 1''' consists of 11th & 12th of Kickoff: {{Team|FUT Esports}} & {{Team|PCIFIC Esports}}
+** '''Pool 2''' consists of 9th & 10th of Kickoff: {{Team|Karmine Corp}} & {{Team|ULF Esports}}
+** '''Pool 3''' consists of 7th & 8th of Kickoff: {{Team|GIANTX}} & {{Team|Natus Vincere}}
+** '''Pool 4''' consists of 5th & 6th of Kickoff: {{Team|Team Vitality}} & {{Team|Team Heretics}}
+** '''Pool 5''' consists of 3rd & 4th of Kickoff: {{Team|Team Liquid}} & {{Team|Fnatic}}
+** '''Pool 6''' consists of top 2 of Kickoff: {{Team|BBL Esports}} & {{Team|Gentle Mates}}
+* Each group will comprise of a team from Pool 1 to 4, and 2 teams from pool 5.
+</div></div>
+*<span class="mw-customtoggle-Tiebreaker" style="border-bottom:1px dotted;">''Click here for tiebreaker rules''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Tiebreaker" style="margin-left:45px">
+*'''Tiebreaker rules:'''
+*#Head-to-head Match Score
+*#Head-to-head Map Differential
+*#Head-to-head Round Differential
+*#Map Differential
+*#Round Differential
+*In a 3+ team tiebreaker, if it was able to tiebreak some teams, but a subset of teams remain tied, a new tiebreaker is then applied from the beginning.
+</div></div>
+
+* '''Playoffs:''' ''May 7<sup>th</sup> - May 17<sup>th</sup>, 2026''
+** Double-Elimination bracket
+** All matches ''(excl. Lower Bracket Final & Grand Final)'' are {{Abbr/Bo3}}
+** Lower Bracket Final & Grand Final are {{Abbr/Bo5}}
+** {{Bgcolortext|up|Top 3 teams}} qualify for '''[[VCT/2026/Stage 2/Masters|Masters London]]'''
+*** Starting of '''Playoffs''', [[Ascent]] replace [[Bind]] in the map pool.
+
+===Prize Pool===
+{{box|start|padding=2em}}
+{{TeamPrizePool|points=vctemea2026|prizesummary=n
+|tournament1=VCT/2026/EMEA League/Stage 1/Group Stage|tournament2=#
+|qualifies1=VCT/2026/Stage 2/Masters|qualifies1name=Masters London
+|qualifies2=Esports_World_Cup/2026|qualifies2name=Esports World Cup
+|{{Slot|qualified1=true|points=9}}
+|{{Slot|qualified1=true|qualified2=true|points=6}}
+|{{Slot|qualified1=true|points=7}}
+|{{Slot|points=6}}
+|{{Slot|count=2
+  |{{Opponent|points=5}}
+  |{{Opponent|points=2}}
+}}
+|{{Slot|count=2
+  |{{Opponent|points=2}}
+  |{{Opponent|points=4}}
+}}
+|{{Slot|count=2|points=2}}
+|{{Slot|count=2|points=0}}
+}}
+{{box|start|max-width=530px|style=margin-top: 0.5em; margin-bottom:1em}}
+: '''*''' [[Team Heretics]] having already been invited to [[EWC 2026]], the spot awarded to the 1st place team is automatically granted to [[Team Vitality]].
+{{box|end}}
+{{box|break|padding=2em}}
+{| class="wikitable infobox-icon-small" style="text-align:center; margin:0;"
+! colspan="3"|Base Points Distribution
+|-
+!Place
+!Points
+|-
+|{{Placement|1}}||6
+|-
+|{{Placement|2}}||4
+|-
+|{{Placement|3}}||3
+|-
+|{{Placement|4}}||2
+|-
+|'''Group Stage<br>Match Victory'''||1
+|}
+{{box|end}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/EMEA_League/Stage_1/Group Stage|sdate=2026-04-01|button1Text=Group Stage|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+{{Toggle bracket start|tournament=VCT/2026/EMEA_League/Stage_1|sdate=2026-05-07|button1Text=Playoffs|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipants|showplayerinfo=true
+|{{Opponent|BBL Esports|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Viento|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Fnatic|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Boaster|role=Capitain}}
+    |{{Person|Alfajer}}
+    |{{Person|kaajak}}
+    |{{Person|crashies}}
+    |{{Person|CyvOph}}
+	
+    |{{Person|Veqaj|status=sub|role=Inactive}}
+	
+	|{{Person|Milan|role=Head Coach|type=staff}}
+	|{{Person|Desmo|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|FUT Esports|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Bambino|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Gentle Mates|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Minny}}
+    |{{Person|bipo}}
+    |{{Person|GLYPH}}
+    |{{Person|marteen}}
+    |{{Person|starxo|role=Capitain}}
+	
+	|{{Person|KUNDIKUNDI|role=Head Coach|type=staff}}
+	|{{Person|Mavera|role=Assistant Coach|type=staff}}
+	
+    |{{Person|pakko|role=head coach|status=former}}
+  }}
+}}
+
+|{{Opponent|GIANTX|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+  	|{{Person|Cloud|role=Capitain}}
+	|{{Person|wayLander|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Karmine Corp|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+    |{{Person|avez|role=Capitain}}
+    |{{Person|SUYGETSU}}
+    |{{Person|dos9}}
+    |{{Person|LêwN}}
+    |{{Person|N4RRATE}}
+	
+	|{{Person|Engh|role=Head Coach|type=staff}}
+	|{{Person|ZE1SH|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Natus Vincere|import=false|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Filu}}
+    |{{Person|hiro}}
+    |{{Person|Ruxic}}
+    |{{Person|chloric|role=Capitain}}
+    |{{Person|ExiT|played=0}}
+	
+	|{{Person|Kolosha|played=true|status=sub|team=Natus Vincere Junior}}
+	|{{Person|ComeBack|played=true|status=sub}}
+	
+    |{{Person|ANGE1|role=head coach|type=staff}}
+	|{{Person|Chippy|role=Assistant Coach|type=staff}}
+	|{{Person|Flynn|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Team Heretics|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+  	|{{Person|ComeBack|status=former|results=false}}
+	|{{Person|weber|role=Assistant Coach|type=staff}}
+	|{{Person|Beni|flag=de|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Team Liquid|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+	|{{Person|yaotziN|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Team Vitality|import=|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#EMEA|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Sayonara}}
+    |{{Person|PROFEK}}
+    |{{Person|Jamppi|role=Capitain}}
+    |{{Person|Derke}}
+    |{{Person|Chronicle}}
+    |{{Person|PAL|role=Head Coach|type=staff}}
+	|{{Person|Scuttt|role=Assistant Coach|type=staff}}
+	|{{Person|slk|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|PCIFIC Esports|import=true|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/EMEA|text=Ascension 2025|placement=1-2}}
+  |players={{Persons
+	|{{Person|ZaeS|role=Assistant Coach|type=staff}}
+    |{{Person|Koyo|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Eternal Fire|import=false|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/EMEA|text=Ascension 2025|placement=1-2}}
+  |players={{Persons
+    |{{Person|Izzy}}
+    |{{Person|echo|link=echo (Turkish player)}}
+    |{{Person|nekky|role=Capitain}}
+    |{{Person|audaz}}
+    |{{Person|Favian}}
+	
+    |{{Person|Afr0nfire|role=head coach|type=staff}}
+	|{{Person|L7|role=assistant coach|type=staff}}
+	}}
+  |notes={{Notes
+	|{{Notes|March 20th - [[Riot Games]] announces that '''[[ULF Esports]]''' has been removed from VCT EMEA. '''[[Eternal Fire]]''' will fill the vacant slot. <ref name="ULF Esports leaves VCT">{{cite web|url=https://x.com/vct_emea/status/2034948063564066914|title=VCT EMEA Update: Team changes|publisher=VALORANT Esports EMEA|date=2026-03-20|language={{Flag|usuk}} English}}</ref>|highlighted=true}}
+  }}
+}}
+}}
+<!--<br>{{Transfer List
+|title=Roster Moves since the end of Kickoff
+|page=VCT/2026/EMEA League/Stage 1
+|sdate=2026-02-15
+|edate=2026-05-17
+}}-->
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start|padding=1em}}
+{{LPDB storage|false}}
+{{box|start|padding=1em}}
+{{#section:{{PAGENAME}}/Group Stage|Group Alpha}}
+{{box|break|padding=1em}} 
+{{#section:{{PAGENAME}}/Group Stage|Group Omega}}
+{{box|end|padding=1em}}
+{{LPDB storage|true}}<br>
+: ''For detailed match results of the '''Group Stage''', [[/Group Stage|click here]].''
+{{box|break|padding=1em}}
+{{StageWinnings|cutafter=4
+|tournament=VCT/2026/EMEA League/Stage 1/Group Stage
+|title=Group Stage Points
+|points=vctemea2026
+|pointsPerWin=1
+|hideWinnings=true
+}}
+{{box|end}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/4L2DSU4L2DSL1D|id=2eDzcc3unO|matchsection=Playoffs
+
+<!-- Upper Bracket Round 1 -->
+|R1M1header=!ux!1
+|R1M1={{Match
+|opponent1literal=Omega #2
+|opponent2literal=Alpha #3
+}}
+|R1M2={{Match
+|opponent1literal=Alpha #2
+|opponent2literal=Omega #3
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+|opponent1literal=Alpha #1
+}}
+|R2M2={{Match
+|opponent1literal=Omega #1
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M3={{Match
+|opponent2literal=Omega #4
+}}
+|R1M4={{Match
+|opponent2literal=Alpha #4
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match}}
+
+<!-- Grand Final -->
+|R5M1={{Match}}
+}}
+
+==Broadcast==
+===Talent===
+{{Tabs dynamic|name1=English Broadcast|name2=EMEA Broadcasts|This=1}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Host|lang=English
+|b1=NatTea|b1name=Natalie Mahoney|b1flag=au
+|b2=Giniro
+|b3=billieidk
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Commentator & Analyst|lang=English
+|title='''Commentators & Analysts:'''
+|b1=MitchMan
+|b2=Tombizz
+|b3=Pansy
+|b4=billieidk
+|b5=mini|b5link=mini (British coach)
+|b6=Hypoc
+|b7=Hazza
+|b8=Kairo
+|b9=Kaquka
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer|lang=English
+|b1=xilv
+|b2=raveN
+|b3=
+}}
+{{BroadcasterCard
+|position=Stats Producer|lang=English
+|b1=Captaincow285 |b1flag=US
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Replay Operator|lang=English
+|b1=Andy Power
+|b2=Melania Balazs
+|b3=
+}}
+{{BroadcasterCard
+|position=Graphics Operator|lang=English
+|b1=Aaron Doyle
+|b2=Eoghan Johnston
+|b3=Kim Stewart
+}}
+{{BroadcasterCard
+|position=Producer|lang=English
+|b1=Alberto De La Rosa
+|b2=
+|b3=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|2}}
+{{box|start|padding=0.5em}}
+{{BroadcasterCard
+|position=French Host|lang=French
+|b1=Sellycats
+|b2=Soul Chains
+|b3=
+}}
+{{BroadcasterCard
+|position=French Commentator|lang=French
+|b1=APO 
+|b2=Bramz
+|b3=ERO G
+|b4=ItsIno
+}}
+{{BroadcasterCard
+|position=French Producer|lang=French
+|b1=Nakredor
+|b2=
+}}
+{{box|break|padding=0.5em}}
+{{BroadcasterCard
+|position=Spanish Commentator|lang=Spanish
+|b1=uLISES
+|b2=URI
+|b3=Iker RG|b3flag=es
+|b4=Luigi9|b4flag=es|b4name=Luis Delgado
+|b5=adeux
+|b6=Star |b6link=Star (Spanish caster)
+}}
+{{box|break|padding=0.5em}}
+{{BroadcasterCard
+|position=Turkish Commentator & Analyst|lang=Turkish
+|title='''Turkish Commentators & Analysts:'''
+|b1=root|b1link=root (Turkish caster)
+|b2=Karahan
+|b3=Hetze
+|b4=Gtrst
+|b5=sw4y
+|b6=Leader
+|b7=Noeldayi
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Streams===
+{{Streams|title=Primary
+|lang1=usuk|twitch1=valorant_emea|youtube1=@vctemea|tiktok1=@valorantesportsemea/live
+}}
+{{Streams|title=Secondary
+|lang1=fr|twitch1=valorant_fr|youtube1=@VALORANTChallengersFr
+|lang2=es|twitch2=valorant_es|youtube2=@VALORANTes
+|lang3=tr|twitch3=valorant_tur|youtube3=@VALORANTChallengersTR
+}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}
+<br>
+{{VALORANT Champions Tour Navbox/2026|stage 1}}

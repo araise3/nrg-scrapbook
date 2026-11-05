@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Downloads player portraits from VLR.gg for every player this site tracks,
-into public/player_photos/{handle}.png, plus a lookup manifest at
-public/data/player_photos.json ({handleLower: "player_photos/{handle}.png"})
+into data/player_photos/{handle}.png, plus a lookup manifest at
+data/player_photos.json ({handleLower: "player_photos/{handle}.png"})
 for PlayerProfile.jsx to use in place of its SVG placeholder header icon.
 
 WHY VLR, NOT LIQUIPEDIA
@@ -32,7 +32,7 @@ fuzzy/substring matches too (searching "heat" also surfaces "Heather",
 "heat2k", "heatwave", ...), and the search result row carries no team or
 country to disambiguate an exact-name collision between two different real
 players with. Replaced with the DIRECT link instead: `export_from_db.py`
-now exports public/data/player_urls.json, sourced from
+now exports data/player_urls.json, sourced from
 player_event_stats.player_url -- an actual <a href> the main scraper
 already followed while scraping each event's /event/stats/ page, not a
 guess. No ambiguity left to resolve at all: a handle either has a real,
@@ -44,9 +44,9 @@ USAGE
     python3 scraper/vlr_player_photos_scraper.py --inspect chubizin TenZ
     python3 scraper/vlr_player_photos_scraper.py --limit 20     # smoke test
 
-Reads every handle from ../public/data/player_buckets.json's own `meta`
+Reads every handle from ../data/player_buckets.json's own `meta`
 (this site's full known-player list, current roster or not), and for each
-one looks up its direct profile URL in ../public/data/player_urls.json.
+one looks up its direct profile URL in ../data/player_urls.json.
 A handle with no entry there (never appeared in a player_event_stats row --
 e.g. too new, or only ever scraped into map_player_stats which carries no
 url column) is skipped as "no direct link on file" rather than falling
@@ -54,12 +54,12 @@ back to a search; re-running this script after a future export picks it up
 automatically once export_from_db.py has a link for it.
 
 Writes:
-  - public/player_photos/{handle}.png -- the actual downloaded image,
+  - data/player_photos/{handle}.png -- the actual downloaded image,
     handle lowercased, served from this site's own origin rather than
     hotlinked from VLR's CDN at runtime (same reasoning as
     download_flags.py / liquipedia_team_logos_scraper.py: fetch once,
     serve locally forever after).
-  - public/data/player_photos.json, {handleLower: "player_photos/{handle}.png"}
+  - data/player_photos.json, {handleLower: "player_photos/{handle}.png"}
     -- only for handles that actually resolved to a real (non-placeholder)
     photo. A handle simply absent from this file means "no known photo";
     PlayerProfile.jsx keeps showing its existing SVG placeholder for that
@@ -78,7 +78,7 @@ This is intentionally polite, same posture as vlr_vct_scraper.py: ~1.5s
 delay between requests, retries with backoff, a real User-Agent, and it
 only hits vlr.gg. Run this on YOUR machine / environment with normal
 internet access -- it will NOT run inside this sandboxed chat, which
-can't reach vlr.gg. Also needs public/data/player_urls.json to already
+can't reach vlr.gg. Also needs data/player_urls.json to already
 exist -- run/commit a fresh export_from_db.py pass first if it doesn't.
 """
 import argparse
@@ -114,11 +114,11 @@ AVATAR_SELECTOR = "div.wf-avatar.mod-player img"
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 _REPO_ROOT = os.path.dirname(HERE)
-PLAYER_BUCKETS_PATH = os.path.join(_REPO_ROOT, "public", "data", "player_buckets.json")
-PLAYER_URLS_PATH = os.path.join(_REPO_ROOT, "public", "data", "player_urls.json")
-PHOTOS_DIR = os.path.join(_REPO_ROOT, "public", "player_photos")
-MANIFEST_PATH = os.path.join(_REPO_ROOT, "public", "data", "player_photos.json")
-MANIFEST_PREFIX = "player_photos/"  # relative to public/, matches how teamLogos.json etc. are consumed
+PLAYER_BUCKETS_PATH = os.path.join(_REPO_ROOT, "data", "player_buckets.json")
+PLAYER_URLS_PATH = os.path.join(_REPO_ROOT, "data", "player_urls.json")
+PHOTOS_DIR = os.path.join(_REPO_ROOT, "data", "player_photos")
+MANIFEST_PATH = os.path.join(_REPO_ROOT, "data", "player_photos.json")
+MANIFEST_PREFIX = "player_photos/"  # relative to data/
 
 
 class ScrapeFailure(Exception):
@@ -253,7 +253,7 @@ def main():
         skip = set()
         for h in handles:
             entry = manifest.get(h.lower())
-            if entry and os.path.exists(os.path.join(_REPO_ROOT, "public", entry)):
+            if entry and os.path.exists(os.path.join(_REPO_ROOT, "data", entry)):
                 skip.add(h)
         already_covered = len(skip)
         handles = [h for h in handles if h not in skip]

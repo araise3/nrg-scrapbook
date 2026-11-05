@@ -1,0 +1,71 @@
+{{Liquipedia links/Joblife}}
+{{Tabs static
+|name1={{team|Joblife}}
+|name2={{team|Joblife GC}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=Joblife
+|image=Joblife full lightmode.png
+|imagedark=Joblife full darkmode.png
+|location=France
+|region=eu
+|manager={{Flag|fr}} [[Bilal]]
+|igl={{Flag|pl}} [[UNFAKE]]
+|coaches={{Flag|fr}} [[Larsson]]<br>{{Flag|fr}} [[SKAZZ]]
+|twitter=JoblifeEsport
+|instagram=joblifeesport
+|youtube=@joblifeesport
+|tiktok=joblifeesport
+|website=https://joblife.fr/
+|created1=Org: 2021-11-29
+|created2=VALORANT: 2023-01-07
+}}
+
+'''Joblife''' is a [[:Category:France|French]] esport organization based in [[wikipedia:Blagnac|Blagnac]].
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=UNFAKE|captain=true|joindate=2026-04-15}}
+}}
+
+===Inactive===
+{{InactiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=Nayte|name=Nathan Berquignol|joindate=2023-04-01}}
+|{{SquadAutoRow|id=Nayte|name=Nathan Berquignol|joindate=2023-07-03}}
+|{{SquadAutoRow|id=Yohpa|name=Khoury Baptiste|joindate=2023-09-15}}
+|{{SquadAutoRow|id=Yohpa|name=Khoury Baptiste|joindate=2023-12-10}}
+|{{SquadAutoRow|id=Yohpa|name=Khoury Baptiste|joindate=2024-09-01}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Tomy |link=Tomy (Joblife Founder) |flag=fr |name=Toma Abdellaoui |role=Founder |joindate=2021-11-29}}
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

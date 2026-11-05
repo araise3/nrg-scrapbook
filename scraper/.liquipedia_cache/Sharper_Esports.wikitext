@@ -1,0 +1,77 @@
+{{Liquipedia links/Sharper Esport}}
+{{Team Tabs}}
+{{Infobox team
+|name=Sharper Esports
+|image=Sharper Esports 2026 full allmode.png
+|location=Thailand
+|region=ap
+|coach={{player|Leaf|link=Leaf (Thai player)|flag=th}}<br>{{player|MYM|flag=th}}<br>{{player|Psychopath|flag=th}}
+|igl={{player|PTC|flag=th}}
+|website=https://www.sharperesport.com/
+|instagram=sharperesport
+|facebook=sharperthai
+|youtube=@SharperChannel
+|twith=sharperesports
+|twitter=SharperEsport
+|created1=ORG: 2019-??-??
+|created2=VALORANT: 2020-07-13
+}}
+
+'''Sharper Esports'''  is a [[:category:Thailand|Thai]] Esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=WiLDLiFE |name= |joindate=2020-07-13}}
+|{{SquadAutoRow|id=Changee |name=Bhakron Banchong |joindate=2022-02-01}}
+|{{SquadAutoRow|id=jazper |name= |joindate=2022-06-30}}
+|{{SquadAutoRow|id=BossShi |name=Tanakorn Phuchamchote |joindate=2022-12-12}}
+|{{SquadAutoRow|id=Jele |name=Woraphong Srisaikham |joindate=2023-07-10}}
+|{{SquadAutoRow|id=Jele |role=Inactive |name=Woraphong Srisaikham |joindate=2024-02-22}}
+|{{SquadAutoRow|id=P r |name=Paradorn Chancharoen |joindate=2024-01-23}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|flag=th|id=ChaiyoTen|name=|role=Chief Executive Officer|joindate=2024-04-01}}
+|{{SquadAutoRow|id=BossShi|name=Tanakorn Phuchamchote|joindate=2024-01-27}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=p3tersos|name=Sanhanut Saiklieng|joindate=2025-04-02}}
+|{{SquadAutoRow|flag=th|id=Pongnoi|name=Pong Nitiwuth|role=Chief Executive Officer|joindate=2019-01-31|leavedate=2024-04-01}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Sharper Esport}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Sharper Esport}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Logos===
+{{TeamLogoGallery}}
+
+==Documentaries==
+{{box|start|padding=2em|max-width=1400px}}
+{{#ev:youtube|rfMAVTdpULI|400}}
+{{box|end}}
+
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

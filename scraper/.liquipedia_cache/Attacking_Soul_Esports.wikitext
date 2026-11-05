@@ -1,0 +1,80 @@
+{{Liquipedia links/Attacking Soul Esports}}
+{{Tabs static
+|name1={{team|Attacking Soul Esports}}
+|name2={{team|Attacking Soul Esports Girls}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=Attacking Soul Esports
+|image=Attacking Soul Esports allmode.png
+|location=China
+|region=China
+|igl=
+|manager={{Flag|cn}} [[Master_Aix]]
+|coach=
+|weibo=7525920816
+|twitter=ASEsports111
+|facebook=
+|instagram=
+|youtube=
+|website=
+|created={{org}}: 202?-??-??<br>{{VALORANT}}: 2020-??-??
+|disbanded=2024-??-??
+}}
+
+'''Attacking Soul Esports''' is a [[:Category:China|Chinese]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=razkiNgz |name=Ryslan Bolkyn |joindate=2022-04-29 |leavedate=2022-11-15}}
+|{{SquadAutoRow|id=quin |name=Elisei Kolesnikov |joindate=2022-04-29 |leavedate=2022-10-??}}
+}}
+
+==Organization==
+===Active===
+<!--{{ActiveOrganizationAuto}}-->
+{{Squad|type=staff|status=active
+|{{Person|flag=cn|id=黑玖|name=|role=Founder|joindate=}}
+|{{Person|flag=cn|id=Master_Aix|name=|role=Co-Founder & Manager|joindate=}}
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Attacking Soul Esports}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Attacking Soul Esports}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Interviews==
+*{{ExternalMediaLink
+|link=https://weibo.com/7552587338/N3s2dyo3F
+|title=初登国际舞台，@ASE电子竞技俱乐部 的选手们心情居然非常平静？#无畏契约东京大师赛# #ASE对阵DRX#
+|date=2023-06-02
+|by=[https://weibo.com/7552587338/ 无畏契约电竞]
+|of=
+|event=VCT 2023: Masters Tokyo
+|event-link=VCT/2023/Masters
+|language=cn
+}}
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="200px">
+Attacking Soul Esports at Masters Tokyo.jpg|Attacking Soul Esports at the [[VCT/2023/Masters|Masters - Tokyo 2023]]<br><small>From left to right:</small><br>[[Bunt]] ∙ [[hfmi0dzjc9z7]] ∙ [[YHchen]] ∙ [[monk]] ∙ [[Life]]
+</gallery>
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

@@ -1,0 +1,74 @@
+{{Liquipedia links/M80}}
+{{Team Tabs}}
+{{Infobox team
+|name=M80
+|image=M80 2023 allmode.png
+|location=United States
+|region=na
+|coaches={{Flag|us}} [[kaplan]]<br>{{Flag|us}} [[FIN]]
+|igl={{Flag|ca}} [[NiSMO]]
+|manager={{Flag|us}} [[Fluctra]]
+|website=http://m80.gg
+|instagram=m80gg_
+|tiktok=m80gg_ 
+|twitter=M80gg
+|youtube=@m80gg
+|twitch=m80gg
+|created1=Org: 2022-12-08
+|created2=VALORANT: 2022-12-08
+}}
+
+'''M80''' is an [[:category:United States|American]] esports organization based in [[wikipedia:Boston|Boston, Massachusetts]].
+
+==History==
+===Biography===
+M80 entered ''VALORANT'' in 2022, signing the core of the ex-[[Ghost Gaming]] roster.<ref name="M80 enters valo">{{cite web|url=https://x.com/M80gg/status/1600913108524232705|title=Spike planted. Your move.|author='''M80'''|date=2022-12-08}}</ref> M80 would go on to compete in Challengers North America; with the organisation qualifying to Ascension in both [[VCL/2023/Ascension/Americas|2023]] and [[VCL/2024/Ascension/Americas|2024]] finishing in second place in both tournaments and thereby missing out on the promotion to the [[VCT]] Americas Partnership league twice.
+
+M80 continued their time in Challengers into 2025, finishing [[VCL/2025/North_America/Stage_1|Stage 1]] in second place. Following the end of the Stage, M80's roster went through some serious changes: assistant coach [[DrewSpark]] left to join [[G2 Gozen]], and [[okeanos]] and [[Sato]] joing [[Leviatán]] in VCT Americas.<ref name="Sato">{{Cite web|url=https://x.com/LeviatanGG/status/1922792785045807436|title=@sato_pequeno se une à equipe para o EWC Americas Qualifier em busca da vaga para o #EWC2025|trans_title=Sato joins the ranks of LEVIATHAN to achieve qualification to EWC 2025|language={{flag|esmx}} Spanish|author='''Leviatán'''|date=2025-05-14}}</ref><ref name="Okeanos">{{Cite web|url=https://x.com/LeviatanGG/status/1922774025400418773|title=@OkeanosQT se suma a las filas de LEVIATÁN para conquistar la clasificación a #EWC2025|trans_title=Okeanos joins the ranks of LEVIATHAN to achieve qualification to EWC 2025|language={{flag|esmx}} Spanish|author='''Leviatán'''|date=2025-05-14}}</ref><ref name="M80 departure">{{cite web|url=https://x.com/M80gg/status/1922723892805750947|title=Today, Sato & Okeanos have been transferred to a new and exciting oppurtunity|author='''M80'''|date=2025-05-14}}</ref> After these changes, M80 announced that they would be departing Challengers, relinquishing their slot to their players to compete as a free-agent team.<ref name="Chets pets">{{cite web|url=https://x.com/m80gg/status/1923489557397340171|title=M80 VALORANT UPDATE|author='''M80'''|date=2025-05-16}}</ref>
+
+On May 24<sup>th</sup> 2025, M80 announced the release of their final ''VALORANT'' player [[wedid]], ending their time in ''VALORANT'' and disbanding the roster.<ref name="M80 disband">{{cite web|url=https://x.com/M80gg/status/1926396137017167908|title=The Last Standing Member|author='''M80'''|date=2025-05-24}}</ref>
+
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-06-05|display_date=June 5th|text='''M80''' bench [[nitr0]] and sign [[neT]] as his replacement. <ref name="nitr0 inactive">{{cite web|url=https://x.com/M80gg/status/1798368094844580022|title=M80 VALORANT Update:|date=2024-06-05|author='''M80'''}}</ref><ref name="+neT">{{cite web|url=https://x.com/M80gg/status/1798392118853128407|title=@neT_valorant will be stepping in for M80 VALORANT|date=2024-06-05|author='''M80'''}}</ref>}}
+|{{SquadAutoRow|date=2024-07-04|display_date=July 4th|text=[[nitr0]] is acquired by [[:counterstrike:NRG|NRG's ''Counter-Strike 2'' division]]. <ref name="nitr0 cs2">{{cite web|url=https://x.com/NRGgg/status/1808923732615819715|title=Every team needs a Captain|date=2024-07-04|author=[[NRG]]}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=NiSMO|captain=true|joindate=2026-03-18}}
+}}
+
+===Former===
+{{FormerSquadAuto}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Marco|link=Marco (Marco Mereu)|flag=us|name=Marco Mereu|role=CEO|joindate=2022-12-08}}
+|{{SquadAutoRow|id=|link=wikipedia:Daniil Medvedev|name=Daniil Medvedev|flag=ru|role=Investor & Co-Owner|joindate=2023-11-10 <ref>{{cite web|url=https://twitter.com/M80gg/status/1722977359203053992|date=2023-11-10|title=We are thrilled to announce that @DaniilMedwed, Global tennis star and the current world No. 3, has joined the M80 ownership group!|author='''M80'''}}</ref>}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=Zac |link=Zac (Zachary Azzara) |flag=us |name=Zachary Azzara |role=Creative Director |joindate=2022-11-?? <ref name="Zac linkedin"/>|leavedate=2025-04-?? <ref name="Zac linkedin">{{cite web|url=https://www.linkedin.com/in/zacharyazzara/|title=Zachary Azzara - LinkedIn|accessdate=2025-05-24}}</ref>}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Logos===
+{{TeamLogoGallery}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

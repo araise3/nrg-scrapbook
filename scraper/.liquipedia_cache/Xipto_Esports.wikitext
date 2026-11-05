@@ -1,0 +1,61 @@
+{{Tabs static
+|name1={{Team|Xipto Esports}}
+|name2={{Team|Xipto GC}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=Xipto Esports
+|image=Xipto Esports 2025 allmode.png
+|location=Singapore
+|region=Asia-Pacific
+|igl=
+|coaches={{player|ASI|flag=th}}<br>{{player|BnwGiggs|flag=th}}
+|twitter=XiptoEsports
+|vlr=17167
+|created1=Org: 2024-03-26
+|created2=valorant: 2024-12-31
+<!--|disbanded=2026-06-26-->
+}}
+
+'''Xipto Esports''' is a [[:Category:Singapore|Singaporean]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2025-01-01|displaydate=January 1st|text='''Xipto Esports''' announce their roster for [[Predator_League/2025/Asia_Pacific|Predator League 2025, Asia Pacific]], signing {{Player|Fixy}}, {{Player|Flaring}}, {{Player|MarkL}}, {{Player|Riza}}, {{Player| Iceyyy}}, {{Player|Suka}} with {{Player|Skeltzy}} and {{Player|Maark}} with the latter joining as coaches.<ref name="Xipto Esports 20250101">{{cite web|url=https://x.com/XiptoEsports/status/1874125483308441841|title=New Year comes forward with new Xipto Esports!|date=2025-01-01|author='''Xipto Esports'''}}</ref>}}
+|{{SquadAutoRow|date=2025-03-12|displaydate=March 12th|text='''Xipto Esports''' announce their new additions to their roster for [[VCL/2025/Southeast_Asia/Split_2|VCL SEA 2025: Stage 2]], signing {{Player|Hotsauz}} and {{Player|JA}}.<ref name="Xipto Esports 20250312">{{cite web|url=https://x.com/XiptoEsports/status/1899758032047034463|title=Guess what’s simmering for Split 2? Hotsauz is bringing the heat, and JA is the secret ingredient. Ready for the ultimate recipe for victory?|date=2025-03-12|author='''Xipto Esports'''}}</ref>}}}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Xipto Esports}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Xipto Esports}}
+|name3=Recent Results|content3={{Team results table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Logos===
+{{TeamLogoGallery}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

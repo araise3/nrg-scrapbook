@@ -1,0 +1,71 @@
+{{Liquipedia links/BOOM Esports}}
+{{Team Tabs}}
+{{Infobox team
+|name=BOOM Esports
+|location=Indonesia
+|image=Boom Esports logo.png
+|region=ap
+|captain=
+|coach={{Flag|uk}} [[Fields]]
+|manager={{Flag|id}} [[Mycroft]]
+|facebook=Boomesportsid
+|website=https://boomesports.gg/
+|discord=6zd5VAXaKG
+|twitter=boomesportsid
+|instagram=boomesportsid
+|youtube=channel/UCVU7LT5bYlVI28P-RF7CDBQ
+|created1=Org: 2016-11-??
+|created2=VALORANT: 2020-07-15
+}}
+
+'''BOOM Esports''' ''(formerly known as '''BOOM ID''')'' is an [[:category:Indonesia|Indonesian]] organization founded in 2016.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-10-04|displaydate=October 4th|text='''BOOM Esports''' is promoted to '''VCT Pacific''' by '''Riot Games''' to fill up vacated spot left by '''[[Bleed Esports]]'''' termination. <ref>{{cite web|url=https://x.com/ValorantEsports/status/1842063072111792589|title=An update for VCT 2025|author='''[[VALORANT Champions Tour]]'''|date=2024-10-04}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players}}
+
+===Stand-ins===
+{{Stand-ins table|
+{{stand-in |id=Lilo|flag=id|name=Ryan Betrand|for=famouz|forflag=id|forname=Fikri Zaki|tournament={{LeagueIconSmall/off//season}} [[Predator_League/2025/Indonesia|Predator League Indonesia 2025]]}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Natshuba|flag=id|name=Gary Ongko Putera|role=Founder & Owner|joindate=2016-12-14}}
+|{{SquadAutoRow|id=owljan|flag=id|name=Marzarian Sahita|role=General Manager|joindate=20??-??-??}}
+|{{SquadAutoRow|id=Mycroft|flag=id|name=Chornelius Vanny|role=Manager|joindate=2023-??-??}}
+|{{SquadAutoRow|id=6fingers|name=Harry Tjahjadi Putra|joindate=2025-01-08}}
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=BOOM Esports}}
+|name2=Recent Matches|content2={{Team recent matches table|team=BOOM Esports}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Team Capsules===
+<gallery mode="packed-hover" heights="350px">
+VCT 2025 BOOM Esports Capsule.jpg|BOOM Esports 2025 Team Capsule
+</gallery>
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

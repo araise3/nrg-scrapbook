@@ -1,0 +1,67 @@
+ {{outdated|no-cat=true|for=missing roster changes.}} 
+{{Liquipedia links/Royal Never Give Up}}
+{{Team Tabs}}
+{{Infobox team
+|name=Royal Never Give Up
+|image=RNG Logo.png
+|location=China
+|region=cn
+|captain=
+|manager={{Flag|cn}} [[凉风有信]]
+|coaches=
+|facebook=RNGRoyal
+|instagram=rngroyal
+|twitter=rng
+|teamid=6209804
+|weibo=5498972025
+|website=http://www.royalgroups.cn/
+|created={{org}} 2015-05-15<br>{{VALORANT}} 2020-04-16
+|disbanded=2023-11-22
+}}
+
+'''Royal Never Give Up''', often abbreviated as '''RNG''', is a Chinese professional esports organization. The club is well known for its [[leagueoflegends:Royal Never Give Up|''League of Legends'']] squad.
+
+===Timeline===
+{{TimelineSquadAuto|team=Royal Never Give Up}}
+
+==Player Roster==
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=xiaonuo|name=Liu Xiaosheng|joindate=2023-03-31|leavedate=2023-11-22}}
+|{{SquadAutoRow|id=GuanG|name=Guang Honglin|joindate=2023-10-05|leavedate=2023-11-22}}
+|{{SquadAutoRow|id=HaTo|name=Wang Rui|joindate=2023-10-05|leavedate=2023-11-22}}
+|{{SquadAutoRow|id=Mike|name=Yererlan Seerjiang|joindate=2023-08-28|leavedate=2023-10-05}}
+|{{SquadAutoRow|id=AakRR|flag=cn|name=Shi Yekai|joindate=2023-??-??|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=bexey|flag=cn|name=Wang Kailun|joindate=2020-12-25|leavedate=2021-??-??}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto|team=Royal Never Give Up
+|{{SquadAutoRow|id=凉风有信|flag=cn |name=Sun Chen |role=Manager|joindate=2023-09-06}}
+|{{SquadAutoRow|id=Dansense |name=Miao Yuan |joindate=2023-08-28}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=Ash |link=Ash (Xu Yu-Fei) |flag=cn |role=Manager|name=Xu Yu-Fei |joindate=2021-12-27|leavedate=202?-??-??}}
+|{{SquadAutoRow|id=Shadow |link=Shadow (Jin He) |flag=cn |role=Manager|name=Jin He |joindate=2020-05-31|leavedate=202?-??-??}}
+|{{SquadAutoRow|id=Ash |link=Ash (Xu Yu-Fei) |flag=cn |role=Manager|name=Xu Yu-Fei |joindate=2021-12-27|leavedate=202?-??-??}}
+|{{SquadAutoRow|id=Dansense |name=Miao Yuan |joindate=2023-05-03|leavedate=2023-08-28}}
+|{{SquadAutoRow|id=Aqua|flag=cn|name=Wenjun Shou|role=FPS Division Manager|joindate=2017-08-??|leavedate=2021-??-??}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Royal Never Give Up}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Royal Never Give Up}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

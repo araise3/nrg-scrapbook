@@ -1,0 +1,84 @@
+{{Tabs static
+|name1={{team|Fire Flux Esports}}
+|name2={{team|Fire Flux Fierce}}
+|name3={{team|Fire Flux Young}}
+|This=1
+}}
+{{Liquipedia links/Fire Flux Esports}}
+{{Team Tabs}}
+{{Infobox team
+|image=Fire Flux Esports lightmode full.png
+|imagedark=Fire Flux Esports darkmode full.png
+|location=Turkey
+|region=eu
+|founders={{Flag|tr}} Cantuğ Özsoy
+|coaches={{flag|nl}} [[Lêv]]<br>{{flag|tr}} [[XovLoV]]
+|igl={{Flag|tr}} [[batujnax]]
+|website=https://fireflux.gg/
+|twitter=firefluxesports
+|youtube=channel/UCY7N2aEnJPqG7sMY2apBWIA
+|instagram=firefluxesports
+|tiktok=firefluxgg
+|facebook=
+|twitch=
+|discord=C7vTd5HpKN
+|created={{Org}}: 2021-05-30 <br>{{VALORANT}}: 2021-05-30
+|disbanded=
+}}
+
+'''Fire Flux Esports''' is a [[:Category:Turkey|Turkish]] professional esports organization located in [[:category:Turkey|Turkey]] and founded in May 2021.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=batujnax|captain=true|joindate=2026-08-05}}
+|{{SquadAutoRow|id=b1squw1|name=Mehmet Aydın|joindate=2026-08-05}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=Jaskier|name=Orhan Kahraman|joindate=2026-03-25}}
+|{{SquadAutoRow|id=Lava|name=Murat Varol|joindate=2025-05-23}}
+|{{SquadAutoRow|id=oroni|name=Ömer Açar|joindate=2025-06-28}}
+|{{SquadAutoRow|id=influx|name=Kaan Taşkın|joindate=2025-05-23}}
+|{{SquadAutoRow|id=influx|name=Kaan Taşkın|joindate=2025-01-17}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=UNLOST|name=Cantuğ Özsoy|flag=tr|role=Co-Founder|joindate=2021-05-30}}
+|{{SquadAutoRow|id=Caner Aydın|name=Caner Aydın|flag=tr|role=Co-Founder|joindate=2026-03-21}}
+|{{SquadAutoRow|id=ubeka|name=Uzay Berkan Köse|joindate=2022-10-12}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=TEM|name=Temuçin Ünalp|flag=tr|role=Co-Founder|joindate=2021-05-30|leavedate=2026-01-09}}
+|{{SquadAutoRow|id=Standhaft|name=Umut Ali Berk|joindate=2023-09-06|leavedate=2024-10-28}}
+|{{SquadAutoRow|id=OMK|name=Onuralp Mehmet Kurt|flag=tr|role=Board Member & Esports Director|joindate=2023-03-19|leavedate=2024-10-28}}
+|{{SquadAutoRow|id=maxirionmaxiumus|name=Mehmet Kaan Kurt|flag=tr|role=Board Member|joindate=2023-03-19|leavedate=2024-10-28}}
+|{{SquadAutoRow|id=vladk0r|name=Vladimir Kornev|joindate=2023-11-19|leavedate=2024-01-24}}
+|{{SquadAutoRow|id=Kubilicious|name=Kubilay Kösem|joindate=2021-09-20|leavedate=2024-01-15}}
+|{{SquadAutoRow|id=vladk0r|name=Vladimir Kornev|joindate=2022-12-22|leavedate=2023-11-19}}
+|{{SquadAutoRow|id=yetgin|name=Mehmet Yetgin|joindate=2023-03-19|leavedate=2023-07-31}}
+|{{SquadAutoRow|id=Icefyre|name=Orkun Gültaktı|joindate=2026-06-04}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Fire Flux Esports}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Fire Flux Esports}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

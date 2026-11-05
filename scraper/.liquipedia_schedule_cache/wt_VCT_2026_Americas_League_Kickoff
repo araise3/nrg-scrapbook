@@ -1,0 +1,496 @@
+{{DISPLAYTITLE:VCT 2026: Americas Kickoff}}
+{{VALORANT Champions Tour Navbox/2026/Kickoff}}
+{{Tabs static
+|name1=Overview|link1=VCT/2026/Americas League/Kickoff
+|name2=Statistics|link2=VCT/2026/Americas League/Kickoff/Statistics
+|name3=Additional Content|link3=VCT/2026/Americas League/Kickoff/Additional Content
+}} 
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=sponsored
+|name=VCT 2026: Americas Kickoff
+|shortname=VCT '26 Americas Kickoff
+|tickername=VCT Americas Kickoff
+|caption=IT ALL STARTS HERE
+|image=VCT Americas League Kickoff full allmode.png
+|imagedark=
+|icon=VCT 2023 Americas League allmode.png
+|icondark=
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|organizer=Riot Games
+|organizer-link=https://playvalorant.com/
+|sponsor=[https://aimlab.gg/ Aim Labs]
+|sponsor2=[https://www.ibuypower.com/ iBUYPOWER]
+|sponsor3=[https://www.pulsar.gg/ Pulsar]
+|sponsor4=[https://www.redbull.com/ Red Bull]
+|sponsor5=[https://www.samsung.com/us/ Samsung SSD]
+|sponsor6=[https://secretlab.co/ Secretlab]
+|sponsor7=[https://www.verizon.com/5g/ Verizon]
+|prizepool=
+|localcurrency=
+|prizepoolusd=
+|type=Offline
+|country=United States
+|city=Los Angeles
+|venue=Riot Games Arena
+|format=
+|sdate=2026-01-15
+|edate=2026-02-15
+|patch=12.00
+|rulebook=https://cdn.sanity.io/files/dsfx7636/news_live/ed6298e4d6f3364f1201256fe22b07aafb20575a.pdf
+|web=https://valorantesports.com
+|discord=
+|twitter=valesportsna
+|twitch=valorant_americas
+|instagram=valesportsna
+|youtube=@valorant_americas
+|facebook=ValorantEsports
+|team_number=12
+|map1=Abyss
+|map2=Bind
+|map3=Breeze
+|map4=Corrode
+|map5=Haven
+|map6=Pearl
+|map7=Split
+|previous=VCT/2025/Americas League/Stage 2{{!}}2025: Stage 2
+|next=VCT/2026/Americas League/Stage 1{{!}}2026: Stage 1
+|next2=VCT/2026/Stage 1/Masters{{!}}Masters Santiago
+}}
+
+==About==
+===Format===
+* '''Playoffs:'''
+** Triple-Elimination bracket
+** All matches ''(excl. {{Abbr|UB|Upper Bracket}} Final, {{Abbr|MB|Middle  Bracket}} Final & {{Abbr|LB|Lower Bracket}} Final)'' are {{Abbr/Bo3}}
+** {{Abbr|UB|Upper Bracket}} Final, {{Abbr|MB|Middle  Bracket}} Final & {{Abbr|LB|Lower Bracket}} Final are {{Abbr/Bo5}}
+** Teams that qualified to [[VCT/2025/Champions|Champions Paris]] receive a bye into round 2 of the Upper Bracket
+
+<div id="Skirmish">
+* '''Skirmish Side Selection:''' <ref>{{cite web|url=https://x.com/ValorantEsports/status/2011453254891110603|title=Starting at Kickoff, equally seeded VCT matches will use a skill-based standard for side selection.|date=2026-01-14|author=[[Riot Games]]}}</ref>
+** Before the start of a match, each team submits a starting player to represent the team
+** The two players face off in a 1v1 in the in-game [[Skirmish]] game mode
+** Abilities are disabled, only guns can be used
+** First player to reach five rounds wins the Skirmish
+** Winner player grants their team the choice to be the starting team or the second team in the Map Veto
+** This method may also be used to determine seeding
+</div>
+
+===Prize Pool===
+{{TeamPrizePool|points=vctame2026|prizesummary=n
+|qualifies1=VCT/2026/Stage 1/Masters|qualifies1name=Masters Santiago|qualifies1icon=VCT Masters icon allmode.png
+|{{Slot|qualified1=true|points=4}}
+|{{Slot|qualified1=true|points=3}}
+|{{Slot|qualified1=true|points=2}}
+|{{Slot|points=1}}
+|{{Slot|points=0}}
+|{{Slot|points=0}}
+|{{Slot|points=0|count=2}}
+|{{Slot|points=0|count=2}}
+|{{Slot|points=0|count=2}}
+|adjacentContent=
+{{box|start|padding=1em}}
+{{MVPTable|cutafter=4|margin=false
+|title=Match MVPs
+|tournament=VCT/2026/Americas League/Kickoff 
+}}
+{{box|end}}
+}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/Americas_League/Kickoff|sdate=2026-01-15|button2Text=Hide schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipants
+|{{Opponent|100 Thieves|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Asuna}}
+	|{{Person|bang}}
+	|{{Person|Cryocells}}
+	|{{Person|Timotino}}
+	|{{Person|vora}}
+    
+	|{{Person|Nbs|role=Head Coach|type=staff}}
+	|{{Person|d00mbr0s|role=Assistant Coach|type=staff}}
+	|{{Person|Kaimera|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Cloud9|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|OXY}}
+	|{{Person|penny}}
+	|{{Person|v1c}}
+	|{{Person|Xeppaa}}
+	|{{Person|Zellsis}}
+    
+	|{{Person|Immi|role=Head Coach|type=staff}}
+	
+	|{{Person|Demon1|flag=us|role=Subsitute|status=former}}
+  }}
+}}
+
+|{{Opponent|Evil Geniuses|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|bao}}
+	|{{Person|C0M}}
+	|{{Person|dgzin}}
+	|{{Person|okeanos}}
+	|{{Person|supamen}}
+    
+	|{{Person|potter|link=Potter (Christine Chi)|role=Head Coach|type=staff}}
+	|{{Person|meco1e|role=Assistant Coach|type=staff}}
+	|{{Person|pho|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|FURIA|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|alym}}
+	|{{Person|artzin}}
+	|{{Person|eeiu}}
+	|{{Person|koalanoob}}
+	|{{Person|nerve}}
+	|{{Person|basic|played=false|status=sub}}
+    
+	|{{Person|shaW|role=Head Coach|type=staff}}
+	|{{Person|Kamino|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|KRÜ Esports|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Nagzet}}
+	|{{Person|mta}}
+	|{{Person|benG}}
+	|{{Person|infiltrator}}
+	|{{Person|Governor}}
+    
+	|{{Person|bione|role=Head Coach|type=staff}}
+	|{{Person|Fadeout|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Leviatán|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|blowz}}
+	|{{Person|kiNgg}}
+	|{{Person|Neon|link=Neon (Argentine player)}}
+	|{{Person|Sato}}
+	|{{Person|spikeziN}}
+    
+	|{{Person|Onur|role=Head Coach|type=staff}}
+	|{{Person|Jhein|role=Assistant Coach|type=staff}}
+	
+	|{{Person|PxS|flag=us|role=Subsitute|status=former}}
+  }}
+}}
+
+|{{Opponent|LOUD|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|cauanzin}}
+	|{{Person|Darker}}
+	|{{Person|lukxo}}
+	|{{Person|pANcada}}
+	|{{Person|Virtyy}}
+	
+	|{{Person|Romanilly|role=Head Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|MIBR|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|aspas}}
+	|{{Person|Mazino}}
+	|{{Person|tex}}
+	|{{Person|Verno}}
+	|{{Person|zekken}}
+	
+	|{{Person|fRoD|role=Head Coach|type=staff}}
+	|{{Person|Happy|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|NRG|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|brawk}}
+	|{{Person|Ethan}}
+	|{{Person|keiko}}
+	|{{Person|mada}}
+	|{{Person|skuba}}
+	
+	|{{Person|bonkar|role=Head Coach|type=staff}}
+	|{{Person|Strong|role=Assistant Coach|type=staff}}
+  }}
+}}
+|{{Opponent|Sentinels|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|cortezia}}
+	|{{Person|N4RRATE}}
+	|{{Person|Kyu}}
+	|{{Person|johnqt}}
+	|{{Person|reduxx}}
+	
+	|{{Person|kaplan|role=Head Coach|type=staff}}
+	|{{Person|GUNTER|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|G2 Esports|qualification={{Qualification|method=qual|page=VCL/2023/Ascension/Americas|text=Ascension 2023|placement=1}}
+  |players={{Persons
+    |{{Person|babybay}}
+	|{{Person|jawgemo}}
+	|{{Person|leaf}}
+	|{{Person|trent}}
+	|{{Person|valyn}}
+	
+	|{{Person|JoshRT|role=Head Coach|type=staff}}
+	|{{Person|shhhack|role=Assistant Coach|type=staff}}
+  }}
+  |notes={{Notes
+	|{{Notes|Slot retained via '''[[Champions 2025]]'''|highlighted=true}}
+  }}
+}}
+
+|{{Opponent|ENVY|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/Americas|text=Ascension 2025|placement=1}}
+  |players={{Persons
+    |{{Person|Demon1}}
+	|{{Person|Eggsterr}}
+	|{{Person|keznit}}
+	|{{Person|P0PPIN}}
+	|{{Person|Rossy}}
+	|{{Person|inspire|played=true|status=sub}}
+	|{{Person|canezerra|played=false|status=sub}}
+	
+	|{{Person|Stunner|role=Head Coach|type=staff}}
+	|{{Person|WKN|role=Assistant Coach|type=staff}}
+  }}
+}}
+}}
+
+<div style="margin-top:1em">
+{{Transfer List
+|title=Roster moves during the offseason
+|sdate=2025-09-01
+|edate=2026-01-19
+|page=VCT/2026/Americas_League/Kickoff
+}}
+</div>
+
+==Results==
+{{Bracket|Bracket/8L4DSS-1Q-U-8L2DSL1D-1Q-U-4L4DSL2D-1Q|id=QPI6ZUeYZ6|matchWidth=170|matchsection=Knockouts
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match}}
+|R1M2={{Match}}
+|R1M3={{Match}}
+|R1M4={{Match}}
+
+<!-- Upper Bracket Quarterfinals -->
+|R2M1={{Match}}
+|R2M2={{Match}}
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Upper Bracket Semifinals -->
+|R4M1={{Match}}
+|R4M2={{Match}}
+
+<!-- Upper Bracket Final -->
+|R7M1={{Match}}
+
+<!-- Mid Bracket Round 1 -->
+|R2M5={{Match}}
+|R2M6={{Match}}
+|R2M7={{Match}}
+|R2M8={{Match}}
+
+<!-- Mid Bracket Round 2 -->
+|R3M1={{Match}}
+|R3M2={{Match}}
+
+<!-- Mid Bracket Quarterfinals -->
+|R4M3={{Match}}
+|R4M4={{Match}}
+
+<!-- Mid Bracket Semifinal -->
+|R6M1={{Match}}
+
+<!-- Mid Bracket Final -->
+|R7M2={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R2M9={{Match}}
+|R2M10={{Match}}
+
+<!-- Lower Bracket Round 2 -->
+|R3M3={{Match}}
+|R3M4={{Match}}
+
+<!-- Lower Bracket Round 3 -->
+|R4M5={{Match}}
+|R4M6={{Match}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R5M1={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R6M2={{Match}}
+
+<!-- Lower Bracket Final -->
+|R7M3={{Match}}
+}}
+
+==Broadcast==
+===Streams===
+{{box|start|padding=2em}}
+{{Streams|title=Primary
+|lang1=usuk          |twitch1=valorant_americas
+                     |youtube1=@valorant_americas
+					 |tiktok1=@valesportsna/live
+}}
+{{Streams|title=Secondary
+|lang1=ptbr |twitch1=valorant_br |youtube1=@valesportsbr |tiktok1=@valesportsbr/live
+|lang2=esmx |twitch2=valorant_la |youtube2=@VALORANTEsportsLA
+}}
+{{box|end}}
+
+===Broadcast Talent===
+{{Tabs dynamic|name1=English Broadcast|name2=Brazilian Broadcast|name3=Hispanic Broadcast|This=1}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Host|lang=English
+|b1=Goldenboy
+|b2=Soe
+|b3=
+}}
+{{BroadcasterCard
+|position=Interviewer|lang=English
+|b1=Dryad
+|b2=Elisabeth
+|b3=
+}}
+{{BroadcasterCard
+|position=Guest|lang=English
+|b1=alexis
+|b2=meL
+|b3=Sidsity|b3flag=kr
+|b4=JonahP
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Commentator & Analyst
+|title='''Commentators & Analysts'''|lang=English
+|b1=aEvilcat
+|b2=athxna
+|b3=Bren
+|b4=Ender
+|b5=mle
+|b6=Rivington
+|b7=Sideshow
+|b8=Uber
+|b9=Vansilli
+|b10=Wyatt
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer|lang=English
+|b1=prius
+|b2=sapphiRe
+|b3=Tiie
+|b4=Vflight
+|b5=Yehty
+}}
+{{BroadcasterCard
+|position=Producer|lang=English
+|b1=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Replay Operators|lang=English
+|b1=furtive
+|b2=sarcopels
+}}
+{{BroadcasterCard
+|position=Stats Producer|lang=English
+|b1=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Host|lang=Portuguese
+|b1=Melão
+|b2=Tonello
+|b3=
+}}
+{{BroadcasterCard
+|position=Brazilian Commentator|lang=Portuguese
+|b1=Vecet
+|b2=xrm
+|b3=Canedo
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Analyst|lang=Portuguese
+|b1=napeR
+|b2=Nyang
+|b3=spacca
+|b4=Tayhuhu
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Guest|lang=Portuguese
+|b1=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Host |lang=Spanish
+|b1=Gatotowsky
+|b2=Valinaaa
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Desk Host & Analyst|lang=Spanish
+|title='''Spanish Desk Hosts & Analysts'''
+|b1=RkT
+|b2=Dryad
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Commentator|lang=Spanish
+|title='''Spanish Commentators'''
+|b1=KEVHO
+|b2=7Mitssu
+|b3=Cantor
+|b4=Lyssan
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Stats Producer|lang=Spanish
+|title='''Spanish Stats Producer'''
+|b1=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Producer|lang=Spanish
+|title='''Spanish Producer'''
+|b1=
+|b2=
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}
+<br>
+{{VALORANT Champions Tour Navbox/2026|kickoff}}

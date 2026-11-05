@@ -1,0 +1,71 @@
+{{Liquipedia links/Enterprise Esports}}
+{{Team Tabs}}
+{{Infobox team
+|name=Enterprise Esports
+|image=ENTERPRISE esports 2023 allmode.svg
+|location=Czech Republic
+|location2=Slovakia
+|region=eu
+|manager={{Flag|sk}} Roland Nguyen
+|coach={{Flag|bg}} [[itopata]]<br>{{Flag|se}} [[ShadoW]]
+|igl={{Flag|fi}} [[iluri]]
+|website=https://enterpriseesports.cz/en
+|facebook=ENTERPRISEesports
+|instagram=enterprise_esports
+|twitter=enterprise_esp
+|twitch=enterprise_esports
+|youtube=channel/UC98rJPkAO35KfsucCuHyOHg
+|created1=org: 2020-04-11
+|created2=VALORANT: 2020-09-17
+|disbanded=
+}}
+
+'''Enterprise Esports''' is a [[:Category:Czech Republic|Czech]] and [[:Category:Slovakia|Slovak]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-04-16|display_date=April 16th|text='''Enterprise Esports''' release the roster while [[Cantzer]] transitions to a content creator role. <ref name="EP disband">{{cite web|url=https://twitter.com/enterprise_esp/status/1780256096973635900|title=As of today, we are parting ways with our Valorant team|date=2024-04-16|author='''Enterprise Esports'''}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=iluri|captain=true|joindate=2026-01-14}}
+|{{SquadAutoRow|id=kozzy|name=Denis-Stefan Aionitoaei|joindate=2026-01-14}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=Eryceu|name=Erik Čepela|joindate=2020-10-22|leavedate=2021-02-09}}
+|{{SquadAutoRow|id=SH0UTy|captain=true|joindate=2024-01-13|leavedate=2024-04-16}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=n1nsei|flag=sk|name=Miroslav Bodnár|role=CEO|joindate=2020-04-11}}
+|{{SquadAutoRow|id=|flag=sk|name=Jakub Imrich|role=COO|joindate=2020-04-11}}
+|{{SquadAutoRow|id=daky|flag=sk|name=Roland Nguyen|role=Esports Director|joindate=2020-05-10}}
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table|team=Enterprise Esports}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Enterprise Esports}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Logos===
+{{TeamLogoGallery}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

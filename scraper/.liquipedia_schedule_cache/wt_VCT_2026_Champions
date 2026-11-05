@@ -1,0 +1,309 @@
+{{DISPLAYTITLE:VALORANT Champions 2026}}
+{{VCT Champions Navbox}}
+{{VALORANT Champions Tour Navbox/2026}}
+{{Tabs static
+|name1=Overview|link1=VCT/2026/Champions
+|name2=Statistics|link2=VCT/2026/Champions/Statistics
+|name3=Qualification|link3=VCT/2026/Champions/Qualification
+|name4=Additional Content|link4=VCT/2026/Champions/Additional Content
+}}
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=highlighted
+|name=VALORANT Champions 2026
+|shortname=VCT Champions 2026
+|tickername=Champions 2026
+|caption=
+|image=VCT Champions Shanghai 2026 allmode.png
+|icon=VCT Champions logo.png
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|series2=V26 Tour
+|organizer=Riot Games
+|organizer-link=https://playvalorant.com/
+<!--|organizer2=TJ Sports
+|organizer2-link=http://www.tjsports.com/index.html-->
+|sponsor=
+|prizepoolusd=2,250,000
+|type=Offline
+|country=China
+|city=Shanghai
+|venue1=|venue1link=|venue1desc=
+|venue2=|venue2link=|venue2desc=
+|format=
+|patch=
+|sdate=2026-09-24
+|edate=2026-10-18
+|web=https://valorantesports.com
+|rulebook=
+|twitter=ValorantEsports
+|twitch=VALORANT
+|instagram=valorantesports
+|tiktok=valorantesports
+|facebook=ValorantEsports
+|youtube=channel/UCA1d3HFGFUmkKr2JIUA5Vlw
+|kick=valorant
+|vlr=
+|map1=
+|map2=
+|map3=
+|map4=
+|map5=
+|map6=
+|map7=
+|team_number=16
+|previous=VCT/2025/Champions{{!}}Champions 2025
+|previous2=VCT/2026/Stage 2/Masters{{!}}Masters London
+|next=VCT/2027/Champions{{!}}Champions 2027
+|next2=
+}}
+
+==About==
+'''VALORANT Champions 2026''' (Also known as ''VCT Champions'') is the crowning event of the VALORANT esports calendar. It is also the prestigious event of the {{LeagueIconSmall/v26 tour|link=}} '''V26 Tour''' (''V26无畏巡回'' in Chinese), a year-long roadshow festival where {{LeagueIconSmall/custom|icon=VCT Red logo.png}} '''VCT''' events are held in China.
+===Format===
+* '''Group Stage:'''
+** Four Double-Elimination Format (GSL) Groups
+*** Each group has 4 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to the '''Playoffs'''
+*** <span class="mw-customtoggle-GroupStage-Draw" style="border-bottom:1px dotted;">''Click here for detailed information about Group Stage Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-GroupStage-Draw" style="margin-top:10px;" style="margin-left:45px;">
+* 16 Teams are divided into 4 pools as per their seeding.
+** '''Pool 1''' and '''Pool 2''' consists of teams that qualified through Stage 2 with '''Pool 3''' and '''Pool 4''' consists of team that qualified through Championship Points.
+*** '''Pool 1''' consists of '''#1''' - EMEA ''#1'', Americas ''#1'', Pacific ''#1'' & China ''#1''.
+*** '''Pool 2''' consists of '''#2''' - EMEA ''#2'', Americas ''#2'', Pacific ''#2'' & China ''#2''.
+*** '''Pool 3''' consists of '''Points #1''' - EMEA ''#3'', Americas ''#3'', Pacific ''#3'' & China ''#3''.
+*** '''Pool 4''' consists of '''Points #2''' - EMEA ''#4'', Americas ''#4'', Pacific ''#4'' & China ''#4''.
+* One team from each Pool will be seeded to each group.
+* No Regional Match-ups are allowed.
+</div></div>
+
+*'''Playoffs:'''
+** 8 team Double-Elimination bracket
+** All matches ''(excl. Lower Bracket Final and Grand Final)'' are {{Abbr/Bo3}}
+** Lower Bracket Final and Grand Final are {{Abbr/Bo5}}
+
+===Prize Pool===
+{{TeamPrizePool
+|{{Slot|usdprize=1,000,000}}
+|{{Slot|usdprize=400,000}}
+|{{Slot|usdprize=250,000}}
+|{{Slot|usdprize=130,000}}
+|{{Slot|usdprize=85,000|count=2}}
+|{{Slot|usdprize=50,000|count=2}}
+|{{Slot|usdprize=30,000|count=4}}
+|{{Slot|usdprize=20,000|count=4}}
+|adjacentContent=
+	{{AwardPrizePool|noprize=y
+		|{{Slot|award=MVP|{{SoloOpponent||team=}}}}
+	}}
+}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/Champions|sdate=2025-09-18|button2Text=Hide schedule|matchpage=true}}{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipants
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Americas League/Stage 2|text=Americas Stage 2|placement=1}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/China League/Stage 2|text=China Stage 2|placement=1}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/EMEA League/Stage 2|text=EMEA Stage 2|placement=1}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Pacific League/Stage 2|text=Pacific Stage 2|placement=1}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Americas League/Stage 2|text=Americas Stage 2|placement=2}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/China League/Stage 2|text=China Stage 2|placement=2}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/EMEA League/Stage 2|text=EMEA Stage 2|placement=2}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Pacific League/Stage 2|text=Pacific Stage 2|placement=2}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/Americas|text=Americas Points|placement=3}}
+}}
+|{{Opponent|EDward Gaming|import=false|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/China|text=China Points|placement=}}
+    |notes={{Notes|{{Notes|Depending on the results of [[VCT/2026/China League/Stage 2|VCT China Stage 2]], '''EDward Gaming''' will be 3rd or 4th seed.}}}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/EMEA|text=EMEA Points|placement=3}}
+}}
+|{{Opponent|Paper Rex|import=false|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/Pacific|text=Pacific Points|placement=}}
+    |notes={{Notes|{{Notes|'''Paper Rex''' can improve their seeding by coming in top 2 in [[VCT/2026/Pacific League/Stage 2|VCT Pacific Stage 2]].}}}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/Americas|text=Americas Points|placement=4}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/China|text=China Points|placement=4}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/EMEA|text=EMEA Points|placement=4}}
+}}
+|{{Opponent|tbd|import=true|qualification={{Qualification|method=qual|page=VCT/2026/Championship_Points/Pacific|text=Pacific Points|placement=4}}
+}}
+}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{Toggle group start|state=show}}
+{{box|start|padding=2em|max-width=1000px}}
+===={{HiddenSort|Group A}}====
+<section begin="Group A"/>
+{{GroupTableLeague|title=Group A|width=400px
+|tiebreaker1=series
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|tournament=VCT/2026/Champions
+|bg1=|team1=tbd
+|bg2=|team2=tbd
+|bg3=|team3=tbd
+|bg4=|team4=tbd
+}}<section end="Group A"/>
+{{Matchlist|id=CHAMP26GrA|title=Group A Matches|width=400px|gsl=winnersfirst|attached=true|matchsection=Group Stage|collapsed=true
+|M1={{Match}}
+|M2={{Match}}
+|M3={{Match}}
+|M4={{Match}}
+|M5={{Match}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+<section begin="Group B"/>
+{{GroupTableLeague|title=Group B|width=400px
+|tiebreaker1=series
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|tournament=VCT/2026/Champions
+|bg1=|team1=tbd
+|bg2=|team2=tbd
+|bg3=|team3=tbd
+|bg4=|team4=tbd
+}}<section end="Group B"/>
+{{Matchlist|id=CHAMP26GrB|title=Group B Matches|width=400px|gsl=winnersfirst|attached=true|matchsection=Group Stage|collapsed=true
+|M1={{Match}}
+|M2={{Match}}
+|M3={{Match}}
+|M4={{Match}}
+|M5={{Match}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group C}}====
+<section begin="Group C"/>
+{{GroupTableLeague|title=Group C|width=400px
+|tiebreaker1=series
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|tournament=VCT/2026/Champions
+|bg1=|team1=tbd
+|bg2=|team2=tbd
+|bg3=|team3=tbd
+|bg4=|team4=tbd
+}}<section end="Group C"/>
+{{Matchlist|id=CHAMP26GrC|title=Group C Matches|width=400px|gsl=winnersfirst|attached=true|matchsection=Group Stage|collapsed=true
+|M1={{Match}}
+|M2={{Match}}
+|M3={{Match}}
+|M4={{Match}}
+|M5={{Match}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group D}}====
+<section begin="Group D"/>
+{{GroupTableLeague|title=Group D|width=400px
+|tiebreaker1=series
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down
+|tournament=VCT/2026/Champions
+|bg1=|team1=tbd
+|bg2=|team2=tbd
+|bg3=|team3=tbd
+|bg4=|team4=tbd
+}}<section end="Group D"/>
+{{Matchlist|id=CHAMP26GrD|title=Group D Matches|width=400px|gsl=winnersfirst|attached=true|matchsection=Group Stage|collapsed=true
+|M1={{Match}}
+|M2={{Match}}
+|M3={{Match}}
+|M4={{Match}}
+|M5={{Match}}
+}}
+{{box|end|padding=2em}}
+{{Toggle group end}}
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/8U4L2DSL1D|id=CHAMP26PLF|matchsection=Playoffs
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match}}
+|R1M2={{Match}}
+|R1M3={{Match}}
+|R1M4={{Match}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match}}
+|R2M2={{Match}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match}}
+|R1M6={{Match}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match}}
+
+<!-- Grand Final -->
+|R5M1={{Match}}
+}}
+
+==Broadcast==
+===Talent===
+===Streams===
+{{box|start|padding=2em}}
+{{Streams|title=Primary
+|lang1=usuk  |twitch1=valorant
+             |youtube1=@ValorantEsports
+			 |tiktok1=@valorantesports/live
+			 |2tiktok1=@valorant/live
+			 |3tiktok1=@valesportsna/live
+			 |kick1=valorant
+}}
+<!--{{Streams|title=Secondary
+|lang1=ptbr		|twitch1=valorant_br |youtube1=@valorantesportsbr |tiktok1=@valesportsbr/live
+|lang2=esmx		|1twitch2=valorant_la |youtube2=@VALORANTEsportsLA
+|lang3=fr		|twitch3=valorant_fr |youtube3=@VALORANTChallengersFr |stream3=https://x.com/valleague_fr/live
+|lang4=es		|twitch4=valorant_es
+|lang5=tr		|twitch5=valorant_tur |youtube5=@VALORANTtr
+|lang6=cz		|twitch6=hitpointcz |2twitch6=hitpointcz2|3twitch6=hitpointcz3 |youtube6=@hitpointcz |ytmultiple6=true
+|lang7=ua 		|twitch7=valorant_maincast |youtube7=@valorant_maincast
+|lang8=cn		|twitch8=valorantesports_cn |youtube8=@VALORANTEsportsCN |douyu8=4585645 |huya8=660679 |bilibili8=22908869 |stream8=https://vct.qq.com/live.html |2stream8=https://weibo.com/7552587338 |douyin8=62239548500
+|lang9=kr		|youtube9=@ValorantEsportsKR |afreeca9=valorant |chzzk9=4e10683fd32d6fb6d38924cb9bf483a3
+|lang10=jp		|twitch10=valorant_jpn |youtube10=VALORANTjp
+|lang11=ph		|twitch11=valorant_ph |youtube11=@VALORANTEsportsPH |facebook11=valorantesportsPH
+|lang12=th		|twitch12=valorant_th |youtube12=@VALORANTEsportsTH |facebook12=valorantesportsTH |soop12=valorantth |tiktok12=@valorantth/live
+|lang13=id		|twitch13=valorant_id |youtube13=VALORANTEsportsIndonesia |soop13=valorantid |tiktok13=@valorantesportsid/live
+|lang14=vn		|youtube14=⁨@VALORANTChampionsTourVietnam |stream14=https://play.onlive.vn/valorant |tiktok14=@valorantesportsvn/live
+|lang15=tw		|twitch15=valorant_tw |youtube15=@VALORANTEsportsTW |soop15=valoranttw
+}}-->
+{{box|end}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+===Announcements===
+<!--* {{ExternalMediaLink
+|mediatype=announcement
+|date=2025-08-??
+|link=https://valorantesports.com/news/everything-you-need-to-know-champions-paris
+|title=Everything You Need to Know: Champions Paris
+|by=VALORANT Esports
+|of=Riot Games
+|language=usuk
+}}-->
+
+==References==
+{{Reflist}}

@@ -1,0 +1,116 @@
+{{Liquipedia links/FULL SENSE}}
+{{Tabs static
+|name1={{team|Full Sense}}
+|name2={{team|Full Sense Sapphire}}
+|name3={{team|Full Sense Pink}}
+|This=1
+}}
+{{Team Tabs_Bootcamp}}
+{{Infobox team
+|name=FULL SENSE
+|image=FULL SENSE 2025 full lightmode.png
+|imagedark=FULL SENSE 2025 full darkmode.png
+|location=Thailand
+|region=ap
+|coaches={{Flag|us}} [[FrosT]] <br> {{Flag|th}} [[THEE]]<br> {{Flag|th}} [[sushiboys]]
+|igl={{Flag|th}} [[Crws]]
+|website=https://www.fullsense.gg
+|vlr=4050
+|discord=vRh6QwhnaA
+|facebook=fullsenseesports
+|instagram=fullsenseesports 
+|instagram2=fullsenseesportsv2
+|tiktok=fullsense_esports
+|twitter=fullsense_gg
+|twitch=team/fullsense
+|youtube=channel/UC7lxN7aiZz-Ri7XR3B0h6nQ
+|created1=Org: 2020-09-14
+|created2=VALORANT: 2021-02-12
+}}
+
+'''FULL SENSE''' is a [[:category:Thailand|Thai]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-01-22|displaydate=January 22th|text='''FULL SENSE''' release [[Apinya]] due to inappropriate behaviour. <ref name="Apinya released 2024">{{cite web|url=https://twitter.com/fullsense_gg/status/1749425729409102125|title=แถลงการณ์จากบริษัท FULL SENSE ESPORT มกราคม 2567
+|trans_title=Statement From FULL SENSE ESPORT Company January 2024|language={{Flag|th}} Thai|date=2024-01-22|author='''FULL SENSE'''}}</ref>}}
+|{{SquadAutoRow|date=2025-12-08|displaydate=December 8th|text='''FULL SENSE''' becomes a '''"VCT Partner Team"''' taking the spot left by [[TALON]]. In addition they also acquire the roster from the organization. <ref name="FS VCT">{{cite web|url=https://valorantesports.com/en-SG/news/riot-games-welcomes-full-sense-to-vct-pacific-for-2026|title=Riot Games Welcomes Full Sense to VCT Pacific for 2026|publisher=VALORANT Esports|language={{Flag|usuk}} English|date=2025-12-08}}</ref><ref name="FS VCT2">{{cite web|url=https://x.com/fullsense_gg/status/1997958076176159154|title=Introducing our Full Sense roster for VCT Pacific 2026|author='''FULL SENSE'''|language={{Flag|usuk}} English|date=2025-12-08}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=Crws|captain=true|joindate=2026-04-03}}
+}}
+
+===Inactive===
+{{InactiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=Flukyy|name=Phakphon Sukhonchasiri|joindate=2022-12-30 |leavedate=2023-08-04}}
+|{{SquadAutoRow|id=Jdaii |name=Jiramet Ratwisarnworakun |joindate=2021-02-12 |leavedate=2021-04-05}}
+}}
+
+===Stand-in===
+{{stand-ins table|
+{{stand-in|id=Blackmambruh|flag=th|name=|team=|for=Leviathan|forlink=Leviathan_(Thai_player)|forflag=th|forname=Thanyathon Nakmee|tournament=[[File:Predator League Thailand 2025 allmode.png|24px|link=Predator_League/2025/Thailand]] [[Predator_League/2025/Thailand|Predator League Thailand 2025]]
+}}
+{{stand-in|id=Kadoom|flag=th|name=Kantapon Kingthong|team=|for=Leviathan|forlink=Leviathan_(Thai_player)|forflag=th|forname=Thanyathon Nakmee|tournament=[[File:SOOP VALORANT League icon darkmode.png|24px|link=SOOP/VALORANT_LEAGUE/2025]] [[SOOP/VALORANT_LEAGUE/2025|SOOP VALORANT LEAGUE 2025]] 
+}}}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Jijung |flag=th |name=Intouchaya Chinpinkyo|role=Owner/CEO|joindate=}}
+|{{SquadAutoRow|id=Pannys |flag=th |name=Pasavit Svasti-Xuto |role=General Manager|joindate=2021-01-01}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=dojayut |name=Yutthapong Prabyai |joindate=2022-12-29|leavedate=2023-03-27}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Trivia==
+* '''FULL SENSE's''' official fandom name is '''"Fence"'''. <ref> {{cite web|url=https://www.facebook.com/photo/?fbid=850899257038800&set=a.505303844931678|title=สิ้นสุดการรอคอย!! Full Sense มีชื่อแฟนด้อมแล้วนะ พวกเราทีม Full Sense ขอประกาศว่า “Fence” คือชื่อแฟนด้อมอย่างเป็นทางการของพวกเรา|trans_title=The Wait is over Full Sense have a Fandom Name Full Sense Would like to announce that “Fence” is our Official Fandom Name|date=2022-11-30|author='''FULL SENSE'''|language={{Flag|th}} Thai}}
+</ref>
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="250px">
+FULL SENSE at Masters London 2026.jpg|FULL SENSE at the [[VCT/2026/Stage_2/Masters|VCT 2026: Masters London]]<br><small>From left to right:</small><br>[[Primmie]] ∙ [[killua]] ∙ [[Crws]] ∙ [[Leviathan (Thai player) | Leviathan]] ∙ [[JitboyS]]
+FULL SENSE at Champions Berlin 2021.jpg|FULL SENSE at the [[VALORANT_Champions_Tour/2021/Champions|Champions 2021]]<br><small>From left to right:</small><br>[[PTC]] ∙ [[ChAlalala]] ∙ [[SuperBusS]] ∙ [[JohnOlsen]] ∙ [[LAMMYSNAX]]
+</gallery>
+
+===Team Capsules===
+<gallery mode="packed-hover" heights="350px">
+VCT_2026_FULL_SENSE_Capsule.png|FULL SENSE 2026 Team Capsule
+</gallery>
+
+===Logos===
+{{Gallery|height=200
+	|{{Json|FULL SENSE lightmode full.png|darkmode=FULL SENSE darkmode full.png|caption=Original logo<br><small>(prior to October 21<sup>st</sup>, 2023)</small>}}
+	|{{Json|FULL SENSE 2023 full lightmode.png|darkmode=FULL SENSE 2023 full darkmode.png|caption=Second logo<br><small>(prior to July 1<sup>st</sup>, 2025)</small>}}
+	|{{Json|FULL SENSE 2025 full darkmode.png|darkmode=FULL SENSE 2025 full darkmode.png|caption=Current logo}}
+}}
+
+==Documentaries==
+{{box|start|padding=2em|max-width=1400px}}
+{{#ev:youtube|eeXWBjAkKVo|400}}
+{{#ev:youtube|Djt2r1BebO4|400}}
+{{box|end}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

@@ -1,0 +1,89 @@
+{{Liquipedia links/Giants Gaming}}
+{{Tabs static
+|name1={{team|Giants}}
+|name2={{team|Giants G4E}}
+|This=1
+}}
+{{Team Tabs/History}}
+{{Infobox team
+|name=Giants
+|image=Giants Gaming 2021 full lightmode.png
+|imagedark=Giants Gaming 2021 full darkmode.png
+|location=Spain
+|region=eu
+|founders={{Flag|es}} José Ramón Díaz<br>{{Flag|es}} Germán Domínguez
+|twitter=giantsgaming
+|facebook=GiantsGaming
+|instagram=giantsgaming
+|youtube=GiantsGamingTV
+|twitch=giants
+|website=https://www.giants.pro/
+|created1=Org: 2008-??-??
+|created2=VALORANT: 2020-06-26
+|disbanded=2023-12-14
+}}
+'''Giants''' was a [[:Category:Spain|Spanish]] esports organization with teams in [[:counterstrike:Giants Gaming|Counter-Strike: Global Offensive]], [[:leagueoflegends:Giants Gaming|League of Legends]], [[:rainbowsix:Giants Gaming|Rainbow Six]], [[:rocketleague:Giants Gaming|Rocket League]] and VALORANT.
+
+On December 14<sup>th</sup>, 2023, Giants merged with [[Excel Esports]], creating [[GIANTX]].
+
+==History==
+Giants first entered ''VALORANT'' on June 2020, and has since become one of the most successful Spanish orgs in the game, reaching top finishes in both local and European tournaments. 
+{{See also|Giants/History|l1=History of Giants}}
+
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2022-09-21|displaydate=September 21st|text='''Giants''' is announced as a "'''VCT Partner Team'''", joining the EMEA International League on a four-year contract. <ref name="2023 Partner Teams">{{cite web|url=https://valorantesports.com/vct-teams|title=2023 VALORANT TEAMS REVEAL|date=2022-09-21|author='''[[Riot Games]]'''}}</ref>}}
+|{{SquadAutoRow|date=2023-12-14|displaydate=December 14th|text=Giants merges with [[Excel Esports]] creating [[GIANTX]], {{player|nukkye}}, {{player|Redgar}}, {{player|Fit1nho}}, {{player|hoody}} and {{player|Cloud}} transfer to [[GIANTX]]. <ref>{{cite web |url=https://twitter.com/GIANTXENG/status/1735329376940507492 |title=Together we stand as GIANTX |date=2023-12-14 |author=[[GIANTX]] |publisher=Twitter |language={{Flag|usuk}} English}}</ref><ref>{{cite web |url=https://twitter.com/GIANTXENG/status/1735339581304701146 |title=Introducing our first GIANTX VCT team |date=2023-12-14 |author=[[GIANTX]] |publisher=Twitter |language={{Flag|usuk}} English}}</ref>}}
+}}
+
+==Player Roster==
+===Former===
+{{FormerSquadAuto|title=Former Players}}
+
+===Stand-In===
+{{stand-ins table|
+{{stand-in|id=Quick|flag=es|name=Fabian Pereira Gomez|for=russz|forflag=tr|forname=Batuhan Malgaç|tournament={{LeagueIconSmall/valorant regional leagues}} [[VRL/2022/Spain/Stage 2|VRL 2022 Spain: Rising Stage 2]] <ref>{{cite web|url=https://twitter.com/GiantsGaming/status/1542877191196889088|date=2022-07-01|title=Russz no viajará a Barcelona con el equipo. Quick sustituirá al turco en las finales.|trans_title=Russz will not travel to Barcelona with the team. Quick will replace the Turk in the finals.|author=Giants|language={{Flag|es}} Spanish}}</ref>}}
+{{stand-in|id=iDex|flag=be|name=Sammy Van de Weghe|team=|tournament={{LeagueIconSmall/lvl clash/2}} [[LVL_Clash/2|LVL Clash 2]]}}
+}}
+
+==Organization==
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=JOSE|flag=es|name=José Ramón Díaz|role=Founder & Owner|joindate=|leavedate=2023-12-14|newteam=GIANTX}}
+|{{SquadAutoRow|id=LinaCherry|flag=ru|name=Angelina Meshcheriakova|role=Team Manager|joindate=2021-01-16|leavedate=2021-12-31}}
+|{{SquadAutoRow|id=Leviathan|flag=es|name=Sandra Cabeza|role=Streamer|joindate=2021-01-21|leavedate=2021-09-27}}
+|{{SquadAutoRow|id=rpstvs|flag=pt|name=Rui Esteves|role=Analyst|joindate=2020-10-15|leavedate=2020-12-08}}
+|{{SquadAutoRow|id=|flag=es|name=Germán Domínguez|role=Co-Founder & General Manager|joindate=|leavedate=2023-12-14|newteam=GIANTX}}
+|{{SquadAutoRow|id=LozaRk|flag=es|name=David Alonso Vicente|role=Esports Director|joindate=|leavedate=2023-12-14|newteam=GIANTX}}
+|{{SquadAutoRow|id=Noelia|name=Noelia Lopez|joindate=2022-11-08|leavedate=2023-12-14|newteam=GIANTX}}
+|{{SquadAutoRow|id=|flag=es|name=Luis García|joindate=2022-11-09|leavedate=2023-12-14|newteam=GIANTX}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Giants}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Giants}}
+}}
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="200px">
+Giants at the VALORANT Champions 2023.jpg|Giants at [[VCT/2023/Champions|VALORANT Champions 2023]]<br><small>From left to right:</small><br> [[nukkye]] ∙ [[rhyme]] ∙ [[Fit1nho]] ∙ [[hoody]] <br><small> From bottom left to right:</small><br>[[Cloud]] ∙ [[pipsoN]] ∙ [[Milan]]
+Giants at the VCT 2023 LOCKIN São Paulo.jpg|Giants at the [[VCT/2023/LOCK_IN_São_Paulo|VCT 2023: LOCK//IN São Paulo]]<br><small>From left to right:</small><br>[[Fit1nho]] ∙ [[nukkye]] ∙ [[rhyme]] ∙ [[Cloud]] ∙ [[hoody]]
+</gallery>
+
+===Logos===
+{{TeamLogoGallery}}
+
+==Documentaries==
+{{box|start|padding=2em|max-width=1400px}}
+{{#ev:youtube|ls7u_7CgCqI|400}}
+{{box|end}}
+
+==References==
+{{Reflist|2}}
+<br>
+{{Team roster}}

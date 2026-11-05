@@ -1,0 +1,67 @@
+{{Liquipedia links/Rare Atom}}
+{{Team Tabs}}
+{{Infobox team
+|name=Rare Atom
+|image=Rare Atom full allmode.png
+|location=China
+|region=China
+|city=Shanghai
+|manager=
+|coach={{Flag|cn}} [[mikiya]]
+|igl= {{Flag|cn}} [[Midnight]]
+|website=
+|facebook=
+|twitter=rare_atom
+|weibo=7821124038
+|weibo2=3923830023
+|vlr=11985
+|douyin_page=LvBDavB7R1Y
+|instagram=
+|created={{Org}} 2021-01-03<br>{{VALORANT}} 2023-??-??
+|disbanded=
+}}
+
+'''Rare Atom''' is a [[:Category:China|Chinese]] professional esports organization with teams in [[:leagueoflegends:Rare Atom|League of Legends]], [[:counterstrike:Rare Atom|Counter Strike]] and ''VALORANT''.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=Satoshi|captain=true|joindate=2024-10-13}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=MihLog|name=Minh Long|joindate=2024-06-01|leavedate=2024-07-01}}
+|{{SquadAutoRow|id=Edge1337|name=Yang Yulin|joindate=2023-04-04|leavedate=2023-07-20}}
+|{{SquadAutoRow|id=sn0wFlake|name=Pang Xuyang|joindate=2023-05-04}}
+|{{SquadAutoRow|id=Yue1uo|name=Yi Zhiwei|joindate=2023-03-20}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=DiNo|name=Li Linlin|joindate=2026-03-15}}
+|{{SquadAutoRow|id=Punch1|name=Wang Yiquan|joindate=2026-03-15}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=Arty|name=Yang Zhe|joindate=2023-02-01}}
+|{{SquadAutoRow|id=DiNo|name=Li Linlin|joindate=2024-09-23}}
+|{{SquadAutoRow|id=Punch1|name=Wang Yiquan|joindate=2024-10-15}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements |content1={{Team achievements table|team=Rare Atom}}
+|name2=Recent Matches |content2={{Team recent matches table|team=Rare Atom}}
+}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

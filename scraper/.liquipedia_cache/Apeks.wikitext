@@ -1,0 +1,136 @@
+{{Liquipedia links/Apeks}}
+{{Tabs static
+|name1=Overview
+|link1=Apeks
+|name2=Results
+|link2=Apeks/Results
+|name3=Matches
+|link3=Apeks/Matches
+|name4=Bootcamps
+|link4=Apeks/Bootcamps
+}}
+{{Infobox team
+|name=Apeks
+|image=Apeks 2021 full darkmode.png
+|location=Norway
+|location2=
+|region=eu
+|manager=
+|igl=
+|coach=
+|website=https://www.apeks.gg
+|instagram=apeksgg
+|twitter=apeksgg
+|twitter2=apeksvalorant
+|facebook=apeksgg
+|tiktok=@apeksgg.official
+|youtube=@apeksvalorant
+|discord=gywecxAb63
+|twitch=team/apeksgg
+|created1=Org: 2013-??-??
+|created2=VALORANT: 2023-01-10
+|disbanded=2025-10-14
+}}
+
+'''Apeks''' is a professional esports organization founded in [[:category:Norway|Norway]] in 2017. Originally known as '''Kingpin Esports''', the team was acquired by '''ProUnite AS''' and renamed Apeks.
+
+Apeks is known for building competitive [[VCT/2023#Semi-pro_system|Challengers]] rosters and competing in Challengers Northern Europe: [[Polaris]]. Making a name for themselves by signing strong ex-VCT talent with the goal of ascending to the International League to compete at the top echelon of VCT.
+
+{{See also|#Biography|l1=Apeks: Biography}}
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2023-01-10|displaydate=January 10th|text='''Apeks''' announce their entry into ''VALORANT'', signing {{Player|Enzo}}, {{Player|Keiko}}, {{Player|Magnum}}, {{Player|Mistic}} and {{Player|ShadoW}}. {{Player|otom}} joins the team as a aubstitute. {{Player|Itopata}} joins as a head coach from [[TSM]] while {{Player|DANNYTO}} and {{Player|Forrest}}  join as an assistant coach and strategic coach, respectively. <ref name="Apeks 2023">{{cite web|url=https://twitter.com/ApeksValorant/status/1612751126616481796|title=Please welcome our Challengers Polaris roster for the 2023 season|date=2023-01-10|author='''Apeks'''}}</ref><ref name="Otom joins">{{inside source|source=Otom|date=2023-04-12}}</ref>}}
+|{{SquadAutoRow|date=2023-12-08|displaydate=December 8th|text='''Apeks''' announce their roster for 2024, bringing in {{Player|hype}}, {{Player|MOLSI}}, {{Player|soulcas}}, {{Player|AvovA}} and {{Player|kaajak}}. {{Player|DANNYTO}} was promoted to a head coach, while {{Player|Desmo}} returns as an assistant coach. {{Player|Leonieahh}} joins as a team manager and {{Player|chachi}} joins as a content manager. <ref name="Apeks 2024">{{cite web|url=https://apeks.gg/2023/12/08/2094/a-new-chapter/|title=A New Chapter|date=2023-12-08|author='''Apeks'''}}</ref>}}
+|{{SquadAutoRow|date=2024-06-07|displaydate=June 7th|text={{Player|soulcas}} becomes a Two-Way player for [[Team Liquid]] while remaining on the '''Apeks''' roster. <ref name="TL Soulcas">{{cite web|url=https://x.com/LiquidValorant/status/1799063769387356177|title=We're happy to announce our affiliation with @apeksgg as of today!|date=2024-06-07|author=[[Team Liquid]]}}</ref><ref name="Apeks x TL">{{cite web|url=https://x.com/ApeksValorant/status/1799063764886515933|title=We are excited to announce our new affiliation with @LiquidValorant|date=2024-06-07|author='''Apeks'''}}</ref>}}
+|{{SquadAutoRow|date=2024-09-15|displaydate=September 15th|text='''Apeks''' win [[VCL/2024/Ascension/EMEA|VCT Ascension EMEA 2024]] which promotes them to the '''VCT EMEA League''' for 2025. <ref name="Ascension 2024">{{cite web|url=https://x.com/valleague_emea/status/1835420267826315295|title=APEKS ARE YOUR VCT ASCENSION EMEA 2024 CHAMPIONS!|date=2024-09-15|author=[[VALORANT Challengers EMEA]]}}</ref>}}
+}}
+
+==Player Roster==
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|flag=fr|id=Enzo|name=Enzo Mestari|captain=true|joindate=2023-01-10|leavedate=2023-11-02}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|flag=no|id=aNdz|name=Anders Kjær|link=counterstrike:aNdz|role=Founder & Co-Owner, COO|joindate=2017-??-??}}
+|{{SquadAutoRow|flag=no|id=Denise|name=Denise Anfinnsen|role=Founder & Co-Owner|joindate=2019-??-??}}
+|{{SquadAutoRow|flag=no|id=Olera66|name=Ole Anfinnsen|role=Founder & Co-Owner|joindate=2019-??-??}}
+|{{SquadAutoRow|flag=no|id=Zpikey|name=Einar Grannes|role=Business Development|joindate=2022-07-01}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|flag=sk|id=Leonieahh|name=Sabína Jankovič|joindate=2023-12-08}}
+|{{SquadAutoRow|flag=nl|id=Gulden|name=Frederik van Guldener|joindate=2023-02-02}}
+|{{SquadAutoRow|flag=nl|id=chachi|name=Chimène van Eenbergen|joindate=2023-12-08|leavedate=2024-05-31}}
+|{{SquadAutoRow|id=Phatlegs|name=Peter Valderhaug|joindate=2023-05-12}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table|team=Apeks}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Apeks}}
+|This=1
+}}
+
+==Trivia==
+*First Affiliate team (partner with [[Team Liquid]]) to win a Challengers Split and Ascension event.
+*'''[[Apeks]]''' has won every Split of VALORANT Challengers Northern Europe they have competed in: [[VCL/2023/Northern_Europe/Split_1|VCL 2023 Northern Europe: Split 1]], [[VCL/2023/Northern_Europe/Split_2|VCL 2023 Northern Europe: Split 2]], [[VCL/2024/Northern_Europe/Split_1|VCL 2024 Northern Europe: Split 1]] and [[VCL/2024/North/Split_2|VCL 2024 North: Split 2]].
+
+==Data==
+{{TeamData}}
+
+==Gallery==
+===Rosters===
+<gallery mode="packed-hover" heights="250px">
+Apeks team roster VCT 2025 EMEA Kickoff.jpg|Apeks' Jan. 2025 roster<br><small>From left to right:</small><br> [[oderus]] ∙ [[florescent]] ∙ [[MOLSI]] ∙ [[batujnax]] ∙ [[DANNYTO]] ∙ [[hype]] ∙ [[AvovA]]
+Apeks Jan 2024 player lineup.png|Apeks' 2024 roster<br><small>From left to right:</small><br> [[AvovA]] ∙ [[soulcas]] ∙ [[kaajak]] ∙ [[MOLSI]] ∙ [[hype]]
+Apeks Jan 2023 player lineup.png|Apeks' 2023 roster<br><small>From left to right:</small><br> [[Keiko]] ∙ [[Magnum]] ∙ [[Enzo]] ∙ [[ShadoW]] ∙ [[Mistic]]
+</gallery>
+
+===Team Capsules===
+<gallery mode="packed-hover" heights="350px">
+VCT 2025 Apeks Capsule.jpg|Apeks 2025 Team Capsule
+</gallery>
+
+==Media==
+{{TeamMedia}}
+
+==Organized Tournaments==
+{{Organized Tournaments}}
+
+==Biography==
+===Entering VALORANT With a Splash (2023)===
+On January 10<sup>th</sup>, 2023, Apeks entered ''VALORANT'' by joining the Northern European Challengers League ''[[VCL/2023/Northern_Europe/Split_1|Polaris]]'', with the aim of promoting to the VCT Partnership League. The team first signed former [[TSM]] Analyst Dimitar "[[Itopata]]" Staev as Head Coach, who along with Martin "[[Magnum]]" Peňkov, formed the core that the Apeks roster would be built around. Joining Magnum would be Georgio "[[Keiko]]" Sanassy, James "[[Mistic]]" Orfila, Tobias "[[ShadoW]]" Flodström, and their {{Abbr|IGL|In-Game-Leader}} Enzo "[[Enzo]]" Mestari. <ref name="ON THE EDGE Documentary">{{cite web|url=https://www.youtube.com/watch?v=4zZNViMcoko|title=APEKS VALORANT // ON THE EDGE - FULL DOCUMENTARY|date=2023-10-30|author='''Apeks'''}}</ref> 
+
+Apeks entered Challengers Northern Europe with a bounty on their head, with many seeing them as the team to beat for anyone looking to make it to ''[[VCL/2023/Ascension/EMEA|Ascension 2023]]'' and earn promotion to the International League. <ref name="Polaris Tierlist">{{cite web|url=https://youtu.be/BkKEBGoF_sw?si=Sy4-6AHwXx5Xjodz&t=1677|title=VCL POLARIS POWER RANKINGS|date=2023-01-13|author=[[HazzaJC]]}}</ref> Their performance lived up to these expectations, with Apeks only dropping one series across both Splits, losing a close 0-2 series to [[Les Petits Bouffons]]. With this, Apeks secured a first place finish in Polaris 2023, qualfiying them for ''Ascension 2023''.
+
+''Ascension 2023'' was the year-long goal for Apeks, and they finally had an opportunity to prove themselves and get promoted to the top league in EMEA. To boster their coaching staff ahead of the last tournament of the year, they added Casper "[[Desmo]]" Rasmussen as an Assistant Coach.
+
+Apeks started their Ascension run with a flawless Group Stage against strong opponents in [[Case Esports]], [[FOKUS]], [[Gentle Mates]] and [[Team Falcons]], securing themselves the top seed. Going into the Playoffs, the team had won 16 games in a row and were looking to continue that streak. Their first opponent was [[SAW]], who they decisively beat 2-0. In the Upper Final, they met [[Acend]]. Acend gained the early advantage by taking map one, but Apeks bounced back, winning the series 2-1 and advancing to the Grand Final. 
+
+Their opponents in Grand Finals would be Gentle Mates, who had defeated Acend in the Lower Bracket in an upset. Apeks entered the {{Abbr/Bo5}} Grand Finals with the Upper Bracket advantage; two map bans and the first map pick. Apeks began the series on their best map, [[Haven]]. Despite this advantage, Apeks lost Map 1 to Gentle Mates 13-6, beginning the series 0-1 down. Apeks entered map 2, [[Ascent]], but again struggled to find their form against Gentle Mates, losing the map 10-13. Map 3 was [[Pearl]], which Apeks lost 10-13, ending the series in a devastating 0-3. Apeks ended their year with a match record of 24 wins and 2 losses.
+
+Following their loss in Ascension, Apeks announced that they were releasing their roster, looking to rebuild for 2024. The International League hopes of the roster were not in vain however, with the core of Enzo, Keiko and Mistic joining [[Team Liquid]] for 2024. Former Head Coach Itopata also found success, joining [[Leviatán]] as their Assistant Coach. Following in their footsteps, Magnum was announced to be joining [[Karmine Corp]], while ShadoW would go on to join [[KOI]], marking the fifth and final member to make their individual ascension to the International League.
+
+===A Second Chance (2024)===
+Looking towards 2024, Apeks once again began scouting ex-VCT talent to build an Ascension-level team around, setting their eyes on a core of three players who had competed in the International League in 2023: former [[Team Heretics|Heretics]] player Auni "[[AvovA]]" Chahade, [[Team Vitality|Vitality]] player Michał "[[MOLSI]]" Łącki and [[Team Liquid]] player Dom "[[soulcas]]" Sulcas. Joining this veteran core would be Tautvydas "[[hype]]" Paldavicius, who had a storied history competing in Challengers, and Kajetan "[[kaajak]]" Haremski, a rookie making the jump from the [[VALORANT East: United|Regional Circuit]]. Continuing from 2023, Apeks promoted [[DANNYTO]] from Assistant Coach to Head Coach, while [[Desmo]] returned as a full-time Assistant Coach for 2024. <ref name="Apeks 2024"/>
+
+Apeks entered Split 1 of [[VCL/2024/Northern_Europe/Split_1|Challengers Northern Europe]] with high expecations, being one of only three organisations in the region, and the only one with ex-VCT talent, the pressure was on to perform, and perform they did, finishing the [[VCL/2024/Northern_Europe/Split_1/Regular_Season|regular season]] flawlessly, 7 series to 0, and not dropping a map while doing so, averaging only 5 rounds lost per map. The team easily secured themselves first seed for Playoffs, opening their bracket with a rematch against [[Metizport]], who Apeks had faced in the final week of the regular season. The result in Playoffs was the same, another swift 2-0 advanced Apeks to the semi-finals where they faced [[OnlyFins]]. OnlyFins were the only team to take Apeks to overtime in Split 1, but Apeks once again set the tone for the match, dropping only 8 rounds across the 2-0 series. The Grand Finals saw the rookie roster of [[SweetNSour]] challenging the seasoned veterans of Apeks however, Apeks showed no signs of letting up, closing the series before it could even begin, winning the series and claiming the Split 1 victory with a confident 3-0 victory. 
+
+Split 1 of 2024 saw Apeks become the first team in ''VALORANT'' Challengers history to not lose a single map across an entire Split of competition, finishing the season 21 maps won, 0 lost.<ref name="21-0">{{cite web|url=https://twitter.com/valleague_ne/status/1782477139079475561|title=ZERO. MAPS. LOST.|author=[[Polaris|VALORANT Challengers Northern Europe: Polaris]]|date=2024-04-22}}</ref> Split 2 saw Apeks begin to falter, losing their first map of the year to [[Formulation Gaming]], followed shortly after by losing their first series of the year to [[SweetNSour]], suffering an 0-2 loss to the free-agent roster. These losses raised some question marks, however the team regained compusure and proceeded to not drop a single map in their final final series of Split 2, qualifying Apeks directly to ''[[VCL/2024/Ascension/EMEA|Ascension 2024]]'' as the Challengers North representative.
+
+Apeks came into Ascension with high expectations, but following the previous year's tragic [[VCL/2023/Ascension/EMEA#Playoffs|Grand Final ending]], many were not as quick to put the squad alone at the top of their predictions this time around. Many analysts had the likes of [[GoNext Esports]], [[DSYRE]] and [[Joblife]] as favourites to take the Ascension title this time around.<ref name="The ULTIMATE guide to EMEA Ascension 2024">{{cite web|url=https://youtu.be/L_9jwru_cIc|title=The ULTIMATE guide to EMEA Ascension 2024|author=[[Tombizz]]|date=2024-08-27}}</ref> The [[VCL/2024/Ascension/EMEA/Group_Stage|Group Stage]] saw Apeks claim the first seed from Group A with a 3-1 record, only faltering against [[GoNext Esports]] who themselves failed to make playoffs, seeing [[CGN Esports]] enter as the second seed from Group A. Group B was evn more tumultuous, seeing group favourites [[Joblife]] fail to qualify as the rookie roster from Turkey, [[Pcific Esports]] who had come from Premier just three months earlier swept the group with MENA representatives [[The Ultimates]] joinng as the second seed.
+
+Playoffs started strong for Apeks taking flawless victories over [[The Ultimates]] and [[CGN Esports]] to breeze into the Grand Finals in Berlin. Their opponent on the day would be [[Pcific Esports]], the same rookie roster who had swept Group B and had now done the same in the lower bracket of Playoffs to compete for promotion to the VCT EMEA International League. It was a battle of proven experience versus the majority inexperienced Turkish side; however Pcific had the benefit of momentum, coming from a dominant 3-0 victory over [[CGN Esports]] the day before. Pcific started out extremely strong, pushing Apeks to map point in the {{Abbr/Bo5}} series before Apeks hit back on Lotus to equalise the series at 2-2. The final map, [[Ascent]], was going to decide the future for both of these teams, one map to decide who would be ascending to the International League for 2025, and it was Apeks who rose to the challenge, dominating the final map to end the series 13-5, with [[AvovA]] beating out [[Lar0k]] in the final round of the series to secure the victory for Apeks. 
+
+With this victory, Apeks had secured their place in the [[VCT/2025|VCT EMEA International League]] for 2025, with the possibility to extend this stay dependant on their performance.<ref name="VCT 2025 changes">{{cite web|url=https://valorantesports.com/en-GB/news/updates-to-valorants-path-to-pro-challengers-premier-and-ascension-for-the-2025-season|title=Updates to VALORANT’s Path to Pro: Challengers, Premier, and Ascension for the 2025 Season|publisher=Riot Games|date=2024-06-21}}</ref> But before the team could even get their footing for the 2025 VCT Season, Apeks saw their star-duelist [[kaajak]] acquired by [[Fnatic]], a massive blow to Apeks, with many analysts calling kaajak the best duelist in ''Challengers'' across all of EMEA. <ref name="VLR kaajak">{{Cite web|url=https://www.vlr.gg/411328/kaajak-joins-fnatic|title=kaajak joins FNATIC |author=[[CongoBat]]|date=2024-10-31}}</ref><ref name="VLR Apeks">{{cite web|url=https://www.vlr.gg/416833/a-retrospective-on-apeks-journey-through-ascension|title=A retrospective on Apeks' journey through Ascension|author=weivy|date=2024-10-25}}</ref><ref name="FNC Kaajak">{{cite web|url=https://x.com/FNATIC/status/1852034118030143944|title=@kaajakval joins Fnatic Valorant|author=[[Fnatic]]|date=2024-10-31}}</ref> Alongside Kaajak, Fnatic also saw [[soulcas]] acquired by [[KOI]], resulting in the team losing two of their Ascended players before even starting the season.<ref name="Bye bye 2024">{{cite web|url=https://x.com/ApeksValorant/status/1849809649182056595|title=Thank you!|author='''Apeks'''|date=2024-10-25}}</ref><ref name="KOI soulcas">{{cite web|url=https://x.com/MovistarKOI/status/1854561963973464146|title=Estamos listos para asaltar París.|trans_title=We are ready to storm Paris|language={{Flag|es}} Spanish|date=2024-11-07}}</ref>
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

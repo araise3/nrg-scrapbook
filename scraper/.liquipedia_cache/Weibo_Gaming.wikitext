@@ -1,0 +1,66 @@
+{{Liquipedia links/Team Weibo}}
+{{Team Tabs}}
+{{Infobox team
+|name=Weibo Gaming
+|image=Weibo Gaming full lightmode.png
+|imagedark=Weibo Gaming full darkmode.png
+|location=China
+|region=China
+|coaches={{flag|nl}} [[Milan]]<br>{{flag|ie}} [[Senny]]
+|website=https://weibo.com/
+|twitter=Weibogamingwin
+|weibo=7728007291
+|created1=Org: 2018-02-??
+|created2=VALORANT: 2020-06-??
+}}
+
+'''Weibo Gaming''' is a [[:category:China|Chinese]] esports organization owned by Chinese social media platform [https://en.wikipedia.org/wiki/Weibo Weibo].
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=chenze|name=Du Zechen<!--杜泽辰-->|joindate=2026-04-01}}
+|{{SquadAutoRow|id=Panda|name=Liu Jinyuan<!--刘锦源-->|joindate=2026-04-01}}
+}}
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=R1CKLEE|name=Li Xu|joindate=2023-06-29|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=Star1og|name=Jun Chaoliang|joindate=2023-11-01|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=Mike|name=Yeerlan Seerjan|joindate=2023-06-29|leavedate=2023-09-06}}
+|{{SquadAutoRow|id=TACO|name=Wu Jiarui|joindate=2020-09-10|leavedate=2021-03-01}}
+|{{SquadAutoRow|id=AltM|name=Xing Fuling |joindate=2020-10-15|leavedate=2021-03-01}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Axin|name=Wu Yun|joindate=2023-06-29}}
+|{{SquadAutoRow|id=Heffy|name=Wu Jiaming|joindate=2023-09-06}}
+|{{SquadAutoRow|id=Veolante|name=Yu Hancheng<!--喻瀚臣-->|joindate=2026-04-01}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=9YUE|name=Yuan Chenzhe|joindate=2023-06-29|leavedate=2023-08-07}}
+|{{SquadAutoRow|id=Xingyi|name=Li Xingyi|joindate=2021-01-??|leavedate=2021-03-01}}
+|{{SquadAutoRow|id=Sunshine|link=Sunshine (Chinese coach)|name=Huang Jinjie|joindate=2023-09-06}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

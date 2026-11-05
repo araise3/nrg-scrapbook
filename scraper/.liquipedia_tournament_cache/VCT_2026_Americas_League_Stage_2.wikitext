@@ -1,0 +1,599 @@
+{{DISPLAYTITLE:VCT 2026: Americas Stage 2}}
+{{VALORANT Champions Tour Navbox/2026}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/Americas League/Stage 2
+|name2=Group Stage |link2=VCT/2026/Americas League/Stage 2/Group Stage
+|name3=Statistics |link3=VCT/2026/Americas League/Stage 2/Statistics
+|name4=Additional Content |link4=VCT/2026/Americas League/Stage 2/Additional Content
+}} 
+{{Infobox league
+|liquipediatier=S-Tier
+|publishertier=sponsored
+|name=VCT 2026: Americas Stage 2
+|shortname=VCT '26 Americas Stage 2
+|tickername=VCT Americas: Stage 2
+|caption=SAY IT WITH YOUR CHEST
+|image=VCT 2023 Americas League full allmode.png
+|icon=VCT 2023 Americas League allmode.png
+|series=VALORANT Champions Tour
+|abbreviation=VCT
+|organizer=Riot Games
+|organizer-link=https://playvalorant.com/
+|sponsor=[https://www.pulsar.gg/ Pulsar]
+|sponsor2=[https://www.redbull.com/ Red Bull]
+|sponsor3=[https://secretlab.co/ Secretlab]
+|sponsor4=[https://www.samsung.com/ Samsung]
+|sponsor5=[https://www.expressvpn.com/ ExpressVPN]
+|sponsor6=[https://zowie.benq.com ZOWIE]
+|sponsor7=[https://www.verizon.com/5g/ Verizon]
+|prizepoolusd=250,000
+|type=Offline
+|country=United States
+|city=Los Angeles
+|venue=Riot Games Arena |venuedesc=Group Stage + Playoffs
+|country2=Brazil
+|city2=São Paulo
+|venue2=Suhai Music Hall|venue2link=https://suhaimusichall.com.br/en/|venue2desc=Top 4
+|sdate=2026-07-16
+|edate=2026-09-06
+|patch=13.01
+|rulebook=https://cdn.sanity.io/files/dsfx7636/news_live/b825a967a1d2cdc1f6b88c660be9f135e2a07488.pdf
+|web=https://valorantesports.com
+|discord=
+|twitter=valesportsna
+|twitch=valorant_americas
+|instagram=valorantesportsna
+|youtube=@valorant_americas
+|facebook=ValorantEsports
+|kick=valorant_americas
+|team_number=16
+|map1=Ascent
+|map2=Haven
+|map3=Sunset
+|map4=Split
+|map5=Lotus
+|map6=Breeze
+|map7=Summit
+|previous=VCT/2026/Americas League/Stage 1{{!}}Stage 1
+|next=VCT/2027/Americas League/Kickoff{{!}}2027: Kickoff
+|next2=VCT/2026/Champions{{!}}Champions
+}}
+
+==About==
+===Format===
+* '''Group Stage:''' July ''16<sup>th</sup>'' - August ''9<sup>th</sup>'', 2026
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} advance to ''Play-In Upper Bracket Round 2''
+*** {{Bgcolortext|stay|5<sup>th</sup> & 6<sup>th</sup> placed teams}} advance to ''Play-In Upper Bracket Round 1''
+** <span class="mw-customtoggle-Kickoff-Drawshow" style="border-bottom:1px dotted;">''Click here for detailed information about Group Stage Draw''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Kickoff-Drawshow" style="margin-top:10px;" style="margin-left:45px;">
+* 12 Teams are divided into 6 seeds as per their final standings in [[VCT/2026/Americas League/Stage 1|Stage 1 2026]].
+* 2 seeds are grouped into a single pool, 3 pools are formed.
+* A representative draw slip (Slips with #1, #2 etc. written) will be placed into three pools.
+* Each Pool will select a single draw slip.
+* The chosen seed in the slip will swap groups for Stage 2 as follows:
+** '''Pool 1''' consists of top two teams from the Stage 1: 
+*** '''#1 Seeds: {{Team|G2 Esports}} & {{Team|NRG}}
+*** '''#2 Seeds: {{Team|Leviatán}} & {{Team|100 Thieves}}
+** '''Pool 2''' consists of the 3rd & 4th teams the Stage 1: 
+*** '''#3 Seeds: {{Team|MIBR}} & {{Team|KRÜ Esports}}
+*** '''#4 Seeds: {{Team|LOUD}} & {{Team|FURIA}} 
+** '''Pool 3''' consists of the 5th & 6th teams the Stage 1: 
+*** '''#5 Seeds: {{Team|ENVY}} & {{Team|Sentinels}}
+*** '''#6 Seeds: {{Team|Cloud9}} & {{Team|Evil Geniuses}}
+</div></div>
+** <span class="mw-customtoggle-Tiebreaker" style="border-bottom:1px dotted;">''Click here for tiebreaker rules''</span>
+<div class="table-responsive">
+<div class="toccolours mw-collapsible mw-collapsed" id="mw-customcollapsible-Tiebreaker" style="margin-left:45px">
+*'''Tiebreaker rules:'''
+*#Head-to-head Match Score
+*#Head-to-head Map Differential
+*#Head-to-head Round Differential
+*#Map Differential
+*#Round Differential
+* The following "Subgroup Tie-breaker Rule" will be applied for 3+ Team tie-breakers:
+** If any Team(s) can be clearly ranked highest based on the given criterion (e.g., head-to-head match score), all teams will be split into two subgroups: the top Team(s) and the remaining Team(s). The remaining Teams are treated as one group, even if they are no longer tied under that criterion.
+** A new tiebreaker is then applied from the beginning, based on the number of Teams in each subgroup.
+*** '''Example:''' In a 4-way tie, if two Teams can be clearly ranked highest using the given criterion, the four Teams will be split into two 2-Team subgroups. Each subgroup will then follow the 2-way tiebreaker process, starting from (1) Head-to-head Match Score.
+** The next tie-breaker criterion (e.g., (2), (3), etc.) is used only when no subgrouping can be made based on the current step.
+** This process is repeated until all Teams are fully ranked
+</div></div>
+
+* '''Play-Ins:''' August ''13<sup>th</sup>'' - ''23<sup>rd</sup>'', 2026
+** 12-team Double-Elimination bracket
+*** 8 teams from [[VCT/2025/Americas League/Stage 2/Group Stage|Group Stage]]
+*** 4 teams from '''Regional Challengers'''
+** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} advances to ''Upper Bracket Round 1''
+** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} start from ''Lower Bracket Round 1''
+
+* '''Playoffs:''' August ''27<sup>th</sup>'' - September ''6<sup>th</sup>'', 2026
+** Double-Elimination bracket
+** All matches ''(excl. Lower Bracket Final & Grand Final)'' are {{Abbr/Bo3}}
+** Lower Bracket Final & Grand Final are {{Abbr/Bo5}}
+** {{Bgcolortext|up|Top 2 teams}} qualify for '''[[VCT/2026/Champions|Champions]]'''
+
+===Prize Pool===
+{{box|start|padding=2em}}
+{{TeamPrizePool|points=vctame2026
+|qualifies1=VCT/2026/Champions|qualifies1name=Champions
+|{{Slot|usdprize=100,000|qualified1=true|points=}}
+|{{Slot|usdprize=65,000|qualified1=true|points=}}
+|{{Slot|usdprize=40,000|points=}}
+|{{Slot|usdprize=25,000|points=}}
+|{{Slot|usdprize=10,000|count=2
+  |{{Opponent|points=}}
+  |{{Opponent|points=}}
+}}
+|{{Slot|count=2
+  |{{Opponent|points=}}
+  |{{Opponent|points=}}
+}}
+|{{Slot|count=2|points=}}
+|{{Slot|count=2|points=}}
+
+|adjacentContent=
+{{box|start|padding=1em}}
+<!--{{MVPTable|cutafter=4|margin=false
+|title=Match MVPs
+|tournament=VCT/2026/Americas League/Stage 2/Group Stage
+|tournament2=VCT/2026/Americas League/Stage 2
+}}-->
+{{box|end}}
+}}
+{{box|break|padding=2em}}
+{| class="wikitable infobox-icon-small" style="text-align:center; margin:0;"
+! colspan="3"|Base Points Distribution
+|-
+!Place
+!Points
+|-
+|{{Placement|1}}||[[File:VCT Champions logo.png|24px|link=VCT/2026/Champions]]
+|-
+|{{Placement|2}}||[[File:VCT Champions logo.png|24px|link=VCT/2026/Champions]]
+|-
+|{{Placement|3}}||5
+|-
+|{{Placement|4}}||4
+|-
+|'''Group Stage<br>Match Victory'''||1
+|}
+{{box|end}}
+
+===Schedule===
+{{Toggle bracket start|tournament=VCT/2026/Americas_League/Stage_2/Group Stage|sdate=2026-07-16|button1Text=Group Stage|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+{{Toggle bracket start|tournament=VCT/2026/Americas_League/Stage_2#Play-Ins|sdate=2026-08-13|button1Text=Play-Ins|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+{{Toggle bracket start|tournament=VCT/2026/Americas_League/Stage_2#Playoffs|sdate=2026-08-27|button1Text=Playoffs|button2Text=Hide Schedule|sortround=true|matchpage=true}}
+{{Toggle bracket end}}
+
+==Participants==
+{{TeamParticipantsControls|showplayerinfo=true}}
+
+===VCT Teams===
+{{TeamParticipants
+|{{Opponent|100 Thieves|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|d00mbr0s|role=Assistant Coach|type=staff}}
+	|{{Person|Kaimera|role=Analyst|type=staff}}
+  }}
+}}
+
+|{{Opponent|Cloud9|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|OXY}}
+	|{{Person|Zellsis}}
+	|{{Person|Jackk}}
+	|{{Person|FireBallOps}}
+	|{{Person|v1c}}
+    
+	|{{Person|Veer|role=Head Coach|type=staff}}
+	|{{Person|Immi|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|Evil Geniuses|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Bao|link=Bao (Vietnamese player)}}
+	|{{Person|zerona}}
+	|{{Person|dgzin}}
+	|{{Person|Paincakes}}
+	|{{Person|supamen}}
+    
+	|{{Person|potter|link=potter (Christine Chi)|role=Head Coach|type=staff}}
+	|{{Person|Faded|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|FURIA|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+    |{{Person|Kamino|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|KRÜ Esports|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Fadeout|role=Analyst|type=staff}}
+	}}
+}}
+
+|{{Opponent|Leviatán|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Jhein|role=Assistant Coach|type=staff}}
+  }}
+}}
+
+|{{Opponent|LOUD|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|cauanzin|played=false|status=sub}}
+}}
+}}
+|{{Opponent|MIBR|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|Happy|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|NRG|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+	|{{Person|mitch|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|Sentinels|import=true|qualification={{Qualification|method=invite|page=VCT/2026/Partnered_Teams#Americas|text=Partner Team}}
+  |players={{Persons
+  	|{{Person|Marved|played=true|status=sub}}
+	|{{Person|GUNTER|role=Assistant Coach|type=staff}}
+	}}
+}}
+
+|{{Opponent|G2 Esports|import=true|qualification={{Qualification|method=qual|page=VCL/2023/Ascension/Americas|text=Ascension 2023|placement=1}}
+  |players={{Persons
+	|{{Person|shhhack|role=Assistant Coach|type=staff}}
+	}}
+  |notes={{Notes
+	|{{Notes|Slot retained via '''[[Champions 2025]]'''|highlighted=true}}
+  }}
+}}
+
+|{{Opponent|ENVY|import=true|qualification={{Qualification|method=qual|page=VCL/2025/Ascension/Americas|text=Ascension 2025|placement=1}}
+  |players={{Persons
+	|{{Person|Eggsterr|played=false|status=sub}}
+	|{{Person|WKN|role=Assistant Coach|type=staff}}
+  }}
+}}
+}}
+<br>{{Transfer List
+|title=Roster moves since the end of Stage 1
+|page=VCT/2026/Americas_League/Stage 2
+|sdate=2026-05-17
+|edate=2026-08-30
+}}
+
+===Challengers Teams===
+{{TeamParticipants
+|{{Opponent|M80|qualification={{Qualification|method=qual|page=VCL/2026/North_America/Stage_3|text=Challengers N. America: Stage 3|placement=1}}
+  |players={{Persons
+    |{{Person|Kyu}}
+    |{{Person|NiSMO|role=Captain}}
+    |{{Person|Spaz}}
+    |{{Person|Boni}}
+    |{{Person|alvinboy}}
+	
+    |{{Person|kaplan|role=head coach|type=staff}}
+	|{{Person|FIN|role=assistant coach|type=staff}}
+  }}
+}}
+|{{Opponent|Bestia|qualification={{Qualification|method=qual|page=VCL/2026/Latin_America|text=Challengers Latin America|placement=1}}
+  |players={{Persons
+    |{{Person|Tacolilla}}
+    |{{Person|david}}
+    |{{Person|chubi}}
+    |{{Person|Melser|role=Captain}}
+    |{{Person|Loss|flag=br}}
+
+    |{{Person|phonics|role=coach|type=staff}}
+  }}
+}}
+|{{Opponent|Fluxo W7M|qualification={{Qualification|method=qual|page=VCL/2026/Brazil/Stage_2|text=Challengers Brazil: Stage 2|placement=1}}
+  |players={{Persons
+    |{{Person|mazin}}
+    |{{Person|jzz|flag=br}}
+    |{{Person|Palla|flag=br}}
+    |{{Person|tuyz|flag=br}}
+    |{{Person|Zanatsu}}
+	
+	|{{Person|stk|role=Coach}}
+    }}
+      |notes={{Notes
+	|{{Notes|August 7th - [[La Masia (Brazilian team)|La Masia]]'s roster is acquired by [[Fluxo W7M]]. <ref>{{cite web|url=https://x.com/fluxogg/status/2085863672375579045?s=20|title=ELES CHEGARAM PRA FAZER HISTÓRIA|trans_title=THEY'VE ARRIVED TO MAKE HISTORY|publisher='''Fluxo W7M'''|date=2026-08-07|language={{Flag|ptbr}} Portuguese}}</ref>}}
+  }}
+}}
+|{{Opponent|2GAME Esports|qualification={{Qualification|method=qual|page=VCL/2026/Americas/Last_Chance_Qualifier|text=Last Chance Qualifier|placement=1}}
+  |players={{Persons
+	|{{Person|ambitioN}}
+	|{{Person|frz}}
+	|{{Person|Brinks}}
+	|{{Person|gobera}}
+	|{{Person|gaabxx}}
+	|{{Person|xenom|played=false|status=sub}}
+	
+	|{{Person|NegaraL|role=coach|type=staff}}
+  }}
+}}
+}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{box|start|padding=1em}}
+{{LPDB storage|false}}
+{{box|start|padding=1em}}
+{{#section:{{PAGENAME}}/Group Stage|Group Alpha}}
+{{box|break|padding=1em}} 
+{{#section:{{PAGENAME}}/Group Stage|Group Omega}}
+{{box|end|padding=1em}}
+{{LPDB storage|true}}<br>
+: ''For detailed match results of the '''Group Stage''', [[/Group Stage|click here]].''
+{{box|break|padding=1em}}
+{{StageWinnings|cutafter=4
+|tournament=VCT/2026/Americas League/Stage 2/Group Stage
+|title=Group Stage Points
+|points=vctame2026
+|pointsPerWin=1
+|hideWinnings=true
+}}
+{{box|end}}
+
+==={{Stage|Play-Ins}}===
+{{Bracket|Bracket/8L4DS-2Q-U-8L2D-2Q|id=KAjspNlKhD
+
+<!-- Upper Bracket Round 1 -->
+|R1M1={{Match
+|opponent1literal=Omega #6
+|opponent2literal=Challengers Team
+}}
+|R1M2={{Match
+|opponent1literal=Alpha #5
+|opponent2literal=Challengers Team
+}}
+|R1M3={{Match
+|opponent1literal=Alpha #6
+|opponent2literal=Challengers Team
+}}
+|R1M4={{Match
+|opponent1literal=Omega #5
+|opponent2literal=Challengers Team
+}}
+
+<!-- Upper Bracket Round 2 -->
+|R2M1={{Match
+|opponent1literal=Alpha #3
+}}
+|R2M2={{Match
+|opponent1literal=Omega #4
+}}
+|R2M3={{Match
+|opponent1literal=Omega #3
+}}
+|R2M4={{Match
+|opponent1literal=Alpha #4
+}}
+
+<!-- Upper Bracket Round 3 -->
+|R4M1={{Match}}
+|R4M2={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R2M5={{Match}}
+|R2M6={{Match}}
+|R2M7={{Match}}
+|R2M8={{Match}}
+
+<!-- Lower Bracket Round 3 -->
+|R3M1={{Match}}
+|R3M2={{Match}}
+
+<!-- Lower Bracket Round 4 -->
+|R4M3={{Match}}
+|R4M4={{Match}}
+}}
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/4L2DSU4L2DSL1D|id=TYkhEROPC4|matchsection=Playoffs
+
+<!-- Upper Bracket Round 1 -->
+|R1M1header=!ux!1
+|R1M1={{Match
+|opponent1literal=Omega #2
+|opponent2literal=Play-Ins #1-2
+}}
+|R1M2={{Match
+|opponent1literal=Alpha #2
+|opponent2literal=Play-Ins #1-2
+}}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+|opponent1literal=Alpha #1
+}}
+|R2M2={{Match
+|opponent1literal=Omega #1
+}}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match}}
+
+<!-- Lower Bracket Round 1 -->
+|R1M3={{Match
+|opponent2literal=Play-Ins #3-4
+}}
+|R1M4={{Match
+|opponent2literal=Play-Ins #3-4
+}}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match}}
+|R2M4={{Match}}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match}}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match}}
+
+<!-- Grand Final -->
+|R5M1={{Match}}
+}}
+
+==Broadcast==
+===Talent===
+{{Tabs dynamic|name1=English Broadcast|name2=Brazilian Broadcast|name3=Hispanic Broadcast|This=1}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Host|lang=English
+|b1=Goldenboy
+|b2=Soe
+}}
+{{BroadcasterCard
+|position=Interviewer|lang=English
+|b1=Dryad
+|b2=Elisabeth
+}}
+{{BroadcasterCard
+|position=Guest|lang=English
+|b1=alexis
+|b2=meL
+|b3=Sidsity|b3flag=kr
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Commentator & Analyst
+|title='''Commentators & Analysts'''|lang=English
+|b1=aEvilcat
+|b2=athxna
+|b3=Bren
+|b4=Ender
+|b5=mle
+|b6=Rivington
+|b7=Sideshow
+|b8=Uber
+|b9=Vansilli
+|b10=Wyatt
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Observer|lang=English
+|b1=prius
+|b2=sapphiRe
+|b3=Tiie
+|b4=Vflight
+|b5=Yehty
+}}
+{{BroadcasterCard
+|position=Producer|lang=English
+|b1=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Replay Operators|lang=English
+|b1=furtive
+|b2=sarcopels
+}}
+{{BroadcasterCard
+|position=Stats Producer|lang=English
+|b1=
+}}
+{{box|end}}
+{{Tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Host|lang=Portuguese
+|b1=Melão
+|b2=Tonello
+|b3=
+}}
+{{BroadcasterCard
+|position=Brazilian Commentator|lang=Portuguese
+|b1=Vecet
+|b2=xrm
+|b3=Canedo
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Brazilian Analyst|lang=Portuguese
+|b1=napeR
+|b2=Nyang
+|b3=spacca
+|b4=Tayhuhu
+}}
+{{box|end}}
+{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Host |lang=Spanish
+|b1=Gatotowsky
+|b2=Valinaaa
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Desk Host & Analyst|lang=Spanish
+|title='''Spanish Desk Hosts & Analysts'''
+|b1=RkT
+|b2=Dryad
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Commentator|lang=Spanish
+|title='''Spanish Commentators'''
+|b1=KEVHO
+|b2=7Mitssu
+|b3=Cantor
+|b4=AbogadiThais
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Stats Producer|lang=Spanish
+|title='''Spanish Stats Producer'''
+|b1=CakeDeNata
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Spanish Producer|lang=Spanish
+|title='''Spanish Producer'''
+|b1=chipzzz
+|b2=Alexis Juárez
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Streams===
+{{box|start|padding=1em}}
+{{Streams|title=Primary
+|lang1=usuk          |twitch1=valorant_americas
+                     |youtube1=@valorant_americas
+					 |tiktok1=@valesportsna/live
+					 |kick1=valorant_americas
+}}
+{{box|break}}
+{{Streams|title=Secondary
+|lang1=ptbr|twitch1=valorant_br|youtube1=@valorantesportsbr|tiktok1=@valesportsbr/live|kick1=valorant_br
+|lang2=esmx|twitch2=valorant_la|youtube2=@VALORANTEsportsLA|kick2=valorant_la
+}}
+{{box|end}}
+
+==Additional Data==
+===Country Representation===
+{{Country representation}}
+
+==References==
+{{Reflist}}
+<br>
+{{VALORANT Champions Tour Navbox/2026}}

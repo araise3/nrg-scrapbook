@@ -345,7 +345,7 @@ every single one of those 94 is China-region (VCT China Kickoff/Stage 1/
 Stage 2, EWC China Qualifier). Same root cause as the rating gap above:
 VLR's own China broadcast pipeline doesn't publish a duration for these
 maps, so the scraper is faithfully capturing what's actually on the page.
-Downstream parsing (`data_prep/export_from_db.py`'s `parse_duration`)
+Downstream parsing (`scraper/export_from_db.py`'s `parse_duration`)
 already treats anything without a `:` in it as unparseable and returns
 `None`, so these are correctly excluded from any duration-based average or
 leaderboard rather than being counted as 0 seconds. No fix needed here

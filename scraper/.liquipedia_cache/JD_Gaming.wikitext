@@ -1,0 +1,80 @@
+{{Liquipedia links/JD Gaming}}
+{{Team Tabs}}
+{{Infobox team
+|name=JD Gaming
+|image=JD Gaming 2021 full allmode.png
+|location=China
+|region=China
+|city=Beijing
+|coaches={{player|bail|flag=kr}}<br>{{player|Desire|link=Desire (Chinese coach)|flag=cn}}
+|igl={{player|coconut|flag=hk}}
+|manager={{player|Steven|flag=cn}}
+|website=https://www.jd.com/
+|twitter=JDGaming
+|weibo=7852629756
+|bilibili=3494356252101417
+|created={{Org}} 2017-05-20<br>{{VALORANT}} 2023-09-07
+}}
+
+'''JD Gaming''' (also known as '''Jingdong Gaming''') is a [[:Category:China|Chinese]] esports organisation based in Beijing.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-06-07|displaydate=June 7th|text='''JD Gaming''' announced that [[YiHao]] will be temporarily stepping away from the game due to health issues. <ref>{{cite web|url=https://x.com/JDGaming/status/1799005771780473228|title=Announcement|date=2024-06-07|author='''JD Gaming'''}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=coconut|captain=true|joindate=2026-01-07}}
+|{{SquadAutoRow|id=crownfisher|name=Li Ao<!--李翱-->|joindate=2026-06-24}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=Faraway|name=Ji Peiqi<!--(吉沛奇)-->|joindate=2023-09-07|leavedate=2024-01-16}}
+|{{SquadAutoRow|id=Z1Yan|name=Liu Zihan<!--(刘紫涵)-->|joindate=2023-09-07|leavedate=2024-01-16}}
+|{{SquadAutoRow|id=jNwOw|name=Wang jianing<!--(王家宁)-->|joindate=2023-10-05|leavedate=2024-01-16}}
+|{{SquadAutoRow|id=S1mon|name=Xie Mengxun<!--(谢孟勳)-->|joindate=2023-10-05|leavedate=2024-01-16}}
+|{{SquadAutoRow|id=Nearley|name=Cao Bowen<!--(曹博文)-->|joindate=2023-09-07|leavedate=2024-01-16}}
+|{{SquadAutoRow|id=KiNoMvP|name=Ke Boxun<!--(柯伯勳)-->|joindate=2023-09-07|leavedate=2023-10-08}}
+|{{SquadAutoRow|id=Mad98|name=Hong Hechi<!--(洪赫池)-->|joindate=2023-09-07|leavedate=2023-10-08}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=Phong|name=Huang Chunfeng<!--黄春峰-->|joindate=2024-01-16}}
+|{{SquadAutoRow|id=Steven|name=Zhao Fusheng<!--赵浮生-->|joindate=2025-01-03}}
+|{{SquadAutoRow|id=Jin|name=Jin Shizhe<!--金世哲-->|joindate=2025-01-03}}
+|{{SquadAutoRow|id=Wendler|name=Ashton Thomas Wendler|joindate=2025-06-25}}
+|{{SquadAutoRow|id=Desire|link=Desire (Chinese coach)|name=Peng Siji|joindate=2026-01-10}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=Quan|name=Quan Jingmao<!--权靖贸-->|joindate=2024-01-16}}
+|{{SquadAutoRow|id=Jayce|name=Jiang Yudong<!--蒋昱栋-->|joindate=2024-01-16}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements |content1={{Team achievements table|team=JD Gaming}}
+|name2=Recent Matches |content2={{Team recent matches table|team=JD Gaming}}
+}}
+
+==Data==
+{{TeamData}}
+==Gallery==
+===Team Capsules===
+<gallery mode="packed-hover" heights="350px">
+VCT 2026 JD Gaming Capsule.jpg|JD Gaming 2026 Team Capsule
+VCT 2025 JD Gaming Capsule.jpg|JD Gaming 2025 Team Capsule
+VCT 2024 JD Gaming Capsule.jpg|JD Gaming 2024 Team Capsule
+</gallery>
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

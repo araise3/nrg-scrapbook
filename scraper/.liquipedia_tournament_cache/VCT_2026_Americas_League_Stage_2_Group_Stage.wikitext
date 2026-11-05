@@ -1,0 +1,179 @@
+{{DISPLAYTITLE:VCT 2026: Americas Stage 2 - Group Stage}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/Americas League/Stage 2
+|name2=Group Stage |link2=VCT/2026/Americas League/Stage 2/Group Stage
+|name3=Statistics |link3=VCT/2026/Americas League/Stage 2/Statistics
+|name4=Additional Content |link4=VCT/2026/Americas League/Stage 2/Additional Content
+}}
+{{HiddenDataBox
+|name=VCT 2026: Americas Stage 2
+|shortname=VCT '26 Americas Stage 2
+|tickername=VCT Americas Stage 2: GS
+|icon=VCT 2023 Americas League allmode.png
+|type=Offline
+|liquipediatier=S-Tier
+|series=VALORANT Champions Tour
+|patch=
+|epatch=
+|sdate=2026-06-??
+|edate=2026-08-??
+}}
+
+''This page is part of the [[VCT/2026/Americas League/Stage 2|VCT 2026: Americas Stage 2]] article.''
+
+==Format==
+* '''Group Stage:''' July ''16<sup>th</sup>'' - August ''9<sup>th</sup>, 2026''
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 2''
+*** {{Bgcolortext|stay|5<sup>th</sup> & 6<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 1''
+
+==Results==
+====Group Alpha====
+{{box|start|padding=2em}}
+<section begin="Group Alpha" />
+{{GroupTableLeague|title=Group Alpha|width=420px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/Americas League/Stage 2/Group Stage
+|round4bg1=seedup|round3bg1=stayup|team1=NRG
+|round2bg2=stayup|team2=Leviatán
+|round3bg3=stayup|team3=MIBR
+|round3bg4=stay|team4=FURIA
+|round4bg5=stay|team5=ENVY
+|round4bg6=stayup|team6=Evil Geniuses
+|roundtitle=Week|roundwidth=100
+|round1edate=July 23, 2026 - 13:59 {{Abbr/PDT}}
+|round2edate=July 30, 2026 - 13:59 {{Abbr/PDT}}
+|round3edate=August 6, 2026 - 13:59 {{Abbr/PDT}}
+|round4edate=August 9, 2026 - 19:59 {{Abbr/PDT}}
+|edate=August 9, 2026 - 19:59 {{Abbr/PDT}}
+}}
+<section end="Group Alpha"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=NRG
+|team2=Leviatán
+|team3=MIBR
+|team4=FURIA
+|team5=ENVY
+|team6=Evil Geniuses
+}}
+{{box|end}}
+
+====Group Omega====
+{{box|start|padding=2em}}
+<section begin="Group Omega" />
+{{GroupTableLeague|title=Group Omega|width=420px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/Americas League/Stage 2/Group Stage
+|round3bg1=stayup|team1=G2 Esports
+|round3bg2=stayup|round4bg2=up|team2=100 Thieves
+|round3bg3=stay|team3=KRÜ Esports
+|round3bg4=stayup|team4=LOUD
+|round3bg5=stayup|team5=Sentinels
+|round3bg6=stay|team6=Cloud9
+|roundtitle=Week|roundwidth=100
+|round1edate=July 23, 2026 - 13:59 {{Abbr/PDT}}
+|round2edate=July 30, 2026 - 13:59 {{Abbr/PDT}}
+|round3edate=August 6, 2026 - 13:59 {{Abbr/PDT}}
+|round4edate=August 9, 2026 - 19:59 {{Abbr/PDT}}
+|edate=August 9, 2026 - 19:59 {{Abbr/PDT}}
+}}
+<section end="Group Omega"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=G2 Esports
+|team2=100 Thieves
+|team3=KRÜ Esports
+|team4=LOUD
+|team5=Sentinels
+|team6=Cloud9
+}}
+{{box|end}}
+
+===Detailed Results===
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist|id=pbXvFnWVS9|width=350px|title=Week 1|matchsection=Week 1
+|M1header=July 16, 2026
+|M3header=July 17, 2026
+|M5header=July 18, 2026
+
+|M1={{Match}}
+|M2={{Match}}
+|M3={{Match}}
+|M4={{Match}}
+|M5={{Match}}
+|M6={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist|id=cG31SWHxxo|width=350px|title=Week 2|matchsection=Week 2
+|M1header=July 23, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 24, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 25, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=July 26, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist|id=EowSsIZO5j|width=350px|title=Week 3|matchsection=Week 3
+|M1header=July 30, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 31, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=August 1, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=August 2, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist|id=zv6STxKG1v|width=350px|title=Week 4|matchsection=Week 4
+|M1header=August 6, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=August 7, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=August 8, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=August 9, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|end}}
+
+==References==
+{{Reflist}}

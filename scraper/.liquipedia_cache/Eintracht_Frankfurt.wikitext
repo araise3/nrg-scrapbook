@@ -1,0 +1,64 @@
+{{Liquipedia links|leagueoflegends=Eintracht Frankfurt|fifa=Eintracht Frankfurt}}
+{{Team Tabs}}
+{{Infobox team
+|name=Eintracht Frankfurt
+|image=Eintracht frankfurt logo.png
+|city=Frankfurt
+|location=Germany
+|region=eu
+|coaches={{flag|nl}} [[TonY]]<br>{{Flag|de}} [[Sebe]]
+|manager={{Flag|de}} [[Christian Lenz]]
+|igl={{Flag|de}} [[musashi]]
+|website=https://esports.eintracht.de
+|twitter=EintrachtValo
+|instagram=eintrachtfrankfurtesports
+|twitch=eintracht_official
+|discord=k2XVAR5mUM
+|tiktok=eintrachtesports
+|created1=Org: 2018-??-??
+|created2=VALORANT: 2024-01-08
+}}
+
+'''Eintracht Frankfurt Esports''' is the esports division of [[wikipedia:Eintracht_Frankfurt|Eintracht Frankfurt]], a [[:category:Germany|German]] professional sports club based in [[wikipedia:Frankfurt|Frankfurt]].
+
+==History==
+===Timeline===
+{{TimelineSquadAuto
+|{{SquadAutoRow|date=2024-01-08|displaydate=January 8th|text='''Eintracht Frankfurt''' announce their entry into ''VALORANT'' by signing [[Leosen]]. <ref name="Eintracht Frankfurt join">{{cite web|url=https://twitter.com/EintrachtValo/status/1744410342237622633|title=Als erster deutscher Fußballverein werden wir zukünftig in @VALORANTde aktiv sein.|trans_title=We will be the first German football club to be active in @VALORANTde in the future.|language={{Flag|de}} German|date=2024-01-08|author='''Eintracht Frankfurt'''}}</ref>}}
+|{{SquadAutoRow|date=2024-12-19|displaydate=December 19th|text=[[Sebe]] and [[Mo]] extend their contracts for 2025. <ref>{{cite web|url=https://x.com/EintrachtValo/status/1869827353490464807|title=Es wird weiter gekocht!|trans_title=The cooking continues!|language={{Flag|de}} German|date=2024-12-19|author='''Eintracht Frankfurt'''}}</ref>}}
+}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=musashi|captain=true|joindate=2026-01-09}}
+}}
+<!--
+===Inactive===
+{{InactiveSquadAuto}}
+-->
+===Former===
+{{FormerSquadAuto|title=Former Players}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=Flokke|name=Nevaro Merz|joindate=2024-01-10}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements |content1={{Team achievements table|team=Eintracht Frankfurt}}
+|name2=Recent Matches |content2={{Team recent matches table|team=Eintracht Frankfurt}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

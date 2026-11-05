@@ -1,0 +1,66 @@
+{{Liquipedia links/Four Angry Men}}
+{{Team Tabs}}
+{{Infobox team
+|name=Four Angry Men
+|image=Four Angry Men lightmode.png
+|imagedark=Four Angry Men darkmode.png
+|location=China
+|region=China
+|manager=
+|coach=
+|website=
+|weibo=u/6406762512
+|twitter=4AM_esports
+|created={{Org}}:2017-11-11 <br> {{VALORANT}}:2020-05-23
+|disbanded=2023-??-??
+}}
+
+'''Four Angry Men''', often abbreviated as '''4AM''' is a [[:Category:China|Chinese]] Esports Organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto
+|{{SquadAutoRow|id=Sui |name=Li Jiaxing |joindate=2023-02-14}}
+|{{SquadAutoRow|id=XuAN |name=Zhang Luxuan |joindate=2023-04-04}}
+}}
+
+===Former===
+{{FormerSquadAuto|title=Former Players
+|{{SquadAutoRow|id=Bing9z |name=Du Bingbing<!--(杜冰冰)-->|joindate=2023-02-14|leavedate=2023-10-04}}
+|{{SquadAutoRow|id=Star1og |name=Jun Chao Liang |joindate=2023-02-14|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=Strawberrycc |name=Wang Jianlei |joindate=2023-02-14|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=sphiry |name=Berdnikov Stanislav |joindate=2023-07-03|leavedate=2023-??-??}}
+|{{SquadAutoRow|id=Lumo |name=Maxim Demianovskikh |joindate=2023-07-03 |leavedate=2023-07-25}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|id=iXY |name=Zhang Qing<!--(张庆)-->|joindate=2023-09-07}}
+|{{SquadAutoRow|id=Lsh |name=Liu Shaohui<!--(刘劭晖)-->|joindate=2023-10-04}}
+|{{SquadAutoRow|id=Nedax |name=Li Qingwu<!--(李庆武)-->|joindate=2023-10-04}}
+}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{tabs dynamic
+|name1=Achievements
+|name2=Recent Matches
+|hide-showall=true
+|content1={{Team achievements table}}
+|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

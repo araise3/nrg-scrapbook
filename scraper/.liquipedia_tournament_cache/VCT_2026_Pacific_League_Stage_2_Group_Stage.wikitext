@@ -1,0 +1,180 @@
+{{DISPLAYTITLE:VCT 2026: Pacific Stage 2 - Group Stage}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/Pacific_League/Stage_2
+|name2=Group Stage |link2=VCT/2026/Pacific_League/Stage_2/Group Stage
+|name3=Statistics |link3=VCT/2026/Pacific_League/Stage_2/Statistics
+|name4=Additional Content |link4=VCT/2026/Pacific_League/Stage_2/Additional Content
+}}
+{{HiddenDataBox
+|name=VCT 2026: Pacific Stage 2
+|shortname=VCT '26 Pacific Stage 2
+|tickername=VCT Pacific Stage 2: GS
+|icon=VCT 2023 Pacific League allmode.png
+|type=Offline
+|liquipediatier=S-Tier
+|series=VALORANT Champions Tour
+|patch=
+|epatch=
+|sdate=2026-07-16
+|edate=2026-08-09
+}}
+
+''This page is part of the [[VCT/2026/Pacific League/Stage 2|VCT 2026: Pacific Stage 2]] article.''
+
+==Format==
+* '''Group Stage:''' July ''16<sup>th</sup>'' - August ''9<sup>th</sup>, 2026''
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 2''
+*** {{Bgcolortext|stay|5<sup>th</sup> & 6<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 1''
+
+==Results==
+====Group Alpha====
+{{box|start|padding=2em}}
+<section begin="Group Alpha" />
+{{GroupTableLeague|title=Group Alpha|width=460px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/Pacific League/Stage 2/Group Stage
+|round3bg1=stay|team1=FULL SENSE
+|round3bg2=stayup|team2=Global Esports
+|bg3=|team3=Rex Regum Qeon
+|bg4=|team4=Nongshim RedForce
+|round3bg5=stayup|team5=ZETA DIVISION
+|round3bg6=seedup|round2bg6=stayup|team6=Gen.G Esports
+|roundtitle=Week|roundwidth=100
+|round1edate=July 23, 2026 - 16:59 {{Abbr/KST}}
+|round2edate=July 30, 2026 - 16:59 {{Abbr/KST}}
+|round3edate=August 7, 2026 - 16:59 {{Abbr/KST}}
+|round4edate=August 9, 2026 - 20:59 {{Abbr/KST}}
+|edate=August 9, 2026 - 20:59 {{Abbr/KST}}
+}}
+<section end="Group Alpha"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=FULL SENSE
+|team2=Global Esports
+|team3=Rex Regum Qeon
+|team4=Nongshim RedForce
+|team5=ZETA DIVISION
+|team6=Gen.G Esports
+}}
+{{box|end}}
+
+====Group Omega====
+{{box|start|padding=2em}}
+<section begin="Group Omega" />
+{{GroupTableLeague|title=Group Omega|width=460px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/Pacific League/Stage 2/Group Stage
+|round4bg1=up|round3bg1=stayup|team1=Paper Rex
+|round4bg2=stayup|team2=T1
+|round4bg3=stay|team3=DRX
+|round4bg4=stayup|team4=DetonatioN FocusMe
+|round4bg5=stay|team5=Team Secret
+|round3bg6=stayup|team6=VARREL
+|roundtitle=Week|roundwidth=100
+|round1edate=July 23, 2026 - 16:59 {{Abbr/KST}}
+|round2edate=July 30, 2026 - 16:59 {{Abbr/KST}}
+|round3edate=August 7, 2026 - 16:59 {{Abbr/KST}}
+|round4edate=August 9, 2026 - 20:59 {{Abbr/KST}}
+|edate=August 9, 2026 - 20:59 {{Abbr/KST}}
+}}
+<section end="Group Omega"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=Paper Rex
+|team2=T1
+|team3=DRX
+|team4=DetonatioN FocusMe
+|team5=Team Secret
+|team6=VARREL
+}}
+{{box|end}}
+
+===Detailed Results===
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist|id=PAC26S2W01|width=350px|title=Week 1|matchsection=Week 1
+|M1header=July 16, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 17, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 18, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=July 19, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist|id=PAC26S2W02|width=350px|title=Week 2|matchsection=Week 2
+|M1header=July 23, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 24, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 25, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=July 26, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist|id=PAC26S2W03|width=350px|title=Week 3|matchsection=Week 3
+|M1header=July 30, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 31, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=August 1, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=August 2, 2026
+|M7={{Match}}
+|M8={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 4}}=====
+{{Matchlist|id=PAC26S2W04|width=350px|title=Week 4|matchsection=Week 4
+|M1header=August 7, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=August 8, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=August 9, 2026
+|M5={{Match}}
+|M6={{Match}}
+}}
+{{box|end}}
+
+==References==
+{{Reflist}}

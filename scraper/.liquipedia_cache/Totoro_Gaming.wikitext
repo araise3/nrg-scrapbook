@@ -1,0 +1,58 @@
+{{Liquipedia links|crossfire=Totoro Gaming}}
+{{Team Tabs}}
+{{Infobox team
+|name=Totoro Gaming
+|image=Totoro gaming November2020 logo.png
+|location=China
+|region=cn
+|captain=
+|coach=
+|manager=
+|facebook=
+|instagram=
+|twitter=
+|weibo=7468758169
+|website=
+|created={{org}} 2020-06-04<br>{{VALORANT}} 2020-06-04
+|disbanded=2023-06-23
+}}
+
+'''Totoro Gaming''' is a Chinese professional esports organization established in 2020 with the launch of ''VALORANT''.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+
+===Former===
+{{FormerSquadAuto
+|{{SquadAutoRow|id=topone|link=Topone|name=Li Yanran|joindate=2021-03-01}}
+|{{SquadAutoRow|id=Drk|link=Drk (Zhang Shenghai)|name=Zhang Shenghai|joindate=2021-03-01}}
+}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto
+|{{SquadAutoRow|flag=cn|id=小甜瓜|name=Tiantian Gao|role=Chief Strategy Officer|joindate=2020-06-04}}
+}}
+
+===Former===
+{{FormerOrganizationAuto
+|{{SquadAutoRow|id=iSy|link=ISy|name=Hao Xingyu|joindate=2020-06-04}}
+|{{SquadAutoRow|id=小尘ZzyC|name=	Zhuang Chen|joindate=2020-06-04}}
+}}
+
+==Results==
+{{Tabs dynamic|hide-showall=true
+|name1=Achievements|content1={{Team achievements table|team=Totoro Gaming}}
+|name2=Recent Matches|content2={{Team recent matches table|team=Totoro Gaming}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

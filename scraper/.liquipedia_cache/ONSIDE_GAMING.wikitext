@@ -1,0 +1,55 @@
+{{Liquipedia links/ONSIDE GAMING}}
+{{Tabs static
+|name1={{team|ONSIDE GAMING}}
+|name2={{team|Ninetails}}
+|This=1
+}}
+{{Team Tabs}}
+{{Infobox team
+|name=ONSIDE GAMING
+|image=ONSIDE Gaming full lightmode.png
+|imagedark=ONSIDE Gaming full darkmode.png
+|location=South Korea
+|region=kr
+|coaches={{player|Hype|link=Hype (Korean player)|flag=kr}}<br>{{Flag|kr}} [[Doo]]<br>{{player|Leg1t|flag=kr}}
+|twitter=ONSIDE_GAMING
+|instagram=onsidegaming_official
+|discord=HxrbPbbkfU
+|web=https://www.onsidecompany.co.kr/
+|created1=Org: 2025-03-19
+|created2=VALORANT: 2025-06-26
+}}
+
+'''ONSIDE GAMING''' is a [[:Category:South Korea|Korean]] esports organization.
+
+==History==
+===Timeline===
+{{TimelineSquadAuto}}
+
+==Player Roster==
+===Active===
+{{ActiveSquadAuto}}
+
+===Former===
+{{FormerSquadAuto}}
+
+==Organization==
+===Active===
+{{ActiveOrganizationAuto}}
+
+===Former===
+{{FormerOrganizationAuto}}
+
+==Results==
+{{Tabs dynamic|hide-showall=y
+|name1=Achievements|content1={{Team achievements table}}
+|name2=Recent Matches|content2={{Team recent matches table}}
+}}
+
+==Data==
+{{TeamData}}
+
+==References==
+{{Reflist}}
+<br>
+{{Team roster}}

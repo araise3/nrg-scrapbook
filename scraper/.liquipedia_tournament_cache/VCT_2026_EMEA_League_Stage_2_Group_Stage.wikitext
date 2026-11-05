@@ -1,0 +1,175 @@
+{{DISPLAYTITLE:VCT 2026: EMEA Stage 2 - Group Stage}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/EMEA League/Stage 2
+|name2=Group Stage |link2=VCT/2026/EMEA League/Stage 2/Group Stage
+|name3=Statistics |link3=VCT/2026/EMEA League/Stage 2/Statistics
+|name4=Additional Content |link4=VCT/2026/EMEA League/Stage 2/Additional Content
+}}
+{{HiddenDataBox
+|name=VCT 2026: EMEA Stage 2
+|shortname=VCT '26 EMEA Stage 2
+|tickername=VCT EMEA Stage 2: GS
+|icon=VCT 2024 EMEA League lightmode.png
+|icondark=VCT 2024 EMEA League darkmode.png
+|type=Offline
+|liquipediatier=S-Tier
+|series=VALORANT Champions Tour
+|patch=
+|epatch=
+|sdate=2026-06-??
+|edate=2026-08-??
+}}
+
+''This page is part of the [[VCT/2026/EMEA League/Stage 2|VCT 2026: EMEA Stage 2]] article.''
+
+==Format==
+* '''Group Stage:''' July ''15<sup>th</sup>'' - August ''2<sup>nd</sup>'', 2026
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|up|Top 2 teams}} from each group advance to ''Playoffs''
+*** {{Bgcolortext|seedup|Winners}} have a bye into the ''Upper Bracket Semifinals''
+*** {{Bgcolortext|up|2<sup>nd</sup> placed teams}} advance to ''Upper Bracket Round 1''
+*** {{Bgcolortext|stayup|3<sup>rd</sup> & 4<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 2''
+*** {{Bgcolortext|stay|5<sup>th</sup> & 6<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 1''
+
+==Results==
+====Group Alpha====
+{{box|start|padding=2em}}
+<section begin="Group Alpha" />
+{{GroupTableLeague|title=Group Alpha|width=420px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/EMEA League/Stage 2/Group Stage
+|round3bg1=up|round2bg1=stayup|team1=Team Vitality
+|round2bg2=stayup|team2=FUT Esports
+|round2bg3=stayup|team3=Gentle Mates
+|round3bg4=seedup|team4=BBL Esports
+|round2bg5=stay|team5=Natus Vincere
+|round3bg6=stay|team6=PCIFIC Esports
+|roundtitle=Week|roundwidth=100
+|round1edate=July 22, 2026 - 16:59 {{Abbr/CEST}}
+|round2edate=July 29, 2026 - 16:59 {{Abbr/CEST}}
+|round3edate=August 2, 2026 - 17:00 {{Abbr/CEST}}
+|edate=August 2, 2026 - 17:00 {{Abbr/CEST}}
+}}
+<section end="Group Alpha"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=PCIFIC Esports
+|team2=Natus Vincere
+|team3=BBL Esports
+|team4=Gentle Mates
+|team5=FUT Esports
+|team6=Team Vitality
+}}
+{{box|end}}
+
+====Group Omega====
+{{box|start|padding=2em}}
+<section begin="Group Omega" />
+{{GroupTableLeague|title=Group Omega|width=420px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=up|pbg3=stayup|pbg4=stayup|pbg5=stay|pbg6=stay
+|tournament=VCT/2026/EMEA League/Stage 2/Group Stage
+|round3bg1=stayup|team1=Team Heretics
+|round3bg2=stayup|team2=Eternal Fire
+|round3bg3=stay|team3=Fnatic
+|round3bg4=up|team4=Team Liquid
+|round3bg5=stay|team5=GIANTX
+|round3bg6=seedup|round2bg6=stayup|team6=Karmine Corp
+|roundtitle=Week|roundwidth=100
+|round1edate=July 22, 2026 - 16:59 {{Abbr/CEST}}
+|round2edate=July 29, 2026 - 16:59 {{Abbr/CEST}}
+|round3edate=August 2, 2026 - 20:20 {{Abbr/CEST}}
+|edate=August 2, 2026 - 20:20 {{Abbr/CEST}}
+}}
+<section end="Group Omega"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=Karmine Corp
+|team2=GIANTX
+|team3=Team Liquid
+|team4=Fnatic
+|team5=Eternal Fire
+|team6=Team Heretics
+}}
+{{box|end}}
+
+===Detailed Results===
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist|id=qzmeiAa6DY|width=350px|title=Week 1|matchsection=Week 1
+|M1header=July 15, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 16, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 17, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=July 18, 2026
+|M7={{Match}}
+|M8={{Match}}
+
+|M9header=July 19, 2026
+|M9={{Match}}
+|M10={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist|id=6krqHuN8T2|width=350px|title=Week 2|matchsection=Week 2
+|M1header=July 22, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 23, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 24, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=July 25, 2026
+|M7={{Match}}
+|M8={{Match}}
+
+|M9header=July 26, 2026
+|M9={{Match}}
+|M10={{Match}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist|id=ckePJlPDJz|width=350px|title=Week 3|matchsection=Week 3
+|M1header=July 29, 2026
+|M1={{Match}}
+|M2={{Match}}
+
+|M3header=July 30, 2026
+|M3={{Match}}
+|M4={{Match}}
+
+|M5header=July 31, 2026
+|M5={{Match}}
+|M6={{Match}}
+
+|M7header=August 1, 2026
+|M7={{Match}}
+|M8={{Match}}
+
+|M9header=August 2, 2026
+|M9={{Match}}
+|M10={{Match}}
+}}
+{{box|end|padding=2em}}
+
+==References==
+{{Reflist}}

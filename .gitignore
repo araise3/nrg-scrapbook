@@ -1,39 +1,19 @@
-node_modules
-dist
 .DS_Store
 *.local
 scraper/venv/
 
-# Liquipedia API response cache (ToU asks callers to cache; not source)
-scraper/.liquipedia_cache/
-scraper/.liquipedia_logo_cache/
-scraper/.liquipedia_event_logo_cache/
-scraper/.liquipedia_tournament_cache/
-scraper/.liquipedia_schedule_cache/
-scraper/.liquipedia_player_names_cache/
-
 # Scraper SQLite databases. Kept out of git deliberately: ~8MB of binary that
 # deltas badly, committed on every automated run, would balloon history. CI
-# restores them from the Actions cache instead (.github/workflows/update-data.yml).
+# restores them from the Actions cache / db-snapshot releases instead
+# (.github/workflows/update-data.yml).
 data_cache/
 *.db
-
-# tracker.gg overview screenshots (screenshot_tracker_overviews.py) -- a
-# local QA aid for comparing this site's Ranked stats against tracker.gg's
-# real page, not data the site ships.
-data_prep/tracker_screenshots/
 
 __pycache__/
 *.pyc
 
 # Session context for Claude Code -- kept locally updated, never committed/pushed
 CLAUDE.md
-.claude/skills/
-
-# Machine-local Claude Code permission grants (absolute paths, per-machine).
-# .claude/launch.json IS committed -- it's the shared dev-server config.
-.claude/settings.local.json
-
-# Machine-local Codex guidance and implementation history.
+.claude/
 AGENTS.md
 .agents/

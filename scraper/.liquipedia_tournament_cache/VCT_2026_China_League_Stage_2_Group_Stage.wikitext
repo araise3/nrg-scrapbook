@@ -1,0 +1,1857 @@
+{{DISPLAYTITLE:VCT 2026: China Stage 2 - Group Stage}}
+{{Tabs static
+|name1=Overview |link1=VCT/2026/China League/Stage 2
+|name2=Group Stage |link2=VCT/2026/China League/Stage 2/Group Stage
+|name3=Statistics |link3=VCT/2026/China League/Stage 2/Statistics
+|name4=Additional Content |link4=VCT/2026/China League/Stage 2/Additional Content
+}}
+{{HiddenDataBox
+|name=VCT 2026: China Stage 2
+|shortname=VCT '26 China Stage 2
+|tickername=VCT China Stage 2: GS
+|icon=VCT China allmode.png
+|type=Offline
+|liquipediatier=S-Tier
+|series=VALORANT Champions Tour
+|patch=
+|epatch=
+|sdate=2026-07-09
+|edate=2026-07-23
+}}
+
+''This page is part of the [[VCT/2026/China League/Stage 2|VCT 2026: China Stage 2]] article.''
+
+==Format==
+* '''Group Stage:''' July ''9<sup>th</sup>'' - July ''23<sup>rd</sup>'', 2026
+** Two Single-Round Robin Groups
+*** Each Group has 6 teams
+*** All matches are {{Abbr/Bo3}}
+** {{Bgcolortext|seedup|Top 2 teams}} from each group advance to ''Playoffs''
+**{{Bgcolortext|up|3<sup>rd</sup> placed team}} advances to ''Play-Ins Upper Bracket Round 2'', an opening loss will send them to ''Lower Bracket Quarterfinal''
+** {{Bgcolortext|stayup|4<sup>th</sup> - 5<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 2'', an opening loss will send them to ''Lower Bracket Round 1''
+** {{Bgcolortext|stay|6<sup>th</sup> placed teams}} advance to ''Play-Ins Upper Bracket Round 1''
+
+==Results==
+====Group Alpha====
+{{box|start|padding=2em}}
+<section begin="Group Alpha" />
+{{GroupTableLeague|title=Group Alpha|width=490px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=seedup|pbg3=up|pbg4=stayup|pbg5=stayup|pbg6=stay
+|tournament=VCT/2026/China League/Stage 2/Group Stage
+|round3bg1=up|round2bg1=stayup|team1=EDward Gaming
+|round3bg2=seedup|round2bg2=up|team2=TYLOO
+|round3bg3=stayup|team3=JD Gaming
+|round3bg4=stay|team4=Trace Esports
+|round3bg5=seedup|round2bg5=stayup|team5=Nova Esports
+|round2bg6=stayup|team6=FunPlus Phoenix
+|roundtitle=Week|roundwidth=100
+|round1edate=July 14, 2026 - 16:59 {{Abbr/CST}}
+|round2edate=July 20, 2026 - 16:59 {{Abbr/CST}}
+|round3edate=July 23, 2026 - 19:40 {{Abbr/CST}}
+|edate=July 23, 2026 - 19:40 {{Abbr/CST}}
+}}
+<section end="Group Alpha"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=EDward Gaming
+|team2=TYLOO
+|team3=JD Gaming
+|team4=Trace Esports
+|team5=Nova Esports
+|team6=FunPlus Phoenix
+}}
+{{box|end}}
+
+====Group Omega====
+{{box|start|padding=2em}}
+<section begin="Group Omega" />
+{{GroupTableLeague|title=Group Omega|width=490px|show_g=true|diff=true
+|tiebreaker1=series|tiebreaker2=h2h series|tiebreaker3=h2h games|tiebreaker4=diff
+|pbg1=seedup|pbg2=seedup|pbg3=up|pbg4=stayup|pbg5=stayup|pbg6=stay
+|tournament=VCT/2026/China League/Stage 2/Group Stage
+|round3bg1=seedup|round2bg1=stayup|team1=XLG Esports
+|round3bg2=up|team2=All Gamers
+|round3bg3=stayup|team3=Dragon Ranger Gaming
+|round3bg4=stay|team4=Titan Esports Club
+|round2bg5=stayup|round3bg5=seedup|team5=Bilibili Gaming
+|round2bg6=stayup|team6=Wolves Esports
+|roundtitle=Week|roundwidth=100
+|round1edate=July 14, 2026 - 16:59 {{Abbr/CST}}
+|round2edate=July 20, 2026 - 16:59 {{Abbr/CST}}
+|round3edate=July 22, 2026 - 20:20 {{Abbr/CST}}
+|edate=July 22, 2026 - 20:20 {{Abbr/CST}}
+}}
+<section end="Group Omega"/>
+{{box|break|padding=2em}}
+{{CrossTableLeague|single=true
+|team1=XLG Esports
+|team2=All Gamers
+|team3=Dragon Ranger Gaming
+|team4=Titan Esports Club
+|team5=Bilibili Gaming
+|team6=Wolves Esports
+}}
+{{box|end}}
+
+===Detailed Results===
+{{Toggle group start|state=hide}}
+{{box|start|padding=2em}}
+====={{HiddenSort|Week 1}}=====
+{{Matchlist|id=u8CcnjZ5iQ|width=350px|title=Week 1|matchsection=Group Stage
+|M1header=July 9, 2026
+|M3header=July 10, 2026
+|M5header=July 11, 2026
+|M7header=July 12, 2026
+|M1={{Match
+    |date=July 9, 2026 - 16:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+	|mvp=Deryeon
+    |caster1=Zhou Tunma|caster2=ADing|vlr=701025
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|glacier|link=glacier (Taiwanese player)|flag=tw}} '''5''' – 4 {{player|Dynamite|flag=cn}}
+    |opponent1={{TeamOpponent|wol}}
+    |opponent2={{TeamOpponent|titan esports club}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Lotus
+        |t1map2=Haven|t2map2=Sunset
+        |t1map3=Summit|t2map3=Split
+        |decider=Ascent
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Deryeon|agent=omen|kills=28|deaths=11|assists=8|acs=397}}
+        |t1p2={{PSI|player=aluba|agent=sova|kills=16|deaths=9|assists=2|acs=255}}
+        |t1p3={{PSI|player=Spring|agent=viper|kills=14|deaths=12|assists=7|acs=227}}
+        |t1p4={{PSI|player=yosemite|agent=sage|kills=10|deaths=12|assists=8|acs=162}}
+        |t1p5={{PSI|player=glacier (Taiwanese player)|agent=neon|kills=12|deaths=15|assists=1|acs=180}}
+
+        |t2p1={{PSI|player=Spitfires|agent=sage|kills=14|deaths=16|assists=5|acs=247}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=13|deaths=14|assists=1|acs=197}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=13|deaths=18|assists=7|acs=203}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=8|deaths=15|assists=8|acs=165}}
+        |t2p5={{PSI|player=Dynamite|agent=neon|kills=11|deaths=17|assists=8|acs=187}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=1
+        |map=Sunset|finished=true|vod=https://youtu.be/_m70tneb5_k?t=4240
+    }}
+
+    |map2={{Map
+        |t1p1={{PSI|player=Deryeon|agent=omen|kills=17|deaths=12|assists=8|acs=195}}
+        |t1p2={{PSI|player=aluba|agent=sova|kills=13|deaths=14|assists=3|acs=150}}
+        |t1p3={{PSI|player=Spring|agent=viper|kills=17|deaths=13|assists=9|acs=210}}
+        |t1p4={{PSI|player=yosemite|agent=killjoy|kills=20|deaths=13|assists=2|acs=243}}
+        |t1p5={{PSI|player=glacier (Taiwanese player)|agent=neon|kills=11|deaths=17|assists=8|acs=152}}
+
+        |t2p1={{PSI|player=Spitfires|agent=waylay|kills=16|deaths=19|assists=3|acs=214}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=14|deaths=16|assists=3|acs=168}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=8|deaths=13|assists=13|acs=120}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=14|deaths=15|assists=7|acs=197}}
+        |t2p5={{PSI|player=Dynamite|agent=jett|kills=17|deaths=15|assists=3|acs=202}}
+
+        |t1firstside=def|t1atk=8|t1def=5|t2atk=7|t2def=3
+        |map=Haven|finished=true|vod=https://youtu.be/_m70tneb5_k?t=7390
+    }}
+    |map3={{Map|map=Ascent|finished=skip}}
+}}
+|M2={{Match
+    |date=July 9, 2026 - 18:20 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+	|mvp=vo0kashu
+    |caster1=NOC|caster2=Vivi|vlr=701026
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|SpiritZ1|flag=tw}} 3 – '''5''' {{player|FT|flag=cn}}
+    |opponent1={{TeamOpponent|drg}}
+    |opponent2={{TeamOpponent|blg}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Sunset
+        |t1map2=Haven|t2map2=Lotus
+        |t1map3=Split|t2map3=Breeze
+        |decider=Ascent
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=26|deaths=20|assists=6|acs=261}}
+        |t1p2={{PSI|player=Life|agent=neon|kills=27|deaths=18|assists=3|acs=310}}
+        |t1p3={{PSI|player=Nicc|agent=skye|kills=14|deaths=15|assists=22|acs=166}}
+        |t1p4={{PSI|player=SpiritZ1|agent=waylay|kills=19|deaths=18|assists=2|acs=186}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=13|deaths=15|assists=11|acs=120}}
+
+        |t2p1={{PSI|player=whzy|agent=chamber|kills=20|deaths=22|assists=0|acs=191}}
+        |t2p2={{PSI|player=Knight|agent=sova|kills=18|deaths=19|assists=7|acs=200}}
+        |t2p3={{PSI|player=nephh|agent=omen|kills=15|deaths=20|assists=14|acs=159}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=18|deaths=19|assists=6|acs=198}}
+        |t2p5={{PSI|player=FT|agent=phoenix|kills=15|deaths=19|assists=8|acs=159}}
+
+        |t1firstside=def|t1atk=10|t1def=2|t2atk=10|t2def=2
+        |t1firstsideot=def|t1otatk=2|t1otdef=1|t2otatk=1|t2otdef=0
+        |map=Haven|finished=true|vod=https://youtu.be/_m70tneb5_k?t=12622
+    }}
+
+    |map2={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=28|deaths=12|assists=5|acs=356}}
+        |t1p2={{PSI|player=Life|agent=waylay|kills=18|deaths=11|assists=4|acs=251}}
+        |t1p3={{PSI|player=Nicc|agent=skye|kills=11|deaths=13|assists=10|acs=153}}
+        |t1p4={{PSI|player=SpiritZ1|agent=yoru|kills=12|deaths=15|assists=5|acs=175}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=13|deaths=11|assists=13|acs=200}}
+
+        |t2p1={{PSI|player=whzy|agent=raze|kills=13|deaths=16|assists=5|acs=198}}
+        |t2p2={{PSI|player=Knight|agent=fade|kills=8|deaths=18|assists=5|acs=129}}
+        |t2p3={{PSI|player=nephh|agent=omen|kills=17|deaths=17|assists=6|acs=217}}
+        |t2p4={{PSI|player=rushia|agent=cypher|kills=7|deaths=14|assists=8|acs=110}}
+        |t2p5={{PSI|player=FT|agent=waylay|kills=17|deaths=17|assists=5|acs=249}}
+
+        |t1firstside=atk|t1atk=10|t1def=3|t2atk=5|t2def=2
+        |map=Lotus|finished=true|vod=https://youtu.be/_m70tneb5_k?t=17333
+    }}
+    |map3={{Map|map=Ascent|finished=skip}}
+}}
+|M3={{Match
+    |date=July 10, 2026 - 16:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=KriyuR|caster2=LiuXiang|vlr=701027
+    |mvp=Setrod
+    |comment='''Skirmish Side Selection Result:'''<br>{{player|Setrod|flag=tw}} '''5''' – 4 {{player|FKEY|flag=cn}}
+    |opponent1={{TeamOpponent|fpx}}
+    |opponent2={{TeamOpponent|trace}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Haven
+        |t1map2=Summit|t2map2=Sunset
+        |t1map3=Ascent|t2map3=Split
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=AAAAY|agent=cypher|kills=6|deaths=10|assists=3|acs=110}}
+        |t1p2={{PSI|player=coconut|agent=sova|kills=13|deaths=8|assists=5|acs=229}}
+        |t1p3={{PSI|player=kovaQ|agent=omen|kills=10|deaths=9|assists=9|acs=167}}
+        |t1p4={{PSI|player=Setrod|agent=chamber|kills=20|deaths=10|assists=4|acs=343}}
+        |t1p5={{PSI|player=Xlele|agent=neon|kills=21|deaths=10|assists=3|acs=328}}
+
+        |t2p1={{PSI|player=Kai|agent=neon|kills=9|deaths=15|assists=4|acs=155}}
+        |t2p2={{PSI|player=deLb|agent=viper|kills=13|deaths=13|assists=4|acs=244}}
+        |t2p3={{PSI|player=FKEY|agent=sova|kills=9|deaths=14|assists=1|acs=140}}
+        |t2p4={{PSI|player=FengF|agent=sage|kills=5|deaths=13|assists=5|acs=95}}
+        |t2p5={{PSI|player=LuoK1ng|agent=omen|kills=11|deaths=15|assists=4|acs=200}}
+
+        |t1firstside=def|t1atk=4|t1def=9|t2atk=3|t2def=0
+        |map=Sunset|finished=true|vod=https://youtu.be/5M3N_7ETRtA?t=4193
+    }}
+
+    |map2={{Map
+        |t1p1={{PSI|player=AAAAY|agent=cypher|kills=16|deaths=15|assists=7|acs=205}}
+        |t1p2={{PSI|player=coconut|agent=tejo|kills=16|deaths=11|assists=8|acs=243}}
+        |t1p3={{PSI|player=kovaQ|agent=astra|kills=11|deaths=14|assists=9|acs=139}}
+        |t1p4={{PSI|player=Setrod|agent=waylay|kills=21|deaths=15|assists=5|acs=261}}
+        |t1p5={{PSI|player=Xlele|agent=raze|kills=18|deaths=17|assists=3|acs=222}}
+
+        |t2p1={{PSI|player=Kai|agent=jett|kills=16|deaths=18|assists=3|acs=198}}
+        |t2p2={{PSI|player=deLb|agent=viper|kills=15|deaths=14|assists=3|acs=167}}
+        |t2p3={{PSI|player=FKEY|agent=phoenix|kills=13|deaths=17|assists=10|acs=194}}
+        |t2p4={{PSI|player=FengF|agent=fade|kills=14|deaths=17|assists=15|acs=218}}
+        |t2p5={{PSI|player=LuoK1ng|agent=omen|kills=13|deaths=17|assists=13|acs=169}}
+
+        |t1firstside=def|t1atk=8|t1def=5|t2atk=7|t2def=2
+        |map=Summit|finished=true|vod=https://youtu.be/5M3N_7ETRtA?t=6855
+    }}
+
+    |map3={{Map|map=Lotus|finished=skip}}
+}}
+|M4={{Match
+    |date=July 10, 2026 - 18:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ADing|caster2=330|vlr=701028
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|crownfisher|flag=cn}} '''5''' – 3 {{player|Scales|flag=cn}}
+	|mvp=slowly
+    |opponent1={{TeamOpponent|jdg}}
+    |opponent2={{TeamOpponent|tyloo}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Summit
+        |t1map2=Sunset|t2map2=Split
+        |t1map3=Ascent|t2map3=Haven
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=zhe|agent=chamber|kills=13|deaths=13|assists=2|acs=186}}
+        |t1p2={{PSI|player=Yuicaw|agent=sage|kills=17|deaths=14|assists=8|acs=246}}
+        |t1p3={{PSI|player=BerLIN|agent=skye|kills=9|deaths=17|assists=6|acs=127}}
+        |t1p4={{PSI|player=crownfisher|agent=raze|kills=10|deaths=15|assists=1|acs=144}}
+        |t1p5={{PSI|player=jkuro|agent=astra|kills=14|deaths=16|assists=9|acs=182}}
+
+        |t2p1={{PSI|player=slowly|agent=jett|kills=19|deaths=12|assists=2|acs=255}}
+        |t2p2={{PSI|player=Erv|agent=omen|kills=7|deaths=12|assists=10|acs=120}}
+        |t2p3={{PSI|player=SiuFatBB|agent=skye|kills=17|deaths=10|assists=10|acs=212}}
+        |t2p4={{PSI|player=Splash|agent=raze|kills=19|deaths=14|assists=5|acs=277}}
+        |t2p5={{PSI|player=Scales|agent=viper|kills=13|deaths=15|assists=7|acs=182}}
+
+        |t1firstside=def|t1atk=5|t1def=3|t2atk=9|t2def=4
+        |map=Split|finished=true|vod=https://youtu.be/5M3N_7ETRtA?t=12276
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=zhe|agent=neon|kills=11|deaths=17|assists=2|acs=166}}
+        |t1p2={{PSI|player=Yuicaw|agent=chamber|kills=9|deaths=15|assists=3|acs=140}}
+        |t1p3={{PSI|player=BerLIN|agent=sova|kills=4|deaths=15|assists=3|acs=81}}
+        |t1p4={{PSI|player=crownfisher|agent=phoenix|kills=12|deaths=15|assists=6|acs=190}}
+        |t1p5={{PSI|player=jkuro|agent=omen|kills=15|deaths=16|assists=6|acs=194}}
+
+        |t2p1={{PSI|player=slowly|agent=chamber|kills=18|deaths=10|assists=3|acs=260}}
+        |t2p2={{PSI|player=Erv|agent=omen|kills=10|deaths=10|assists=8|acs=158}}
+        |t2p3={{PSI|player=SiuFatBB|agent=fade|kills=14|deaths=9|assists=8|acs=177}}
+        |t2p4={{PSI|player=Splash|agent=neon|kills=18|deaths=14|assists=3|acs=234}}
+        |t2p5={{PSI|player=Scales|agent=sage|kills=18|deaths=8|assists=6|acs=265}}
+
+        |t1firstside=atk|t1atk=5|t1def=2|t2atk=6|t2def=7
+        |map=Sunset|finished=true|vod=https://youtu.be/5M3N_7ETRtA?t=16116
+    }}
+    |map3={{Map|map=Lotus|finished=skip}}
+}}
+|M5={{Match
+    |date=July 11, 2026 - 16:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=BaiYang|caster2=NOC|vlr=701029
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|SpiritZ1|flag=tw}} '''5''' – 4 {{player|Spitfires|flag=cn}}
+	|mvp=vo0kashu
+    |opponent1={{TeamOpponent|drg}}
+    |opponent2={{TeamOpponent|titan esports club}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Lotus
+        |t1map2=Haven|t2map2=Breeze
+        |t1map3=Ascent|t2map3=Split
+        |decider=Sunset
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=viper|kills=25|deaths=16|assists=7|acs=255}}
+        |t1p2={{PSI|player=Life|agent=jett|kills=24|deaths=21|assists=3|acs=196}}
+        |t1p3={{PSI|player=Nicc|agent=sova|kills=18|deaths=20|assists=8|acs=173}}
+        |t1p4={{PSI|player=SpiritZ1|agent=waylay|kills=25|deaths=23|assists=6|acs=246}}
+        |t1p5={{PSI|player=Verse|agent=harbor|kills=20|deaths=23|assists=13|acs=198}}
+
+        |t2p1={{PSI|player=Spitfires|agent=phoenix|kills=20|deaths=25|assists=9|acs=192}}
+        |t2p2={{PSI|player=Haodong|agent=omen|kills=26|deaths=21|assists=12|acs=238}}
+        |t2p3={{PSI|player=CoCo|agent=viper|kills=14|deaths=18|assists=9|acs=128}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=24|deaths=20|assists=8|acs=218}}
+        |t2p5={{PSI|player=Dynamite|agent=neon|kills=19|deaths=28|assists=13|acs=201}}
+
+        |t1firstside=atk|t1atk=5|t1def=7|t2atk=5|t2def=7
+		|t1firstsideot=atk|t1otatk=2|t1otdef=2|t2otatk=1|t2otdef=1
+        |map=Breeze|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=4028
+    }}
+
+    |map2={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=17|deaths=13|assists=2|acs=177}}
+        |t1p2={{PSI|player=Life|agent=neon|kills=20|deaths=14|assists=5|acs=249}}
+        |t1p3={{PSI|player=Nicc|agent=skye|kills=12|deaths=17|assists=10|acs=151}}
+        |t1p4={{PSI|player=SpiritZ1|agent=waylay|kills=19|deaths=19|assists=7|acs=238}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=12|deaths=14|assists=13|acs=147}}
+
+        |t2p1={{PSI|player=Spitfires|agent=waylay|kills=13|deaths=18|assists=3|acs=165}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=15|deaths=16|assists=4|acs=174}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=18|deaths=15|assists=15|acs=212}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=14|deaths=14|assists=3|acs=160}}
+        |t2p5={{PSI|player=Dynamite|agent=jett|kills=17|deaths=17|assists=3|acs=199}}
+
+        |t1firstside=def|t1atk=8|t1def=3|t2atk=9|t2def=4
+        |map=Haven|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=8866
+    }}
+
+    |map3={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=20|deaths=5|assists=2|acs=323}}
+        |t1p2={{PSI|player=Life|agent=neon|kills=14|deaths=12|assists=2|acs=233}}
+        |t1p3={{PSI|player=Nicc|agent=fade|kills=16|deaths=8|assists=6|acs=235}}
+        |t1p4={{PSI|player=SpiritZ1|agent=yoru|kills=15|deaths=12|assists=1|acs=253}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=6|deaths=9|assists=10|acs=102}}
+
+        |t2p1={{PSI|player=Spitfires|agent=sage|kills=3|deaths=15|assists=7|acs=78}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=8|deaths=15|assists=1|acs=125}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=9|deaths=14|assists=8|acs=178}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=16|deaths=13|assists=3|acs=281}}
+        |t2p5={{PSI|player=Dynamite|agent=neon|kills=10|deaths=14|assists=2|acs=192}}
+
+        |t1firstside=atk|t1atk=10|t1def=3|t2atk=2|t2def=2
+        |map=Sunset|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=12504
+    }}
+}}
+|M6={{Match
+    |date=July 11, 2026 - 19:40 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Vivi|caster2=LiuXiang|vlr=701030
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|FT|flag=cn}} '''5''' – 4 {{player|glacier|link=glacier (Taiwanese player)|flag=tw}}
+	|mvp=whzy
+    |opponent1={{TeamOpponent|blg}}
+    |opponent2={{TeamOpponent|wol}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Sunset|t2map1=Breeze
+        |t1map2=Split|t2map2=Summit
+        |t1map3=Haven|t2map3=Ascent
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=whzy|agent=raze|kills=28|deaths=12|assists=4|acs=371}}
+        |t1p2={{PSI|player=Knight|agent=cypher|kills=12|deaths=14|assists=8|acs=163}}
+        |t1p3={{PSI|player=nephh|agent=skye|kills=15|deaths=13|assists=13|acs=183}}
+        |t1p4={{PSI|player=rushia|agent=neon|kills=18|deaths=14|assists=5|acs=243}}
+        |t1p5={{PSI|player=FT|agent=omen|kills=8|deaths=13|assists=5|acs=100}}
+
+        |t2p1={{PSI|player=Deryeon|agent=astra|kills=10|deaths=14|assists=6|acs=129}}
+        |t2p2={{PSI|player=aluba|agent=sova|kills=16|deaths=16|assists=2|acs=188}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=18|deaths=16|assists=8|acs=254}}
+        |t2p4={{PSI|player=yosemite|agent=sage|kills=13|deaths=16|assists=8|acs=180}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=phoenix|kills=9|deaths=19|assists=6|acs=157}}
+		
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=5
+        |map=Summit|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=17042
+    }}
+
+    |map2={{Map
+        |t1p1={{PSI|player=whzy|agent=neon|kills=11|deaths=15|assists=7|acs=212}}
+        |t1p2={{PSI|player=Knight|agent=deadlock|kills=18|deaths=15|assists=0|acs=292}}
+        |t1p3={{PSI|player=nephh|agent=skye|kills=5|deaths=15|assists=7|acs=98}}
+        |t1p4={{PSI|player=rushia|agent=omen|kills=3|deaths=17|assists=5|acs=68}}
+        |t1p5={{PSI|player=FT|agent=viper|kills=10|deaths=14|assists=1|acs=175}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=23|deaths=8|assists=5|acs=357}}
+        |t2p2={{PSI|player=aluba|agent=skye|kills=9|deaths=8|assists=6|acs=139}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=20|deaths=11|assists=9|acs=327}}
+        |t2p4={{PSI|player=yosemite|agent=vyse|kills=7|deaths=10|assists=13|acs=149}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=17|deaths=10|assists=4|acs=266}}
+
+        |t1firstside=atk|t1atk=3|t1def=1|t2atk=4|t2def=9
+        |map=Split|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=20624
+    }}
+
+    |map3={{Map
+        |t1p1={{PSI|player=whzy|agent=raze|kills=20|deaths=12|assists=3|acs=301}}
+        |t1p2={{PSI|player=Knight|agent=fade|kills=16|deaths=7|assists=3|acs=205}}
+        |t1p3={{PSI|player=nephh|agent=omen|kills=10|deaths=11|assists=11|acs=153}}
+        |t1p4={{PSI|player=rushia|agent=cypher|kills=11|deaths=7|assists=11|acs=198}}
+        |t1p5={{PSI|player=FT|agent=waylay|kills=19|deaths=10|assists=3|acs=291}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=8|deaths=16|assists=6|acs=132}}
+        |t2p2={{PSI|player=aluba|agent=fade|kills=8|deaths=15|assists=3|acs=152}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=11|deaths=17|assists=7|acs=219}}
+        |t2p4={{PSI|player=yosemite|agent=vyse|kills=8|deaths=14|assists=0|acs=124}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=12|deaths=14|assists=2|acs=208}}
+
+        |t1firstside=atk|t1atk=10|t1def=3|t2atk=3|t2def=2
+        |map=Lotus|finished=true|vod=https://youtu.be/ySsjhhIbe4A?t=23583
+    }}
+}}
+|M7={{Match
+    |date=July 12, 2026 - 16:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=NOC |caster2=Annie (Chinese commentator)|vlr=701031
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|swagzor|flag=ru}} 2 – '''5''' {{player|Setrod|flag=tw}}
+	|mvp=swagzor
+    |opponent1={{TeamOpponent|nova cn}}
+    |opponent2={{TeamOpponent|fpx}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Haven
+        |t1map2=Lotus|t2map2=Sunset
+        |t1map3=Breeze|t2map3=Ascent
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=qiutiaN|agent=fade|kills=16|deaths=15|assists=7|acs=185}}
+        |t1p2={{PSI|player=cb|agent=killjoy|kills=10|deaths=10|assists=3|acs=136}}
+        |t1p3={{PSI|player=swagzor|agent=raze|kills=22|deaths=13|assists=3|acs=298}}
+        |t1p4={{PSI|player=GuanG|agent=viper|kills=20|deaths=12|assists=9|acs=248}}
+        |t1p5={{PSI|player=Ezeir|agent=omen|kills=14|deaths=12|assists=12|acs=217}}
+
+        |t2p1={{PSI|player=AAAAY|agent=viper|kills=12|deaths=16|assists=2|acs=155}}
+        |t2p2={{PSI|player=coconut|agent=fade|kills=8|deaths=15|assists=6|acs=119}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=16|deaths=16|assists=7|acs=118}}
+        |t2p4={{PSI|player=Setrod|agent=vyse|kills=8|deaths=18|assists=5|acs=135}}
+        |t2p5={{PSI|player=Xlele|agent=raze|kills=18|deaths=17|assists=2|acs=243}}
+
+        |t1firstside=def|t1atk=8|t1def=5|t2atk=7|t2def=1
+        |map=Lotus|finished=true|vod=https://youtu.be/XaJYJmGKbTc?t=4230
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=qiutiaN|agent=kayo|kills=17|deaths=9|assists=10|acs=216}}
+        |t1p2={{PSI|player=cb|agent=phoenix|kills=16|deaths=10|assists=9|acs=256}}
+        |t1p3={{PSI|player=swagzor|agent=neon|kills=18|deaths=13|assists=3|acs=257}}
+        |t1p4={{PSI|player=GuanG|agent=cypher|kills=16|deaths=9|assists=4|acs=199}}
+        |t1p5={{PSI|player=Ezeir|agent=omen|kills=17|deaths=12|assists=6|acs=202}}
+
+        |t2p1={{PSI|player=AAAAY|agent=cypher|kills=10|deaths=19|assists=2|acs=161}}
+        |t2p2={{PSI|player=coconut|agent=sova|kills=13|deaths=14|assists=7|acs=203}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=8|deaths=17|assists=12|acs=145}}
+        |t2p4={{PSI|player=Setrod|agent=chamber|kills=14|deaths=17|assists=1|acs=185}}
+        |t2p5={{PSI|player=Xlele|agent=neon|kills=8|deaths=17|assists=2|acs=105}}
+
+        |t1firstside=def|t1atk=4|t1def=9|t2atk=3|t2def=4
+        |map=Sunset|finished=true|vod=https://youtu.be/XaJYJmGKbTc?t=7714
+    }}
+    |map3={{Map|map=Split|finished=skip}}
+}}
+|M8={{Match
+    |date=July 12, 2026 - 18:10 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=KriyuR |caster2=BaiYang|vlr=701032
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|splash|flag=cn}} '''5''' – 1 {{player|FKEY|flag=cn}}
+	|mvp=Scales
+    |opponent1={{TeamOpponent|tyloo}}
+    |opponent2={{TeamOpponent|trace}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Haven
+        |t1map2=Sunset|t2map2=Breeze
+        |t1map3=Ascent|t2map3=Split
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=slowly|agent=astra|kills=16|deaths=6|assists=2|acs=257}}
+        |t1p2={{PSI|player=Erv|agent=kayo|kills=9|deaths=5|assists=7|acs=166}}
+        |t1p3={{PSI|player=SiuFatBB|agent=sova|kills=4|deaths=5|assists=10|acs=94}}
+        |t1p4={{PSI|player=splash|agent=jett|kills=18|deaths=9|assists=0|acs=277}}
+        |t1p5={{PSI|player=Scales|agent=viper|kills=21|deaths=11|assists=5|acs=376}}
+
+        |t2p1={{PSI|player=Kai|agent=jett|kills=7|deaths=14|assists=3|acs=144}}
+        |t2p2={{PSI|player=deLb|agent=viper|kills=6|deaths=14|assists=4|acs=117}}
+        |t2p3={{PSI|player=FKEY|agent=kayo|kills=7|deaths=13|assists=6|acs=130}}
+        |t2p4={{PSI|player=FengF|agent=sova|kills=5|deaths=13|assists=3|acs=98}}
+        |t2p5={{PSI|player=LuoK1ng|agent=harbor|kills=11|deaths=14|assists=3|acs=178}}
+
+        |t1firstside=atk|t1atk=11|t1def=2|t2atk=2|t2def=1
+        |map=Breeze|finished=true|vod=https://youtu.be/XaJYJmGKbTc?t=12221
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=slowly|agent=chamber|kills=22|deaths=10|assists=2|acs=334}}
+        |t1p2={{PSI|player=Erv|agent=omen|kills=10|deaths=10|assists=6|acs=165}}
+        |t1p3={{PSI|player=SiuFatBB|agent=fade|kills=12|deaths=7|assists=7|acs=201}}
+        |t1p4={{PSI|player=splash|agent=neon|kills=17|deaths=10|assists=6|acs=276}}
+        |t1p5={{PSI|player=Scales|agent=sage|kills=17|deaths=6|assists=11|acs=245}}
+
+        |t2p1={{PSI|player=Kai|agent=neon|kills=11|deaths=18|assists=4|acs=192}}
+        |t2p2={{PSI|player=deLb|agent=viper|kills=7|deaths=15|assists=2|acs=122}}
+        |t2p3={{PSI|player=FKEY|agent=sova|kills=3|deaths=15|assists=1|acs=62}}
+        |t2p4={{PSI|player=FengF|agent=sage|kills=8|deaths=14|assists=1|acs=120}}
+        |t2p5={{PSI|player=LuoK1ng|agent=omen|kills=14|deaths=16|assists=0|acs=230}}
+
+        |t1firstside=def|t1atk=2|t1def=11|t2atk=1|t2def=4
+        |map=Sunset|finished=true|vod=https://youtu.be/XaJYJmGKbTc?t=15057
+    }}
+    |map3={{Map|map=Lotus|finished=skip}}
+}}
+}}
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 2}}=====
+{{Matchlist|id=55ayX4kDbL|width=350px|title=Week 2|matchsection=Group Stage
+|M1header=July 14, 2026
+|M3header=July 15, 2026
+|M5header=July 16, 2026
+|M7header=July 17, 2026
+|M10header=July 18, 2026
+|M12header=July 19, 2026
+|M1={{Match
+    |date=July 14, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Alan (Chinese commentator)|caster2=Starcy|vlr=701036
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|glacier|link=glacier (Taiwanese player)|flag=tw}} '''5''' – 1 {{player|Bai|flag=cn}}
+	|mvp=K1ra
+    |opponent1={{TeamOpponent|wolves esports}}
+    |opponent2={{TeamOpponent|all gamers}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Sunset
+        |t1map2=Ascent|t2map2=Lotus
+        |t1map3=Split|t2map3=Summit
+        |decider=Haven
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Deryeon|agent=omen|kills=21|deaths=14|assists=8|acs=227}}
+        |t1p2={{PSI|player=aluba|agent=fade|kills=13|deaths=17|assists=9|acs=153}}
+        |t1p3={{PSI|player=Spring|agent=viper|kills=21|deaths=17|assists=8|acs=234}}
+        |t1p4={{PSI|player=yosemite|agent=vyse|kills=15|deaths=18|assists=4|acs=177}}
+        |t1p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=20|deaths=20|assists=6|acs=251}}
+
+        |t2p1={{PSI|player=K1ra|agent=raze|kills=28|deaths=20|assists=7|acs=328}}
+        |t2p2={{PSI|player=f4ngeer|agent=neon|kills=16|deaths=17|assists=6|acs=293}}
+        |t2p3={{PSI|player=Shr1mp|agent=fade|kills=13|deaths=18|assists=7|acs=156}}
+        |t2p4={{PSI|player=Bai|agent=vyse|kills=15|deaths=17|assists=5|acs=174}}
+        |t2p5={{PSI|player=iamgrq|agent=omen|kills=14|deaths=18|assists=7|acs=187}}
+
+        |t1firstside=atk|t1atk=6|t1def=5|t2atk=7|t2def=6
+        |map=Lotus|finished=true|vod=https://youtu.be/P2GVYVewZqE?t=4056
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Deryeon|agent=kayo|kills=7|deaths=14|assists=7|acs=134}}
+        |t1p2={{PSI|player=aluba|agent=sova|kills=11|deaths=14|assists=2|acs=200}}
+        |t1p3={{PSI|player=Spring|agent=omen|kills=13|deaths=14|assists=3|acs=215}}
+        |t1p4={{PSI|player=yosemite|agent=cypher|kills=11|deaths=15|assists=3|acs=198}}
+        |t1p5={{PSI|player=glacier (Taiwanese player)|agent=jett|kills=5|deaths=15|assists=3|acs=91}}
+
+        |t2p1={{PSI|player=K1ra|agent=omen|kills=11|deaths=8|assists=8|acs=191}}
+        |t2p2={{PSI|player=f4ngeer|agent=chamber|kills=13|deaths=9|assists=1|acs=203}}
+        |t2p3={{PSI|player=Shr1mp|agent=sova|kills=18|deaths=9|assists=7|acs=262}}
+        |t2p4={{PSI|player=Bai|agent=neon|kills=15|deaths=10|assists=3|acs=221}}
+        |t2p5={{PSI|player=iamgrq|agent=phoenix|kills=15|deaths=11|assists=8|acs=234}}
+
+        |t1firstside=atk|t1atk=2|t1def=2|t2atk=3|t2def=10
+        |map=Ascent|finished=true|vod=https://youtu.be/P2GVYVewZqE?t=8053
+    }}
+    |map3={{Map|map=Haven|finished=skip}}
+}}
+|M2={{Match
+    |date=July 14, 2026 - 19:20 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ADing|caster2=Zhou Tunma|vlr=701037
+    |opponent1={{TeamOpponent|xlg esports}}
+    |opponent2={{TeamOpponent|titan esports club}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|happywei|flag=tw}} 2 – '''5''' {{player|Dynamite|flag=cn}}
+	|mvp=CoCo
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Sunset|t2map1=Lotus
+        |t1map2=Summit|t2map2=Ascent
+        |t1map3=Haven|t2map3=Split
+        |decider=Breeze
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=happywei|agent=omen|kills=14|deaths=18|assists=9|acs=163}}
+        |t1p2={{PSI|player=Rarga|agent=chamber|kills=25|deaths=18|assists=5|acs=268}}
+        |t1p3={{PSI|player=NoMan|agent=waylay|kills=13|deaths=18|assists=1|acs=149}}
+        |t1p4={{PSI|player=Lysoar|agent=harbor|kills=16|deaths=18|assists=9|acs=163}}
+        |t1p5={{PSI|player=WsLeo|agent=fade|kills=16|deaths=16|assists=11|acs=180}}
+
+        |t2p1={{PSI|player=Spitfires|agent=sage|kills=11|deaths=17|assists=5|acs=127}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=17|deaths=16|assists=2|acs=183}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=23|deaths=16|assists=14|acs=248}}
+        |t2p4={{PSI|player=lucas|agent=tejo|kills=19|deaths=16|assists=3|acs=205}}
+        |t2p5={{PSI|player=Dynamite|agent=jett|kills=18|deaths=19|assists=2|acs=185}}
+
+        |t1firstside=def|t1atk=6|t1def=6|t2atk=6|t2def=6
+		|t1firstsideot=def|t1otatk=0|t1otdef=0|t2otatk=1|t2otdef=1
+        |map=Summit|finished=true|vod=https://youtu.be/P2GVYVewZqE?t=12245
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=happywei|agent=cypher|kills=13|deaths=11|assists=7|acs=165}}
+        |t1p2={{PSI|player=Rarga|agent=phoenix|kills=22|deaths=12|assists=6|acs=313}}
+        |t1p3={{PSI|player=NoMan|agent=jett|kills=17|deaths=13|assists=5|acs=230}}
+        |t1p4={{PSI|player=Lysoar|agent=omen|kills=12|deaths=14|assists=9|acs=172}}
+        |t1p5={{PSI|player=WsLeo|agent=sova|kills=16|deaths=11|assists=9|acs=228}}
+
+        |t2p1={{PSI|player=Spitfires|agent=phoenix|kills=14|deaths=17|assists=6|acs=251}}
+        |t2p2={{PSI|player=Haodong|agent=cypher|kills=10|deaths=16|assists=5|acs=149}}
+        |t2p3={{PSI|player=CoCo|agent=omen|kills=16|deaths=15|assists=14|acs=225}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=13|deaths=15|assists=8|acs=177}}
+        |t2p5={{PSI|player=Dynamite|agent=neon|kills=8|deaths=17|assists=7|acs=117}}
+
+        |t1firstside=def|t1atk=4|t1def=9|t2atk=3|t2def=4
+        |map=Ascent|finished=true|vod=https://youtu.be/P2GVYVewZqE?t=16488
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=happywei|agent=viper|kills=12|deaths=20|assists=3|acs=173}}
+        |t1p2={{PSI|player=Rarga|agent=phoenix|kills=26|deaths=19|assists=7|acs=319}}
+        |t1p3={{PSI|player=NoMan|agent=jett|kills=11|deaths=18|assists=5|acs=144}}
+        |t1p4={{PSI|player=Lysoar|agent=omen|kills=20|deaths=17|assists=3|acs=221}}
+        |t1p5={{PSI|player=WsLeo|agent=sova|kills=7|deaths=16|assists=6|acs=113}}
+
+        |t2p1={{PSI|player=Spitfires|agent=phoenix|kills=13|deaths=16|assists=2|acs=176}}
+        |t2p2={{PSI|player=Haodong|agent=omen|kills=17|deaths=19|assists=10|acs=233}}
+        |t2p3={{PSI|player=CoCo|agent=viper|kills=21|deaths=14|assists=5|acs=250}}
+        |t2p4={{PSI|player=lucas|agent=sova|kills=25|deaths=11|assists=3|acs=283}}
+        |t2p5={{PSI|player=Dynamite|agent=neon|kills=14|deaths=16|assists=9|acs=185}}
+
+        |t1firstside=atk|t1atk=4|t1def=6|t2atk=5|t2def=8
+        |map=Breeze|finished=true|vod=https://youtu.be/P2GVYVewZqE?t=19869
+    }}
+}}
+|M3={{Match
+    |date=July 15, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Alan (Chinese commentator)|caster2=LiuXiang|vlr=701038
+	|mvp=Setrod
+    |opponent1={{TeamOpponent|jd gaming}}
+    |opponent2={{TeamOpponent|funplus phoenix}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|crownfisher|flag=cn}} 3 – '''5''' {{player|Setrod|flag=tw}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Haven
+        |t1map2=Breeze|t2map2=Ascent
+        |t1map3=Lotus|t2map3=Sunset
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=zhe|agent=neon|kills=13|deaths=15|assists=2|acs=176}}
+        |t1p2={{PSI|player=Yuicaw|agent=viper|kills=14|deaths=16|assists=4|acs=187}}
+        |t1p3={{PSI|player=BerLIN|agent=sova|kills=14|deaths=15|assists=3|acs=205}}
+        |t1p4={{PSI|player=crownfisher|agent=jett|kills=11|deaths=14|assists=2|acs=153}}
+        |t1p5={{PSI|player=jkuro|agent=astra|kills=11|deaths=14|assists=1|acs=152}}
+		
+        |t2p1={{PSI|player=AAAAY|agent=viper|kills=9|deaths=12|assists=7|acs=107}}
+        |t2p2={{PSI|player=coconut|agent=sova|kills=17|deaths=11|assists=3|acs=213}}
+        |t2p3={{PSI|player=kovaQ|agent=harbor|kills=13|deaths=14|assists=10|acs=169}}
+        |t2p4={{PSI|player=Setrod|agent=neon|kills=18|deaths=12|assists=3|acs=231}}
+        |t2p5={{PSI|player=Xlele|agent=jett|kills=17|deaths=14|assists=1|acs=231}}
+
+        |t1firstside=def|t1atk=3|t1def=5|t2atk=7|t2def=6
+        |map=Breeze|finished=true|vod=https://youtu.be/vhH5u4c450c?t=4272
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=zhe|agent=phoenix|kills=17|deaths=15|assists=9|acs=205}}
+        |t1p2={{PSI|player=Yuicaw|agent=cypher|kills=12|deaths=14|assists=7|acs=167}}
+        |t1p3={{PSI|player=BerLIN|agent=sova|kills=13|deaths=14|assists=10|acs=179}}
+        |t1p4={{PSI|player=crownfisher|agent=jett|kills=12|deaths=19|assists=4|acs=164}}
+        |t1p5={{PSI|player=jkuro|agent=omen|kills=11|deaths=17|assists=7|acs=135}}
+		
+        |t2p1={{PSI|player=AAAAY|agent=cypher|kills=12|deaths=12|assists=4|acs=144}}
+        |t2p2={{PSI|player=coconut|agent=sova|kills=10|deaths=13|assists=8|acs=149}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=21|deaths=13|assists=7|acs=255}}
+        |t2p4={{PSI|player=Setrod|agent=neon|kills=22|deaths=13|assists=5|acs=316}}
+        |t2p5={{PSI|player=Xlele|agent=jett|kills=14|deaths=14|assists=2|acs=164}}
+
+        |t1firstside=def|t1atk=4|t1def=5|t2atk=7|t2def=6
+        |map=Ascent|finished=true|vod=https://youtu.be/vhH5u4c450c?t=8077
+    }}
+    |map3={{Map|map=Split|finished=skip}}
+}}
+|M4={{Match
+    |date=July 15, 2026 - 19:20 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Nai8|caster2=NOC|vlr=701039
+    |opponent1={{TeamOpponent|edward gaming}}
+    |opponent2={{TeamOpponent|tyloo}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Autumn|flag=kr}} '''5''' – 1 {{player|Scales|flag=cn}}
+	|mvp=Splash
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Split|t2map1=Summit
+        |t1map2=Sunset|t2map2=Breeze
+        |t1map3=Haven|t2map3=Ascent
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Jieni7|agent=kayo|kills=11|deaths=17|assists=6|acs=158}}
+        |t1p2={{PSI|player=nobody|agent=sova|kills=12|deaths=15|assists=6|acs=197}}
+        |t1p3={{PSI|player=Smoggy|agent=omen|kills=17|deaths=17|assists=7|acs=236}}
+        |t1p4={{PSI|player=ZmjjKK|agent=neon|kills=12|deaths=17|assists=1|acs=144}}
+        |t1p5={{PSI|player=CHICHOO|agent=cypher|kills=16|deaths=16|assists=10|acs=250}}
+
+        |t2p1={{PSI|player=slowly|agent=chamber|kills=24|deaths=12|assists=2|acs=302}}
+        |t2p2={{PSI|player=Erv|agent=omen|kills=17|deaths=12|assists=12|acs=217}}
+        |t2p3={{PSI|player=SiuFatBB|agent=fade|kills=15|deaths=14|assists=6|acs=183}}
+        |t2p4={{PSI|player=Splash|agent=neon|kills=13|deaths=16|assists=9|acs=206}}
+        |t2p5={{PSI|player=Scales|agent=sage|kills=13|deaths=14|assists=9|acs=193}}
+
+        |t1firstside=def|t1atk=5|t1def=3|t2atk=9|t2def=4
+        |map=Sunset|finished=true|vod=https://youtu.be/vhH5u4c450c?t=13032
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Jieni7|agent=kayo|kills=13|deaths=15|assists=4|acs=181}}
+        |t1p2={{PSI|player=nobody|agent=sova|kills=9|deaths=11|assists=5|acs=138}}
+        |t1p3={{PSI|player=Smoggy|agent=harbor|kills=15|deaths=15|assists=9|acs=226}}
+        |t1p4={{PSI|player=ZmjjKK|agent=jett|kills=20|deaths=13|assists=2|acs=274}}
+        |t1p5={{PSI|player=CHICHOO|agent=viper|kills=18|deaths=10|assists=4|acs=226}}
+
+        |t2p1={{PSI|player=slowly|agent=astra|kills=18|deaths=15|assists=3|acs=261}}
+        |t2p2={{PSI|player=Erv|agent=kayo|kills=10|deaths=17|assists=15|acs=184}}
+        |t2p3={{PSI|player=SiuFatBB|agent=sova|kills=13|deaths=14|assists=6|acs=185}}
+        |t2p4={{PSI|player=Splash|agent=jett|kills=14|deaths=16|assists=2|acs=208}}
+        |t2p5={{PSI|player=Scales|agent=viper|kills=9|deaths=13|assists=6|acs=104}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=3
+        |map=Breeze|finished=true|vod=https://youtu.be/vhH5u4c450c?t=16574
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=Jieni7|agent=vyse|kills=3|deaths=16|assists=4|acs=99}}
+        |t1p2={{PSI|player=nobody|agent=skye|kills=10|deaths=14|assists=5|acs=172}}
+        |t1p3={{PSI|player=Smoggy|agent=raze|kills=9|deaths=14|assists=4|acs=187}}
+        |t1p4={{PSI|player=ZmjjKK|agent=jett|kills=13|deaths=15|assists=2|acs=232}}
+        |t1p5={{PSI|player=CHICHOO|agent=omen|kills=12|deaths=14|assists=1|acs=190}}
+
+        |t2p1={{PSI|player=slowly|agent=omen|kills=14|deaths=10|assists=7|acs=220}}
+        |t2p2={{PSI|player=Erv|agent=waylay|kills=16|deaths=9|assists=2|acs=256}}
+        |t2p3={{PSI|player=SiuFatBB|agent=fade|kills=9|deaths=9|assists=5|acs=131}}
+        |t2p4={{PSI|player=Splash|agent=raze|kills=27|deaths=9|assists=6|acs=475}}
+        |t2p5={{PSI|player=Scales|agent=cypher|kills=7|deaths=10|assists=8|acs=147}}
+
+        |t1firstside=atk|t1atk=3|t1def=0|t2atk=4|t2def=9
+        |map=Lotus|finished=true|vod=https://youtu.be/vhH5u4c450c?t=19547
+    }}
+}}
+|M5={{Match
+    |date=July 16, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Alan (Chinese commentator)|caster2=1703|vlr=701040
+	|mvp=whzy
+    |opponent1={{TeamOpponent|all gamers}}
+    |opponent2={{TeamOpponent|bilibili gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Bai|flag=cn}} '''5''' – 2 {{player|FT|flag=cn}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Split
+        |t1map2=Haven|t2map2=Summit
+        |t1map3=Lotus|t2map3=Ascent
+        |decider=Sunset
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=K1ra|agent=viper|kills=14|deaths=16|assists=5|acs=190}}
+        |t1p2={{PSI|player=f4ngeer|agent=chamber|kills=12|deaths=18|assists=2|acs=164}}
+        |t1p3={{PSI|player=Shr1mp|agent=fade|kills=14|deaths=17|assists=2|acs=173}}
+        |t1p4={{PSI|player=Bai|agent=neon|kills=15|deaths=15|assists=5|acs=189}}
+        |t1p5={{PSI|player=iamgrq|agent=omen|kills=15|deaths=16|assists=7|acs=186}}
+
+        |t2p1={{PSI|player=whzy|agent=raze|kills=23|deaths=14|assists=5|acs=290}}
+        |t2p2={{PSI|player=Knight|agent=cypher|kills=15|deaths=15|assists=4|acs=207}}
+        |t2p3={{PSI|player=nephh|agent=skye|kills=16|deaths=14|assists=7|acs=211}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=11|deaths=16|assists=7|acs=146}}
+        |t2p5={{PSI|player=FT|agent=omen|kills=17|deaths=11|assists=4|acs=179}}
+
+        |t1firstside=def|t1atk=1|t1def=8|t2atk=4|t2def=9
+        |map=Summit|finished=true|vod=http://youtu.be/xMvAZOktu2g?t=4088
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=K1ra|agent=omen|kills=21|deaths=14|assists=9|acs=248}}
+        |t1p2={{PSI|player=f4ngeer|agent=chamber|kills=17|deaths=17|assists=5|acs=204}}
+        |t1p3={{PSI|player=Shr1mp|agent=sova|kills=14|deaths=14|assists=10|acs=184}}
+        |t1p4={{PSI|player=Bai|agent=neon|kills=14|deaths=16|assists=9|acs=202}}
+        |t1p5={{PSI|player=iamgrq|agent=phoenix|kills=19|deaths=15|assists=8|acs=244}}
+
+        |t2p1={{PSI|player=whzy|agent=chamber|kills=16|deaths=16|assists=2|acs=195}}
+        |t2p2={{PSI|player=Knight|agent=sova|kills=20|deaths=17|assists=5|acs=257}}
+        |t2p3={{PSI|player=nephh|agent=omen|kills=7|deaths=17|assists=12|acs=118}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=22|deaths=16|assists=4|acs=284}}
+        |t2p5={{PSI|player=FT|agent=phoenix|kills=11|deaths=19|assists=8|acs=124}}
+
+        |t1firstside=def|t1atk=6|t1def=7|t2atk=5|t2def=5
+        |map=Haven|finished=true|vod=http://youtu.be/xMvAZOktu2g?t=7916
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=K1ra|agent=cypher|kills=16|deaths=15|assists=8|acs=211}}
+        |t1p2={{PSI|player=f4ngeer|agent=raze|kills=22|deaths=19|assists=5|acs=265}}
+        |t1p3={{PSI|player=Shr1mp|agent=fade|kills=11|deaths=16|assists=6|acs=151}}
+        |t1p4={{PSI|player=Bai|agent=neon|kills=14|deaths=17|assists=11|acs=214}}
+        |t1p5={{PSI|player=iamgrq|agent=omen|kills=18|deaths=16|assists=6|acs=214}}
+
+        |t2p1={{PSI|player=whzy|agent=phoenix|kills=17|deaths=16|assists=9|acs=226}}
+        |t2p2={{PSI|player=Knight|agent=omen|kills=18|deaths=16|assists=9|acs=228}}
+        |t2p3={{PSI|player=nephh|agent=fade|kills=21|deaths=14|assists=12|acs=261}}
+        |t2p4={{PSI|player=rushia|agent=cypher|kills=21|deaths=15|assists=5|acs=262}}
+        |t2p5={{PSI|player=FT|agent=neon|kills=6|deaths=20|assists=2|acs=72}}
+
+        |t1firstside=atk|t1atk=3|t1def=6|t2atk=4|t2def=9
+        |map=Sunset|finished=true|vod=http://youtu.be/xMvAZOktu2g?t=11892
+    }}
+}}
+|M6={{Match
+    |date=July 16, 2026 - 20:30 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Nai8|caster2=TianShi|vlr=701041
+    |opponent1={{TeamOpponent|xlg esports}}
+    |opponent2={{TeamOpponent|dragon ranger gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|happywei|flag=tw}} '''5''' – 2 {{player|SpiritZ1|flag=tw}}
+	|mvp=happywei
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Sunset|t2map1=Summit
+        |t1map2=Lotus|t2map2=Haven
+        |t1map3=Split|t2map3=Ascent
+        |decider=Breeze
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=happywei|agent=omen|kills=20|deaths=14|assists=9|acs=296}}
+        |t1p2={{PSI|player=Rarga|agent=jett|kills=12|deaths=12|assists=4|acs=168}}
+        |t1p3={{PSI|player=NoMan|agent=raze|kills=12|deaths=9|assists=4|acs=155}}
+        |t1p4={{PSI|player=Lysoar|agent=vyse|kills=18|deaths=11|assists=9|acs=259}}
+        |t1p5={{PSI|player=WsLeo|agent=fade|kills=14|deaths=13|assists=5|acs=206}}
+
+        |t2p1={{PSI|player=vo0kashu|agent=cypher|kills=14|deaths=15|assists=7|acs=232}}
+        |t2p2={{PSI|player=Life|agent=waylay|kills=10|deaths=13|assists=0|acs=138}}
+        |t2p3={{PSI|player=Nicc|agent=skye|kills=10|deaths=16|assists=7|acs=164}}
+        |t2p4={{PSI|player=SpiritZ1|agent=yoru|kills=15|deaths=17|assists=5|acs=245}}
+        |t2p5={{PSI|player=Verse|agent=omen|kills=10|deaths=15|assists=8|acs=151}}
+
+        |t1firstside=def|t1atk=7|t1def=6|t2atk=6|t2def=1
+        |map=Lotus|finished=true|vod=https://youtu.be/xMvAZOktu2g?t=17224
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=happywei|agent=viper|kills=20|deaths=14|assists=10|acs=277}}
+        |t1p2={{PSI|player=Rarga|agent=neon|kills=17|deaths=12|assists=1|acs=181}}
+        |t1p3={{PSI|player=NoMan|agent=killjoy|kills=14|deaths=11|assists=6|acs=153}}
+        |t1p4={{PSI|player=Lysoar|agent=omen|kills=21|deaths=12|assists=11|acs=274}}
+        |t1p5={{PSI|player=WsLeo|agent=sova|kills=19|deaths=14|assists=11|acs=262}}
+
+        |t2p1={{PSI|player=vo0kashu|agent=cypher|kills=21|deaths=14|assists=6|acs=302}}
+        |t2p2={{PSI|player=Life|agent=neon|kills=11|deaths=17|assists=1|acs=133}}
+        |t2p3={{PSI|player=Nicc|agent=skye|kills=10|deaths=20|assists=5|acs=134}}
+        |t2p4={{PSI|player=SpiritZ1|agent=waylay|kills=14|deaths=21|assists=4|acs=193}}
+        |t2p5={{PSI|player=Verse|agent=omen|kills=7|deaths=19|assists=7|acs=93}}
+
+        |t1firstside=atk|t1atk=6|t1def=7|t2atk=3|t2def=6
+        |map=Haven|finished=true|vod=https://youtu.be/xMvAZOktu2g?t=20534
+    }}
+    |map3={{Map|map=Breeze|finished=skip}}
+}}
+|M7={{Match
+    |date=July 17, 2026 - 15:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ADing|caster2=1703|vlr=701042
+    |opponent1={{TeamOpponent|nova esports}}
+    |opponent2={{TeamOpponent|jd gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|swagzor|flag=ru}} '''5''' – 3 {{player|crownfisher|flag=cn}}
+	|mvp=swagzor
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Haven|t2map1=Summit
+        |t1map2=Lotus|t2map2=Split
+        |t1map3=Sunset|t2map3=Ascent
+        |decider=Breeze
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=qiutiaN|agent=deadlock|kills=6|deaths=12|assists=9|acs=126}}
+        |t1p2={{PSI|player=cb|agent=skye|kills=11|deaths=10|assists=10|acs=207}}
+        |t1p3={{PSI|player=swagzor|agent=raze|kills=25|deaths=9|assists=5|acs=418}}
+        |t1p4={{PSI|player=GuanG|agent=viper|kills=15|deaths=6|assists=1|acs=210}}
+        |t1p5={{PSI|player=Ezeir|agent=astra|kills=15|deaths=8|assists=5|acs=238}}
+
+        |t2p1={{PSI|player=zhe|agent=neon|kills=11|deaths=14|assists=2|acs=198}}
+        |t2p2={{PSI|player=Yuicaw|agent=viper|kills=12|deaths=13|assists=3|acs=215}}
+        |t2p3={{PSI|player=BerLIN|agent=skye|kills=9|deaths=14|assists=7|acs=142}}
+        |t2p4={{PSI|player=crownfisher|agent=waylay|kills=3|deaths=16|assists=2|acs=77}}
+        |t2p5={{PSI|player=jkuro|agent=omen|kills=10|deaths=15|assists=6|acs=170}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=0
+        |map=Split|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=4113
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=qiutiaN|agent=fade|kills=10|deaths=15|assists=5|acs=110}}
+        |t1p2={{PSI|player=cb|agent=killjoy|kills=17|deaths=16|assists=6|acs=235}}
+        |t1p3={{PSI|player=swagzor|agent=raze|kills=21|deaths=16|assists=3|acs=289}}
+        |t1p4={{PSI|player=GuanG|agent=viper|kills=15|deaths=16|assists=12|acs=243}}
+        |t1p5={{PSI|player=Ezeir|agent=omen|kills=11|deaths=14|assists=9|acs=156}}
+
+        |t2p1={{PSI|player=zhe|agent=chamber|kills=18|deaths=13|assists=4|acs=234}}
+        |t2p2={{PSI|player=Yuicaw|agent=vyse|kills=10|deaths=15|assists=6|acs=147}}
+        |t2p3={{PSI|player=BerLIN|agent=fade|kills=10|deaths=15|assists=9|acs=153}}
+        |t2p4={{PSI|player=crownfisher|agent=raze|kills=16|deaths=18|assists=2|acs=221}}
+        |t2p5={{PSI|player=jkuro|agent=omen|kills=23|deaths=13|assists=5|acs=248}}
+
+        |t1firstside=def|t1atk=3|t1def=5|t2atk=7|t2def=6
+        |map=Lotus|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=7002
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=qiutiaN|agent=sova|kills=12|deaths=16|assists=8|acs=165}}
+        |t1p2={{PSI|player=cb|agent=phoenix|kills=13|deaths=12|assists=7|acs=162}}
+        |t1p3={{PSI|player=swagzor|agent=neon|kills=22|deaths=15|assists=3|acs=263}}
+        |t1p4={{PSI|player=GuanG|agent=viper|kills=18|deaths=15|assists=8|acs=224}}
+        |t1p5={{PSI|player=Ezeir|agent=harbor|kills=19|deaths=17|assists=10|acs=234}}
+
+        |t2p1={{PSI|player=zhe|agent=neon|kills=28|deaths=17|assists=4|acs=360}}
+        |t2p2={{PSI|player=Yuicaw|agent=viper|kills=12|deaths=18|assists=5|acs=151}}
+        |t2p3={{PSI|player=BerLIN|agent=sova|kills=9|deaths=16|assists=9|acs=166}}
+        |t2p4={{PSI|player=crownfisher|agent=jett|kills=15|deaths=17|assists=1|acs=182}}
+        |t2p5={{PSI|player=jkuro|agent=astra|kills=11|deaths=16|assists=6|acs=143}}
+
+        |t1firstside=def|t1atk=6|t1def=7|t2atk=5|t2def=4
+        |map=Breeze|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=10288
+    }}
+}}
+|M8={{Match
+    |date=July 17, 2026 - 18:10 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Saki|caster2=1703|vlr=701043
+    |opponent1={{TeamOpponent|tyloo}}
+    |opponent2={{TeamOpponent|funplus phoenix}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Splash|flag=id}} '''5''' – 1 {{player|Setrod|flag=tw}}
+	|mvp=Splash
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Haven
+        |t1map2=Lotus|t2map2=Ascent
+        |t1map3=Breeze|t2map3=Sunset
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=slowly|agent=kayo|kills=9|deaths=15|assists=7|acs=152}}
+        |t1p2={{PSI|player=Erv|agent=omen|kills=14|deaths=13|assists=11|acs=201}}
+        |t1p3={{PSI|player=SiuFatBB|agent=sova|kills=4|deaths=13|assists=9|acs=86}}
+        |t1p4={{PSI|player=Splash|agent=jett|kills=14|deaths=15|assists=1|acs=198}}
+        |t1p5={{PSI|player=Scales|agent=killjoy|kills=8|deaths=14|assists=2|acs=123}}
+
+        |t2p1={{PSI|player=AAAAY|agent=cypher|kills=13|deaths=10|assists=3|acs=149}}
+        |t2p2={{PSI|player=coconut|agent=sova|kills=14|deaths=10|assists=2|acs=191}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=15|deaths=9|assists=10|acs=222}}
+        |t2p4={{PSI|player=Setrod|agent=neon|kills=20|deaths=10|assists=4|acs=278}}
+        |t2p5={{PSI|player=Xlele|agent=jett|kills=8|deaths=10|assists=1|acs=95}}
+
+        |t1firstside=def|t1atk=1|t1def=6|t2atk=6|t2def=7
+        |map=Ascent|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=15374
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=slowly|agent=omen|kills=14|deaths=18|assists=12|acs=168}}
+        |t1p2={{PSI|player=Erv|agent=waylay|kills=14|deaths=18|assists=4|acs=162}}
+        |t1p3={{PSI|player=SiuFatBB|agent=fade|kills=13|deaths=13|assists=11|acs=161}}
+        |t1p4={{PSI|player=Splash|agent=raze|kills=29|deaths=16|assists=4|acs=345}}
+        |t1p5={{PSI|player=Scales|agent=cypher|kills=13|deaths=14|assists=1|acs=138}}
+
+        |t2p1={{PSI|player=AAAAY|agent=viper|kills=19|deaths=18|assists=7|acs=244}}
+        |t2p2={{PSI|player=coconut|agent=fade|kills=19|deaths=14|assists=6|acs=220}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=14|deaths=18|assists=5|acs=159}}
+        |t2p4={{PSI|player=Setrod|agent=vyse|kills=19|deaths=14|assists=6|acs=220}}
+        |t2p5={{PSI|player=Xlele|agent=raze|kills=10|deaths=18|assists=2|acs=126}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=7
+        |map=Lotus|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=18478
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=slowly|agent=jett|kills=24|deaths=12|assists=3|acs=286}}
+        |t1p2={{PSI|player=Erv|agent=omen|kills=12|deaths=13|assists=6|acs=137}}
+        |t1p3={{PSI|player=SiuFatBB|agent=skye|kills=10|deaths=12|assists=12|acs=137}}
+        |t1p4={{PSI|player=Splash|agent=raze|kills=21|deaths=14|assists=4|acs=250}}
+        |t1p5={{PSI|player=Scales|agent=viper|kills=17|deaths=15|assists=2|acs=224}}
+
+        |t2p1={{PSI|player=AAAAY|agent=viper|kills=18|deaths=17|assists=5|acs=206}}
+        |t2p2={{PSI|player=coconut|agent=fade|kills=13|deaths=16|assists=5|acs=151}}
+        |t2p3={{PSI|player=kovaQ|agent=omen|kills=12|deaths=16|assists=5|acs=140}}
+        |t2p4={{PSI|player=Setrod|agent=neon|kills=11|deaths=17|assists=10|acs=178}}
+        |t2p5={{PSI|player=Xlele|agent=waylay|kills=11|deaths=18|assists=2|acs=147}}
+
+        |t1firstside=atk|t1atk=8|t1def=5|t2atk=6|t2def=4
+        |map=Split|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=22272
+    }}
+}}
+|M9={{Match
+    |date=July 17, 2026 - 21:30 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ADing|caster2=Saki|vlr=701044
+    |opponent1={{TeamOpponent|trace esports}}
+    |opponent2={{TeamOpponent|edward gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|LuoK1ng|flag=cn}} '''5''' – 1 {{player|Autumn|flag=kr}}
+	|mvp=nobody
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Haven|t2map1=Summit
+        |t1map2=Ascent|t2map2=Breeze
+        |t1map3=Split|t2map3=Lotus
+        |decider=Sunset
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Kai|agent=jett|kills=11|deaths=15|assists=1|acs=222}}
+        |t1p2={{PSI|player=deLb|agent=viper|kills=11|deaths=15|assists=5|acs=210}}
+        |t1p3={{PSI|player=FKEY|agent=kayo|kills=9|deaths=14|assists=7|acs=177}}
+        |t1p4={{PSI|player=FengF|agent=sova|kills=4|deaths=14|assists=3|acs=91}}
+        |t1p5={{PSI|player=LuoK1ng|agent=harbor|kills=10|deaths=13|assists=4|acs=187}}
+
+        |t2p1={{PSI|player=Jieni7|agent=kayo|kills=9|deaths=9|assists=11|acs=173}}
+        |t2p2={{PSI|player=nobody|agent=sova|kills=25|deaths=6|assists=7|acs=410}}
+        |t2p3={{PSI|player=Smoggy|agent=harbor|kills=9|deaths=12|assists=14|acs=169}}
+        |t2p4={{PSI|player=ZmjjKK|agent=jett|kills=21|deaths=11|assists=6|acs=353}}
+        |t2p5={{PSI|player=CHICHOO|agent=viper|kills=7|deaths=8|assists=3|acs=112}}
+
+        |t1firstside=atk|t1atk=2|t1def=1|t2atk=3|t2def=10
+        |map=Breeze|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=27660
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Kai|agent=jett|kills=24|deaths=20|assists=7|acs=314}}
+        |t1p2={{PSI|player=deLb|agent=cypher|kills=8|deaths=19|assists=4|acs=107}}
+        |t1p3={{PSI|player=FKEY|agent=kayo|kills=15|deaths=18|assists=16|acs=192}}
+        |t1p4={{PSI|player=FengF|agent=sova|kills=20|deaths=17|assists=8|acs=225}}
+        |t1p5={{PSI|player=LuoK1ng|agent=omen|kills=13|deaths=19|assists=13|acs=150}}
+
+        |t2p1={{PSI|player=Jieni7|agent=kayo|kills=22|deaths=13|assists=11|acs=236}}
+        |t2p2={{PSI|player=nobody|agent=sova|kills=22|deaths=14|assists=6|acs=234}}
+        |t2p3={{PSI|player=Smoggy|agent=omen|kills=15|deaths=19|assists=12|acs=188}}
+        |t2p4={{PSI|player=ZmjjKK|agent=jett|kills=19|deaths=21|assists=4|acs=249}}
+        |t2p5={{PSI|player=CHICHOO|agent=cypher|kills=15|deaths=13|assists=8|acs=174}}
+
+        |t1firstside=atk|t1atk=5|t1def=6|t2atk=6|t2def=7
+        |map=Ascent|finished=true|vod=https://youtu.be/ZIWyItG65JY?t=30293
+    }}
+    |map3={{Map|map=Sunset|finished=skip}}
+}}
+|M10={{Match
+    |date=July 18, 2026 - 17:30 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Alan (Chinese commentator) |caster2=1703 |vlr=701045
+    |opponent1={{TeamOpponent|titan esports club}}
+    |opponent2={{TeamOpponent|bilibili gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Dynamite|flag=cn}} '''5''' – 4 {{player|FT|flag=cn}}
+	|mvp=nephh
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Lotus|t2map1=Breeze
+        |t1map2=Split|t2map2=Summit
+        |t1map3=Sunset|t2map3=Ascent
+        |decider=Haven
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Spitfires|agent=phoenix|kills=16|deaths=16|assists=5|acs=189}}
+        |t1p2={{PSI|player=Haodong|agent=cypher|kills=16|deaths=13|assists=3|acs=179}}
+        |t1p3={{PSI|player=CoCo|agent=omen|kills=11|deaths=20|assists=8|acs=147}}
+        |t1p4={{PSI|player=lucas|agent=fade|kills=16|deaths=20|assists=8|acs=213}}
+        |t1p5={{PSI|player=Dynamite|agent=neon|kills=17|deaths=19|assists=7|acs=235}}
+
+        |t2p1={{PSI|player=whzy|agent=raze|kills=19|deaths=16|assists=7|acs=255}}
+        |t2p2={{PSI|player=Knight|agent=cypher|kills=20|deaths=13|assists=5|acs=235}}
+        |t2p3={{PSI|player=nephh|agent=skye|kills=17|deaths=15|assists=7|acs=197}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=18|deaths=17|assists=4|acs=244}}
+        |t2p5={{PSI|player=FT|agent=omen|kills=14|deaths=15|assists=9|acs=149}}
+
+        |t1firstside=def|t1atk=2|t1def=8|t2atk=4|t2def=9
+        |map=Summit|finished=true|vod=https://youtu.be/gZO0O4UUSJk?t=12883
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Spitfires|agent=phoenix|kills=15|deaths=18|assists=5|acs=204}}
+        |t1p2={{PSI|player=Haodong|agent=omen|kills=15|deaths=10|assists=5|acs=152}}
+        |t1p3={{PSI|player=CoCo|agent=viper|kills=17|deaths=12|assists=12|acs=225}}
+        |t1p4={{PSI|player=lucas|agent=fade|kills=16|deaths=14|assists=6|acs=192}}
+        |t1p5={{PSI|player=Dynamite|agent=neon|kills=16|deaths=18|assists=6|acs=208}}
+
+        |t2p1={{PSI|player=whzy|agent=raze|kills=13|deaths=16|assists=7|acs=191}}
+        |t2p2={{PSI|player=Knight|agent=omen|kills=14|deaths=18|assists=15|acs=226}}
+        |t2p3={{PSI|player=nephh|agent=skye|kills=24|deaths=13|assists=5|acs=274}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=11|deaths=16|assists=4|acs=169}}
+        |t2p5={{PSI|player=FT|agent=viper|kills=10|deaths=16|assists=6|acs=134}}
+
+        |t1firstside=atk|t1atk=7|t1def=6|t2atk=4|t2def=5
+        |map=Split|finished=true|vod=https://youtu.be/gZO0O4UUSJk?t=16894
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=Spitfires|agent=waylay|kills=14|deaths=16|assists=2|acs=215}}
+        |t1p2={{PSI|player=Haodong|agent=cypher|kills=7|deaths=15|assists=4|acs=108}}
+        |t1p3={{PSI|player=CoCo|agent=omen|kills=9|deaths=15|assists=7|acs=156}}
+        |t1p4={{PSI|player=lucas|agent=sova|kills=15|deaths=15|assists=3|acs=218}}
+        |t1p5={{PSI|player=Dynamite|agent=jett|kills=13|deaths=15|assists=3|acs=197}}
+
+        |t2p1={{PSI|player=whzy|agent=chamber|kills=13|deaths=12|assists=2|acs=181}}
+        |t2p2={{PSI|player=Knight|agent=sova|kills=20|deaths=9|assists=5|acs=287}}
+        |t2p3={{PSI|player=nephh|agent=omen|kills=18|deaths=10|assists=4|acs=256}}
+        |t2p4={{PSI|player=rushia|agent=neon|kills=17|deaths=12|assists=6|acs=264}}
+        |t2p5={{PSI|player=FT|agent=phoenix|kills=8|deaths=15|assists=3|acs=105}}
+
+        |t1firstside=def|t1atk=1|t1def=5|t2atk=7|t2def=6
+        |map=Haven|finished=true|vod=https://youtu.be/gZO0O4UUSJk?t=20656
+    }}
+}}
+|M11={{Match
+    |date=July 18, 2026 - 21:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Zhou Tunma |caster2=ChengKai |vlr=701046
+    |opponent1={{TeamOpponent|all gamers}}
+    |opponent2={{TeamOpponent|xlg esports}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|K1ra|flag=cn}} 2 – '''5''' {{player|happywei|flag=tw}}
+	|mvp=Lysoar
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Sunset
+        |t1map2=Haven|t2map2=Summit
+        |t1map3=Lotus|t2map3=Ascent
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=K1ra|agent=viper|kills=23|deaths=16|assists=5|acs=251}}
+        |t1p2={{PSI|player=f4ngeer|agent=chamber|kills=10|deaths=15|assists=3|acs=120}}
+        |t1p3={{PSI|player=Shr1mp|agent=fade|kills=10|deaths=16|assists=6|acs=120}}
+        |t1p4={{PSI|player=Bai|agent=neon|kills=18|deaths=21|assists=2|acs=216}}
+        |t1p5={{PSI|player=iamgrq|agent=omen|kills=20|deaths=17|assists=9|acs=242}}
+
+        |t2p1={{PSI|player=happywei|agent=omen|kills=21|deaths=16|assists=0|acs=242}}
+        |t2p2={{PSI|player=Rarga|agent=chamber|kills=19|deaths=16|assists=2|acs=234}}
+        |t2p3={{PSI|player=NoMan|agent=waylay|kills=11|deaths=17|assists=5|acs=146}}
+        |t2p4={{PSI|player=Lysoar|agent=harbor|kills=21|deaths=14|assists=10|acs=242}}
+        |t2p5={{PSI|player=WsLeo|agent=fade|kills=13|deaths=18|assists=4|acs=155}}
+
+        |t1firstside=def|t1atk=4|t1def=7|t2atk=5|t2def=8
+        |map=Summit|finished=true|vod=https://youtu.be/gZO0O4UUSJk?t=25512
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=K1ra|agent=omen|kills=14|deaths=19|assists=9|acs=172}}
+        |t1p2={{PSI|player=f4ngeer|agent=chamber|kills=10|deaths=19|assists=0|acs=109}}
+        |t1p3={{PSI|player=Shr1mp|agent=sova|kills=19|deaths=16|assists=6|acs=252}}
+        |t1p4={{PSI|player=Bai|agent=neon|kills=9|deaths=19|assists=2|acs=113}}
+        |t1p5={{PSI|player=iamgrq|agent=phoenix|kills=23|deaths=20|assists=4|acs=290}}
+
+        |t2p1={{PSI|player=happywei|agent=viper|kills=19|deaths=13|assists=9|acs=236}}
+        |t2p2={{PSI|player=Rarga|agent=neon|kills=13|deaths=17|assists=4|acs=150}}
+        |t2p3={{PSI|player=NoMan|agent=killjoy|kills=21|deaths=13|assists=5|acs=242}}
+        |t2p4={{PSI|player=Lysoar|agent=omen|kills=30|deaths=16|assists=13|acs=367}}
+        |t2p5={{PSI|player=WsLeo|agent=sova|kills=10|deaths=16|assists=13|acs=151}}
+
+        |t1firstside=def|t1atk=3|t1def=7|t2atk=5|t2def=8
+        |map=Haven|finished=true|vod=https://youtu.be/gZO0O4UUSJk?t=29643
+    }}
+    |map3={{Map|map=Split|finished=skip}}
+}}
+|M12={{Match
+    |date=July 19, 2026 - 15:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1= |caster2= |vlr=701047
+    |opponent1={{TeamOpponent|trace esports}}
+    |opponent2={{TeamOpponent|nova esports}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|deLb|flag=id}} '''5''' – 3 {{player|cb|flag=cn}}
+	|mvp=cb
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Haven|t2map1=Summit
+        |t1map2=Ascent|t2map2=Sunset
+        |t1map3=Split|t2map3=Lotus
+        |decider=Breeze
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Kai|agent=jett|kills=17|deaths=16|assists=0|acs=232}}
+        |t1p2={{PSI|player=deLb|agent=cypher|kills=14|deaths=13|assists=2|acs=212}}
+        |t1p3={{PSI|player=FKEY|agent=kayo|kills=12|deaths=18|assists=13|acs=206}}
+        |t1p4={{PSI|player=FengF|agent=sova|kills=7|deaths=17|assists=2|acs=111}}
+        |t1p5={{PSI|player=LuoK1ng|agent=omen|kills=9|deaths=14|assists=8|acs=137}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=sova|kills=13|deaths=10|assists=6|acs=177}}
+        |t2p2={{PSI|player=cb|agent=phoenix|kills=15|deaths=15|assists=7|acs=219}}
+        |t2p3={{PSI|player=swagzor|agent=neon|kills=18|deaths=16|assists=4|acs=259}}
+        |t2p4={{PSI|player=GuanG|agent=chamber|kills=14|deaths=10|assists=4|acs=184}}
+        |t2p5={{PSI|player=Ezeir|agent=omen|kills=18|deaths=9|assists=9|acs=246}}
+
+        |t1firstside=atk|t1atk=4|t1def=2|t2atk=5|t2def=8
+        |map=Ascent|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=4058
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Kai|agent=neon|kills=16|deaths=11|assists=2|acs=217}}
+        |t1p2={{PSI|player=deLb|agent=cypher|kills=21|deaths=8|assists=3|acs=276}}
+        |t1p3={{PSI|player=FKEY|agent=sage|kills=15|deaths=12|assists=2|acs=199}}
+        |t1p4={{PSI|player=FengF|agent=sova|kills=13|deaths=13|assists=9|acs=189}}
+        |t1p5={{PSI|player=LuoK1ng|agent=omen|kills=13|deaths=9|assists=8|acs=190}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=kayo|kills=9|deaths=16|assists=5|acs=137}}
+        |t2p2={{PSI|player=cb|agent=phoenix|kills=14|deaths=12|assists=6|acs=218}}
+        |t2p3={{PSI|player=swagzor|agent=neon|kills=12|deaths=17|assists=5|acs=199}}
+        |t2p4={{PSI|player=GuanG|agent=cypher|kills=11|deaths=16|assists=1|acs=134}}
+        |t2p5={{PSI|player=Ezeir|agent=omen|kills=7|deaths=17|assists=8|acs=120}}
+
+        |t1firstside=def|t1atk=6|t1def=7|t2atk=5|t2def=2
+        |map=Sunset|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=7243
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=Kai|agent=jett|kills=19|deaths=20|assists=2|acs=184}}
+        |t1p2={{PSI|player=deLb|agent=viper|kills=23|deaths=17|assists=6|acs=219}}
+        |t1p3={{PSI|player=FKEY|agent=kayo|kills=23|deaths=17|assists=15|acs=255}}
+        |t1p4={{PSI|player=FengF|agent=sova|kills=25|deaths=19|assists=6|acs=269}}
+        |t1p5={{PSI|player=LuoK1ng|agent=harbor|kills=14|deaths=20|assists=4|acs=123}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=sova|kills=10|deaths=20|assists=8|acs=122}}
+        |t2p2={{PSI|player=cb|agent=phoenix|kills=30|deaths=19|assists=2|acs=284}}
+        |t2p3={{PSI|player=swagzor|agent=neon|kills=24|deaths=25|assists=7|acs=262}}
+        |t2p4={{PSI|player=GuanG|agent=viper|kills=22|deaths=18|assists=1|acs=201}}
+        |t2p5={{PSI|player=Ezeir|agent=harbor|kills=7|deaths=22|assists=15|acs=92}}
+
+        |t1firstside=atk|t1atk=5|t1def=7|t2atk=5|t2def=7
+		|t1firstsideot=atk|t1otatk=1|t1otdef=0|t2otatk=2|t2otdef=1
+        |map=Breeze|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=10273
+    }}
+}}
+|M13={{Match
+    |date=July 19, 2026 - 18:30 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1= |caster2=|vlr=701048
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Verse|flag=cn}} 0 – '''5''' {{player|glacier|link=glacier (Taiwanese player)|flag=tw}}
+	|mvp=glacier (Taiwanese player)
+    |opponent1={{TeamOpponent|dragon ranger gaming}}
+    |opponent2={{TeamOpponent|wolves esports}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Breeze
+        |t1map2=Sunset|t2map2=Haven
+        |t1map3=Split|t2map3=Ascent
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=19|deaths=16|assists=5|acs=256}}
+        |t1p2={{PSI|player=Life|agent=neon|kills=11|deaths=20|assists=2|acs=146}}
+        |t1p3={{PSI|player=Nicc|agent=fade|kills=16|deaths=17|assists=9|acs=234}}
+        |t1p4={{PSI|player=SpiritZ1|agent=yoru|kills=15|deaths=20|assists=5|acs=207}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=14|deaths=15|assists=5|acs=166}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=12|deaths=16|assists=15|acs=167}}
+        |t2p2={{PSI|player=aluba|agent=sova|kills=18|deaths=15|assists=1|acs=193}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=18|deaths=13|assists=7|acs=229}}
+        |t2p4={{PSI|player=yosemite|agent=sage|kills=20|deaths=13|assists=8|acs=236}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=neon|kills=20|deaths=18|assists=4|acs=272}}
+
+        |t1firstside=atk|t1atk=5|t1def=4|t2atk=6|t2def=7
+        |map=Sunset|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=16209
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=15|deaths=16|assists=7|acs=206}}
+        |t1p2={{PSI|player=Life|agent=neon|kills=20|deaths=14|assists=2|acs=215}}
+        |t1p3={{PSI|player=Nicc|agent=skye|kills=8|deaths=14|assists=9|acs=107}}
+        |t1p4={{PSI|player=SpiritZ1|agent=waylay|kills=22|deaths=17|assists=6|acs=292}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=17|deaths=13|assists=9|acs=232}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=15|deaths=14|assists=13|acs=183}}
+        |t2p2={{PSI|player=aluba|agent=sova|kills=13|deaths=18|assists=6|acs=183}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=16|deaths=16|assists=7|acs=210}}
+        |t2p4={{PSI|player=yosemite|agent=killjoy|kills=12|deaths=17|assists=6|acs=166}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=neon|kills=18|deaths=17|assists=3|acs=236}}
+
+        |t1firstside=atk|t1atk=7|t1def=6|t2atk=4|t2def=5
+        |map=Haven|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=20205
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=vo0kashu|agent=cypher|kills=6|deaths=16|assists=4|acs=95}}
+        |t1p2={{PSI|player=Life|agent=waylay|kills=17|deaths=17|assists=8|acs=244}}
+        |t1p3={{PSI|player=Nicc|agent=skye|kills=25|deaths=14|assists=21|acs=340}}
+        |t1p4={{PSI|player=SpiritZ1|agent=yoru|kills=13|deaths=17|assists=4|acs=170}}
+        |t1p5={{PSI|player=Verse|agent=omen|kills=14|deaths=17|assists=14|acs=182}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=12|deaths=16|assists=6|acs=150}}
+        |t2p2={{PSI|player=aluba|agent=fade|kills=16|deaths=15|assists=7|acs=211}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=9|deaths=15|assists=2|acs=125}}
+        |t2p4={{PSI|player=yosemite|agent=vyse|kills=17|deaths=15|assists=4|acs=233}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=27|deaths=14|assists=1|acs=354}}
+
+        |t1firstside=atk|t1atk=4|t1def=4|t2atk=5|t2def=8
+        |map=Lotus|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=23707
+    }}
+}}
+|M14={{Match
+    |date=July 19, 2026 - 21:50 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1= |caster2=|vlr=701049
+    |opponent1={{TeamOpponent|edward gaming}}
+    |opponent2={{TeamOpponent|jd gaming}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Autumn|flag=kr}} 2 – '''5''' {{player|BerLIN|flag=tw}}
+	|mvp=ZmjjKK
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Lotus|t2map1=Summit
+        |t1map2=Breeze|t2map2=Haven
+        |t1map3=Split|t2map3=Ascent
+        |decider=Sunset
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Jieni7|agent=kayo|kills=20|deaths=14|assists=11|acs=246}}
+        |t1p2={{PSI|player=nobody|agent=sova|kills=13|deaths=14|assists=8|acs=165}}
+        |t1p3={{PSI|player=Smoggy|agent=harbor|kills=12|deaths=15|assists=10|acs=146}}
+        |t1p4={{PSI|player=ZmjjKK|agent=jett|kills=23|deaths=18|assists=0|acs=273}}
+        |t1p5={{PSI|player=CHICHOO|agent=viper|kills=19|deaths=15|assists=4|acs=222}}
+
+        |t2p1={{PSI|player=zhe|agent=neon|kills=12|deaths=19|assists=1|acs=152}}
+        |t2p2={{PSI|player=Yuicaw|agent=viper|kills=13|deaths=18|assists=8|acs=192}}
+        |t2p3={{PSI|player=BerLIN|agent=sova|kills=21|deaths=18|assists=6|acs=268}}
+        |t2p4={{PSI|player=crownfisher|agent=harbor|kills=20|deaths=16|assists=6|acs=230}}
+        |t2p5={{PSI|player=jkuro|agent=jett|kills=10|deaths=16|assists=1|acs=114}}
+
+        |t1firstside=atk|t1atk=8|t1def=5|t2atk=6|t2def=4
+        |map=Breeze|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=28618
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Jieni7|agent=omen|kills=13|deaths=10|assists=16|acs=169}}
+        |t1p2={{PSI|player=nobody|agent=sova|kills=22|deaths=11|assists=11|acs=336}}
+        |t1p3={{PSI|player=Smoggy|agent=waylay|kills=14|deaths=16|assists=6|acs=199}}
+        |t1p4={{PSI|player=ZmjjKK|agent=neon|kills=21|deaths=16|assists=6|acs=287}}
+        |t1p5={{PSI|player=CHICHOO|agent=cypher|kills=12|deaths=12|assists=7|acs=161}}
+
+        |t2p1={{PSI|player=zhe|agent=neon|kills=13|deaths=15|assists=7|acs=188}}
+        |t2p2={{PSI|player=Yuicaw|agent=cypher|kills=14|deaths=17|assists=7|acs=199}}
+        |t2p3={{PSI|player=BerLIN|agent=sova|kills=7|deaths=16|assists=5|acs=127}}
+        |t2p4={{PSI|player=crownfisher|agent=omen|kills=17|deaths=16|assists=8|acs=223}}
+        |t2p5={{PSI|player=jkuro|agent=phoenix|kills=14|deaths=18|assists=9|acs=219}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=3
+        |map=Haven|finished=true|vod=https://youtu.be/4_-gD4SVu68?t=31900
+    }}
+    |map3={{Map|map=Sunset|finished=skip}}
+}}
+}}
+
+{{box|break|padding=2em}}
+
+====={{HiddenSort|Week 3}}=====
+{{Matchlist|id=rI5IilFF3P|width=350px|title=Week 3|matchsection=Group Stage
+|M1header=July 20, 2026
+|M3header=July 21, 2026
+|M5header=July 22, 2026
+|M7header=July 23, 2026
+|M1={{Match
+    |date=July 20, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=TianShi|caster2=BaiYang|vlr=701050
+    |opponent1={{TeamOpponent|titan esports club}}
+    |opponent2={{TeamOpponent|all gamers}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|ra1ny|flag=tw}} '''5''' – 4 {{player|K1ra|flag=cn}}
+	|mvp=K1ra
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Lotus|t2map1=Breeze
+        |t1map2=Summit|t2map2=Split
+        |t1map3=Haven|t2map3=Sunset
+        |decider=Ascent
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=ra1ny|agent=neon|kills=15|deaths=19|assists=3|acs=193}}
+        |t1p2={{PSI|player=Haodong|agent=omen|kills=15|deaths=14|assists=9|acs=195}}
+        |t1p3={{PSI|player=CoCo|agent=viper|kills=15|deaths=15|assists=5|acs=186}}
+        |t1p4={{PSI|player=lucas|agent=fade|kills=9|deaths=17|assists=3|acs=115}}
+        |t1p5={{PSI|player=Dynamite|agent=phoenix|kills=17|deaths=17|assists=4|acs=223}}
+
+        |t2p1={{PSI|player=K1ra|agent=raze|kills=21|deaths=14|assists=7|acs=270}}
+        |t2p2={{PSI|player=f4ngeer|agent=jett|kills=13|deaths=17|assists=8|acs=172}}
+        |t2p3={{PSI|player=Shr1mp|agent=skye|kills=18|deaths=12|assists=8|acs=215}}
+        |t2p4={{PSI|player=Bai|agent=viper|kills=17|deaths=14|assists=4|acs=196}}
+        |t2p5={{PSI|player=iamgrq|agent=omen|kills=13|deaths=15|assists=10|acs=166}}
+
+        |t1firstside=def|t1atk=3|t1def=7|t2atk=5|t2def=8
+        |map=Split|finished=true|vod=https://youtu.be/lpKKgMo-JVI?t=4123
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=ra1ny|agent=neon|kills=6|deaths=17|assists=1|acs=98}}
+        |t1p2={{PSI|player=Haodong|agent=cypher|kills=7|deaths=17|assists=1|acs=111}}
+        |t1p3={{PSI|player=CoCo|agent=omen|kills=16|deaths=15|assists=2|acs=247}}
+        |t1p4={{PSI|player=lucas|agent=fade|kills=12|deaths=16|assists=6|acs=214}}
+        |t1p5={{PSI|player=Dynamite|agent=phoenix|kills=8|deaths=17|assists=5|acs=175}}
+
+        |t2p1={{PSI|player=K1ra|agent=phoenix|kills=14|deaths=11|assists=9|acs=241}}
+        |t2p2={{PSI|player=f4ngeer|agent=neon|kills=24|deaths=9|assists=2|acs=339}}
+        |t2p3={{PSI|player=Shr1mp|agent=fade|kills=11|deaths=7|assists=6|acs=164}}
+        |t2p4={{PSI|player=Bai|agent=viper|kills=21|deaths=10|assists=3|acs=307}}
+        |t2p5={{PSI|player=iamgrq|agent=omen|kills=12|deaths=12|assists=9|acs=195}}
+
+        |t1firstside=atk|t1atk=4|t1def=1|t2atk=5|t2def=8
+        |map=Summit|finished=true|vod=https://youtu.be/lpKKgMo-JVI?t=8054
+    }}
+    |map3={{Map|map=Ascent|finished=skip}}
+}}
+|M2={{Match
+    |date=July 20, 2026 - 19:30 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ADing|caster2=Saki|vlr=701051
+    |opponent1={{TeamOpponent|bilibili gaming}}
+    |opponent2={{TeamOpponent|xlg esports}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|FT|flag=cn}} 1 – '''5''' {{player|happywei|flag=tw}}
+	|mvp=nephh
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Sunset
+        |t1map2=Summit|t2map2=Lotus
+        |t1map3=Split|t2map3=Haven
+        |decider=Ascent
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=whzy|agent=raze|kills=7|deaths=6|assists=7|acs=153}}
+        |t1p2={{PSI|player=Knight|agent=fade|kills=11|deaths=6|assists=10|acs=202}}
+        |t1p3={{PSI|player=nephh|agent=omen|kills=17|deaths=9|assists=11|acs=328}}
+        |t1p4={{PSI|player=rushia|agent=cypher|kills=16|deaths=8|assists=3|acs=228}}
+        |t1p5={{PSI|player=FT|agent=waylay|kills=16|deaths=6|assists=6|acs=298}}
+
+        |t2p1={{PSI|player=happywei|agent=omen|kills=6|deaths=13|assists=5|acs=140}}
+        |t2p2={{PSI|player=Rarga|agent=jett|kills=8|deaths=11|assists=0|acs=143}}
+        |t2p3={{PSI|player=NoMan|agent=raze|kills=6|deaths=15|assists=3|acs=164}}
+        |t2p4={{PSI|player=Lysoar|agent=vyse|kills=7|deaths=14|assists=1|acs=148}}
+        |t2p5={{PSI|player=WsLeo|agent=fade|kills=8|deaths=14|assists=5|acs=181}}
+
+        |t1firstside=atk|t1atk=10|t1def=3|t2atk=0|t2def=2
+        |map=Lotus|finished=true|vod=https://youtu.be/lpKKgMo-JVI?t=12457
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=whzy|agent=raze|kills=20|deaths=17|assists=4|acs=268}}
+        |t1p2={{PSI|player=Knight|agent=cypher|kills=16|deaths=15|assists=4|acs=201}}
+        |t1p3={{PSI|player=nephh|agent=skye|kills=11|deaths=15|assists=12|acs=183}}
+        |t1p4={{PSI|player=rushia|agent=neon|kills=10|deaths=19|assists=6|acs=158}}
+        |t1p5={{PSI|player=FT|agent=omen|kills=9|deaths=17|assists=9|acs=136}}
+
+        |t2p1={{PSI|player=happywei|agent=omen|kills=16|deaths=13|assists=8|acs=209}}
+        |t2p2={{PSI|player=Rarga|agent=chamber|kills=20|deaths=15|assists=5|acs=281}}
+        |t2p3={{PSI|player=NoMan|agent=waylay|kills=19|deaths=14|assists=4|acs=244}}
+        |t2p4={{PSI|player=Lysoar|agent=harbor|kills=16|deaths=11|assists=9|acs=194}}
+        |t2p5={{PSI|player=WsLeo|agent=fade|kills=12|deaths=13|assists=9|acs=186}}
+
+        |t1firstside=atk|t1atk=5|t1def=3|t2atk=6|t2def=7
+        |map=Summit|finished=true|vod=https://youtu.be/lpKKgMo-JVI?t=15034
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=whzy|agent=neon|kills=20|deaths=16|assists=6|acs=224}}
+        |t1p2={{PSI|player=Knight|agent=sova|kills=20|deaths=13|assists=6|acs=225}}
+        |t1p3={{PSI|player=nephh|agent=kayo|kills=18|deaths=17|assists=18|acs=234}}
+        |t1p4={{PSI|player=rushia|agent=cypher|kills=15|deaths=19|assists=11|acs=216}}
+        |t1p5={{PSI|player=FT|agent=omen|kills=22|deaths=16|assists=10|acs=233}}
+
+        |t2p1={{PSI|player=happywei|agent=cypher|kills=10|deaths=20|assists=7|acs=129}}
+        |t2p2={{PSI|player=Rarga|agent=phoenix|kills=18|deaths=19|assists=4|acs=218}}
+        |t2p3={{PSI|player=NoMan|agent=jett|kills=15|deaths=18|assists=5|acs=188}}
+        |t2p4={{PSI|player=Lysoar|agent=omen|kills=22|deaths=16|assists=10|acs=233}}
+        |t2p5={{PSI|player=WsLeo|agent=sova|kills=17|deaths=16|assists=10|acs=193}}
+
+        |t1firstside=atk|t1atk=5|t1def=8|t2atk=4|t2def=7
+        |map=Ascent|finished=true|vod=https://youtu.be/lpKKgMo-JVI?t=18733
+    }}
+}}
+|M3={{Match
+    |date=July 21, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Zhou Tunma|caster2=1703|vlr=701052
+    |opponent1={{TeamOpponent|jd gaming}}
+    |opponent2={{TeamOpponent|trace esports}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|crownfisher|flag=cn}} 2 – '''5''' {{player|deLb|flag=id}}
+	|mvp=zhe
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Summit|t2map1=Haven
+        |t1map2=Lotus|t2map2=Ascent
+        |t1map3=Sunset|t2map3=Breeze
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=zhe|agent=chamber|kills=23|deaths=13|assists=3|acs=284}}
+        |t1p2={{PSI|player=Yuicaw|agent=vyse|kills=16|deaths=14|assists=4|acs=186}}
+        |t1p3={{PSI|player=BerLIN|agent=fade|kills=13|deaths=15|assists=9|acs=182}}
+        |t1p4={{PSI|player=crownfisher|agent=omen|kills=18|deaths=12|assists=15|acs=217}}
+        |t1p5={{PSI|player=jkuro|agent=raze|kills=18|deaths=18|assists=3|acs=217}}
+
+        |t2p1={{PSI|player=Kai|agent=waylay|kills=17|deaths=17|assists=2|acs=213}}
+        |t2p2={{PSI|player=deLb|agent=vyse|kills=18|deaths=17|assists=3|acs=210}}
+        |t2p3={{PSI|player=FKEY|agent=fade|kills=13|deaths=18|assists=6|acs=146}}
+        |t2p4={{PSI|player=FengF|agent=raze|kills=15|deaths=18|assists=8|acs=211}}
+        |t2p5={{PSI|player=LuoK1ng|agent=omen|kills=9|deaths=18|assists=13|acs=131}}
+
+        |t1firstside=def|t1atk=8|t1def=5|t2atk=7|t2def=3
+        |map=Lotus|finished=true|vod=https://youtu.be/9gWW2MAC1og?t=4037
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=zhe|agent=phoenix|kills=22|deaths=14|assists=9|acs=294}}
+        |t1p2={{PSI|player=Yuicaw|agent=cypher|kills=21|deaths=13|assists=7|acs=276}}
+        |t1p3={{PSI|player=BerLIN|agent=sova|kills=20|deaths=13|assists=4|acs=258}}
+        |t1p4={{PSI|player=crownfisher|agent=omen|kills=11|deaths=17|assists=7|acs=134}}
+        |t1p5={{PSI|player=jkuro|agent=jett|kills=9|deaths=17|assists=5|acs=130}}
+
+        |t2p1={{PSI|player=Kai|agent=jett|kills=23|deaths=16|assists=4|acs=295}}
+        |t2p2={{PSI|player=deLb|agent=cypher|kills=18|deaths=16|assists=5|acs=213}}
+        |t2p3={{PSI|player=FKEY|agent=kayo|kills=11|deaths=18|assists=9|acs=193}}
+        |t2p4={{PSI|player=FengF|agent=sova|kills=10|deaths=15|assists=7|acs=161}}
+        |t2p5={{PSI|player=LuoK1ng|agent=omen|kills=12|deaths=18|assists=15|acs=169}}
+
+        |t1firstside=def|t1atk=5|t1def=8|t2atk=4|t2def=4
+        |map=Ascent|finished=true|vod=https://youtu.be/9gWW2MAC1og?t=7614
+    }}
+    |map3={{Map|map=Split|finished=skip}}
+}}
+|M4={{Match
+    |date=July 21, 2026 - 19:20 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Alan (Chinese commentator)|caster2=Saki|vlr=701053
+    |opponent1={{TeamOpponent|edward gaming}}
+    |opponent2={{TeamOpponent|nova esports}}
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Autumn|flag=kr}} 1 – '''5''' {{player|swagzor|flag=ru}}
+	|mvp=swagzor
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Ascent|t2map1=Breeze
+        |t1map2=Sunset|t2map2=Lotus
+        |t1map3=Haven|t2map3=Summit
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=Jieni7|agent=kayo|kills=15|deaths=20|assists=30|acs=180}}
+        |t1p2={{PSI|player=nobody|agent=sova|kills=24|deaths=18|assists=3|acs=218}}
+        |t1p3={{PSI|player=Smoggy|agent=omen|kills=15|deaths=21|assists=13|acs=179}}
+        |t1p4={{PSI|player=ZmjjKK|agent=neon|kills=21|deaths=20|assists=12|acs=242}}
+        |t1p5={{PSI|player=CHICHOO|agent=cypher|kills=26|deaths=18|assists=4|acs=261}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=kayo|kills=15|deaths=19|assists=10|acs=157}}
+        |t2p2={{PSI|player=cb|agent=phoenix|kills=19|deaths=19|assists=13|acs=217}}
+        |t2p3={{PSI|player=swagzor|agent=neon|kills=24|deaths=23|assists=6|acs=238}}
+        |t2p4={{PSI|player=GuanG|agent=chamber|kills=27|deaths=19|assists=1|acs=259}}
+        |t2p5={{PSI|player=Ezeir|agent=omen|kills=12|deaths=21|assists=12|acs=126}}
+
+        |t1firstside=atk|t1atk=4|t1def=8|t2atk=4|t2def=8
+	    |t1firstsideot=atk|t1otatk=0|t1otdef=1|t2otatk=1|t2otdef=2
+        |map=Sunset|finished=true|vod=https://youtu.be/9gWW2MAC1og?t=12374
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=Jieni7|agent=neon|kills=15|deaths=17|assists=4|acs=185}}
+        |t1p2={{PSI|player=nobody|agent=fade|kills=11|deaths=17|assists=2|acs=130}}
+        |t1p3={{PSI|player=Smoggy|agent=omen|kills=14|deaths=18|assists=7|acs=173}}
+        |t1p4={{PSI|player=ZmjjKK|agent=raze|kills=16|deaths=18|assists=4|acs=184}}
+        |t1p5={{PSI|player=CHICHOO|agent=cypher|kills=19|deaths=17|assists=1|acs=223}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=fade|kills=15|deaths=16|assists=8|acs=185}}
+        |t2p2={{PSI|player=cb|agent=killjoy|kills=16|deaths=13|assists=6|acs=209}}
+        |t2p3={{PSI|player=swagzor|agent=raze|kills=22|deaths=18|assists=2|acs=276}}
+        |t2p4={{PSI|player=GuanG|agent=viper|kills=14|deaths=13|assists=4|acs=151}}
+        |t2p5={{PSI|player=Ezeir|agent=omen|kills=20|deaths=15|assists=8|acs=255}}
+
+        |t1firstside=atk|t1atk=7|t1def=3|t2atk=8|t2def=5
+        |map=Lotus|finished=true|vod=https://youtu.be/9gWW2MAC1og?t=16339
+    }}
+    |map3={{Map|map=Split|finished=skip}}
+}}
+|M5={{Match
+    |date=July 22, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Nai8|caster2=NOC|vlr=701054
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|happywei|flag=tw}} 4 – '''5''' {{player|glacier|link=glacier (Taiwanese player)|flag=tw}}
+	|mvp=happywei
+    |opponent1={{TeamOpponent|xlg esports}}
+    |opponent2={{TeamOpponent|wolves esports}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Sunset|t2map1=Breeze
+        |t1map2=Summit|t2map2=Lotus
+        |t1map3=Haven|t2map3=Ascent
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=happywei|agent=omen|kills=27|deaths=16|assists=7|acs=258}}
+        |t1p2={{PSI|player=Rarga|agent=chamber|kills=23|deaths=19|assists=3|acs=221}}
+        |t1p3={{PSI|player=NoMan|agent=waylay|kills=15|deaths=21|assists=2|acs=152}}
+        |t1p4={{PSI|player=Lysoar|agent=harbor|kills=17|deaths=21|assists=7|acs=174}}
+        |t1p5={{PSI|player=WsLeo|agent=fade|kills=20|deaths=20|assists=6|acs=223}}
+
+        |t2p1={{PSI|player=Deryeon|agent=raze|kills=32|deaths=19|assists=7|acs=312}}
+        |t2p2={{PSI|player=aluba|agent=skye|kills=14|deaths=20|assists=15|acs=148}}
+        |t2p3={{PSI|player=Spring|agent=omen|kills=20|deaths=19|assists=10|acs=209}}
+        |t2p4={{PSI|player=yosemite|agent=cypher|kills=12|deaths=21|assists=7|acs=137}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=neon|kills=19|deaths=23|assists=4|acs=206}}
+
+        |t1firstside=def|t1atk=7|t1def=5|t2atk=7|t2def=5
+	    |t1firstsideot=def|t1otatk=1|t1otdef=2|t2otatk=0|t2otdef=1
+        |map=Summit|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=4187
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=happywei|agent=omen|kills=7|deaths=15|assists=10|acs=146}}
+        |t1p2={{PSI|player=Rarga|agent=neon|kills=8|deaths=15|assists=2|acs=141}}
+        |t1p3={{PSI|player=NoMan|agent=raze|kills=8|deaths=14|assists=2|acs=179}}
+        |t1p4={{PSI|player=Lysoar|agent=vyse|kills=11|deaths=14|assists=1|acs=178}}
+        |t1p5={{PSI|player=WsLeo|agent=fade|kills=10|deaths=14|assists=7|acs=190}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=14|deaths=8|assists=12|acs=235}}
+        |t2p2={{PSI|player=aluba|agent=fade|kills=11|deaths=9|assists=7|acs=180}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=19|deaths=10|assists=1|acs=313}}
+        |t2p4={{PSI|player=yosemite|agent=vyse|kills=18|deaths=5|assists=2|acs=269}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=10|deaths=12|assists=8|acs=219}}
+
+        |t1firstside=atk|t1atk=1|t1def=2|t2atk=2|t2def=11
+        |map=Lotus|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=8939
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=happywei|agent=viper|kills=19|deaths=7|assists=5|acs=323}}
+        |t1p2={{PSI|player=Rarga|agent=jett|kills=20|deaths=8|assists=2|acs=332}}
+        |t1p3={{PSI|player=NoMan|agent=raze|kills=5|deaths=12|assists=3|acs=95}}
+        |t1p4={{PSI|player=Lysoar|agent=omen|kills=16|deaths=7|assists=4|acs=256}}
+        |t1p5={{PSI|player=WsLeo|agent=skye|kills=11|deaths=7|assists=18|acs=218}}
+
+        |t2p1={{PSI|player=Deryeon|agent=omen|kills=7|deaths=13|assists=5|acs=149}}
+        |t2p2={{PSI|player=aluba|agent=skye|kills=8|deaths=13|assists=6|acs=130}}
+        |t2p3={{PSI|player=Spring|agent=viper|kills=7|deaths=15|assists=5|acs=150}}
+        |t2p4={{PSI|player=yosemite|agent=vyse|kills=9|deaths=14|assists=2|acs=179}}
+        |t2p5={{PSI|player=glacier (Taiwanese player)|agent=raze|kills=10|deaths=16|assists=5|acs=215}}
+
+        |t1firstside=def|t1atk=4|t1def=9|t2atk=3|t2def=0
+        |map=Split|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=11614
+    }}
+}}
+|M6={{Match
+    |date=July 22, 2026 - 20:20 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Vivi|caster2=TianShi|vlr=701055
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Shr1mp|flag=cn}} '''5''' – 1 {{player|Verse|flag=cn}}
+	|mvp=f4ngeer
+    |opponent1={{TeamOpponent|all gamers}}
+    |opponent2={{TeamOpponent|dragon ranger gaming}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Breeze|t2map1=Summit
+        |t1map2=Split|t2map2=Haven
+        |t1map3=Sunset|t2map3=Ascent
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=K1ra|agent=raze|kills=10|deaths=15|assists=3|acs=209}}
+        |t1p2={{PSI|player=f4ngeer|agent=jett|kills=6|deaths=15|assists=1|acs=116}}
+        |t1p3={{PSI|player=Shr1mp|agent=skye|kills=6|deaths=15|assists=1|acs=124}}
+        |t1p4={{PSI|player=Bai|agent=viper|kills=9|deaths=15|assists=2|acs=184}}
+        |t1p5={{PSI|player=iamgrq|agent=omen|kills=6|deaths=14|assists=6|acs=119}}
+
+        |t2p1={{PSI|player=vo0kashu|agent=viper|kills=16|deaths=7|assists=12|acs=311}}
+        |t2p2={{PSI|player=Life|agent=jett|kills=22|deaths=9|assists=5|acs=387}}
+        |t2p3={{PSI|player=Nicc|agent=skye|kills=9|deaths=6|assists=15|acs=157}}
+        |t2p4={{PSI|player=SpiritZ1|agent=waylay|kills=13|deaths=10|assists=4|acs=240}}
+        |t2p5={{PSI|player=Verse|agent=omen|kills=14|deaths=5|assists=11|acs=198}}
+
+        |t1firstside=atk|t1atk=1|t1def=1|t2atk=2|t2def=11
+        |map=Split|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=16496
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=K1ra|agent=omen|kills=10|deaths=12|assists=15|acs=152}}
+        |t1p2={{PSI|player=f4ngeer|agent=neon|kills=25|deaths=10|assists=3|acs=338}}
+        |t1p3={{PSI|player=Shr1mp|agent=sova|kills=10|deaths=13|assists=3|acs=141}}
+        |t1p4={{PSI|player=Bai|agent=cypher|kills=20|deaths=12|assists=7|acs=295}}
+        |t1p5={{PSI|player=iamgrq|agent=phoenix|kills=16|deaths=9|assists=5|acs=200}}
+
+        |t2p1={{PSI|player=vo0kashu|agent=cypher|kills=10|deaths=15|assists=5|acs=161}}
+        |t2p2={{PSI|player=Life|agent=neon|kills=8|deaths=16|assists=4|acs=111}}
+        |t2p3={{PSI|player=Nicc|agent=skye|kills=7|deaths=18|assists=7|acs=110}}
+        |t2p4={{PSI|player=SpiritZ1|agent=waylay|kills=12|deaths=15|assists=0|acs=166}}
+        |t2p5={{PSI|player=Verse|agent=omen|kills=19|deaths=17|assists=10|acs=262}}
+
+        |t1firstside=atk|t1atk=7|t1def=6|t2atk=2|t2def=5
+        |map=Haven|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=19368
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=K1ra|agent=raze|kills=23|deaths=20|assists=3|acs=240}}
+        |t1p2={{PSI|player=f4ngeer|agent=neon|kills=22|deaths=19|assists=4|acs=242}}
+        |t1p3={{PSI|player=Shr1mp|agent=fade|kills=18|deaths=20|assists=5|acs=185}}
+        |t1p4={{PSI|player=Bai|agent=vyse|kills=14|deaths=22|assists=12|acs=169}}
+        |t1p5={{PSI|player=iamgrq|agent=omen|kills=23|deaths=18|assists=9|acs=262}}
+
+        |t2p1={{PSI|player=vo0kashu|agent=cypher|kills=18|deaths=19|assists=6|acs=200}}
+        |t2p2={{PSI|player=Life|agent=waylay|kills=23|deaths=21|assists=5|acs=254}}
+        |t2p3={{PSI|player=Nicc|agent=skye|kills=17|deaths=19|assists=18|acs=192}}
+        |t2p4={{PSI|player=SpiritZ1|agent=yoru|kills=19|deaths=22|assists=7|acs=209}}
+        |t2p5={{PSI|player=Verse|agent=omen|kills=22|deaths=19|assists=8|acs=223}}
+
+        |t1firstside=atk|t1atk=5|t1def=7|t2atk=5|t2def=7
+	    |t1firstsideot=atk|t1otatk=1|t1otdef=1|t2otatk=0|t2otdef=0
+        |map=Lotus|finished=true|vod=https://youtu.be/6oxjS58o3AA?t=22530
+    }}
+}}
+|M7={{Match
+    |date=July 23, 2026 - 17:00 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=ChengKai|caster2=Zhou Tunma|vlr=701056
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Erv|flag=cn}} '''5''' – 2 {{player|swagzor|flag=ru}}
+	|mvp=swagzor
+    |opponent1={{TeamOpponent|tyloo}}
+    |opponent2={{TeamOpponent|nova esports}}
+    |mapveto={{MapVeto
+        |firstpick=1
+        |types=ban,pick,ban,decider
+        |t1map1=Ascent|t2map1=Breeze
+        |t1map2=Split|t2map2=Summit
+        |t1map3=Haven|t2map3=Sunset
+        |decider=Lotus
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=slowly|agent=waylay|kills=17|deaths=18|assists=6|acs=203}}
+        |t1p2={{PSI|player=Erv|agent=omen|kills=19|deaths=20|assists=11|acs=210}}
+        |t1p3={{PSI|player=SiuFatBB|agent=fade|kills=24|deaths=19|assists=7|acs=248}}
+        |t1p4={{PSI|player=Splash|agent=neon|kills=19|deaths=20|assists=12|acs=235}}
+        |t1p5={{PSI|player=Scales|agent=viper|kills=19|deaths=19|assists=3|acs=205}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=deadlock|kills=19|deaths=21|assists=6|acs=201}}
+        |t2p2={{PSI|player=cb|agent=skye|kills=19|deaths=17|assists=10|acs=205}}
+        |t2p3={{PSI|player=swagzor|agent=raze|kills=18|deaths=23|assists=3|acs=223}}
+        |t2p4={{PSI|player=GuanG|agent=viper|kills=20|deaths=17|assists=8|acs=199}}
+        |t2p5={{PSI|player=Ezeir|agent=astra|kills=20|deaths=20|assists=5|acs=212}}
+
+        |t1firstside=atk|t1atk=5|t1def=7|t2atk=5|t2def=7
+	    |t1firstsideot=atk|t1otatk=0|t1otdef=0|t2otatk=1|t2otdef=1
+        |map=Split|finished=true|vod=https://youtu.be/53fWZWJ2r94?t=4152
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=slowly|agent=waylay|kills=23|deaths=16|assists=5|acs=265}}
+        |t1p2={{PSI|player=Erv|agent=omen|kills=12|deaths=18|assists=4|acs=141}}
+        |t1p3={{PSI|player=SiuFatBB|agent=fade|kills=17|deaths=18|assists=7|acs=197}}
+        |t1p4={{PSI|player=Splash|agent=neon|kills=13|deaths=20|assists=4|acs=170}}
+        |t1p5={{PSI|player=Scales|agent=harbor|kills=12|deaths=18|assists=9|acs=149}}
+
+        |t2p1={{PSI|player=qiutiaN|agent=fade|kills=8|deaths=15|assists=8|acs=116}}
+        |t2p2={{PSI|player=cb|agent=phoenix|kills=11|deaths=17|assists=13|acs=149}}
+        |t2p3={{PSI|player=swagzor|agent=waylay|kills=27|deaths=15|assists=5|acs=302}}
+        |t2p4={{PSI|player=GuanG|agent=cypher|kills=24|deaths=12|assists=3|acs=278}}
+        |t2p5={{PSI|player=Ezeir|agent=astra|kills=20|deaths=18|assists=5|acs=215}}
+
+        |t1firstside=atk|t1atk=8|t1def=3|t2atk=9|t2def=4
+        |map=Summit|finished=true|vod=https://youtu.be/53fWZWJ2r94?t=8200
+    }}
+    |map3={{Map|map=Lotus|finished=skip}}
+}}
+|M8={{Match
+    |date=July 23, 2026 - 19:40 {{Abbr/CST}}
+    |twitch=valorantesports_cn|youtube=@VALORANTEsportsCN|bilibili=Valorant CN|huya=Valorant CN|douyu=Valorant CN
+    |caster1=Nai8|caster2=Vivi|vlr=701057
+	|comment='''Skirmish Side Selection Result:'''<br>{{player|Setrod|flag=tw}} '''5''' – 1 {{player|Autumn|flag=kr}}
+	|mvp=ZmjjKK
+    |opponent1={{TeamOpponent|funplus phoenix}}
+    |opponent2={{TeamOpponent|edward gaming}}
+    |mapveto={{MapVeto
+        |firstpick=2
+        |types=ban,pick,ban,decider
+        |t1map1=Haven|t2map1=Summit
+        |t1map2=Ascent|t2map2=Breeze
+        |t1map3=Sunset|t2map3=Lotus
+        |decider=Split
+    }}
+    |map1={{Map
+        |t1p1={{PSI|player=AAAAY|agent=viper|kills=22|deaths=12|assists=3|acs=270}}
+        |t1p2={{PSI|player=coconut|agent=sova|kills=14|deaths=11|assists=7|acs=178}}
+        |t1p3={{PSI|player=kovaQ|agent=harbor|kills=15|deaths=14|assists=8|acs=207}}
+        |t1p4={{PSI|player=Setrod|agent=iso|kills=10|deaths=14|assists=5|acs=147}}
+        |t1p5={{PSI|player=Xlele|agent=jett|kills=15|deaths=15|assists=7|acs=197}}
+
+        |t2p1={{PSI|player=Jieni7|agent=kayo|kills=13|deaths=14|assists=7|acs=175}}
+        |t2p2={{PSI|player=nobody|agent=sova|kills=9|deaths=16|assists=1|acs=136}}
+        |t2p3={{PSI|player=Smoggy|agent=harbor|kills=11|deaths=14|assists=3|acs=124}}
+        |t2p4={{PSI|player=ZmjjKK|agent=jett|kills=18|deaths=19|assists=4|acs=232}}
+        |t2p5={{PSI|player=CHICHOO|agent=viper|kills=15|deaths=13|assists=1|acs=181}}
+
+        |t1firstside=atk|t1atk=8|t1def=5|t2atk=5|t2def=4
+        |map=Breeze|finished=true|vod=https://youtu.be/53fWZWJ2r94?t=13457
+    }}
+    |map2={{Map
+        |t1p1={{PSI|player=AAAAY|agent=cypher|kills=16|deaths=14|assists=3|acs=188}}
+        |t1p2={{PSI|player=coconut|agent=sova|kills=7|deaths=17|assists=1|acs=96}}
+        |t1p3={{PSI|player=kovaQ|agent=omen|kills=15|deaths=17|assists=9|acs=189}}
+        |t1p4={{PSI|player=Setrod|agent=neon|kills=22|deaths=17|assists=3|acs=286}}
+        |t1p5={{PSI|player=Xlele|agent=jett|kills=16|deaths=18|assists=4|acs=233}}
+
+        |t2p1={{PSI|player=Jieni7|agent=kayo|kills=19|deaths=15|assists=12|acs=244}}
+        |t2p2={{PSI|player=nobody|agent=sova|kills=14|deaths=15|assists=5|acs=173}}
+        |t2p3={{PSI|player=Smoggy|agent=omen|kills=9|deaths=16|assists=11|acs=144}}
+        |t2p4={{PSI|player=ZmjjKK|agent=jett|kills=23|deaths=18|assists=5|acs=290}}
+        |t2p5={{PSI|player=CHICHOO|agent=cypher|kills=18|deaths=12|assists=13|acs=237}}
+
+        |t1firstside=atk|t1atk=7|t1def=2|t2atk=8|t2def=5
+        |map=Ascent|finished=true|vod=https://youtu.be/53fWZWJ2r94?t=16942
+    }}
+    |map3={{Map
+        |t1p1={{PSI|player=AAAAY|agent=clove|kills=12|deaths=16|assists=5|acs=211}}
+        |t1p2={{PSI|player=coconut|agent=fade|kills=17|deaths=12|assists=3|acs=251}}
+        |t1p3={{PSI|player=kovaQ|agent=omen|kills=4|deaths=15|assists=5|acs=93}}
+        |t1p4={{PSI|player=Setrod|agent=neon|kills=9|deaths=15|assists=1|acs=146}}
+        |t1p5={{PSI|player=Xlele|agent=waylay|kills=10|deaths=15|assists=2|acs=163}}
+
+        |t2p1={{PSI|player=Jieni7|agent=omen|kills=16|deaths=9|assists=2|acs=208}}
+        |t2p2={{PSI|player=nobody|agent=skye|kills=10|deaths=9|assists=4|acs=163}}
+        |t2p3={{PSI|player=Smoggy|agent=raze|kills=6|deaths=10|assists=3|acs=105}}
+        |t2p4={{PSI|player=ZmjjKK|agent=jett|kills=23|deaths=11|assists=3|acs=354}}
+        |t2p5={{PSI|player=CHICHOO|agent=viper|kills=18|deaths=13|assists=3|acs=291}}
+
+        |t1firstside=atk|t1atk=3|t1def=2|t2atk=4|t2def=9
+        |map=Split|finished=true|vod=https://youtu.be/53fWZWJ2r94?t=20420
+    }}
+}}
+}}
+{{box|end|padding=2em}}
+
+==References==
+{{Reflist}}
